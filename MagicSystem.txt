@@ -1,0 +1,80 @@
+How magic works:
+	Each magic user has many magic cells in their body. When one learns magic, they gain a some magic cells, associated with the type of magic learned.
+
+	When you first learn magic, the first week or two, you become weak. This is your immune system reacting to the magic cells, because your immune system thinks these new cells are dangerous. After the week, your immune system learns that these cells are actually beneficial, so they ignore it.
+
+	Over years, your normal cells slowly gets replaced by magic cells. Because magic cells are magic, natural selection says magic cells are better and they multiply, taking over your body (you don't lose control over your body).
+	The longer you have these magic cells, you gain these benefits:
+		Age slower
+		Requires less sleep, can stay awake longer without going insane (you will still feel tired after a normal period of time)
+		More resistant to cancer
+		More resistant to sicknesses, diseases, poison, viruses, and other intruders
+		Has more stamina
+
+		Less likely to forget things
+
+		Can think faster
+		Can solve problems faster
+
+		Better eyesight
+
+		If the magic is an element, more resistant to it
+			(example: fire mages are resistant to fire, jack-of-all-trades wizards are slightly resistant to every magic)
+
+	ASPECTS:        Aspects are usually like a superpower, and enables users to do things related to them.
+	MARTIAL SPELLS: Martial Spells are a collection of spells that share the same way to cast them. Martial Spells are more commonly known as schools of magic.
+
+	You can have multiple aspects and spells, and you are ALWAYS resistant to your own magic.
+
+Magics:
+	Aspects:
+		Fire (shoot fire from hands like a dragon, shoot a bolt of fire, emit fire from your hands)
+		Lightning (shoot a continuous stream of lightning, shoot a bolt of lightning, shock people by touching them, human battery)
+		Ice (shoot ice like a dragon, freeze an amount of water)
+		Life (heal living things, make plants grow faster, make plants wither and shrivel, can resurrect if powerful enough)
+		Lava (shoot bolts of lava, create lava with hands)
+		Dirt (shoot dirt, make walls of dirt)
+		Sand (shoot sand, make walls of sand)
+		Force (shoot gusts of wind, sonic booms, create shockwaves)
+
+		Propellus (jump extremely high, jump towards places, cannot be damaged by any type of force until landed)
+
+		Telekinesis (move objects around, fling objects and people, shape grains (dirt, sand, powder etc.) and liquid, can only lift one object per hand (unless it is grains or liquid), weight limit determined by how skilled the user is)
+			Starter: 5 kg
+			Average: 20 kg
+			Strong: 200 kg
+			Powerful: 5000 kg
+
+		Flight (literally what it sounds like, no need for a special pose or gesture to use, the user and everything he is carrying is unharmed by the fast speed so their clothing does not get torn off, max speed determined by how skilled the user is)
+			Starter: average = 5 m/s, absolute concentration = 15 m/s
+			Average: average = 20 m/s, absolute concentration = 60 m/s
+			Strong: average = 120 m/s, absolute concentraton = 360 m/s
+			Powerful: average = 150 m/s, absolute concentration = 600 m/s
+
+		Magic Detection (detect any kind of magic, results can give:)
+			Evocation/Elemental
+			Abjuration
+			Conjuration
+			Transmutaion
+			Necromancy
+			Divine
+			Unknown (obviously for magics not listed above)
+
+		Summoning (summon small elementals from piles of dirt, sand, gravel, flour, powder, dust, mud, any liquid, or a mix of any of the listed)
+
+	Martial Spells:
+		Runic (This magic is cast by thinking the spell you want to cast. You make a fist with any hand, think the spell you want to cast, then open your hands. There will be a magic circle on your palm. To actually use it, you "throw" the spell at a target. You can also press your palm on a surface. Thinking of a spell usually means thinking of a short sequence of ancient and mystic words.)
+			Damaging Rune:   Shoot a bolt of purple and blue. This spell causes a wound and some pain on what it hit.
+			Exploding Rune:  Shoot a very fast bolt of purple and blue. This spell creates a purple and blue explosion.
+			Summon Golem:    Shoot a faint ball of purple. This ball will make an inactive golem active. Instructions on how to make one can be found below. For every meter the golem is in height (or length, pick the longest one), the summoning will take 20 minutes. The golem's limbs will slowly connect together. The golem will then obey your command. If it is attacked, it will automatically defend itself.
+			Link Golem Rune: You must press this spell in place. This spell is essential for golem creation.
+
+Golem creation:
+	To create a golem, put long objects in place shown below:
+		O
+	  O O O
+	  O O O
+	   O O
+	   O O
+
+	Each "O" represents the long object. Connect the pieces together with the spell "Link Golem Rune". Once it has been done, the golem is ready for activation.

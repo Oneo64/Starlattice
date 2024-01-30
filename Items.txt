@@ -1,8 +1,27 @@
 All energy weapons have a core. The color of it's bolt corresponds with it's crystal color.
 
-Crystals:
-	Mrokek (Unstable, glowing blue crystal with dark spots, used for weapons and explosives)
-	Mroken (Glowing transparent blue crystal, used for heaters)
+Crystals and metals:
+	Crystals:
+		Mrokek (Unstable, glowing blue crystal with dark spots, used for weapons and explosives)
+		Phystine (Glowing pale red crystal, used for weapons and explosives)
+		Exite (Glowing pale green crystal, used for weapons and explosives)
+		Mroken (Glowing blue crystal, used for heaters)
+		Elinar (Glowing white crystal, used for making potion powders)
+		Ulsinan (Glowing purple crystal, richer version of elinar)
+
+		Distintite (Beatiful white and green crystal)
+		Nalastite (Beautiful purple and blue crystal)
+		Quastarine (Beautiful glowing purple crystal)
+		Morigalt (Beautiful green and yellow crystal)
+		Korin (Beautiful deep blue crystal)
+		Illisinion (Beautiful brightly white crystal with traces of gold)
+
+	Metals:
+		Fresenite (Hard white metal, used for armors, spaceships and structures, specifically used by the Kagarian Empire and their allies)
+		Arsenium (Brown metal, used for wiring)
+		Graltite (Gray metal, used for chips)
+
+		Jestarine (Beautiful deep green rock, with small traces of aqua)
 
 Weapons:
 	Energy Rifle:
@@ -12,8 +31,8 @@ Weapons:
 	On impact: The bolts explode in a small shower of sparks, burning what ever it touches.
 	Designs:
 		KAG Energy Rifle 114 (KAGER 114, uses mrokek)
-		Queendom's Rifle 3
-		Reedian Energy Rifle 15 (RER 15)
+		Queendom's Rifle 3 (uses phystine)
+		Reedian Energy Rifle 15 (RER 15, uses exite)
 
 Ships (note that all military ships have the Wormhole Transporter Module installed, and all military WARSHIPS have the Shield Generator installed.):
 	Battleship:

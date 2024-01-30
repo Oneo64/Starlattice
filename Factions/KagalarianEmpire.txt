@@ -7,9 +7,11 @@ Fashion:
 	Most clothing are simple longsleeved shirt and pants, with no patters whatsoever.
 	Simple boots are the most common type of footwear.
 
+	Rich men will often wear white metal circlets
+
 Uniforms:
 	Infantry: White uniform, white combat helmet, gray utility belt
-	High Ranks: Any formal clothing, but a blue vest is required. The blue vest extends down to the knees, like a dress, and nameplates are placed exactly in the middle.
+	High Ranks: Any formal clothing, but a blue vest is required. The blue vest extends down to the knees, like a dress, and nameplate are placed exactly in the middle, around the upper chest. A black belt is also worn around the blue vest.
 
 Weapons:
 	Standard Weapon: KAG Energy Rifle 114
