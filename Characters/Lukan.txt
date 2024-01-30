@@ -1,4 +1,4 @@
-Lucan Rust
+Lukan Rust
 Male
 Age: 473 (born 1550, july 9)
 Race: Kagalarian Human
@@ -15,7 +15,7 @@ Apparel:
 	Simple orange longsleeved shirt
 	Simple dark blue pants
 
-	Formal kagalarian military uniform (see KagalarianEmpire.txt)
+	Formal kagalarian military uniform (see KagalarianEmpire.txt) (nameplate says "Commander Lukan")
 
 	White engraved metal circlet
 
@@ -60,7 +60,7 @@ Skills:
 	Wisdom: 	    12
 	Charisma: 	    15
 
-	Kagalarian martial arts
+	Kagalarian martial arts (Dagsar)
 
 Height: 182m (6ft)
 Weight: 82kg (182lbs)
@@ -71,3 +71,5 @@ Languages:
 
 Occupications:
 	Military Commander of the Ovgot
+
+Backstory: Lukan grew up in the village Haravikred. He was born in a warrior's family, and went to a warrior's school. But he dropped out, and ended up going to a mage's school. From there, he learned magic. One day, he decides to go have a look in an ancient ruin, and meets Forgo there. They become friends. After that, Lukan joins the military. In a battle against the Seenians, he was shot three times, but he survived. Later, in another battle, he was shot again, twice on his chest, and four times on his back. Suprisingly, he also survived. One time, he defended a military camp by himself, killing about 20 seenians in total. He was promoted to Leader. Later, he started to get quite powerful. The High Commander saw Lukan getting strong, so he made Lukan a commander, and invited him into the Ovgot.

@@ -1,0 +1,61 @@
+Morphemes:
+	-ir  = Owner indicator
+	-la   = Plural form
+	
+	-raen = Present tense
+	-had  = Past tense
+
+Sounds: Speak it like english
+
+Words:
+	Na = I, me, my
+	Rol = You
+	Ven = He, his, male pronoun
+	Ver = She, her, female pronoun
+	Va = It
+	Ot = Is, am, be
+	Vo = The
+	Vor = That
+	Lov = This
+	Tof = They, them, their
+	Len = And
+	Jo = Or
+	Folen = Will, future tense
+	Nav = Name
+	Ojan = Of
+	Hol = Can
+	Nolv = Not
+	Dun = To
+	Od = A, an
+	Din = For
+	Vold = Think
+
+	Tor = Do
+	Buk = Make
+
+	Lorst = War
+	Kosvun = Battle, fight
+
+	Særin = Ship, spaceship
+
+	Vak = Die
+	Likvot = Kill
+	Vaknon = Death
+
+	Nosen = Soldier, troop, infantry
+
+	Janholva = Victory, win
+	Voton = Lose, defeat
+
+	Jæmor = King, emperor
+	Jal = Hail, bow down to
+
+	Evner = Greeting
+
+	Lovmor = Leader
+
+	Yal = Yes
+	Nuv = No
+
+	Vun = What
+	Lun = Why

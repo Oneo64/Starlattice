@@ -1,0 +1,6 @@
+Dagsar:
+	This martial art is designed to be as brutal and vicious as possible without drawing blood.
+	Attacks:
+		Punch (duh)
+		Hammer Attack (kinda like when you hit a table with your fist)
+		Palm Strike (outstretch your fingers and hit with the palm so you don't hurt your fingers)
