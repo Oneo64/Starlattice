@@ -1,0 +1,141 @@
+All energy weapons have a core. The color of it's bolt corresponds with it's crystal color.
+
+Crystals:
+	Mrokek (Unstable, glowing blue crystal with dark spots, used for weapons and explosives)
+	Mroken (Glowing transparent blue crystal, used for heaters)
+
+Weapons:
+	Energy Rifle:
+	Type: Energy rifle
+	Length: About 60 cm long
+	Projectile: Bolt of energy, 200 m/s
+	On impact: The bolts explode in a small shower of sparks, burning what ever it touches.
+	Designs:
+		KAG Energy Rifle 114 (KAGER 114, uses mrokek)
+		Queendom's Rifle 3
+		Reedian Energy Rifle 15 (RER 15)
+
+Ships (note that all military ships have the Wormhole Transporter Module installed, and all military WARSHIPS have the Shield Generator installed.):
+	Battleship:
+	Type: Warship
+	Length: 2 km
+	Usual Weapons: 40 anti-spacefighter repeaters, 20 cannons, 6 anti-warship cannons
+	Crew required to operate:
+		20 commanders
+		100 guards
+		40 anti-spacefighter operators
+		20 cannon operators
+		12 anti-warship operators
+		40 janitors
+		60 cooks
+		20 repairmen
+		20 cctv watchers
+
+		Total: about 340 people
+
+	Frigate:
+	Type: Warship
+	Length: 100 meters
+	Usual Weapons: 10 anti-spacefighter repeaters, 4 cannons
+	Crew required to operate:
+		4 commanders
+		20 guards
+		10 anti-spacefighter operators
+		4 cannon operators
+		4 janitors
+		5 repairmen
+		1 cctv watcher
+
+		Total: about 50 people
+
+	Spacefighter:
+	Type: Spacefighter
+	Length: 10 meters
+	Usual Weapons: 2 small cannons
+
+	Carrier:
+	Type: Warship
+	Length: 300 meters
+	Usual Weapons: 10 anti-spacefighter repeaters
+	Capacity: 40 spacefighters, 200000 kg of goods
+	Crew required to operate:
+		4 commanders
+		20 guards
+		10 anti-spacefighter operators
+		4 cannon operators
+		4 janitors
+		5 repairmen
+		1 cctv watcher
+
+		Total: about 50 people
+
+	Traveler:
+	Type: Warship
+	Length: 30 meters
+	Usual Weapons: 4 high-speed repeaters
+	Capacity: 40000 kg of goods
+	Crew required to operate:
+		3 commanders
+		1 janitor
+		2 cooks
+		4 high-speed repeater operators
+
+	High-Speed Repeater:
+	Type: Turret
+	Rate of Fire: 0.05 seconds
+	Projectile: Bolt of energy, 250 m/s
+	Destruction Equivalent: A heavy machine gun
+	Design: Designed to mow down crowds of enemies
+
+	Anti-Spacefighter Repeater:
+	Type: Turret
+	Rate of Fire: 0.1 seconds
+	Projectile: Bolt of energy, 250 m/s
+	Destruction Equivalent: A grenade
+	Design: Designed to destroy spacefighters
+
+	Cannon:
+	Type: Turret
+	Rate of fire: 0.5 seconds
+	Projectile: Bolt of energy, 400 m/s
+	Destruction Equivalent: A landmine
+	Design: An all-purpose weapon
+
+	Anti-Warship Cannon:
+	Type: Turret
+	Rate of Fire: 3 seconds
+	Projectile: Bolt of energy, 1000 m/s
+	Destruction Equivalent: Three landmines
+	Design: Designed to destroy big, slow, and tanky ships
+
+	Laser Projector:
+	Type: Turret
+	Rate of Fire: Continuous
+	Projectile: A beam of intensely concentrated light. The color of these weapons are always white, and does not use a crystal core.
+	Design: Designed to attack ships with shield generators.
+
+Ship Modules:
+	Wormhole Transport Module:
+	Function: When used, it creates a wormhole. The wormhole The wormhole transports everything it enters into a specific location very fast. Between planets take 30 seconds, star systems take 10 minutes, galaxies take a week. Once nothing has entered it for the past 3 seconds, it closes.
+	Wormhole Appearance: It appears like a giant gray smoky ring, big enough to fit the ship that used it. Green lightning rapidly connects random points of the ring, creating flashes of green.
+
+	Shield Generator Module:
+	Function: Generates a forcefield around a ship. The forcefield appears to distort light like flowing water. When struck, it creates a bright flash of white light, and stops the object from entering. A ship cannot land while it's shield is up, and everything is prevented from entering or leaving. The only thing that can enter is light, gas, radiation and heat. Laser Projectors can shoot through shields, although because it distorts light, the laser is not garanteed to hit.
+
+	Mirror Armor Module:
+	Function: Many mirrors are installed on the ship's hull. A ship with this module installed on it's hull is hard to see, and laser weapons are almost useless against ships with this module installed.
+
+Misc:
+	Cloning Machine:
+	Type: Cloning Machine
+	Height: 3 meters
+	Function: To assign someone to clone, they step into the machine. The machine reads their body, and their properties, like IQ, strength, height, weight, immune system etc. It cannot read magic properties. Then the machine is ready to clone. To grow a clone, it will take half a day to create one. These machines to not require any resource to create a clone, other than electricity to power it.
+
+	Energy Emitter:
+	Size: 6 x 6 x 2 cm
+	Function: To create a shield, you need four of these. Place them in a way so that all the faces of the four boxes are either parallel to each other. To activate them, you need to assign the four of them to a remote controller like bluetooth.
+
+	Long Range Radio:
+	Type: Radio
+	Size: 20 x 6 x 4 cm
+	Function: Allows communication across galaxies, universes and worlds because yes. To talk to each other, you assign the radio to an id. There can never be two radios with the same ID. You connect to this ID on another radio with a password required. Then you can communicate.

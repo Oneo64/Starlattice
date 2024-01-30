@@ -1,0 +1,15 @@
+Name: Kagalarian Empire
+Creation date: Around the year 800
+Troop amount: 32 billion
+
+Planets Controlled:
+	Kagalar (Main base)
+	Kagalus
+	Farusluk
+	Fraskrak
+
+Uniforms:
+	Most Infantry: White uniform, white combat helmet, gray utility belt
+
+Weapons:
+	Standard Weapon: KAG Energy Rifle 114
