@@ -15,3 +15,9 @@ Uniforms:
 
 Weapons:
 	Standard Weapon: KAG Energy Rifle 114
+
+Political Parties:
+	Ovgot: Main political party of the Kagalarian Empire
+
+Main currency:
+	Forgs (Abbrevation: KAGFG)
