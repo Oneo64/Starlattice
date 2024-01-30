@@ -1,0 +1,33 @@
+Planets:
+	Star system A (Kagalarian controlled):
+		Kagalar (base)
+		Kragalos
+		Kagalus
+		Ramalosidot (Seenian controlled)
+
+	Star System B (Kagalarian controlled):
+		Huscular
+		Farusluk
+		Korulam
+		Fraskrak
+		Nelukal
+
+	Star System C (Escori controlled):
+		Escorin (base)
+		Estofear
+		Forunal
+
+	Star System D (Seenian controlled):
+		Seenia (base)
+		Wennarog
+		Bilkrilk
+		Sealius
+		Sealan
+
+	Star System E (Naulean Controlled):
+		Naulien (base)
+		Salianus
+		Nealinal
+		Dasalien
+		Nalion
+		Arenium

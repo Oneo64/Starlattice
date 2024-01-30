@@ -1,15 +1,15 @@
 Name: Kagalarian Empire
 Creation date: Around the year 800
 Troop amount: 32 billion
+Main base: Kagalar
 
-Planets Controlled:
-	Kagalar (Main base)
-	Kagalus
-	Farusluk
-	Fraskrak
+Fashion:
+	Most clothing are simple longsleeved shirt and pants, with no patters whatsoever.
+	Simple boots are the most common type of footwear.
 
 Uniforms:
-	Most Infantry: White uniform, white combat helmet, gray utility belt
+	Infantry: White uniform, white combat helmet, gray utility belt
+	High Ranks: Any formal clothing, but a blue vest is required. The blue vest extends down to the knees, like a dress, and nameplates are placed exactly in the middle.
 
 Weapons:
 	Standard Weapon: KAG Energy Rifle 114
