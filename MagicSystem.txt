@@ -24,7 +24,7 @@ How magic works:
 	ASPECTS:        Aspects are usually like a superpower, and enables users to do things related to them.
 	MARTIAL SPELLS: Martial Spells are a collection of spells that share the same way to cast them. Martial Spells are more commonly known as schools of magic.
 
-	You can have multiple aspects and spells, and you are ALWAYS resistant to your own magic.
+	You can have multiple aspects and spells, and you are ALWAYS resistant to your own magic. Once you gain an aspect, you become an aspected human. You are still a human, just an aspected one. Think of this as a really strong guy who works out every day.
 
 Magics:
 	Aspects:
