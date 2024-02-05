@@ -1,3 +1,5 @@
+Word Order: SOV
+
 Morphemes:
 	-ir  = Owner indicator
 	-af   = Plural form
