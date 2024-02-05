@@ -9,6 +9,18 @@ Fashion:
 
 	Rich men will often wear white metal circlets
 
+Main currency:
+	Forgs (Abbrevation: KAGFG)
+
+Political Parties:
+	Ovgot: Main political party of the Kagalarian Empire
+
+Military Ranks:
+	High Commander (basically a leader, or emperor)
+	Commander
+	Leader
+	Infantry
+
 Uniforms:
 	Infantry: White uniform, white combat helmet, gray utility belt
 	High Ranks: Any formal clothing, but a blue vest is required. The blue vest extends down to the knees, like a dress, and nameplate are placed exactly in the middle, around the upper chest. A black belt is also worn around the blue vest.
@@ -18,14 +30,6 @@ Uniforms:
 Weapons:
 	Standard Weapon: KAG Energy Rifle 114
 
-Political Parties:
-	Ovgot: Main political party of the Kagalarian Empire
-
-Main currency:
-	Forgs (Abbrevation: KAGFG)
-
-Military Ranks:
-	High Commander (basically a leader, or emperor)
-	Commander
-	Leader
-	Infantry
+Notes:
+	The Kagalarian Army does not use body armor often, because energy bolts are slow, are not as lethal, and can be easily seen.
+	Military Personnel are trained to shoot pistols with one hand, as body armor is rarely used.

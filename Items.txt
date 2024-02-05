@@ -1,4 +1,6 @@
-All energy weapons have a core. The color of it's bolt corresponds with it's crystal color.
+Note:
+	All energy weapons have a core. The color of it's bolt corresponds with it's crystal color.
+	AI is expensive, so armies tend to not use AI to replace infantry.
 
 Crystals and metals:
 	Crystals:
