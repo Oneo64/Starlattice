@@ -1,0 +1,46 @@
+Vervir Dralor
+Male
+Age: 763
+Race: Aspected Kagalarian Human
+Alignment: Lawful Neutral
+Appearance:
+	Green eyes
+	Fair/light cool skin
+	Light blond hair
+
+Apparel:
+	Simple black tunic
+	Simple gray tunic
+	Black boots
+
+Personality:
+	Traits:
+		POSITIVE:
+			1. Good-Hearted
+			2. Hardworking
+			3. Loyal
+			4. Wise
+
+		NEGATIVE:
+			1. Distrusting
+			2. Doesn't like socializing
+			3. Sometimes gets cocky
+		
+		Optimistic (perspective on the future)
+
+Powers:
+	Flight
+	Propellus
+
+Skills:
+	Strength: 	    12
+	Dexerity:       15
+	Constitution: 	15
+	Intelligence: 	10
+	Wisdom: 	    13
+	Charisma: 	    8
+
+	Kagalarian martial arts (Dagsar)
+
+Languages:
+	Kagalarian
