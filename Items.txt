@@ -65,6 +65,7 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 		Type: Warship
 		Length: 2 km
 		Usual Weapons: 40 anti-spacefighter repeaters, 20 cannons, 6 anti-warship cannons
+		Function: Carry massive amounts of troops, beeg firepower, usually less than one battleship per nation because of ridiculous resources required to build
 		Crew required to operate:
 			20 commanders
 			100 guards
@@ -78,10 +79,11 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 
 			Total: about 340 people
 
-	Frigate:
+	Destroyer:
 		Type: Warship
 		Length: 100 meters
 		Usual Weapons: 10 anti-spacefighter repeaters, 4 cannons
+		Function: Basically space tanks
 		Crew required to operate:
 			4 commanders
 			20 guards
@@ -100,9 +102,10 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 
 	Carrier:
 		Type: Warship
-		Length: 300 meters
+		Length: 100 meters
 		Usual Weapons: 10 anti-spacefighter repeaters
 		Capacity: 40 spacefighters, 200000 kg of goods
+		Function: Carry small spacecraft and transport goods
 		Crew required to operate:
 			4 commanders
 			20 guards
