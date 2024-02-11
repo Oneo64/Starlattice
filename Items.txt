@@ -65,7 +65,7 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 		Type: Warship
 		Length: 2 km
 		Usual Weapons: 40 anti-spacefighter repeaters, 20 cannons, 6 anti-warship cannons
-		Function: Carry massive amounts of troops, beeg firepower, usually less than one battleship per nation because of ridiculous resources required to build
+		Function: Carry massive amounts of people (troops, civilians etc), beeg firepower, usually less than one battleship per nation because of ridiculous resources required to build
 		Crew required to operate:
 			20 commanders
 			100 guards
@@ -138,20 +138,20 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 	Anti-Spacefighter Repeater:
 		Type: Turret
 		Rate of Fire: 0.1 seconds
-		Projectile: Bolt of energy, 400 m/s
+		Projectile: Bolt of energy, 500 m/s
 		Destruction Equivalent: A grenade
 		Design: Designed to destroy spacefighters
 
 	Cannon:
 		Type: Turret
-		Rate of fire: 0.5 seconds
+		Rate of fire: 1 seconds
 		Projectile: Bolt of energy, 400 m/s
 		Destruction Equivalent: A landmine
 		Design: An all-purpose weapon
 
 	Anti-Warship Cannon:
 		Type: Turret
-		Rate of Fire: 3 seconds
+		Rate of Fire: 2 seconds
 		Projectile: Bolt of energy, 1000 m/s
 		Destruction Equivalent: Three landmines
 		Design: Designed to destroy big, slow, and tanky ships
@@ -195,14 +195,14 @@ Ship Modules:
 		Wormhole Appearance: It appears like a giant gray smoky ring, big enough to fit the ship that used it. Green lightning rapidly connects random points of the ring, creating flashes of green.
 
 	Shield Generator Module:
-		Function: Generates a forcefield around a ship. The forcefield appears to distort light like flowing water. When struck, it creates a bright flash of white light, and stops the object from entering. A ship cannot land while it's shield is up, and everything is prevented from entering or leaving. The only thing that can enter is light, gas, radiation and heat. Laser Projectors can shoot through shields, although because it distorts light, the laser is not garanteed to hit.
+		Function: Generates a forcefield around a ship. The forcefield appears to distort light like flowing water. When struck, it creates a bright flash of white light, and stops the object from entering. A ship cannot land while it's shield is up, and everything is prevented from entering. The only thing that can enter is light, gas, radiation and heat. Laser Projectors can shoot through shields, although because it distorts light, the laser is not garanteed to hit. The way it works is it creates a strong force that pushes outwards, allowing ships and projectiles to leave, but not enter.
 
 	Mirror Armor Module:
 		Function: Many mirrors are installed on the ship's hull. A ship with this module installed on it's hull is hard to see, and laser weapons are almost useless against ships with this module installed.
 
 Armor Modules:
 	Supercooling Module:
-		Function: Cools down armor to -20c, hopefully to negate the damage of energy bolts. Also creates a cold aura around the armor, weakening energy bolts.
+		Function: Uses liquid nitrogen (only a little) to cool down armor, hopefully to negate the damage of energy bolts. Also creates a cold aura around the armor, weakening energy bolts.
 
 Misc:
 	Cloning Machine:
