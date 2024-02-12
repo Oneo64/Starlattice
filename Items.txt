@@ -47,18 +47,67 @@ Weapons:
 
 		Function: In the rifle, a continuous electrical current passes through a crystal core, creating high amounts of explosive energy. The explosive energy is pushed through a thin tube, shooting out like a deadly water cannon.
 
-	Unstable Crystal Warhead
-		Type: Warhead
+	High-Speed Repeater
+		Type:                   Vehicle Turret
+		Rate of Fire:           0.05 seconds
+		Projectile:             Bolt of energy, 300 m/s
+		Destruction Equivalent: A heavy machine gun
+		Design:                 Designed to mow down crowds of enemies
+
+	Anti-Spacefighter Repeater
+		Type:                   Warship Turret
+		Rate of Fire:           0.1 seconds
+		Projectile:             Bolt of energy, 500 m/s
+		Destruction Equivalent: A grenade
+		Design:                 Designed to destroy spacefighters
+
+	Cannon
+		Type:                   Warship/Vehicle (See below) Turret
+		Rate of fire:           1 seconds
+		Projectile:             Bolt of energy, 400 m/s
+		Destruction Equivalent: A landmine
+		Design:                 An all-purpose weapon
+
+	All-Purpose Missile Turret
+		Type:         Warship Turret
+		Rate of Fire: 2 seconds
+		Projectile:   Computed missiles
+		Design:       Designed to destroy big, slow, and tanky ships. Can also be used to destroy missiles, and other projectiles. These turrets are controlled by AI, which is connected to all other turrets, so the ship will always fire the most optimal missiles required. They can also be controlled manually via the control room.
+
+	Long-Range Laser Projector
+		Type:         Warship Turret
+		Rate of Fire: Continuous
+		Projectile:   A beam of intensely concentrated light. The color of these weapons are always white, and does not use a crystal core.
+		Design:       Designed to attack ships with shield generators
+
+	Computed Missile
+		Type:                   Crystal Missile
+		Design:                 The missile follows a pre computed path, and explodes once it reaches the end of the path. The missile will also explode if the warhead physically hits anything.
+
+	Crystal Warhead
+		Type:     Warhead
 		Function: The warhead is tipped with an unstable crystal. When this crystal is struck, it releases a high amount of explosive energy. The crystal on the tip of the warhead is actually connected to a larger piece in the middle of the missile, which is enclosed with a hard metal. Because the unstable crystal released a lot of energy, this energy is contained inside the missile. The missile cannot contain this much energy, so the missile explodes.
 
-	Unstable Crystal Missile
-		Type: Missile
-		Radius: 20 cm
-		Length: 2 meters
-		Lethal Range: 15 m
-		Function: Uses a crystal warhead, propelled by a crystal rocket engine.
+	Crystal Missile
+		Type:                   Missile
+		Radius:                 20 cm
+		Length:                 2 meters
+		Speed:                  1000 m/s
+		Destruction Equivalent: 50 kilograms of tnt
+		Function:               Uses a crystal warhead, propelled by a crystal rocket engine.
 
-*Note: All ships have superhard solar panels
+	Armored Cannon Car:
+		Type:                  Armored Car
+		Size:                  10 x 18 meters
+		Transportation Method: 4 wheels on both sides
+		Weapons: 1 cannon
+		Crew required to operate:
+			1 cannon operator
+			1 steering guy
+			1 spotters (usually 4, kind of like sniper spotters but inside of tanks)
+
+	Ground Turret:
+		Type: Any Turret (High-speed, anti-spacefighter, and cannon turrets)
 
 Ships (note that all military ships have the Wormhole Transporter Module installed, and all military WARSHIPS have the Shield Generator installed.):
 	Battleship:
@@ -132,45 +181,6 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 			2 cooks
 			4 high-speed repeater operators
 
-	High-Speed Repeater:
-		Type:                   Turret
-		Rate of Fire:           0.05 seconds
-		Projectile:             Bolt of energy, 300 m/s
-		Destruction Equivalent: A heavy machine gun
-		Design:                 Designed to mow down crowds of enemies
-
-	Anti-Spacefighter Repeater:
-		Type:                   Turret
-		Rate of Fire:           0.1 seconds
-		Projectile:             Bolt of energy, 500 m/s
-		Destruction Equivalent: A grenade
-		Design:                 Designed to destroy spacefighters
-
-	Cannon:
-		Type:                   Turret
-		Rate of fire:           1 seconds
-		Projectile:             Bolt of energy, 400 m/s
-		Destruction Equivalent: A landmine
-		Design:                 An all-purpose weapon
-
-	All-Purpose Missile Turret:
-		Type:                   Turret
-		Rate of Fire:           2 seconds
-		Projectile:             Computed missiles
-		Design:                 Designed to destroy big, slow, and tanky ships. Can also be used to destroy missiles, and other projectiles. These turrets are controlled by AI, which is connected to all other turrets, so the ship will always fire the most optimal missiles required. They can also be controlled manually via the control room.
-
-	Computed Missile:
-		Type:                   Crystal Missile
-		Speed:                  1000 m/s
-		Destruction Equivalent: 50 kilograms of tnt
-		Design:                 The missile follows a pre computed path, and explodes once it reaches the end of the path. The missile will also explode if the warhead physically hits anything.
-
-	Laser Projector:
-		Type: Turret
-		Rate of Fire: Continuous
-		Projectile: A beam of intensely concentrated light. The color of these weapons are always white, and does not use a crystal core.
-		Design: Designed to attack ships with shield generators
-
 Robots and automatons:
 	KAG Durst Avtit Evlar Taemga Rotorgalvik (KagDaetr):
 		Type: Super battle robot
@@ -179,9 +189,8 @@ Robots and automatons:
 Ship Modules:
 	==================== SPACECRAFT ESSENTIALS ====================
 
-	Warship Gyroscope:
+	Warship Gyroscopes:
 		Function: Four gyroscopes that spin rapidly. These ensure the ship stays stable. If used with larger ships (battleships), there would be four gyroscopes on the very front and very back of the ship.
-
 
 	Crystal Core Rocket Engines:
 		Function: Most warships will have four engines to push forward, and eight engines on a 45 degree angle to turn around.
@@ -230,7 +239,7 @@ Misc:
 		Size:     6 x 6 x 2 cm
 		Function: To create a shield, you need four of these. Place them in a way so that all the faces of the four boxes are either parallel to each other. To activate them, you need to assign the four of them to a remote controller like bluetooth.
 
-	Long Range Radio:
+	Long-Range Radio:
 		Type:     Radio
 		Size:     20 x 6 x 4 cm
 		Function: Uses a magical crystal to send signals, and another magical crystal to receive signals. Allows communication across galaxies, universes and worlds because yes. To talk to each other, you assign the radio to an id. There can never be two radios with the same ID. You connect to this ID on another radio with a password required. Then you can communicate. These radios are incompatible with normal radios.

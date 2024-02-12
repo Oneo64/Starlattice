@@ -31,9 +31,9 @@ Weapons:
 
 Troop amount: 32 billion
 Spaceship Fleet:
-	6 Battleships
-	500 Destroyers
+	20 Battleships
 	500 Carriers
+	1000 Destroyers
 	100000 Spacefighters
 
 Notes:
