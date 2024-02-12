@@ -1,6 +1,5 @@
 Name: Kagalarian Empire
 Creation date: Around the year 800
-Troop amount: 32 billion
 Main base: Kagalar
 
 Fashion:
@@ -29,6 +28,13 @@ Uniforms:
 
 Weapons:
 	Standard Weapon: KAG Energy Rifle 114
+
+Troop amount: 32 billion
+Spaceship Fleet:
+	6 Battleships
+	500 Destroyers
+	500 Carriers
+	100000 Spacefighters
 
 Notes:
 	The Kagalarian Army does not use body armor often, because energy bolts are slow, are not as lethal, and can be easily seen.
