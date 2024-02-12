@@ -179,11 +179,8 @@ Robots and automatons:
 Ship Modules:
 	==================== SPACECRAFT ESSENTIALS ====================
 
-	
-
 	Warship Gyroscope:
 		Function: Four gyroscopes that spin rapidly. These ensure the ship stays stable. If used with larger ships (battleships), there would be four gyroscopes on the very front and very back of the ship.
-
 
 
 	Crystal Core Rocket Engines:
