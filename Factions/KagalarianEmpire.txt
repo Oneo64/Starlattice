@@ -22,7 +22,7 @@ Military Ranks:
 
 Uniforms:
 	Infantry: White uniform, white combat helmet, gray utility belt
-	High Ranks: Any formal clothing, but a blue vest is required. The blue vest extends down to the knees, like a dress, and nameplate are placed exactly in the middle, around the upper chest. A black belt is also worn around the blue vest.
+	High Ranks: Any formal clothing, and a blue surcoat. and There is also a nameplate, which is placed exactly in the middle, around the upper chest. A black belt is also worn around the blue vest.
 
 	Most military personnel will have a holster on their belt with an energy pistol
 
