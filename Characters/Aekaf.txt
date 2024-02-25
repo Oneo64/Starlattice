@@ -1,0 +1,58 @@
+Aekaf Dervor
+Male
+Age: 43
+Race: Kagalarian Human
+Alignment: Neutral Good
+Appearance:
+	Brown eyes
+	Fair/light cool skin
+	Short Blond hair
+
+Apparel:
+	He wears a silvery-gray power armor that he built himself
+
+Personality:
+	Traits:
+		POSITIVE:
+			1. Brave (bold, daring, courageous)
+			2. Intelligent (smart, logical)
+
+		NEGATIVE:
+			1. Overthinks simple situations
+
+Modules:
+	Point laser defense
+	Wrist mounted crystal-core weapon
+
+	Portable crystal reactor (generates power)
+
+	Spotlight mounted on helmet
+
+	Nightvision Camera
+	Heatvision Camera
+
+	Material scanner (returns elements)
+
+	Long-range radio
+	Speaker and microphone (allows communication with people outside his power armor)
+
+Skills:
+	Strength: 	    10
+	Dexerity:       13
+	Constitution: 	11
+	Intelligence: 	15
+	Wisdom: 	    10
+	Charisma: 	    15
+
+	Engineering
+	Welding
+	Programming
+	Electronics
+
+Languages:
+	Kagalarian
+	English
+
+Occupications:
+	Kagalarian Special Forces Personnel
+	Exotic Planet Explorer

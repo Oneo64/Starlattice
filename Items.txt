@@ -106,6 +106,9 @@ Weapons:
 			1 steering guy
 			1 spotters (usually 4, kind of like sniper spotters but inside of tanks)
 
+		Builds:
+			Geirnta M132 (Made by Geirnta Vehicle Construction Coporation)
+
 	Ground Turret:
 		Type: Any Turret (High-speed, anti-spacefighter, and cannon turrets)
 
@@ -114,20 +117,22 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 		Type:          Warship
 		Length:        2 km
 		Max Speed:     30 m/s
-		Usual Weapons: 40 anti-spacefighter repeaters, 20 cannons, 6 anti-warship cannons
+		Usual Weapons: 64 anti-spacefighter repeaters, 48 cannons, 8 missile launchers, 16 laser projectors
 		Function:      Carry massive amounts of people (troops, civilians etc), beeg firepower
 		Crew required to operate:
-			20 commanders
-			100 guards
-			40 anti-spacefighter operators
-			20 cannon operators
-			12 anti-warship operators
+			20 commanders/ship dashboard operators
+			400 guards
+			64 anti-spacefighter operators
+			48 cannon operators
 			40 janitors
-			60 cooks
-			20 repairmen
+			120 cooks
+			50 repairmen
 			20 cctv watchers
 
-			Total: about 340 people
+			Total: about 800 people
+
+		Current Builds:
+			Anor Vindaror 8 (Made by Anor Spacecraft Manufacturing, used by kagalarian empire)
 
 	Destroyer:
 		Type:          Warship

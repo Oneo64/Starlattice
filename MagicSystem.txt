@@ -64,8 +64,8 @@ Magics:
 
 	Martial Spells:
 		Runic (This magic is cast by thinking the spell you want to cast. You make a fist with any hand, think the spell you want to cast, then open your hands. There will be a magic circle on your palm. To actually use it, you "throw" the spell at a target. You can also press your palm on a surface. Thinking of a spell usually means thinking of a short sequence of ancient and mystic words.)
-			Damaging Rune:   Shoot a bolt of purple and blue. This spell causes a wound and some pain on what it hit.
-			Exploding Rune:  Shoot a very fast bolt of purple and blue. This spell creates a purple and blue explosion.
+			Runic Pain:      Shoot a bolt of purple and blue. This spell causes a wound and some pain on what it hit.
+			Runic Explode:   Shoot a very fast bolt of purple and blue. This spell creates a purple and blue explosion.
 			Summon Golem:    Shoot a faint ball of purple. This ball will make an inactive golem active. Instructions on how to make one can be found below. For every meter the golem is in height (or length, pick the longest one), the summoning will take 20 minutes. The golem's limbs will slowly connect together. The golem will then obey your command. If it is attacked, it will automatically defend itself.
 			Link Golem Rune: You must press this spell in place. This spell is essential for golem creation.
 
