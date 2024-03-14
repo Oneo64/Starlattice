@@ -40,7 +40,7 @@ Skills:
 	Wisdom: 	    13
 	Charisma: 	    8
 
-	Kagalarian martial arts (Dagsar)
+	Expert at Kagalarian martial arts (Dagsar)
 
 Languages:
 	Kagalarian
