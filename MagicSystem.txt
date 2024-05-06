@@ -39,6 +39,8 @@ Magics:
 
 		Propellus (jump extremely high, jump towards places, cannot be damaged by any type of force until landed)
 
+		Summoning (summon small elementals from piles of dirt, sand, gravel, flour, powder, dust, mud, any liquid, or a mix of any of the listed)
+
 		Telekinesis (move objects around, fling objects and people, shape grains (dirt, sand, powder etc.) and liquid, can only lift one object per hand (unless it is grains or liquid), weight limit determined by how skilled the user is)
 			Starter: 5 kg
 			Average: 20 kg
@@ -59,8 +61,6 @@ Magics:
 			Necromancy
 			Divine
 			Unknown (obviously for magics not listed above)
-
-		Summoning (summon small elementals from piles of dirt, sand, gravel, flour, powder, dust, mud, any liquid, or a mix of any of the listed)
 
 	Martial Spells:
 		Runic (This magic is cast by thinking the spell you want to cast. You make a fist with any hand, think the spell you want to cast, then open your hands. There will be a magic circle on your palm. To actually use it, you "throw" the spell at a target. You can also press your palm on a surface. Thinking of a spell usually means thinking of a short sequence of ancient and mystic words.)
