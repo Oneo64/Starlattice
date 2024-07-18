@@ -1,0 +1,84 @@
+Lukhan Rolov
+Male
+Age: 105 (born 1935, july 9, looks 21)
+Race: Aspected Kagalarian Human
+Alignment: Neutral Good
+Appearance:
+	Blue eyes
+	Fair/light cool skin
+	Short brown hair
+	
+	Three burn marks on chest (gained from previous battles)
+	Two burn marks, one on right arm and one on left leg (gained from previous battles)
+
+	Scars on back (result nearby explosion and fragmentation)
+
+Apparel:
+	Simple orange longsleeved shirt
+	Simple dark blue pants
+
+	Formal kagalarian military uniform (see KagalarianEmpire.txt) (nameplate says "Commander Lukan")
+
+	White engraved metal circlet
+
+	Black boots
+
+Personality:
+	Traits:
+		POSITIVE:
+			1. Good-hearted (kind, generous and benevolent)
+			2. Loyal (trustworthy)
+			3. Brave (bold, daring, courageous)
+			4. Intelligent (smart, logical)
+			5. Wise
+			6. Great Leader
+
+		NEGATIVE:
+			1. Angered easily
+			2. Bad sense of humor
+			3. Distrusting
+		
+		Realistic (perspective on the future)
+
+		Likes steak
+
+Powers:
+	Lightning
+	Telekinesis
+	Flight (normal 60 m/s, absolute concentration 200 m/s)
+	Runic Spells
+	Magic Detection
+
+Skills:
+	Real:
+		Magic
+		Alchemy (potion brewing)
+		Minor medical things
+
+	Strength: 	    10
+	Dexerity:       14
+	Constitution: 	16
+	Intelligence: 	16
+	Wisdom: 	    12
+	Charisma: 	    15
+
+	Kagalarian martial arts (Dagsar)
+
+Height: 185m (6ft 1in)
+Weight: 82kg (182lbs)
+
+Languages:
+	Kagalarian
+	English
+
+Occupications:
+	Wizard/Mage
+	Military Commander of the Ovgot
+
+	Wormhole Transporter Operator (on main battleship)
+	Destroyer Captain
+
+Previous battles:
+	Battle of 
+
+Backstory: Lukhan grew up in the village Haravikred. He was born in a warrior's family, and went to a warrior's school. But he dropped out, and ended up going to a mage's school. From there, he learned magic. One day, he decides to go have a look in an ancient ruin, and meets Forgo there. They become friends. After that, Lukhan joins the military. In a battle against the Seenians, he was shot three times, but he survived. Later, in another battle, he was shot again, twice on his chest, and four times on his back. Suprisingly, he also survived. One time, he defended a military camp by himself, killing about 20 seenians in total. He was promoted to Leader. Later, he started to get quite powerful. The High Commander saw Lukhan getting strong, so he made Lukhan a commander, and invited him into the Ovgot.

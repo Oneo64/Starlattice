@@ -4,8 +4,8 @@ How magic works:
 	When you first learn magic, the first week or two, you become weak. This is your immune system reacting to the magic cells, because your immune system thinks these new cells are dangerous. After the week, your immune system learns that these cells are actually beneficial, so they ignore it.
 
 	Over years, your normal cells slowly gets replaced by magic cells. Because magic cells are magic, natural selection says magic cells are better and they multiply, taking over your body (you don't lose control over your body).
-	The longer you have these magic cells, you gain these benefits:
-		Age slower
+	The more these magic cells make your collective cell count, you get these benefits:
+		Age slower (Live up to 500 years old at max benefit)
 		Requires less sleep, can stay awake longer without going insane (you will still feel tired after a normal period of time)
 		More resistant to cancer
 		More resistant to sicknesses, diseases, poison, viruses, and other intruders
@@ -29,13 +29,14 @@ How magic works:
 Magics:
 	Aspects:
 		Fire (shoot fire from hands like a dragon, shoot a bolt of fire, emit fire from your hands)
-		Lightning (shoot a continuous stream of lightning, shoot a bolt of lightning, shock people by touching them, human battery)
+		Lightning (shoot a continuous stream of lightning, shoot a bolt of lightning, shock people by touching them, battery (you can turn a light on by touching and using it))
 		Ice (shoot ice like a dragon, freeze an amount of water)
 		Life (heal living things, make plants grow faster, make plants wither and shrivel, can resurrect if powerful enough)
 		Lava (shoot bolts of lava, create lava with hands)
 		Dirt (shoot dirt, make walls of dirt)
 		Sand (shoot sand, make walls of sand)
 		Force (shoot gusts of wind, sonic booms, create shockwaves)
+		Purplex (shoot bolts of purple energy, shoot dense bolts of purple energy which explodes like an rpg)
 
 		Propellus (jump extremely high, jump towards places, cannot be damaged by any type of force until landed)
 
@@ -50,8 +51,8 @@ Magics:
 		Flight (literally what it sounds like, no need for a special pose or gesture to use, the user and everything he is carrying is unharmed by the fast speed so their clothing does not get torn off, max speed determined by how skilled the user is)
 			Starter: average = 5 m/s, absolute concentration = 15 m/s
 			Average: average = 20 m/s, absolute concentration = 60 m/s
-			Strong: average = 120 m/s, absolute concentraton = 360 m/s
-			Powerful: average = 150 m/s, absolute concentration = 600 m/s
+			Strong: average = 60 m/s, absolute concentraton = 200 m/s
+			Powerful: average = 150 m/s, absolute concentration = 450 m/s
 
 		Magic Detection (detect any kind of magic, results can give:)
 			Evocation/Elemental

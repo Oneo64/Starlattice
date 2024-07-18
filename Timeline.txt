@@ -1,12 +1,13 @@
 853: Seenian Empire is created.
-858: Ramalosidotan Peace Group is created.
-1246: Ramalosidotan Paece Group becomes Kagalarian Empire.
+858: Ramalosedotan Peace Group is created.
+1246: Ramalosedotan Paece Group becomes Kagalarian Empire.
 1530: Mrokek is discovered.
 1913: Plasma weapons are invented.
 1954: Plasma weapons are upgraded to current models, spacecraft are invented.
-2002: First battleship is constructed.
-2120: Kingdom of Ramalosidot is conquered by the Seenian Empire.
+1960: First battleship starts construction.
+1970: First battleship is constructed.
+2010: Kingdom of Ramalosedot is conquered by the Seenian Empire.
 
-2155: Present date.
+2040: Present date.
 
-Facts: Battleships have been in construction for 153 years.
+Facts: Battleships have been in construction for 80 years.

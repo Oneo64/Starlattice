@@ -3,7 +3,7 @@ Planets:
 		Kagalar (base)
 		Kragalos
 		Kagalus
-		Ramalosidot (Seenian controlled)
+		Ramalosedot (Seenian controlled)
 
 	Star System B (Kagalarian controlled):
 		Huscular
