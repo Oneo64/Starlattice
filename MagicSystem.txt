@@ -37,6 +37,7 @@ Magics:
 		Sand (shoot sand, make walls of sand)
 		Force (shoot gusts of wind, sonic booms, create shockwaves)
 		Purplex (shoot bolts of purple energy, shoot dense bolts of purple energy which explodes like an rpg)
+		Light (shoot beams of burning light, create a bright flash with hands)
 
 		Propellus (jump extremely high, jump towards places, cannot be damaged by any type of force until landed)
 
@@ -67,6 +68,11 @@ Magics:
 		Runic (This magic is cast by thinking the spell you want to cast. You make a fist with any hand, think the spell you want to cast, then open your hands. There will be a magic circle on your palm. To actually use it, you "throw" the spell at a target. You can also press your palm on a surface. Thinking of a spell usually means thinking of a short sequence of ancient and mystic words.)
 			Runic Pain:      Shoot a bolt of purple and blue. This spell causes a wound and some pain on what it hit.
 			Runic Explode:   Shoot a very fast bolt of purple and blue. This spell creates a purple and blue explosion.
+			Runic Enchant:   Enchant an object with an aspect, which can be activated by a user of that aspect.
+			Runic Push:      Pushes an object away.
+			Runic Find:      Shoot a rune which will slowly find it's way to an item you have seen. It doesn't work if it is impossible (no path, no such item).
+			Runic Aspect:    Mimic an aspect. You can have it last to a minute or below. This mimicry cannot be something like shooting beams or bolts of the aspect.
+			Runic Raise:     Raises a body, turning it into a temporary zombie.
 			Summon Golem:    Shoot a faint ball of purple. This ball will make an inactive golem active. Instructions on how to make one can be found below. For every meter the golem is in height (or length, pick the longest one), the summoning will take 20 minutes. The golem's limbs will slowly connect together. The golem will then obey your command. If it is attacked, it will automatically defend itself.
 			Link Golem Rune: You must press this spell in place. This spell is essential for golem creation.
 
