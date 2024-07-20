@@ -1,8 +1,76 @@
 TODO:
-	Enchantoms (beautiful race of men that were descendants of a family enchanted by a wizard)
 	Volstones  (golems that are a medium floating rock, with a glowing red "eye", shoots red lightning)
-	Darkast    (smart zombies)
+	Dakasti    (smart zombies)
 	Elementals (self explainatory)
 	Nanopus    (small starfish like monster with nine arms, and a human eye in the center)
+	Sorkul     (A large black hairless dog with it's head replaced by a mouth, and it's sharp teeth going horizontally instead of vertically)
 
-	Doggy (i dont remember its actual name but its a large black hairless dog with it's head replaced by a mouth, and it's sharp teeth going horizontally instead of vertically)
+===========================================================================================================================================================
+RACES OF MEN/HUMANOIDS
+===========================================================================================================================================================
+
+Enchantoms:
+	Enchantoms are a race of men who are descendants of a family enchanted to be beautiful by the wizard Alomar Torin. They originated from Ramalosedot, and they are mostly found on planets controlled by Kagalar, Seenia, and Naulien.
+	
+	Appearance:
+		They appear to be a beautiful human, like an elf with normal ears.
+
+	Abilities:
+		Enchantoms have a slight power advantage when using magic, being able to be more effective, and they can learn it faster. If the magic is an aspect, the aspect spreads faster in their body. They also live longer than normal men, being able to live about one-and-a-half times longer.
+
+
+
+Marfrenic:
+	Marfrenic are people who live on Balustag. Marfrenics are usually extremely hostile to races of other humanoids that aren't Marfrenic.
+
+	Appearance:
+		Marfrenic people have aqua skin, and their hair can be golden, blue, or green colored. Their iris and pupil are both blue.
+
+
+
+===========================================================================================================================================================
+CONSTRUCTS
+===========================================================================================================================================================
+
+Volstone:
+	Volstones are a type of golem created. It requires a rock about a meter in diameter, and a piece of anglothite.
+
+	Appearance:
+		Volstones are floating rocks, with a red glowing "eye" in the center.
+
+	Abilities:
+		It shoots bolts of red lightning, and takes about 5 seconds to recharge. Each bolt of lightning has the same destruction capacity of a medium firecracker. It flies at a speed of 4 meters per second.
+
+
+
+Dakasti:
+	Dakasti are a type of undead.
+
+	Appearance:
+		Dakasti are basically zombies risen by magic.
+
+	Abilities:
+		Dakasti have a higher intelligence and mental capacity than traditional zombies, allowing them to use weapons. They are incapable of thought and emotion. Unless they are taught, the dakastus will only know how to use weapons and other things that it knew before it's death.
+
+
+
+===========================================================================================================================================================
+MONSTERS
+===========================================================================================================================================================
+
+Nanopus:
+	Nanopus are monsters that are mostly found on Kagalar and Ramalosedot. They usually kill by jumping onto the victim and trying to strangle them before eating. Their diet are mostly carnivorous and omnivorous animals, including races of men.
+
+	Appearance:
+		Nanopus look like starfish, but instead of five arms, they have nine arms. They have a human's eye in the center, and a smaller mouth horizontal to the eye. Their slimy skin can range from green to yellow.
+
+
+
+Sorkul:
+	Sorkuls are monsters that are mostly found on any planets inhabited by humanoids. They are omnivorous, and they will eat anything that moves.
+
+	Appearance:
+		A sorkul is a large dog-like creature, but they have a mouth for a head. The mouth expands to cover the entire neck, and the teeth point horizontal instead of vertical. They have four eyes, and they are small, being almost invisible compared to it's large body. The eyes are located on the top, bottom, left, and right of the neck.
+
+	Abilities:
+		A sorkul is about as fast as a dog, and can reach up to 15 meters per second at top speed.

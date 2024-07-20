@@ -1,0 +1,5 @@
+Brewing bases:
+	Simple: Elinar powder
+	Advanced: Ulsinan powder, elinar powder
+	Superior: Ulsinan powder, elinar powder, illisinion powder
+

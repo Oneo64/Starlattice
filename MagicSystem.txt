@@ -65,19 +65,51 @@ Magics:
 			Unknown (obviously for magics not listed above)
 
 	Martial Spells:
-		Runic (This magic is cast by thinking the spell you want to cast. You make a fist with any hand, think the spell you want to cast, then open your hands. There will be a magic circle on your palm. To actually use it, you "throw" the spell at a target. You can also press your palm on a surface. Thinking of a spell usually means thinking of a short sequence of ancient and mystic words.)
-			Runic Pain:      Shoot a bolt of purple and blue. This spell causes a wound and some pain on what it hit.
-			Runic Explode:   Shoot a very fast bolt of purple and blue. This spell creates a purple and blue explosion.
-			Runic Enchant:   Enchant an object with an aspect, which can be activated by a user of that aspect.
-			Runic Push:      Pushes an object away.
-			Runic Find:      Shoot a rune which will slowly find it's way to an item you have seen. It doesn't work if it is impossible (no path, no such item).
-			Runic Aspect:    Mimic an aspect. You can have it last to a minute or below. This mimicry cannot be something like shooting beams or bolts of the aspect.
-			Runic Raise:     Raises a body, turning it into a temporary zombie.
-			Summon Golem:    Shoot a faint ball of purple. This ball will make an inactive golem active. Instructions on how to make one can be found below. For every meter the golem is in height (or length, pick the longest one), the summoning will take 20 minutes. The golem's limbs will slowly connect together. The golem will then obey your command. If it is attacked, it will automatically defend itself.
-			Link Golem Rune: You must press this spell in place. This spell is essential for golem creation.
+		Runic:
+			Description:
+
+			A rune refers to a magical symbol of cosmic origin. It appears to be a glyph, which faintly glows purple.
+
+			This magic is cast by thinking the spell you want to cast. You make a fist with any hand, think the spell you want to cast, then open your hands. There will be a magic circle on your palm. To actually use it, you "throw" the spell at a target, unless the spell says otherwise. You can also press your palm on a surface. Thinking of a spell usually means thinking of a short sequence of ancient and mystic words.
+
+			If the spell is required to be held on an object like Runic Enchant or Summon Golem, the duration that must be held depends on it's size, which is also split equally for each person enchanting the same object with the same aspect/spell. The casting time is 2 minutes for smaller than 1x1x1 meters, 10 minutes for 2x2x2 meter, 20 minutes for 4x4x4 meters, 40 minutes for anything larger than 8x8x8 meters.
+
+			If the spell is placed instead of a direct effect like an attack, then by hitting the placed rune on a surface or striking it, the rune is destroyed.
+
+			Runic Pain:
+				Shoot a bolt of purple and blue. This spell causes a wound and some pain on what it hit.
+			
+			Runic Explode:
+				Shoot a very fast bolt of purple and blue. This spell creates a purple and blue explosion.
+			
+			Runic Enchant:
+				By letting a stream of purple energy flow from your hand to an object, it enchants the target with an aspect/spell, which can be activated by a user of that aspect/spell. The spell must be held on the target, and you cannot enchant something larger than 4x4x4 meters.
+			
+			Runic Push:
+				Pushes an object away.
+			
+			Runic Find:
+				Shoot a rune which will slowly find it's way to an item you have seen. It doesn't work if it is impossible (no path, no such item).
+			
+			Runic Aspect:
+				Mimic an aspect. Instead of a projectile, the effect is on your hand. You can have it last to a minute or below. This mimicry cannot be something like shooting beams or bolts of the aspect.
+			
+			Runic Raise:
+				Raises a body, turning it into a temporary zombie.
+			
+			Summon Golem:
+				By letting a stream of purple energy flow from your hand to the limb, or part of a golem, you link it together. The spell must be held. For every meter the golem is in height (or length, pick the longest one), the summoning will take 20 minutes, split evenly by the amout of people holding a spell on this. The golem's limbs will slowly connect together over this duration, and once it connects, the golem is activated. The golem will then obey your command. If it is attacked, it will automatically defend itself.
+
+				Instructions on how to prepare a humanoid golem can be found below.
+			
+			Link Rune:
+				You press a rune in place where the limbs will connect. This spell is essential for golem creation.
+
+Enchantment:
+	In order to enchant an object (infuse magic), you must rub an enchanting crystal (silartite for example) on at least 80% of it's area. Then you use Runic Enchant, and then you use an aspect/spell on your other hand. When the spell is complete, the thing is enchanted.
 
 Golem creation:
-	To create a golem, put long objects in place shown below:
+	To create a humanoid golem, put long objects in place shown below:
 		O
 	  O O O
 	  O O O

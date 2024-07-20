@@ -8,8 +8,10 @@ Crystals and metals:
 		Phystine (Glowing pale red crystal, used for weapons and explosives)
 		Exite (Glowing pale green crystal, used for weapons and explosives)
 		Mroken (Glowing blue crystal, used for heaters)
+		
 		Elinar (Glowing white crystal, used for making potion powders)
 		Ulsinan (Glowing purple crystal, richer version of elinar)
+		Silartite (Dark opaque crystal with blue spots, used for enchantments)
 
 		Distintite (Beatiful white and green crystal)
 		Nalastite (Beautiful purple and blue crystal)
@@ -18,12 +20,14 @@ Crystals and metals:
 		Korin (Beautiful deep blue crystal)
 		Illisinion (Beautiful brightly white crystal with traces of gold)
 
+		Anglothite (Red, amber-like crystal, feels warm to the touch)
+		Marnine (Beautiful green crystal, lets wearer heal faster, and can regenerate body limbs (usually takes a month to regenerate a whole limb))
+
 	Metals:
-		Fresenite (Hard white metal, used for armors, spaceships and structures, specifically used by the Kagarian Empire and their allies)
+		Fresenite (Hard white metal, used for structures)
+		Armanite (Hard white metal, used for armors, and spaceship hulls)
 		Arsenium (Brown metal, used for wiring)
 		Graltite (Gray metal, used for chips)
-
-		Jestarine (Beautiful deep green rock, with small traces of aqua)
 
 Weapons:
 	Energy Rifle:
@@ -84,6 +88,7 @@ Weapons:
 		Type:                   Crystal Missile
 		Design:                 The missile follows a pre computed path, and explodes once it reaches the end of the path. The missile will also explode if the warhead physically hits anything.
 
+
 	Crystal Warhead
 		Type:     Warhead
 		Function: The warhead is tipped with an unstable crystal. When this crystal is struck, it releases a high amount of explosive energy. The crystal on the tip of the warhead is actually connected to a larger piece in the middle of the missile, which is enclosed with a hard metal. Because the unstable crystal released a lot of energy, this energy is contained inside the missile. The missile cannot contain this much energy, so the missile explodes.
@@ -107,13 +112,13 @@ Weapons:
 			1 spotters (usually 4, kind of like sniper spotters but inside of tanks)
 
 		Builds:
-			Geirnta M132 (Made by Geirnta Vehicle Construction Coporation)
+			Gærnta M132 (Made by Gærnta Vehicle Construction Cooporation)
 
 	Ground Turret:
 		Type: Any Turret (High-speed, anti-spacefighter, and cannon turrets)
 
 Ships (note that all military ships have the Wormhole Transporter Module installed, and all military WARSHIPS have the Shield Generator installed.):
-	Battleship:
+	Battleship/Capital Ship:
 		Type:          Warship
 		Length:        2 km
 		Max Speed:     30 m/s
@@ -176,7 +181,7 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 			Total: about 50 people
 
 	Traveler:
-		Type:          Warship
+		Type:          Spacecraft
 		Length:        30 meters
 		Usual Weapons: 4 high-speed repeaters
 		Capacity:      40000 kg of goods
