@@ -1,5 +1,53 @@
-Brewing bases:
-	Simple: Elinar powder
-	Advanced: Ulsinan powder, elinar powder
-	Superior: Ulsinan powder, elinar powder, illisinion powder
+Duration:
+	For each ingredient including the powder base, the potion lasts 10 minutes.
 
+	If a sip was taken, divide duration by ten.
+	For each oz drank, multiply by 0.5. (Example. 5 oz = multiply by 2.5, 2 oz = multuply by 1)
+
+How to brew a potion:
+	1.  Prepare a brewing base. Each brewing base acts as catalyst.
+	1a. A brewing base requires the powder of an enchanting crystal, and any amount of magic crystal powder.
+	1b. The approximate ratio required enchanting powder to magic powder is 1:2. (1/3 enchanting crystal, 2/3 magic crystal)
+	1c. Enchanting powder works the magic, and magic powder stores the potion's effect. Not following the ratio means lowered potency.
+	2.  Mix the brewing base with water, which can be dirty or clean, but the water must not be gooey or like an oil.
+	3.  Dump the ingredients in, and let it sit for a day. Make sure the potion isn't gooey, like in step 2.
+	4.  It's recommended to stir it before taking it out of it's container, or shake the vial before drinking it. If it was recently boiled, no stiring is required.
+
+Common ways of making brewing bases:
+	Simple: Silartite powder
+	Advanced: Silartite powder, elinar/ulsinan powder
+	Superior: Silartite powder, ulsinan powder, elinar powder
+
+
+Cat-Form Potion
+	Grants user features (practical and appearance) of a cat. Meaning, drinker gains slight night vision, jumps higher, increased hearing capacity.
+
+	Superior brewing base
+	Marnine powder
+	Cat fur
+
+
+Magic Energy Potion (boil)
+	Basic brewing base
+	More elinar powder
+	Korin powder
+
+
+Potion of Fire Immunity (boil):
+	Advanced brewing base
+	Anglothite powder
+
+
+Potion of Invisibility
+	Advanced brewing base
+	Distinite powder
+	Small fragments of Illisinion
+
+
+Potion of True Form (boil):
+	Reverts drinker to their true form. You must drink at least 2 oz at once for this to work. You could also use this to look some someone else.
+
+	Superior brewing base
+	Distinite powder
+	Sample of your DNA
+	Small lump of clay

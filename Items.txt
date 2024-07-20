@@ -13,7 +13,7 @@ Crystals and metals:
 		Ulsinan (Glowing purple crystal, richer version of elinar)
 		Silartite (Dark opaque crystal with blue spots, used for enchantments)
 
-		Distintite (Beatiful white and green crystal)
+		Distinite (Beatiful white and green crystal)
 		Nalastite (Beautiful purple and blue crystal)
 		Quastarine (Beautiful glowing purple crystal)
 		Morigalt (Beautiful green and yellow crystal)
