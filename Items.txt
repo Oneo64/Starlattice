@@ -112,7 +112,7 @@ Weapons:
 			1 spotters (usually 4, kind of like sniper spotters but inside of tanks)
 
 		Builds:
-			Gærnta M132 (Made by Gærnta Vehicle Construction Cooporation)
+			Gærst M132 (Made by Gærst Vehicle Construction Company)
 
 	Ground Turret:
 		Type: Any Turret (High-speed, anti-spacefighter, and cannon turrets)
