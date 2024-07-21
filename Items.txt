@@ -2,6 +2,8 @@ Note:
 	All energy weapons have a core. The color of it's bolt corresponds with it's crystal color.
 	AI is expensive, so armies tend to not use AI to replace infantry.
 
+
+
 Crystals and metals:
 	Crystals:
 		Mrokek (Unstable, glowing blue crystal with dark spots, used for weapons and explosives)
@@ -29,7 +31,9 @@ Crystals and metals:
 		Arsenium (Brown metal, used for wiring)
 		Graltite (Gray metal, used for chips)
 
-Weapons:
+
+
+Weapons
 	Energy Rifle:
 		Type: Energy rifle
 		Length: About 60 cm long
@@ -101,29 +105,20 @@ Weapons:
 		Destruction Equivalent: 50 kilograms of tnt
 		Function:               Uses a crystal warhead, propelled by a crystal rocket engine.
 
-	Armored Cannon Car:
-		Type:                  Armored Car
-		Size:                  10 x 18 meters
-		Transportation Method: 4 wheels on both sides
-		Weapons: 1 cannon
-		Crew required to operate:
-			1 cannon operator
-			1 steering guy
-			1 spotters (usually 4, kind of like sniper spotters but inside of tanks)
-
-		Builds:
-			Gærst M132 (Made by Gærst Vehicle Construction Company)
-
 	Ground Turret:
 		Type: Any Turret (High-speed, anti-spacefighter, and cannon turrets)
+
+
 
 Ships (note that all military ships have the Wormhole Transporter Module installed, and all military WARSHIPS have the Shield Generator installed.):
 	Battleship/Capital Ship:
 		Type:          Warship
 		Length:        2 km
+		Width:         350 m
 		Max Speed:     30 m/s
 		Usual Weapons: 64 anti-spacefighter repeaters, 48 cannons, 8 missile launchers, 16 laser projectors
 		Function:      Carry massive amounts of people (troops, civilians etc), beeg firepower
+		Capacity:      100 spacefighters, 5 destroyers, 20,000,000 kg of goods
 		Crew required to operate:
 			20 commanders/ship dashboard operators
 			400 guards
@@ -142,9 +137,11 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 	Destroyer:
 		Type:          Warship
 		Length:        100 meters
+		Width:         30 m
 		Max Speed:     30 m/s
 		Usual Weapons: 10 anti-spacefighter repeaters, 4 cannons
 		Function:      Basically space tanks
+		Capacity:      5 spacefighters, 100,000 kg of goods
 		Crew required to operate:
 			4 commanders
 			20 guards
@@ -164,21 +161,21 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 
 	Carrier:
 		Type:          Warship
-		Length:        100 meters
+		Length:        500 meters
+		Width:         150 m
 		Max Speed:     30 m/s
-		Usual Weapons: 10 anti-spacefighter repeaters
-		Capacity:      40 spacefighters, 200000 kg of goods
+		Usual Weapons: 20 anti-spacefighter repeaters
+		Capacity:      200 spacefighters, 5,000,000 kg of goods
 		Function:      Carry small spacecraft and transport goods
 		Crew required to operate:
 			4 commanders
-			20 guards
-			10 anti-spacefighter operators
-			4 cannon operators
-			4 janitors
-			5 repairmen
-			1 cctv watcher
+			50 guards
+			20 anti-spacefighter operators
+			10 janitors
+			10 repairmen
+			4 cctv watcher
 
-			Total: about 50 people
+			Total: about 100 people
 
 	Traveler:
 		Type:          Spacecraft
@@ -191,10 +188,43 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 			2 cooks
 			4 high-speed repeater operators
 
+
+
+Ground vehicles:
+	Armored Cannon Car:
+		Type:                  Armored Car
+		Size:                  10 x 18 meters
+		Transportation Method: 4 wheels on both sides
+		Weapons: 1 cannon
+		Crew required to operate:
+			1 cannon operator
+			1 steering guy
+			1 spotter (usually 4, kind of like sniper spotters but inside of tanks)
+
+		Builds:
+			Gærst Vakaj 132 (Made by Gærst Vehicle Construction Company)
+
+	Armored Transportation Car:
+		Type:                  Armored Car
+		Size:                  5 x 8 meters
+		Transportation Method: 2 wheels on both sides
+		Weapons: 1 high-speed repeater
+		Crew required to operate:
+			1 high-speed repeater operator
+			1 steering guy
+			1 spotter (usually 4, kind of like sniper spotters but inside of tanks)
+
+		Builds:
+			Gærst Akræri Rækar 132 (Made by Gærst Vehicle Construction Company)
+
+
+
 Robots and automatons:
-	KAG Durst Avtit Evlar Taemga Rotorgalvik (KagDaetr):
+	KAG Yeltol Khamojan Avtit Durst Rovegik (KagYkadr):
 		Type: Super battle robot
 		Weapons: 4 High-Speed Repeaters
+
+
 
 Ship Modules:
 	==================== SPACECRAFT ESSENTIALS ====================
