@@ -118,7 +118,7 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 		Max Speed:     30 m/s
 		Usual Weapons: 64 anti-spacefighter repeaters, 48 cannons, 8 missile launchers, 16 laser projectors
 		Function:      Carry massive amounts of people (troops, civilians etc), beeg firepower
-		Capacity:      100 spacefighters, 5 destroyers, 20,000,000 kg of goods
+		Capacity:      100 spacefighters, 5 destroyers, 50,000 men, 20,000,000 kg of goods
 		Crew required to operate:
 			20 commanders/ship dashboard operators
 			400 guards
