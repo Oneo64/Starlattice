@@ -35,7 +35,7 @@ Uniforms:
 Weapons:
 	Standard Weapon: KAG Energy Rifle 114
 
-Troop amount: 3 billion (about a billion per planet)
+Troop amount: 10 billion (about a billion per planet)
 Spaceship Fleet:
 	130 Battleships
 	1000 Carriers
