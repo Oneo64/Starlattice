@@ -27,10 +27,9 @@ Military Ranks:
 	Infantry
 
 Uniforms:
-	Infantry: White uniform, white combat helmet, gray utility belt
-	High Ranks: Any formal clothing, and a blue surcoat. and There is also a nameplate, which is placed exactly in the middle, around the upper chest. A black belt is also worn around the blue vest.
-
-	Most military personnel will have a holster on their belt with an energy pistol
+	Infantry: White combat helmet, white coat, black utility belt, black boots
+	
+	High Rank: Any formal clothing, black belt, and a blue surcoat (with a nameplate placed exactly in the middle around the upper chest).
 
 Weapons:
 	Standard Weapon: KAG Energy Rifle 114
