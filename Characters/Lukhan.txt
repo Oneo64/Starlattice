@@ -46,7 +46,7 @@ Personality:
 Powers:
 	Lightning
 	Telekinesis
-	Flight (normal 60 m/s, absolute concentration 200 m/s)
+	Flight (normal 60 m/s, absolute concentration 250 m/s)
 	Runic Spells
 	Magic Detection
 
