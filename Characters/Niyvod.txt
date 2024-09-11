@@ -1,6 +1,6 @@
 Niyvor Folensen
 Male
-Age: 30 (born 2010, january 11)
+Age: 37 (born 2007, january 11)
 Race: Aspected Kagalarian Human
 Alignment: Neutral Good
 
@@ -19,7 +19,7 @@ Skills:
 	English
 
 Height: 185m
-Weight: 70kg
+Weight: 60kg
 
 Occupications:
 	Wizard/Mage

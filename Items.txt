@@ -193,7 +193,7 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 Ground vehicles:
 	Armored Cannon Car:
 		Type:                  Armored Car
-		Size:                  10 x 18 meters
+		Size:                  12 x 18 meters
 		Transportation Method: 4 wheels on both sides
 		Weapons: 1 cannon
 		Crew required to operate:
