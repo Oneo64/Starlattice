@@ -2,7 +2,7 @@ Lukhan Rolov
 Male
 Age: 105 (born 1935, july 9, looks 21)
 Race: Aspected Kagalarian Human
-Alignment: Neutral Good
+Alignment: Neutral
 Hometown: Haravikred, Kregsorin, Kagalar
 Appearance:
 	Blue eyes
@@ -18,7 +18,7 @@ Apparel:
 	Simple orange longsleeved shirt
 	Simple dark blue pants
 
-	Formal kagalarian military uniform (see KagalarianEmpire.txt) (nameplate says "Commander Lukan")
+	Formal kagalarian military uniform (see KagalarianEmpire.txt) (nameplate says "Markavo Lukhan Rolov")
 
 	White engraved metal circlet
 
@@ -27,12 +27,10 @@ Apparel:
 Personality:
 	Traits:
 		POSITIVE:
-			1. Good-hearted (kind, generous and benevolent)
-			2. Loyal (trustworthy)
-			3. Brave (bold, daring, courageous)
-			4. Intelligent (smart, logical)
-			5. Wise
-			6. Great Leader
+			1. Loyal
+			2. Brave
+			3. Intelligent
+			4. Great Leader
 
 		NEGATIVE:
 			1. Angered easily
