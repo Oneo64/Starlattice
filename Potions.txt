@@ -33,7 +33,7 @@ Magic Energy Potion (boil)
 	Korin powder
 
 
-Potion of Fire Immunity (boil):
+Potion of Fire Immunity (boil)
 	Advanced brewing base
 	Anglothite powder
 
@@ -44,7 +44,7 @@ Potion of Invisibility
 	Small fragments of Illisinion
 
 
-Potion of True Form (boil):
+Potion of True Form (boil)
 	Reverts drinker to their true form. You must drink at least 2 oz at once for this to work. You could also use this to look some someone else.
 
 	Superior brewing base

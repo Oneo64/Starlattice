@@ -6,7 +6,6 @@ Main base description: The Kagalarian Main base is built on a hill, surrounded b
 
 Main base floors:
 	Ground level: Vehicle and spacecraft building
-	Level 1: 
 
 Fashion:
 	Most clothing are simple longsleeved shirt and pants, with no patterns whatsoever. Sometimes someone might wear a trench coat.
