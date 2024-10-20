@@ -55,6 +55,13 @@ Weapons
 
 		Function: In the rifle, a continuous electrical current passes through a crystal core, creating high amounts of explosive energy. The explosive energy is pushed through a thin tube, shooting out like a deadly water cannon.
 
+	Energy Grenade:
+		Type: Energy grenade
+		Kill radius: 3 meters
+		Blast radius: 7 meters
+
+		Function: The grenade's shell is made of arsenium. After 5 seconds of the pin being pulled, the grenade surges the mrokek core with a ridiculous amount of electricity, making it release a lot of explosive energy. The explosive energy cannot escape anywhere, and burst open the grenade.
+
 	High-Speed Repeater
 		Type:                   Vehicle Turret
 		Rate of Fire:           0.05 seconds

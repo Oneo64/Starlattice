@@ -27,6 +27,7 @@ Military Ranks:
 
 Uniforms:
 	Infantry: White combat helmet, white coat, black utility belt, black boots
+	Infantry equipment: KAG Energy Rifle 114, battery recharger, basic radio, three explosive mrokek grenades
 	
 	High Rank: Any formal clothing, black belt, and a blue surcoat (with a nameplate placed exactly in the middle around the upper chest).
 
