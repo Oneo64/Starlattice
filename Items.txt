@@ -238,6 +238,8 @@ Robots and automatons:
 		Type: Super battle robot
 		Weapons: 4 High-Speed Repeaters
 
+		Appearance: The KagYkadr is a robot. It has a rectangular base with 3 wheels on each side like an armored car. There is a capsule in the middle of the base, with four guns, a gun built onto each side. The KagYkadr takes about 10 seconds to load up before it can run. There is also a small screen on the front of the robot, which is a debug log that shows the robot's state in loading, or whether the robot sees an enemy, whether it is damaged, etc. The robot can go at a maximum speed of 12 m/s.
+
 
 
 Ship Modules:
@@ -271,6 +273,7 @@ Ship Modules:
 	Optional Modules:
 		Wormhole Transport Module:
 			Function: Uses a magical crystal to create wormholes. The wormhole The wormhole transports everything it enters into a specific location very fast. Between planets take 30 seconds, star systems take 10 minutes, galaxies take a week. Once nothing has entered it for the past 3 seconds, it closes.
+			Transport speed: 600 light years per hour, 10 light years per minute, 10540 AU/s. Actual speed in wormhole: about 2500 m/s.
 			Wormhole Appearance: It appears like a giant gray smoky ring, big enough to fit the ship that used it. Green lightning rapidly connects random points of the ring, creating flashes of green.
 
 		Shield Generator Module:
