@@ -1,49 +1,59 @@
-Planets:
-	Star system KA A (Kagalarian controlled):
+Kagalarian Empire (KA):
+	Star system KAA:
 		Kagalar (base)
 		Kragalos
 		Kagalus
-		Ramalosedot (Seenian controlled)
+		Ramalosedot (Captured and is currently controlled by Seenian Empire)
 
-	Star System KA B (Kagalarian controlled):
+	Star System KAB:
 		Huscular
 		Farusluk
 		Korulam
 		Fraskrak
 		Nelukal
 
-	Star System KA C (Kagalarian controlled):
+	Star System KAC:
 		Sorkarvil
 		Nakarskan
 		Molmglar
 
 
 
-	Star System ES A (Escori controlled):
+Escorian Empire (ES):
+	Star System ESA:
 		Escorin (base)
 		Estofear
 		Forunal
 
 
 
-	Star System SE A (Seenian controlled):
+Seenian Empire (SE):
+	Star System SEA:
 		Seenia (base)
 		Wennarog
 		Bilkrilk
 		Sealius
 		Sealan
 
-	Star System SE B (Seenian controlled):
+	Star System SEB:
 		Fomarish
 		Theenanti
 		Valanan
 
 
 
-	Star System NA A (Naulean Controlled):
+Naulean (NAA):
+	Star System NAA:
 		Naulien (base)
 		Salianus
 		Nealinal
 		Dasalien
 		Nalion
 		Arenium
+
+
+
+Malfren (MA):
+	Star System MAA:
+		Malfren (base)
+		
