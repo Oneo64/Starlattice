@@ -1,1 +1,22 @@
-Azaliya
+Azaliya Jovomaniy
+
+Female
+Age: 35
+Alignment: Neutral Good
+Ethnicity: Kagalarian
+Race:      Aspected Human
+
+
+
+[[DESCRIPTION]]
+Azaliya is a Kagalarian woman in her mid-twenties. She has shoulder-length straight blonde hair, fair skin, and upturned grey eyes. She has a sharp nose and chin.
+
+
+
+[[PERSONALITY]]
+empty for now
+
+
+
+[[ABILITIES]]
+empty for now
