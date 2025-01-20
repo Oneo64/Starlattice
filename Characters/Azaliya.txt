@@ -16,9 +16,9 @@ She usually wears a red blouse, black cargo pants, and black boots. She also wea
 
 
 [[PERSONALITY]]
-empty for now
+will be added
 
 
 
 [[ABILITIES]]
-Azaliya can fly at a maximum speed of 60 m/s, and she can also jump 50 meters in the air and 100 meters away. She can also heal the wounds and injuries of living things.
+Azaliya can fly (40 m/s, 80 if concentrating), and she can also jump 50 meters in the air and 100 meters away. She can also heal the wounds and injuries of living things.
