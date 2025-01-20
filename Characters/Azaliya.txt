@@ -21,4 +21,4 @@ empty for now
 
 
 [[ABILITIES]]
-Azaliya can jump up to 50 meters in the air and up to 100 meters away. She can also heal wounds, and fly at a speed of 60 m/s.
+Azaliya can fly at a maximum speed of 60 m/s, and she can also jump 50 meters in the air and 100 meters away. She can also heal the wounds and injuries of living things.
