@@ -4,6 +4,9 @@ Age: 43
 Race: Kagalarian Human
 Alignment: Neutral Good
 
+
+
+[[DESCRIPTION AND ABILITIES]]
 Aekaf is a human born on the planet Kagalar. He has brown eyes, fair skin, and his hair is short and blond.	He wears a silvery-gray power armor that he built himself, which resembles an armored and less clunkier astronaut suit.
 
 The armor part of the power armor is made of armanite, a metal commonly used for the hull of spacecraft (especially warships). The visor of Aekaf's power armor consists of two layers. The outer layer made of tempered glass, tinted to prevent bright sunlight. The inner layer is made of laminated glass, just in case the outer layer shatters. The power armor can be turned on and off at any time.
@@ -29,26 +32,18 @@ The speaker and microphone allows clear communication outside the power armor.
 
 Each module installed can be turned on and off, from switches on the back of his forearms.
 
-Personality:
-	Traits:
-		POSITIVE:
-			1. Brave
-			2. Curious
-			3. Intelligent
+Aekaf is a member of SMRK, Saetar Morston Rolskiya Khnorotal (Exotic Planet Exploring Corporation).
 
-		NEGATIVE:
-			1. Overthinks simple situations
 
-Abilities:
-	Engineering
-	Welding
-	Programming
-	Electronics
 
-Languages:
-	Kagalarian
-	English
+[[PERSONALITY]]
+Aekaf is usually brave and curious. He is also intelligent, shown by how he created his own power armor.
 
-Occupications:
-	Kagalarian Special Forces Personnel
-	Exotic Planet Explorer
+When he faces simple situations, he could overthink them, thinking a more complex solution is needed.
+
+
+
+[[OTHER ABILITIES]]
+Aekaf is proficient in engineering, welding, programming, and electronics. He knows how to repair small weapons such as energy rifles.
+
+Aekaf can speak Kagalarian and English.
