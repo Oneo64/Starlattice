@@ -1,80 +1,45 @@
 Lukhan Rolov
+
 Male
 Age: 105 (born 1935, july 9, looks 21)
-Race: Aspected Kagalarian Human
 Alignment: Neutral
-Hometown: Haravikred, Kregsorin, Kagalar
-Appearance:
-	Blue eyes
-	Fair/light cool skin
-	Short brown hair
-	
-	Three burn marks on chest (gained from previous battles)
-	Two burn marks, one on right arm and one on left leg (gained from previous battles)
+Ethnicity: Kagalarian
+Race:      Aspected Human
 
-	Scars on back (result nearby explosion and fragmentation)
 
-Apparel:
-	Simple orange longsleeved shirt
-	Simple dark blue pants
 
-	Formal kagalarian military uniform (see KagalarianEmpire.txt) (nameplate says "Markavo Lukhan Rolov")
+[[DESCRIPTION]]
+Lukhan is a tall Kagalarian man at 6'1", with short brown hair, blue eyees, and fair skin. He has three energy rifle burn marks on his chest, another one on his right arm and left thigh, and a scar on his back from an explosion.
 
-	White engraved metal circlet
+He wears a formal Kagalarian military uniform which consists of a blue surcoat, with a white metal nameplate in the middle chest area that says "Markovo Lukhan Rolov". He wears a black belt over the surcoat holding it in place. Under his uniform, he has an orange shirt, dark blue pants, and a pair of black boots. He carries a handheld radio and a small energy pistol as backup on his belt.
 
-	Black boots
+Lukhan was born in Haravikred, Kregsorin Continent, Kagalar.
 
-Personality:
-	Traits:
-		POSITIVE:
-			1. Loyal
-			2. Brave
-			3. Intelligent
-			4. Great Leader
+He is a military commander in the Ovgot Party. He also works as one of the wormhole operators on one of Kagalar's battleships, specifically an Anor Vindaror 9 battleship.
 
-		NEGATIVE:
-			1. Angered easily
-			2. Bad sense of humor
-			3. Distrusting
-		
-		Realistic (perspective on the future)
 
-		Likes steak
 
-Powers:
-	Lightning
-	Telekinesis
-	Flight (normal 60 m/s, absolute concentration 250 m/s)
-	Runic Spells
-	Magic Detection
+[[PERSONALITY]]
+Lukhan is usually described as a no-nonsense man. He has a bad sense of humor and doesn't find many jokes funny. He also distrusts a lot of people even if they're Kagalarian, thinking they might be doing something sly.
 
-Skills:
-	Real:
-		Magic
-		Alchemy (potion brewing)
-		Minor medical things
+Other than that, he's very loyal to the Kagalarian Empire, and sometimes goes on a brave streak. He is also intelligent, helping out in the research of military technology.
 
-	Strength: 	    10
-	Dexerity:       14
-	Constitution: 	16
-	Intelligence: 	16
-	Wisdom: 	    12
-	Charisma: 	    15
+He likes to eat steak.
 
-	Kagalarian martial arts (Dagsar)
 
-Height: 185m (6ft 1in)
-Weight: 82kg (182lbs)
 
-Languages:
-	Kagalarian
-	English
+[[ABILITIES]]
+Lukhan is proficient in Dagsar, a martial art practiced by Kagalarian people. He can fly at 30 m/s (about the max speed of a highway). He also has telekinesis, and can lift things 200 kilograms (about the weight of a motorcycle).
 
-Occupications:
-	Wizard/Mage
-	Military Commander of the Ovgot
+Lukhan is able to detect magic by closing his eyes and extending his hand to the object or area he wants to detect from.
 
-	Wormhole Transporter Operator (on main battleship)
-	Destroyer Captain
+His native language is Kagalarian, and he knows how to speak English.
 
-Backstory: Lukhan grew up in the village Haravikred. He was born in a warrior's family, and went to a warrior's school. But he dropped out, and ended up going to a mage's school. From there, he learned magic. One day, he decides to go have a look in an ancient ruin, and meets Forgo there. They become friends. After that, Lukhan joins the military. In a battle against the Seenians, he was shot three times, but he survived. Later, in another battle, he was shot again, twice on his chest, and four times on his back. Suprisingly, he also survived. One time, he defended a military camp by himself, killing about 20 seenians in total. He was promoted to Leader. Later, he started to get quite powerful. The High Commander saw Lukhan getting strong, so he made Lukhan a commander, and invited him into the Ovgot.
+
+
+[[LORE]]
+Lukhan grew up in the village Haravikred. He was born in a warrior's family, and went to a warrior's school. But he dropped out, and ended up going to a mage's school. From there, he learned magic. One day, he decides to go have a look in an ancient ruin, and meets Forgo there. They become friends. After that, Lukhan joins the military.
+
+In a battle against the Seenians, he was shot three times, but he survived. Later, in another battle, he was shot again, twice on his chest, and four times on his back. Suprisingly, he also survived. One time, he defended a military camp by himself, killing about 20 seenians in total.
+
+He was promoted to Leader. Later, he started to get quite powerful. The High Commander saw Lukhan getting strong, so he made Lukhan a commander, and invited him into the Ovgot.

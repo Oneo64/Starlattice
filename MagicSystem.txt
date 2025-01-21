@@ -44,16 +44,16 @@ Magics:
 		Summoning (summon small elementals from piles of dirt, sand, gravel, flour, powder, dust, mud, any liquid, or a mix of any of the listed)
 
 		Telekinesis (move objects around, fling objects and people, shape grains (dirt, sand, powder etc.) and liquid, can only lift one object per hand (unless it is grains or liquid), weight limit determined by how skilled the user is)
-			Starter: 5 kg
-			Average: 30 kg
-			Strong: 200 kg
+			Starter:  5 kg
+			Average:  30 kg
+			Strong:   200 kg
 			Powerful: 5000 kg
 
-		Flight (literally what it sounds like, no need for a special pose or gesture to use, the user and everything he is carrying is unharmed by the fast speed so their clothing does not get torn off, max speed determined by how skilled the user is)
-			Starter: average = 5 m/s, absolute concentration = 15 m/s
-			Average: average = 20 m/s, absolute concentration = 60 m/s
-			Strong: average = 80 m/s, absolute concentraton = 250 m/s
-			Powerful: average = 150 m/s, absolute concentration = 450 m/s
+		Flight (you can fly twice as fast if you concentrate on flying)
+			Starter:  average = 5 m/s
+			Average:  average = 20 m/s
+			Strong:   average = 30 m/s
+			Powerful: average = 80 m/s
 
 		Magic Detection (detect any kind of magic, results can give:)
 			Evocation/Elemental
