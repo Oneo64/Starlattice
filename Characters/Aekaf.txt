@@ -1,8 +1,10 @@
 Aekaf Nolmatev
+
 Male
-Age: 43
-Race: Kagalarian Human
+Age: 33
 Alignment: Neutral Good
+Ethnicity: Kagalarian
+Race: Human
 
 
 
