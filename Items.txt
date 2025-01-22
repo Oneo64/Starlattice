@@ -273,8 +273,8 @@ Ship Modules:
 
 	Optional Modules:
 		Wormhole Transport Module:
-			Function: Uses a magical crystal to create wormholes. The wormhole The wormhole transports everything it enters into a specific location very fast. Between planets take 2 to 5 minutes, star systems take 2 to 5 hours, galaxies take about two weeks. Once nothing has entered it for the past 3 seconds, it closes.
-			Transport speed: 600 light years per hour, 10 light years per minute, 10540 AU/s. Actual speed in wormhole: about 2500 m/s.
+			Function: Uses a magical crystal to create wormholes. The wormhole The wormhole transports everything it enters into a specific location very fast. Between planets take 2 to 5 minutes, and between star systems take 2 to 5 hours. Once nothing has entered it for the past 3 seconds, it closes.
+			Transport speed: Up to 500 AU/s, between planets 0.003 AU/s is usually used for precision reasons. The actual traveling speed in the wormhole is about 2000 m/s.
 			Wormhole Appearance: It appears like a giant gray smoky ring, big enough to fit the ship that used it. Green lightning rapidly connects random points of the ring, creating flashes of green.
 
 		Shield Generator Module:
