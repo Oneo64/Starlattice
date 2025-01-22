@@ -125,14 +125,14 @@ Weapons
 
 
 Ships (note that all military ships have the Wormhole Transporter Module installed, and all military WARSHIPS have the Shield Generator installed.):
-	Battleship/Capital Ship:
+	Battleship:
 		Type:          Warship
-		Length:        2 km
-		Width:         350 m
+		Dimensions:    (Length Width Height) 1000 x 250 x 250 meters
+		Shape:         Hexagonal Prism
 		Max Speed:     30 m/s
-		Usual Weapons: 64 anti-spacefighter repeaters, 48 cannons, 8 missile launchers, 16 laser projectors
+		Usual Weapons: 24 anti-spacefighter repeaters, 16 cannons, 8 missile launchers, 8 laser projectors
 		Function:      Carry massive amounts of people (troops, civilians etc), beeg firepower
-		Capacity:      100 spacefighters, 5 destroyers, 50,000 men, 20,000,000 kg of goods
+		Capacity:      100 spacefighters, 5 destroyers, 24,000 men, 10,000,000 kg of goods
 		Crew required to operate:
 			20 commanders/ship dashboard operators
 			400 guards
@@ -146,14 +146,14 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 			Total: about 800 people
 
 		Current Builds:
-			Anor Vindaror 8 (Made by Anor Spacecraft Manufacturing, used by kagalarian empire)
+			Anor Vindaror 8 (Made by Anor Spacecraft Manufacturing, used by Kagalarian Empire)
 
 	Destroyer:
 		Type:          Warship
 		Length:        100 meters
 		Width:         30 m
 		Max Speed:     30 m/s
-		Usual Weapons: 10 anti-spacefighter repeaters, 4 cannons
+		Usual Weapons: 16 anti-spacefighter repeaters, 8 cannons
 		Function:      Basically space tanks
 		Capacity:      5 spacefighters, 100,000 kg of goods
 		Crew required to operate:
@@ -178,7 +178,7 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 		Length:        500 meters
 		Width:         150 m
 		Max Speed:     30 m/s
-		Usual Weapons: 20 anti-spacefighter repeaters
+		Usual Weapons: 12 anti-spacefighter repeaters, 2 laser projectors
 		Capacity:      200 spacefighters, 5,000,000 kg of goods
 		Function:      Carry small spacecraft and transport goods
 		Crew required to operate:
@@ -193,7 +193,8 @@ Ships (note that all military ships have the Wormhole Transporter Module install
 
 	Traveler:
 		Type:          Spacecraft
-		Length:        30 meters
+		Dimensions:    (Length Width Height) 35 x 20 x 15 meters
+		Max Speed:     30 m/s
 		Usual Weapons: 4 high-speed repeaters
 		Capacity:      40000 kg of goods
 		Crew required to operate:
@@ -272,7 +273,7 @@ Ship Modules:
 
 	Optional Modules:
 		Wormhole Transport Module:
-			Function: Uses a magical crystal to create wormholes. The wormhole The wormhole transports everything it enters into a specific location very fast. Between planets take 30 seconds, star systems take 10 minutes, galaxies take a week. Once nothing has entered it for the past 3 seconds, it closes.
+			Function: Uses a magical crystal to create wormholes. The wormhole The wormhole transports everything it enters into a specific location very fast. Between planets take 2 to 5 minutes, star systems take 2 to 5 hours, galaxies take about two weeks. Once nothing has entered it for the past 3 seconds, it closes.
 			Transport speed: 600 light years per hour, 10 light years per minute, 10540 AU/s. Actual speed in wormhole: about 2500 m/s.
 			Wormhole Appearance: It appears like a giant gray smoky ring, big enough to fit the ship that used it. Green lightning rapidly connects random points of the ring, creating flashes of green.
 
