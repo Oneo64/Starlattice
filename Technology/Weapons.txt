@@ -3,10 +3,10 @@
 
 
 Energy Rifle
-	Type:            Energy rifle
-	Length:          About 60 cm long
-	Projectile:      Bolt of energy, 300 m/s
-	On impact:       The bolts explode in a small shower of sparks, burning what ever it touches.
+	Type:       Energy rifle
+	Length:     About 60 cm long
+	Projectile: Bolt of energy, 300 m/s
+	On impact:  The bolts explode in a small shower of sparks, burning what ever it touches.
 	Effective Range: 500 m
 	Designs:
 		KAG Energy Rifle 114 (KAGER 114, uses mrokek)
@@ -18,10 +18,10 @@ Energy Rifle
 
 
 Concentrated Energy Rifle
-	Type: Energy Rifle
-	Length: About 100 cm long
+	Type:       Energy Rifle
+	Length:     About 100 cm long
 	Projectile: Thin beam of energy, 300 m/s
-	Effective Range:        50 m
+	Effective Range: 50 m
 	Designs:
 		KAG Stream Rifle Prototype 4
 
