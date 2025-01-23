@@ -9,30 +9,18 @@ Race:      Human
 
 
 [[DESCRIPTION AND ABILITIES]]
-Aekaf is a human born on the planet Kagalar. He has brown eyes, fair skin, and his hair is short and blond.	He wears a silvery-gray power armor that he built himself, which resembles an armored and less clunkier astronaut suit.
+Aekaf is a human born on the planet Kagalar. He has brown eyes, fair skin, and his hair is short and blond.
 
-The armor part of the power armor is made of armanite, a metal commonly used for the hull of spacecraft (especially warships). The visor of Aekaf's power armor consists of two layers. The outer layer made of tempered glass, tinted to prevent bright sunlight. The inner layer is made of laminated glass, just in case the outer layer shatters. The power armor can be turned on and off at any time.
-
-The power armor opens on the front once it's shut off, and closes when it is turned on, allowing Aekaf to step in and out at any time. Once it's shut and activated, it is completely airtight and bio-sealed, except when the visor is opened.
+He wears a silvery-gray exploration power armor that he built himself. The armor is made with fresarmanite, a metal commonly used for the hull of spacecraft (especially military warships). The armor is also lined with a thin 0.5 cm layer of lead.
 
 The modules this power armor contains are:
-	Power:         Portable crystal reactor
-	Defensive:     Point laser defense, wrist mounted crystal-core guns
-	Scanning:      Spotlight mounted on helmet, nightvision camera, heatvision camera, material scanner
-	Movement:      Striding exoskeletons, hand-based burst thrusters
-	Communication: Long-range radio, a speaker and microphone
+	Power:         Portable Crystal Reactor
+	Defensive:     Point Laser Defense, Wrist-Mounted Crystal Core Guns
+	Scanning:      Spotlight (on helmet), Nightvision Camera, Heatvision Camera, Material Scanner (on hand)
+	Movement:      Striding Exoskeletons, Hand-Based Burst Thrusters
+	Communication: Long-Range Radio, Speaker and Microphone
 
-The inside of the power armor has a ventilation system, and a backup oxygen tank that can sustain 8 minutes of breath.
-
-The striding exoskeletons are on the legs, which amplify the speed Aekaf can run, from 7 m/s to 12 m/s. The hand-based burst thrusters are an extremely weak version of a warship engine, capable of only releasing a quick burst of energy before heating up. Aekaf can use these hand-based burst thrusters to propel himself a meter in any direction.
-
-The wrist mounted crystal-core guns can fire a burst of three at a time, which each projectile is a thin bright blue bolt of supercompressed plasma. The suit also has 4 point laser defenses, two on the front and back of the torso. The lasers can reach up to 10 meters, and they use a color-based targeting system. Because of this, if the targeting system is set to "red", it may attack anyone that is wearing a certain amount of red. However, it may mistake a red flag, or a red flower pot for an enemy and attack it instead.
-
-The nightvision, heatvision cameras, and the material scanner are mounted just above the helmet, and they streamline data into small screens inside the helmet. The materal scanner however acts as a scanning device as it's name suggests. When the scan is complete, a list of the top 5 elements found are returned, including their periodic symbol, state of matter, and whether they are isotopes, ions, or none of these.
-
-The speaker and microphone allows clear communication outside the power armor.
-
-Each module installed can be turned on and off, from switches on the back of his forearms.
+The suit has 4 point laser defenses, two on the front and back of the torso.
 
 Aekaf is a member of SMRK, Saetar Morston Rolskiya Khnorotal (Exotic Planet Exploring Corporation).
 
