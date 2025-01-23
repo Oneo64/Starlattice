@@ -44,7 +44,7 @@ Crystal Core Reactor
 
 
 Wormhole Transport Module
-	Uses a magical crystal to create wormholes. The wormhole The wormhole transports everything it enters into a specific location very fast. Between planets take 2 to 5 minutes, and between star systems take 2 to 5 hours. Once nothing has entered it for the past 3 seconds, it closes. It can move ships and other things that enter up to 500 AU/s, between planets 0.003 AU/s is usually used for precision reasons. The actual traveling speed in the wormhole is about 2000 m/s.
+	Uses a magical crystal to create wormholes. The wormhole The wormhole transports everything it enters into a specific location very fast. Between planets take around 30 seconds, and between star systems take 30 minutes to an hour (extremely far away star systems can take 6+ hours). Once nothing has entered it for the past 3 seconds, it closes. It can move ships and other things that enter up to 2000 AU/s, between planets 0.006 AU/s is usually used for precision reasons. The actual traveling speed in the wormhole is about 2000 m/s.
 			
 	It appears like a giant gray smoky ring, big enough to fit the ship that used it. Green lightning rapidly connects random points of the ring, creating flashes of green.
 
