@@ -117,10 +117,12 @@ Spacefighter
 
 
 Armored Cannon Car
-	Type:                  Armored Car
-	Size:                  12 x 18 meters
+	Type:         Armored Car
+	Size:         12 x 18 meters
+	Max Speed:    25 m/s
+	Cruising SPD: 20 m/s
 	Transportation Method: 4 wheels on both sides
-	Weapons: 1 cannon
+	Weapons: 1 cannon, 1 high-speed repeater
 	Crew required to operate:
 		1 cannon operator
 		1 steering guy
@@ -132,13 +134,16 @@ Armored Cannon Car
 
 
 Armored Transportation Car
-	Type:                  Armored Car
-	Size:                  5 x 8 meters
-	Transportation Method: 2 wheels on both sides
+	Type:         Armored Car
+	Size:         5 x 8 meters
+	Max Speed:    35 m/s
+	Cruising SPD: 20 m/s
+	Max Capacity: 40 troops
+	Transportation Method: 3 wheels on both sides
 	Weapons: 1 high-speed repeater
 	Crew required to operate:
 		1 high-speed repeater operator
-		1 steering guy
+		1 driver
 		1 spotter (usually 4, kind of like sniper spotters but inside of tanks)
 
 	Builds:
