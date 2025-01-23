@@ -39,5 +39,8 @@ Infantry:
 	Forest:       Dark green combat helmet, dark green balaclava, dark green coat, black utility belt, and a pair of black boots.
 	Snow/Default: White combat helmet, white balaclava, white coat, black utility belt, and a pair of black boots.
 	Infantry Equipment: KAG Energy Rifle 114, battery recharger, basic radio.
+	Armor:        A simple kevlar vest that covers the whole front and back torso.
 
-High Rank:        A black surcoat with a nameplate placed at the middle, black utility belt, dark grey long-sleeved shirt, dark grey pants, and a pair of black boots.
+High Rank:
+	Normal Uniform: A military grade power armor with the default modules. Other modules can be added, but there must be no point laser defenses.
+	Formal Uniform: A black surcoat with a nameplate placed at the middle, black utility belt, dark grey long-sleeved shirt, dark grey pants, and a pair of black boots. A kevlar jacket is also worn under the shirt, which covers the torso, thighs, and upper arms.
