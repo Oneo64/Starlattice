@@ -13,7 +13,7 @@ Aekaf is a human born on the planet Kagalar. He has brown eyes, fair skin, and h
 
 He wears a silvery-gray exploration power armor that he built himself. He managed to fit fifteen modules onto the armor, despite the documented maximum being twelve. The armor is made of fresarmanite, a metal commonly used for the hull of spacecraft (especially military warships).
 
-The modules this power armor contains are:
+Modules in Aekaf's power armor:
 	Power:         Portable Crystal Reactor
 	Defensive:     Point Laser Defense, Wrist-Mounted Crystal Core Guns, Landing Protection Thrusters
 	Scanning:      Spotlight (on helmet), Rangesight Camera (on helmet), Nightvision Camera, Heatvision Camera, Material Scanner (on hand)
