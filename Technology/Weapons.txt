@@ -140,7 +140,7 @@ Crystal Warhead
 
 
 
-All-Purpose Missile Launcher Missile
+All-Purpose Missile Launcher Missile (APMLM)
 	Type:    Computed Missile
 	Warhead: Crystal Warhead
 	Radius:  30 cm
