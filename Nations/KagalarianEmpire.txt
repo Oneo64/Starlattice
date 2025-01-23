@@ -35,12 +35,18 @@ A space fleet usually consists of one battleship, flanked by 4 capital ships, ea
 
 
 [[UNIFORMS]]
-Infantry:
-	Forest:       Dark green combat helmet, dark green balaclava, dark green coat, black utility belt, and a pair of black boots.
-	Snow/Default: White combat helmet, white balaclava, white coat, black utility belt, and a pair of black boots.
-	Infantry Equipment: KAG Energy Rifle 114, battery recharger, basic radio.
-	Armor:        A simple kevlar vest that covers the whole front and back torso.
+Infantry and Captains:
+	Forest:             Dark green combat helmet, dark green balaclava, dark green coat, black utility belt, and a pair of black boots.
+	Snow/Default:       White combat helmet, white balaclava, white coat, black utility belt, and a pair of black boots.
+	Infantry Equipment: KAG Energy Rifle 114, battery recharger, handheld radio.
+	Armor:              A simple kevlar vest that covers the whole front and back torso.
 
-High Rank:
-	Normal Uniform: A military grade power armor with the default modules. Other modules can be added, but there must be no point laser defenses.
-	Formal Uniform: A black surcoat with a nameplate placed at the middle, black utility belt, dark grey long-sleeved shirt, dark grey pants, and a pair of black boots. A kevlar jacket is also worn under the shirt, which covers the torso, thighs, and upper arms.
+Guards:
+	Uniform:            A black surcoat with a nameplate placed at the middle, black utility belt, dark grey long-sleeved shirt, dark grey pants, and a pair of black boots.
+	Infantry Equipment: KAG Energy Rifle 114, battery recharger, handheld radio.
+	Armor:              A kevlar jacket is also worn under the shirt, which covers the torso, thighs, and upper arms.
+
+The Emperor, high commanders, commanders: A military grade power armor with the default modules. Other modules can be added, but there must be no point laser defenses.
+Repairmen, cooks, other operators:        A black surcoat with a nameplate placed at the middle, black utility belt, dark grey long-sleeved shirt, dark grey pants, and a pair of black boots. They also carry a handheld radio on their belt.
+
+A formal uniform is worn by a high-ranked military personnel (the emperor, commanders, high commanders), when they are sent as a military representative or sent to a meeting in another nation, faction, or power. This is done to appear as less threatening and as less intimidating as possible.
