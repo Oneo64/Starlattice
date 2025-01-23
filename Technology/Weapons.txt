@@ -3,11 +3,11 @@
 
 
 Energy Rifle
-	Type: Energy rifle
-	Length: About 60 cm long
-	Projectile: Bolt of energy, 300 m/s
-	On impact: The bolts explode in a small shower of sparks, burning what ever it touches.
-	Effective Range:        500 m
+	Type:            Energy rifle
+	Length:          About 60 cm long
+	Projectile:      Bolt of energy, 300 m/s
+	On impact:       The bolts explode in a small shower of sparks, burning what ever it touches.
+	Effective Range: 500 m
 	Designs:
 		KAG Energy Rifle 114 (KAGER 114, uses mrokek)
 		Queendom's Rifle 3 (uses phystine)
