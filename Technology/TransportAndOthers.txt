@@ -151,6 +151,19 @@ Armored Transportation Car
 
 
 
+Military Cargo Transportation Truck
+	Type:         Truck
+	Size:         6 x 20 meters
+	Max Speed:    35 m/s
+	Cruising SPD: 20 m/s
+	Transportation Method: 2 wheels on the driver's area, 6 wheels on each side of the trailer
+	Design: The trailer of the truck is built with fresarmanite, and is also insulated. This is to prevent heat and electricity from setting off crystal weaponry and explosives.
+
+	Builds:
+		Gaerst Vakaj M132 (Made by Gaerst Vehicle Construction Company)
+
+
+
 KAG Yeltol Khamojan Avtit Durst Rovegik (Kag Yakader)
 	Type: Super battle robot
 	Weapons: 4 High-Speed Repeaters
