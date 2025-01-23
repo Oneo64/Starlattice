@@ -118,7 +118,7 @@ Spacefighter
 
 Armored Cannon Car
 	Type:         Armored Car
-	Size:         12 x 18 meters
+	Size:         6 x 14 meters
 	Max Speed:    25 m/s
 	Cruising SPD: 20 m/s
 	Transportation Method: 4 wheels on both sides
@@ -153,9 +153,10 @@ Armored Transportation Car
 
 Military Cargo Transportation Truck
 	Type:         Truck
-	Size:         6 x 20 meters
+	Size:         6 x 22 meters
 	Max Speed:    35 m/s
 	Cruising SPD: 20 m/s
+	Cargo Caoacity: 65,000 kgs
 	Transportation Method: 2 wheels on the driver's area, 6 wheels on each side of the trailer
 	Design: The trailer of the truck is built with fresarmanite, and is also insulated. This is to prevent heat and electricity from setting off crystal weaponry and explosives.
 
