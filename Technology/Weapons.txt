@@ -90,11 +90,11 @@ Cannon
 
 
 
-All-Purpose Missile Turret
+All-Purpose Missile Launcher
 	Type:            Warship Turret
 	Rate of Fire:    2 seconds
-	Projectile:      Computed missiles
-	Sensory Range:   5,000 km
+	Projectile:      APMLMs
+	Detection Range: 7,000 km
 	
 	Designed to destroy big, slow, and tanky ships. Can also be used to destroy missiles, and other projectiles. These turrets are controlled by AI, which is connected to all other turrets, so the ship will always fire the most optimal missiles required. They can also be controlled manually via the control room.
 
