@@ -1,21 +1,31 @@
 Lukhan Rolov
 
 Male
-Age: 105 (born 1935, july 9, looks 21)
+Age: 27
 Alignment: Neutral
 Ethnicity: Kagalarian
-Race:      Aspected Human
+Race:      Human
 
 
 
 [[DESCRIPTION]]
-Lukhan is a tall Kagalarian man at 6'1", with short brown hair, blue eyees, and fair skin. He has three energy rifle burn marks on his chest, another one on his right arm and left thigh, and a scar on his back from an explosion.
+Lukhan is a tall Kagalarian man at 6'1", with short brown hair, blue eyees, and fair skin. He has five energy rifle burn marks on his chest, four on his back, one on his right arm, another one on his left thigh, and a scar on his back from a plasma explosion.
 
-He wears a formal Kagalarian military uniform which consists of a blue surcoat, with a white metal nameplate in the middle chest area that says "Markovo Lukhan Rolov". He wears a black belt over the surcoat holding it in place. Under his uniform, he has an orange shirt, dark blue pants, and a pair of black boots. He carries a handheld radio and a small energy pistol as backup on his belt.
+Casually, Lukhan wears a brown trench coat, black inner shirt, black pants, and a pair of black boots.
 
-Lukhan was born in Haravikred, Kregsorin Continent, Kagalar.
+Formally, Lukhan wears his military grade power armor for commander ranks. He also has a set of the formal Kagalarian military uniform.
 
-He is a military commander in the Ovgot Party. He also works as one of the wormhole operators on one of Kagalar's battleships, specifically an Anor Vindaror 9 battleship.
+Lukhan was born in Horindun, Kregsorin Continent, Kagalar.
+
+He is a military commander and operates the wormhole system on High Commander Garinor’s battleship. He is also a security overseer on his commander's battleship.
+
+Modules in Lukhan’s power armor:
+        Power:         Portable Crystal Reactor
+        Defensive:     Wrist-Mounted Crystal Core Guns, Blast Protection Module
+        Scanning:      Nightvision Camera, Rangesight Camera
+        Movement:      Striding Exoskeletons, Jumping Thrusters
+        Environmental: Heat Regulation System
+        Communication: Handheld Radio, Speaker and Microphone
 
 
 
@@ -29,17 +39,15 @@ He likes to eat steak.
 
 
 [[ABILITIES]]
-Lukhan is proficient in Dagsar, a martial art practiced by Kagalarian people. He can fly at 30 m/s (about the max speed of a highway). He also has telekinesis, and can lift things 200 kilograms (about the weight of a motorcycle).
-
-Lukhan is able to detect magic by closing his eyes and extending his hand to the object or area he wants to detect from.
+Lukhan is proficient in Dagsar, a martial art practiced by Kagalarian people. He also received the standard infantry training in the army.
 
 His native language is Kagalarian, and he knows how to speak English.
 
 
 
 [[LORE]]
-Lukhan grew up in the village Haravikred. He was born in a warrior's family, and went to a warrior's school. But he dropped out, and ended up going to a mage's school. From there, he learned magic. One day, he decides to go have a look in an ancient ruin, and meets Forgo there. They become friends. After that, Lukhan joins the military.
+Lukhan joined the military at 19 years old.
 
 In a battle against the Seenians, he was shot three times, but he survived. Later, in another battle, he was shot again, twice on his chest, and four times on his back. Suprisingly, he also survived. One time, he defended a military camp by himself, killing about 20 seenians in total.
 
-He was promoted to Leader. Later, he started to get quite powerful. The High Commander saw Lukhan getting strong, so he made Lukhan a commander, and invited him into the Ovgot.
+He was promoted to Captain. A few years later at 25 years old, Lukhan caught a Seenian spy in Horindun City during his visit to his family. He captured the spy, then took her to the nearest military base blindfolded, tied, and knocked out cold. After this, High Commander Garinor made Lukhan a commander, and assigned him wormhole operator and battleship security overseer.
