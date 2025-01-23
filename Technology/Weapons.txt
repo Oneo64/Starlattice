@@ -7,6 +7,7 @@ Energy Rifle
 	Length: About 60 cm long
 	Projectile: Bolt of energy, 300 m/s
 	On impact: The bolts explode in a small shower of sparks, burning what ever it touches.
+	Effective Range:        500 m
 	Designs:
 		KAG Energy Rifle 114 (KAGER 114, uses mrokek)
 		Queendom's Rifle 3 (uses phystine)
@@ -20,6 +21,7 @@ Concentrated Energy Rifle
 	Type: Energy Rifle
 	Length: About 100 cm long
 	Projectile: Thin beam of energy, 300 m/s
+	Effective Range:        50 m
 	Designs:
 		KAG Stream Rifle Prototype 4
 
@@ -28,8 +30,8 @@ Concentrated Energy Rifle
 
 
 Energy Grenade
-	Type: Energy grenade
-	Kill radius: 3 meters
+	Type:         Energy grenade
+	Kill radius:  3 meters
 	Blast radius: 7 meters
 
 	The grenade's shell is made of arsenium. After 5 seconds of the pin being pulled, the grenade surges the mrokek core with a ridiculous amount of electricity, making it release a lot of explosive energy. The explosive energy cannot escape anywhere, and burst open the grenade.
@@ -49,6 +51,7 @@ High-Speed Repeater
 	Rate of Fire:           0.05 seconds
 	Projectile:             Bolt of energy, 300 m/s
 	Destruction Equivalent: A heavy machine gun
+	Effective Range:        1 km
 	
 	Designed to mow down crowds of enemies.
 
@@ -59,6 +62,7 @@ Anti-Spacefighter Repeater
 	Rate of Fire:           0.1 seconds
 	Projectile:             Bolt of energy, 500 m/s
 	Destruction Equivalent: A grenade
+	Effective Range:        5 km
 	
 	Designed to destroy spacefighters.
 
@@ -69,6 +73,7 @@ Spacefighter Cannon
 	Rate of Fire:           0.2 seconds
 	Projectile:             Bolt of energy, 300 m/s, 500 m/s when shot from spacefighter whilst flying
 	Destruction Equivalent: A grenade
+	Effective Range:        5 km
 	
 	An all-purpose weapon.
 
@@ -79,24 +84,27 @@ Cannon
 	Rate of fire:           1 seconds
 	Projectile:             Bolt of energy, 400 m/s
 	Destruction Equivalent: A landmine
+	Effective Range:        30 km
 	
 	An all-purpose weapon.
 
 
 
 All-Purpose Missile Turret
-	Type:         Warship Turret
-	Rate of Fire: 2 seconds
-	Projectile:   Computed missiles
+	Type:            Warship Turret
+	Rate of Fire:    2 seconds
+	Projectile:      Computed missiles
+	Sensory Range:   5,000 km
 	
 	Designed to destroy big, slow, and tanky ships. Can also be used to destroy missiles, and other projectiles. These turrets are controlled by AI, which is connected to all other turrets, so the ship will always fire the most optimal missiles required. They can also be controlled manually via the control room.
 
 
 
 Long-Range Laser Projector
-	Type:         Warship Turret
-	Rate of Fire: Continuous
-	Projectile:   A beam of intensely concentrated light. The color of these weapons are always white, and does not use a crystal core.
+	Type:            Warship Turret
+	Rate of Fire:    Continuous
+	Projectile:      A beam of intensely concentrated light. The color of these weapons are always white, and does not use a crystal core.
+	Effective Range: 200 km
 	
 	Designed to attack ships with shield generators
 
@@ -118,24 +126,26 @@ Ground Turret
 
 
 Computed Missile
-	Type:                   Crystal Missile
+	Type:            Crystal Missile
+	Effective Range: 10,000
 	
-	The missile follows a pre computed path, and explodes once it reaches the end of the path. The missile will also explode if the warhead physically hits anything.
+	The missile follows a pre-computed path, and explodes once it reaches the end of the path. The missile will also explode if the warhead physically hits anything.
 
 
 
 Crystal Warhead
-	Type:     Warhead
+	Type: Warhead
 
 	The warhead is tipped with an unstable crystal. When this crystal is struck, it releases a high amount of explosive energy. The crystal on the tip of the warhead is actually connected to a larger piece in the middle of the missile, which is enclosed with a hard metal. Because the unstable crystal released a lot of energy, this energy is contained inside the missile. The missile cannot contain this much energy, so the missile explodes.
 
 
 
-Crystal Missile
-	Type:                   Missile
-	Radius:                 20 cm
-	Length:                 2 meters
-	Speed:                  1000 m/s
+All-Purpose Missile Launcher Missile
+	Type:    Computed Missile
+	Warhead: Crystal Warhead
+	Radius:  30 cm
+	Length:  5 meters
+	Speed:   600 m/s
 	Destruction Equivalent: 50 kilograms of tnt
 	
 	Uses a crystal warhead, propelled by a crystal rocket engine.
