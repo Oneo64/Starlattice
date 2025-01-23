@@ -20,12 +20,12 @@ Lukhan was born in Horindun, Kregsorin Continent, Kagalar.
 He is a military commander and operates the wormhole system on High Commander Garinor’s battleship. He is also a security overseer on his commander's battleship.
 
 Modules in Lukhan’s power armor:
-        Power:         Portable Crystal Reactor
-        Defensive:     Wrist-Mounted Crystal Core Guns, Blast Protection Module
-        Scanning:      Nightvision Camera, Rangesight Camera
-        Movement:      Striding Exoskeletons, Jumping Thrusters
-        Environmental: Heat Regulation System
-        Communication: Handheld Radio, Speaker and Microphone
+	Power:         Portable Crystal Reactor
+	Defensive:     Wrist-Mounted Crystal Core Guns, Blast Protection Module
+	Scanning:      Nightvision Camera, Rangesight Camera
+	Movement:      Striding Exoskeletons, Jumping Thrusters
+	Environmental: Heat Regulation System
+	Communication: Handheld Radio, Speaker and Microphone
 
 
 
