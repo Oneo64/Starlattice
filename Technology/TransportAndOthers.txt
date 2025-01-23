@@ -4,7 +4,7 @@
 
 Battleship
 	Type:          Warship
-	Dimensions:    (Length Width Height) 1200 x 150 x 150 meters
+	Dimensions:    (Length Width Height) 1400 x 220 x 220 meters
 	Shape:         Hexagonal Prism
 	Max Speed:     120 m/s
 	Agility:       20 degrees per second
