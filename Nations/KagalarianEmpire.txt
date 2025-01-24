@@ -46,6 +46,11 @@ Guards:
 	Infantry Equipment: KAG Energy Rifle 114, battery recharger, handheld radio.
 	Armor:              A kevlar jacket is also worn under the shirt, which covers the torso, thighs, and upper arms.
 
+Secret Intelligence Agents:
+	Uniform:            A blue surcoat with a nameplate placed at the middle, black utility belt, dark grey long-sleeved shirt, dark grey pants, and a pair of black boots.
+	Infantry Equipment: Energy pistol, battery recharger, handheld radio.
+	Armor:              A kevlar jacket is also worn under the shirt, which covers the torso, thighs, and upper arms.
+
 The Emperor, high commanders, commanders: A military grade power armor with the default modules. Other modules can be added, but there must be no point laser defenses.
 Repairmen, cooks, other operators:        A black surcoat with a nameplate placed at the middle, black utility belt, dark grey long-sleeved shirt, dark grey pants, and a pair of black boots. They also carry a handheld radio on their belt.
 

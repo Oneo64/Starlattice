@@ -4,7 +4,7 @@ Female
 Age: 25
 Alignment: Neutral Good
 Ethnicity: Kagalarian
-Race:      Aspected Human
+Race:      Human
 
 
 
@@ -12,6 +12,8 @@ Race:      Aspected Human
 Azaliya is a curvaceous woman in her mid-twenties. She has shoulder-length straight blonde hair, fair skin, and upturned grey eyes. She has a thin nose and a sharp chin. She is 5'6" tall.
 
 She usually wears a red blouse, black cargo pants, and black boots. She also wears a black leather baldric that holds a KAG Energy Rifle 114 on her back, and another belt on her waist to secure the barrel to her back.
+
+Azaliya is a vigilante.
 
 
 
@@ -21,4 +23,4 @@ Azaliya is usually described as a kind and polite person to other people, especi
 
 
 [[ABILITIES]]
-Azaliya can speak Kagalarian as her native language, and English for her second language.
+Azaliya can speak Kagalarian as her native language. She also has some skill in hijacking and parkour.

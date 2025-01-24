@@ -1,48 +1,26 @@
-!OUTDATED!
-
 Vervir Dralor
+
 Male
-Age: 263
-Race: Aspected Kagalarian Human
+Age: 53
 Alignment: Lawful Neutral
-Appearance:
-	Green eyes
-	Fair/light cool skin
-	Light blond hair
+Ethnicity: Kagalarian
+Race:      Human
 
-Apparel:
-	Simple black tunic
-	Simple gray tunic
-	Black boots
 
-Personality:
-	Traits:
-		POSITIVE:
-			1. Good-Hearted
-			2. Hardworking
-			3. Loyal
-			4. Wise
 
-		NEGATIVE:
-			1. Distrusting
-			2. Doesn't like socializing
-			3. Sometimes gets cocky
-		
-		Optimistic (perspective on the future)
+[[DESCRIPTION]]
+Vervir is a man in the Kagalarian Secret Intelligence Agency. He has green eyes, light blond hair, and fair skin.
 
-Powers:
-	Flight
-	Propellus
+He usually wears the KSIA uniform.
 
-Skills:
-	Strength: 	    12
-	Dexerity:       15
-	Constitution: 	15
-	Intelligence: 	10
-	Wisdom: 	    13
-	Charisma: 	    8
 
-	Expert at Kagalarian martial arts (Dagsar)
 
-Languages:
-	Kagalarian
+[[PERSONALITY]]
+Vervir is described as a loyal and wise man. However he has a distrusting nature of other people, and sometimes he can get cocky.
+
+
+
+[[ABILITIES]]
+Vervir is an expert at Kagalarian martial arts (Dagsar), and he also speaks Kagalarian as his native language.
+
+He also has some degree of stealth and vehicle hijacking skills.
