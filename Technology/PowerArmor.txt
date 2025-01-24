@@ -1,11 +1,19 @@
 [[POWER ARMOR]]
 A suit of power armor resembles an armored and less clunkier astronaut suit.
 
-The armor part of the power armor is made of stainless-steel. The visor of this power armor consists of two layers. The outer layer made of tempered glass, tinted to prevent bright sunlight. The inner layer is made of laminated glass, just in case the outer layer shatters. The power armor can be turned on and off at any time.
+The power armor's main armor part is a 1 cm thick titanium alloy (Ti-6Al-4V). The visor of this power armor consists of two layers. The outer layer made of tempered glass, tinted to prevent bright sunlight. The inner layer is made of laminated glass, just in case the outer layer shatters. The power armor can be turned on and off at any time.
 
 The power armor opens on the front once it's shut off, and closes when it is turned on, allowing the wearer to step in and out at any time. Once it's shut and activated, it is completely airtight and bio-sealed, except when the visor is opened.
 
 The inside of the power armor has a ventilation system, and a backup oxygen tank that can sustain 8 minutes of breath.
+
+Default modules in this power armor contains:
+	Power:         Portable Crystal Reactor
+	Defensive:     None
+	Scanning:      None
+	Movement:      None
+	Environmental: Heat Regulation System
+	Communication: Speaker and Microphone
 
 
 
@@ -23,7 +31,9 @@ Default modules in this power armor contains:
 
 
 [[EXPLORATION POWER ARMOR]]
-A suit of exploration power armor is a variant of power armor designed to protect the wearer from all sorts of environmental hazards and monstrous threats. It can carry at most 12 modules. It is lined with a thin 0.5 cm layer of lead to protect the wearer from radiation.
+A suit of exploration power armor is a variant of power armor designed to protect the wearer from all sorts of environmental hazards and monstrous threats. It can carry at most 12 modules. There is a thin 0.5 cm layer of lead built inside to protect the wearer from radiation.
+
+This variant can support 20 minutes of breath.
 
 Default modules in this power armor contains:
 	Power:         Portable Crystal Reactor
