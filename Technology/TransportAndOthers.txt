@@ -4,7 +4,7 @@
 
 Battleship
 	Type:          Warship
-	Dimensions:    (Length Width Height) 1200 x 150 x 150 meters
+	Dimensions:    (Length Width Height) 1400 x 220 x 220 meters
 	Shape:         Hexagonal Prism
 	Max Speed:     120 m/s
 	Agility:       20 degrees per second
@@ -13,15 +13,16 @@ Battleship
 	Capacity:      100 spacefighters, 5 destroyers, 24,000 men, 10,000,000 kg of goods
 	Crew required to operate:
 		20 commanders/ship dashboard operators
-		400 guards
-		64 anti-spacefighter operators
-		48 cannon operators
-		40 janitors
-		120 cooks
-		50 repairmen
+		500 guards
+		24 anti-spacefighter operators
+		32 cannon operators
+		80 janitors
+		160 cooks
+		80 maintenance
+		80 repairmen
 		20 cctv watchers
 
-		Total: about 800 people
+		Total: about 1000 people
 
 	Current Builds:
 		Anora Vindaror M8 (Made by Anora Spacecraft Manufacturing, used by Kagalarian Empire)
@@ -30,8 +31,8 @@ Battleship
 
 Destroyer
 	Type:          Warship
-	Dimensions:    (Length Width Height) 100 x 30 x 30 meters
-	Shape:         Hexagonal Prism
+	Dimensions:    (Length Width Height) 100 x 35 x 15 meters
+	Shape:         Spear-Shaped
 	Max Speed:     120 m/
 	Agility:       20 degrees per second
 	Usual Weapons: 16 anti-spacefighter repeaters, 8 cannons
@@ -39,14 +40,15 @@ Destroyer
 	Capacity:      5 spacefighters, 100,000 kg of goods
 	Crew required to operate:
 		4 commanders
-		20 guards
-		10 anti-spacefighter operators
-		4 cannon operators
-		4 janitors
+		30 guards
+		16 anti-spacefighter operators
+		16 cannon operators
+		5 janitors
+		5 maintenance
 		5 repairmen
 		1 cctv watcher
 
-		Total: about 50 people
+		Total: about 80 people
 
 	Current Builds:
 		Anora Lorstformikiy M422 (Made by Anora Spacecraft Manufacturing, used by Kagalarian Empire)
@@ -63,14 +65,15 @@ Carrier
 	Capacity:      200 spacefighters, 5,000,000 kg of goods
 	Function:      Carry small spacecraft and transport goods
 	Crew required to operate:
-		4 commanders
-		50 guards
-		20 anti-spacefighter operators
+		8 commanders
+		100 guards
+		12 anti-spacefighter operators
 		10 janitors
+		10 maintenance
 		10 repairmen
-		4 cctv watcher
+		4 cctv watchers
 
-		Total: about 100 people
+		Total: about 150 people
 
 	Current Builds:
 		Anora Moljorholt M94 (Made by Anora Spacecraft Manufacturing, used by Kagalarian Empire)
@@ -89,6 +92,7 @@ Traveler
 		3 commanders
 		1 janitor
 		2 cooks
+		2 maintenance & repairers
 		4 high-speed repeater operators
 
 
@@ -100,7 +104,7 @@ Spacefighter
 	Agility:       90 degrees per second
 	Usual Weapons: 2 spacefighter cannons
 	Current Builds:
-		Anor Vindaror 8 (Made by Anor Spacecraft Manufacturing, used by Kagalarian Empire)
+		Anora Vlatiyra M224 (Made by Anora Spacecraft Manufacturing, used by Kagalarian Empire)
 
 
 
@@ -113,32 +117,51 @@ Spacefighter
 
 
 Armored Cannon Car
-	Type:                  Armored Car
-	Size:                  12 x 18 meters
+	Type:         Armored Car
+	Size:         6 x 14 meters
+	Max Speed:    25 m/s
+	Cruising SPD: 20 m/s
 	Transportation Method: 4 wheels on both sides
-	Weapons: 1 cannon
+	Weapons: 1 cannon, 1 high-speed repeater
 	Crew required to operate:
 		1 cannon operator
 		1 steering guy
 		1 spotter (usually 4, kind of like sniper spotters but inside of tanks)
 
 	Builds:
-		Gaerst Vakaj 132 (Made by Gaerst Vehicle Construction Company)
+		Gaerst Vakaj M132 (Made by Gaerst Vehicle Construction Company)
 
 
 
 Armored Transportation Car
-	Type:                  Armored Car
-	Size:                  5 x 8 meters
-	Transportation Method: 2 wheels on both sides
+	Type:         Armored Car
+	Size:         5 x 8 meters
+	Max Speed:    35 m/s
+	Cruising SPD: 20 m/s
+	Max Capacity: 40 troops
+	Transportation Method: 3 wheels on both sides
 	Weapons: 1 high-speed repeater
 	Crew required to operate:
 		1 high-speed repeater operator
-		1 steering guy
+		1 driver
 		1 spotter (usually 4, kind of like sniper spotters but inside of tanks)
 
 	Builds:
-		Gaerst Akraeriy Raekar 132 (Made by Gaerst Vehicle Construction Company)
+		Gaerst Akraeriy Raekar M132 (Made by Gaerst Vehicle Construction Company)
+
+
+
+Military Cargo Transportation Truck
+	Type:         Truck
+	Size:         6 x 22 meters
+	Max Speed:    35 m/s
+	Cruising SPD: 20 m/s
+	Cargo Caoacity: 65,000 kgs
+	Transportation Method: 2 wheels on the driver's area, 6 wheels on each side of the trailer
+	Design: The trailer of the truck is built with fresarmanite, and is also insulated. This is to prevent heat and electricity from setting off crystal weaponry and explosives.
+
+	Builds:
+		Gaerst Vakaj M132 (Made by Gaerst Vehicle Construction Company)
 
 
 
