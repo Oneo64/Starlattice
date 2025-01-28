@@ -2,7 +2,7 @@ Kagalarian Empire (KA):
 	Star system KAA:
 		Kagalar (base)
 		Kragalos
-		Kagalus
+		Lokaramarkus
 		Ramalosedot (Captured and is currently controlled by Seenian Empire)
 
 	Star System KAB:
@@ -16,6 +16,7 @@ Kagalarian Empire (KA):
 		Sorkarvil
 		Nakarskan
 		Molmglar
+		Jendoromir
 
 
 
