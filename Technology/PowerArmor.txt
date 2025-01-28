@@ -5,7 +5,7 @@ The power armor's main armor part is a 1 cm thick titanium alloy (Ti-6Al-4V). Th
 
 The power armor opens on the front once it's shut off, and closes when it is turned on, allowing the wearer to step in and out at any time. Once it's shut and activated, it is completely airtight and bio-sealed, except when the visor is opened.
 
-The inside of the power armor has a ventilation system, and a backup oxygen tank that can sustain 8 minutes of breath.
+The inside of the power armor has a ventilation system, and a backup oxygen tank that can sustain 8 minutes of breath. The power armor also increases it's wearer's lifting strength by about 33%.
 
 Default modules in this power armor contains:
 	Power:         Portable Crystal Reactor
@@ -111,7 +111,7 @@ Speaker and Microphone
 
 
 Striding Exoskeletons
-	This module are built on the back of the legs, which amplify the speed the user can run from 7 m/s to 12 m/s.
+	This module are built on the back of the legs, which amplify the speed the user can run from 7 m/s to 14 m/s.
 
 
 
