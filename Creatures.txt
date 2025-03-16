@@ -1,13 +1,11 @@
 TODO:
-	Volstones  (golems that are a medium floating rock, with a glowing red "eye", shoots red lightning)
-	Dakasti    (smart zombies)
 	Elementals (self explainatory)
-	Nanopus    (small starfish like monster with nine arms, and a human eye in the center)
-	Sorkul     (A large black hairless dog with it's head replaced by a mouth, and it's sharp teeth going horizontally instead of vertically)
 
-===========================================================================================================================================================
+
+
+====================================================================================================
 RACES OF MEN/HUMANOIDS
-===========================================================================================================================================================
+====================================================================================================
 
 Enchantoms:
 	Enchantoms are a race of men who are descendants of a family enchanted to be beautiful by the wizard Alomar Torin. They originated from Ramalosedot, and they are mostly found on planets controlled by Kagalar, Seenia, and Naulien.
@@ -28,9 +26,9 @@ Marfrenic:
 
 
 
-===========================================================================================================================================================
+====================================================================================================
 CONSTRUCTS
-===========================================================================================================================================================
+====================================================================================================
 
 Volstone:
 	Volstones are a type of golem created. It requires a rock about a meter in diameter, and a piece of anglothite.
@@ -54,9 +52,51 @@ Dakasti:
 
 
 
-===========================================================================================================================================================
+====================================================================================================
 MONSTERS
-===========================================================================================================================================================
+====================================================================================================
+
+
+Acid Mouth:
+	Acid Mouths are alienous creatures.
+
+	Appearance:
+		An acid mouth is a human-sized monster that appears to be wearing a torn white oversized cloak with no opening at the front. It's head is a slightly elongated sphere with an opening at it's front.
+
+	Abilities:
+		An acid mouth can spit green acid from it's mouth up to twenty meters.
+
+
+
+Centipede Thing:
+	Centipede Things are alienous creatures.
+
+	Appearance:
+		A centipede thing is a large centipede-like bug that grows up to ten meters long. It has four antennae on both sides instead of two. Instead of mandibles, it has a mouth with many teeth like a human.
+
+	Abilities:
+		A centipede thing has no eyes, but it uses echolocation and has superb hearing. It makes a clacking sound with it's teeth to make the sound for echolocation. It also moves unpredictably just like a centipede would move.
+
+
+
+Giant Plankton:
+	Giant Plankton are alienous creatures that float mindlessly in water.
+
+	Appearance:
+		A giant plankton are tiny, bug-like creatures that live in water. They can grow up to a centimeter big.
+
+
+
+Millipede Thing:
+	Millipede Things are alienous creatures.
+
+	Appearance:
+		A millipede thing is a large millipede-like bug that grows up to five meters long, and it's shell is slightly blue. Instead of mandibles, it has a mouth with many teeth like a human.
+
+	Abilities:
+		A millipede thing has no eyes, but it uses echolocation and has superb hearing. It makes a clacking sound with it's teeth to make the sound for echolocation.
+
+
 
 Nanopus:
 	Nanopus are monsters that are mostly found on Kagalar and Ramalosedot. They usually kill by jumping onto the victim and trying to strangle them before eating. Their diet are mostly carnivorous and omnivorous animals, including races of men.
