@@ -31,7 +31,9 @@ Solar Energy Panels:
 
 
 Crystal Core Reactor
-	A sphere of crystal, about 3 meters in radius. This core is zapped by electricity, which produces energy. This energy is somehow converted into electricity. The reactor then takes a portion of the electricity, and reuses it to zap itself, producing MORE energy. The cycle repeats.
+	A sphere of crystal, about 3 meters in radius. This core is zapped by electricity, which produces plasma. This plasma is somehow converted into electricity. The reactor then takes a portion of the electricity, and reuses it to zap itself, producing MORE plasma. The cycle repeats.
+
+	Of course, there is also an automatic fail-safe system. When the amount of plasma inside the reactor reaches over a certain maximum, the reactor temporarily stops working until the plasma lowers to half the set maximum.
 
 
 
@@ -74,4 +76,4 @@ Mirror Armor Module
 
 
 Supercooling Module
-	Uses liquid nitrogen (only a little) to cool down armor, hopefully to negate the damage of energy bolts. Also creates a cold aura around the armor, weakening energy bolts.
+	Uses liquid nitrogen (only a little) to cool down armor, hopefully to negate the damage of plasma bolts. Also creates a cold aura around the armor, weakening plasma bolts.

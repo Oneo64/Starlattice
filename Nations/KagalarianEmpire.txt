@@ -41,22 +41,22 @@ Infantry and Captains:
 	Forest:				Dark green combat helmet, dark green balaclava, dark green coat, black utility belt, and a pair of black boots.
 	Snow:				White combat helmet, white balaclava, white coat, black utility belt, and a pair of black boots.
 	Default:			White combat helmet, white coat, black utility belt, and a pair of black boots.
-	Infantry Equipment: KAG Energy Rifle 114, battery recharger, handheld radio.
+	Infantry Equipment: KAG Plasmatic Rifle 114, battery recharger, handheld radio.
 	Armor:              A simple kevlar vest that covers the whole front and back torso.
 
 Guards:
 	Uniform:            A black surcoat with a nameplate placed at the middle, black utility belt, dark grey long-sleeved shirt, dark grey pants, and a pair of black boots.
-	Infantry Equipment: KAG Energy Rifle 114, battery recharger, handheld radio.
+	Infantry Equipment: KAG Plasmatic Rifle 114, battery recharger, handheld radio.
 	Armor:              A kevlar jacket is also worn under the shirt, which covers the torso, thighs, and upper arms.
 
 Secret Intelligence Agents:
 	Uniform:            A blue surcoat with a nameplate placed at the middle, black utility belt, dark grey long-sleeved shirt, dark grey pants, and a pair of black boots.
-	Infantry Equipment: Energy pistol, battery recharger, handheld radio.
+	Infantry Equipment: Plasmatic pistol, battery recharger, handheld radio.
 	Armor:              A kevlar jacket is also worn under the shirt, which covers the torso, thighs, and upper arms.
 
 Formal Uniform:
 	Uniform:            A black surcoat with a nameplate placed at the middle with red shoulder lines, black utility belt, dark grey long-sleeved shirt, dark grey pants, and a pair of black boots.
-	Infantry Equipment: Energy pistol, battery recharger, handheld radio.
+	Infantry Equipment: Plasmatic pistol, battery recharger, handheld radio.
 	Armor:              A kevlar jacket is also worn under the shirt, which covers the torso, thighs, and upper arms.
 
 The Emperor, high commanders, commanders: A military grade power armor painted black, with a blue Kagalarian Insignia on the front and back, with the default modules. Other modules can be added, but there must be no point laser defenses.
