@@ -1,0 +1,21 @@
+Kagalar
+
+Solar System: KAA (KAgalarian-A)
+
+
+
+[[CONTINENTS]]
+Kregsorin:
+	Kregsorin is the largest contenent, which is in the northern hemisphere. It is the only continent on Kagalar with more than one major city.
+
+Arokor:
+	Arokor is the second continent of Kagalar, located in the southern hemisphere and on the left side of the planet map. It's a relatively new continent for the Kagalarian Empire, so only a small handful of cities exist on this continent.
+
+Akrin:
+	Akrin is the island south of Arokor, a land of complete wilderness. It is already throughoutly explored, and now acts as a land for bombardment and weapons testing.
+
+Febelen:
+	Febelen is the the third continent, which is in the southern hemisphere and on the right of the planet map. This continent primarily acts as a manufacturing and resource gathering land.
+
+Eluniel:
+	Eluniel is the island located southwest of Febelen.
