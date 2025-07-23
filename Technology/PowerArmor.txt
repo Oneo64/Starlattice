@@ -61,7 +61,7 @@ Advanced Point Laser Defense
 Blast Protection Shields
 	Blast protection shields is a forcefield that forms on the surface of the power armor. It provides protection from all forms of physical and energy attacks.
 
-	The shielding can take a 20 AK-47 shots, 20 plasma blasts, or 10 high-speed repeater plasma blasts before it runs out of energy.
+	The shielding can take a 20 AK-47 shots, 20 plasma blasts, 10 high-speed repeater plasma blasts, or 1 (and a half) artillery explosions (mortar) before it runs out of energy.
 
 
 
