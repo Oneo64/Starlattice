@@ -7,9 +7,9 @@
 #### 1
  - Эвнэн почка, мй почка, шэм рй бй? *(distant gunshots are heard)*
  - Бй ва лом чобтия ва жоноск та лужайка?
- - Ожи невйскас плуматй скан Эйринбрй влйн утро, *(distant gunshots are heard)*
+ - Ожи невйскас плуматй скан Грэнасия влйн лян утро, *(distant gunshots are heard)*
  - Прос нолв скезат мелома на Ашунцарй тосй.
- - Ожи невйскас плуматй скан Цалячй влйн утро,
+ - Ожи невйскас плуматй скан Ялйндэл влйн лян утро,
  - Прос нолв скезат мелома на Ашунцарй тосй.
 
 #### 2
@@ -40,13 +40,13 @@
 #### 1
  - Hello dear, my darling, how are you?
  - Has the snow covered the road to lawn?
- - And stars falling over Eyrinbriy when morning,
- - Just don't tell mon I'm going to Ashunzaria.[^1]
- - And stars falling over Tsalyachiy when morning,
+ - And stars falling over Grenasia in the radiant morning,[^1]
+ - Just don't tell mon I'm going to Ashunzaria.[^2]
+ - And stars falling over Yaleendel in the radiant morning,
  - Just don't tell mon I'm going to Ashunzaria.
 
 #### 2
- - Last night a friend was killed by a Loloskiy[^2] missile,
+ - Last night a friend was killed by a Loloskiy[^3] missile,
  - A traveller flying home on a black tulip.
  - My friend Yevgeniy, I bet he'll make it back home,
  - Just don't tell mon I'm going to Ashunzaria.
@@ -56,9 +56,9 @@
 #### 3
  - In the evening, I'll wash the clothes, fuck this war,
  - It smells like sweat, the boys are sleeping, it was a hard fight.
- - Curse the war[^3], the bastard, crying and screaming,
+ - Curse the war[^4], the bastard, crying and screaming,
  - Just don't tell mon I'm going to Ashunzaria.
- - Curse the war[^3], the bastard, crying and screaming,
+ - Curse the war, the bastard, crying and screaming,
  - Just don't tell mon I'm going to Ashunzaria.
 
 #### 4
@@ -70,6 +70,7 @@
  - Just don't tell mom I'm at war.
 
 ## Notes
-[^1]: Ashunzaria is a city located on the Seenian controlled planet Wennarog.
-[^2]: Loloskiy is a degatory term for Seenians.
-[^3]: The war Klev is in is the war between Seenia and Kagalar. In this case, he's on a military mission to invade Ashunzaria.
+[^1]: Grenasia and Yaleendel are both cities on the way to Ashunzaria.
+[^2]: Ashunzaria is a city located on the Seenian controlled planet Wennarog.
+[^3]: Loloskiy is a degatory term for Seenians.
+[^4]: The war Klev is in is the war between Seenia and Kagalar. In this case, he's on a military mission to invade Ashunzaria.
