@@ -1,8 +1,8 @@
 # Azaliya Jovomaniy
 
 <table align=right><tbody>
-	<tr> <th colspan=2>Azaliya Jovomaniy </th> </tr>
-	<tr> <th colspan=2>Азалия Жовоманй </th> </tr>
+	<tr> <th colspan=2>Azaliya Jovomaniy</th> </tr>
+	<tr> <th colspan=2>Азалия Жовоманй</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
 	<tr> <td>Affiliation</td> <td>None</td> </tr>
 	<tr> <td>Occupation</td> <td>Vigilante</td> </tr>
@@ -16,7 +16,7 @@
 	<tr> <td>Gender</td> <td>Female</td> </tr>
 	<tr> <td>Height</td> <td>5'6"</td> </tr>
 	<tr> <td>Hair color</td> <td>Blonde</td> </tr>
-	<tr> <td>Eye color</td> <td>Grey blue</td> </tr>
+	<tr> <td>Eye color</td> <td>Grey</td> </tr>
 </tbody></table>
 
 Azaliya is a vigilante.
