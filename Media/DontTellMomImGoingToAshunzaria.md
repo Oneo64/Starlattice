@@ -41,25 +41,25 @@
  - Hello dear, my darling, how are you?
  - Has the snow covered the road to lawn?
  - And stars falling over Grenasia in the radiant morning,[^1]
- - Just don't tell mon I'm going to Ashunzaria.[^2]
+ - Just don't tell mom I'm going to Ashunzaria.[^2]
  - And stars falling over Yaleendel in the radiant morning,
- - Just don't tell mon I'm going to Ashunzaria.
+ - Just don't tell mom I'm going to Ashunzaria.
 
 #### 2
  - Last night a friend was killed by a Loloskiy[^3] missile,
  - A traveller flying home on a black tulip.
  - My friend Yevgeniy, I bet he'll make it back home,
- - Just don't tell mon I'm going to Ashunzaria.
+ - Just don't tell mom I'm going to Ashunzaria.
  - I'll bet with Yevgeniy he'll return,
- - Just don't tell mon I'm going to Ashunzaria.
+ - Just don't tell mom I'm going to Ashunzaria.
 
 #### 3
  - In the evening, I'll wash the clothes, fuck this war,
  - It smells like sweat, the boys are sleeping, it was a hard fight.
  - Curse the war[^4], the bastard, crying and screaming,
- - Just don't tell mon I'm going to Ashunzaria.
+ - Just don't tell mom I'm going to Ashunzaria.
  - Curse the war, the bastard, crying and screaming,
- - Just don't tell mon I'm going to Ashunzaria.
+ - Just don't tell mom I'm going to Ashunzaria.
 
 #### 4
  - Again, sister, I send you my warmest attention,
