@@ -33,7 +33,8 @@
 	<tr> <td>М</td> <td>/m/</td> <td></td> </tr>
 	<tr> <td>Н</td> <td>/n/</td> <td></td> </tr>
 	<tr> <td>П</td> <td>/p/</td> <td></td> </tr>
-	<tr> <td>Р</td> <td>/r/</td> <td></td> </tr>
+	<tr> <td>Р</td> <td>/r ɹ/</td> <td>ралинэфэйв /ralɪnɛfɛiv/, трава /'trava/, ферда /'fjɛɹda/, ахорстй /axoɹsti/</td> </tr>
+	<tr> <td>РЛ</td> <td>/ɾ/</td> <td>рлйкор /'ɾikor/</td> </tr>
 	<tr> <td>С</td> <td>/s/</td> <td></td> </tr>
 	<tr> <td>Т</td> <td>/t tʰ/</td> <td>тасмот /'tʰasmot/</td> </tr>
 	<tr> <td>Ф</td> <td>/f/</td> <td></td> </tr>
