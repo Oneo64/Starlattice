@@ -28,7 +28,7 @@
 	<tr> <td>Д</td> <td>/d/</td> <td></td> </tr>
 	<tr> <td>Ж</td> <td>/ʒ/</td> <td></td> </tr>
 	<tr> <td>З</td> <td>/z/</td> <td></td> </tr>
-	<tr> <td>К</td> <td>/k kʰ/</td> <td>кэрэм /'kʰerem/, кшнолот /'kʃnolot/, аграламк /'agralamk/</td> </tr>
+	<tr> <td>К</td> <td>/k kʰ/</td> <td>кэрэм /'kʰɛrɛm/, кшнолот /'kʃnolot/, аграламк /'agralamk/</td> </tr>
 	<tr> <td>Л</td> <td>/l ɫ/</td> <td>латас /'latas/, мол /moɫ/</td> </tr>
 	<tr> <td>М</td> <td>/m/</td> <td></td> </tr>
 	<tr> <td>Н</td> <td>/n/</td> <td></td> </tr>
