@@ -1,4 +1,6 @@
 # Kagalarian Pronunciation
+Stress is usually at the beginning or the middle of the word.
+
 ## Monothongs
 <table><tbody>
 	<tr> <td>А</td> <td>/a/</td> </tr>
