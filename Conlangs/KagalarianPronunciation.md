@@ -3,23 +3,23 @@ Stress is usually at the beginning or the middle of the word.
 
 ## Monothongs
 <table><tbody>
-	<tr> <td>А</td> <td>/a/</td> </tr>
-	<tr> <td>Э</td> <td>/ɛ/</td> </tr>
-	<tr> <td>И</td> <td>/ɪ/</td> </tr>
-	<tr> <td>Й</td> <td>/i/</td> </tr>
-	<tr> <td>О</td> <td>/o/</td> </tr>
-	<tr> <td>У</td> <td>/ʊ/</td> </tr>
+	<tr> <td>Аа</td> <td>/a/</td> </tr>
+	<tr> <td>Єє</td> <td>/ɛ/</td> </tr>
+	<tr> <td>Іі</td> <td>/ɪ/</td> </tr>
+	<tr> <td>Її</td> <td>/i/</td> </tr>
+	<tr> <td>Оо</td> <td>/o/</td> </tr>
+	<tr> <td>Уу</td> <td>/ʊ/</td> </tr>
 </tbody></table>
 
 ## Diphthongs
 <table><tbody>
-	<tr> <td>Я</td> <td>/ja/</td> <td></td> </tr>
-	<tr> <td>Е</td> <td>/jɛ/</td> <td></td> </tr>
-	<tr> <td>Ё</td> <td>/jo/</td> <td></td> </tr>
-	<tr> <td>Ю</td> <td>/jʊ/</td> <td></td> </tr>
-	<tr> <td>АЙ</td> <td>/ai/</td> <td></td> </tr>
-	<tr> <td>ЭЙ</td> <td>/ɛi/</td> <td></td> </tr>
-	<tr> <td>ОЙ</td> <td>/oi/</td> <td></td> </tr>
+	<tr> <td>ЇА їа</td> <td>/ja/</td> <td></td> </tr>
+	<tr> <td>ЇЄ їє</td> <td>/jɛ/</td> <td></td> </tr>
+	<tr> <td>ЇО їо</td> <td>/jo/</td> <td></td> </tr>
+	<tr> <td>ЇУ їу</td> <td>/jʊ/</td> <td></td> </tr>
+	<tr> <td>АЇ аї</td> <td>/ai/</td> <td></td> </tr>
+	<tr> <td>ЄЇ єї</td> <td>/ɛi/</td> <td></td> </tr>
+	<tr> <td>ОЇ ої</td> <td>/oi/</td> <td></td> </tr>
 </tbody></table>
 
 ## Consonants
