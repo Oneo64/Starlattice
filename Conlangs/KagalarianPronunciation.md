@@ -6,20 +6,17 @@ Stress is usually at the beginning or the middle of the word.
 	<tr> <td>Аа</td> <td>/a/</td> </tr>
 	<tr> <td>Єє</td> <td>/ɛ/</td> </tr>
 	<tr> <td>Іі</td> <td>/ɪ/</td> </tr>
-	<tr> <td>Її</td> <td>/i/</td> </tr>
+	<tr> <td>Ии</td> <td>/i/</td> </tr>
 	<tr> <td>Оо</td> <td>/o/</td> </tr>
 	<tr> <td>Уу</td> <td>/ʊ/</td> </tr>
 </tbody></table>
 
 ## Diphthongs
 <table><tbody>
-	<tr> <td>ЇА їа</td> <td>/ja/</td> <td></td> </tr>
-	<tr> <td>ЇЄ їє</td> <td>/jɛ/</td> <td></td> </tr>
-	<tr> <td>ЇО їо</td> <td>/jo/</td> <td></td> </tr>
-	<tr> <td>ЇУ їу</td> <td>/jʊ/</td> <td></td> </tr>
-	<tr> <td>АЇ аї</td> <td>/ai/</td> <td></td> </tr>
-	<tr> <td>ЄЇ єї</td> <td>/ɛi/</td> <td></td> </tr>
-	<tr> <td>ОЇ ої</td> <td>/oi/</td> <td></td> </tr>
+	<tr> <td>Її</td> <td>/ji/</td> </tr>
+	<tr> <td>АІ аі</td> <td>/ai/</td> <td></td> </tr>
+	<tr> <td>ЄІ єі</td> <td>/ɛi/</td> <td></td> </tr>
+	<tr> <td>ОІ оі</td> <td>/oi/</td> <td></td> </tr>
 </tbody></table>
 
 ## Consonants
@@ -30,6 +27,7 @@ Stress is usually at the beginning or the middle of the word.
 	<tr> <td>Д</td> <td>/d/</td> <td></td> </tr>
 	<tr> <td>Ж</td> <td>/ʒ/</td> <td></td> </tr>
 	<tr> <td>З</td> <td>/z/</td> <td></td> </tr>
+	<tr> <td>Йй</td> <td>/j/</td> <td></td> </tr>
 	<tr> <td>К</td> <td>/k kʰ/</td> <td>кэрэм /'kʰɛrɛm/, кшнолот /'kʃnolot/, аграламк /'agralamk/</td> </tr>
 	<tr> <td>Л</td> <td>/l ɫ/</td> <td>латас /'latas/, мол /moɫ/</td> </tr>
 	<tr> <td>М</td> <td>/m/</td> <td></td> </tr>
