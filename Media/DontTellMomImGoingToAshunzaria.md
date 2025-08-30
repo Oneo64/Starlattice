@@ -3,30 +3,58 @@
 
 *In-universe lore, this song was sung and recorded by Клэв Жовоманй (Klev Jovomaniy), and sent to his sister, Azaliya.*
 
+**kagalarian in here is outdated, too lazy to keep it up with all the recent changes**
+
 ## Lyrics
 #### 1
- - Дачєлм почка, ми почка, шєм ри би? *(distant gunshots are heard)*
- - Би ва снйома чєибат ва жоноск та лужаика?
- - Ожи нєвискас плуматйац скан Грєнасйа влйн лян утро, *(distant gunshots are heard)*
- - Прос нолв скезат мелома на Ашунцарй тосй.
- - Ожи невйскас плуматй скан Ялйндэл влйн лян утро,
- - Прос нолв скезат мелома на Ашунцарй тосй.
+ - Євнєн почка, ми почка, шєм ри би? *(distant gunshots are heard)*
+ - Би ва лйом хавандат ва жоноск та лужаика?
+ - Ожі нєвискас плуматйац скан Грєнасйа влин лйан утро, *(distant gunshots are heard)*
+ - Лот лєцат нолв мєлома на Ашунзари тойат.
+ - Ожі невйскас плуматй скан Йалиндєл влин лйан утро,
+ - Лот лєцат нолв мєлома на Ашунзари тойат.
+
+#### 1.1
+ - Evnen pochka, miy pochka, shem riy biy?
+ - Biy va lyom havandat va jonosk ta lujayka?
+ - Oji neviyskas plumatsyats skan Grenasya vliyn lyan utro,
+ - Lot letsat nolv meloma na Ashunzariy toyat.
+ - Oji neviyskas plumatsyats skan Yaliyndel vliyn lyan utro,
+ - Lot letsat nolv meloma na Ashunzariy toyat.
 
 #### 2
- - Риш сомрол борэйв Лолоскй нафрав шакячо,
- - Тойо влэйшятй та дом а даскоцветок,
- - Мй борэйв Евгэнй, стаквия сен воля вернутсия та дом,
- - Прос нолв скезат мелома на Ашунцарй тосй.
- - На воля лэйн Евгэнй стаквия сен воля вернутсия,
- - Прос нолв скезат мелома на Ашунцарй тосй.
+ - Ріш сомрол борєив Лолоски нафрав шакйат,
+ - Тойо влєишйат та дом а даскоцвєток,
+ - Ми борєив Йєвгєни, смєгат сєн фолінат вєрнзат та дом,
+ - Лот лєцат нолв мєлома на Ашунзари тойат.
+ - На фолін лєин Йєвгєни смєгат сєн фолінат вєрнзат,
+ - Лот лєцат нолв мєлома на Ашунзари тойат.
+
+#### 2.2
+ - Rish somrol boreyv Loloskiy nafrav shakyat,
+ - Toyo vleyshyat ta dom a daskotsvetok,
+ - Miy boreyv Yevgeniy, smegat sen folinat vernzat ta dom,
+ - Lot letsat nolv meloma na Ashunzariy toyat.
+ - Na folin leyn Yevgeniy smegat sen folinat vernzat,
+ - Lot letsat nolv meloma na Ashunzariy toyat.
 
 #### 3
- - Блйн воша на воля тивеселас сймязит, няк ва дойна,
- - Серо пот чнусковат, боскас спёзйнй бй, ват бороцо клов. *(more distant gunshots are heard)*
- - Брасливат дойна, вло сволоч, мронй ожи причй, *(nearby plasma explosion)*
- - Прос нолв скезат мелома на Ашунцарй тосй.
- - Брасливат дойна, вло сволоч, мронй ожи причй, *(nearby plasma explosion causes lyrics to become unintelligable, but guessable by context)*
- - Прос нолв скезат мелома на Ашунцарй тосй.
+ - Влин воша на фолінат тівєсєлас шолосмат, нйак ва доина,
+ - Сйєро пот фумат, боскас шєлначи би, бороцо пока би. *(more distant gunshots are heard)*
+ - Брасливат доина, шємо сволоч, мронац ожі праичац, *(nearby plasma explosion)*
+ - Лот лєцат нолв мєлома на Ашунзари тойат.
+ - Брасливат доина, шємо сволоч, мронац ожі праичац, *(nearby plasma explosion causes lyrics to become unintelligable, but guessable by context)*
+ - Лот лєцат нолв мєлома на Ашунзари тойат.
+
+#### 3.1
+ - Vliyn vosha na folinat tiveselas sholosmat, nyak va doyna,
+ - Syero pot fumat, boskas shelnachiy biy, borotso poka biy.
+ - Brasliyvat doyna, shemo svoloch, mronats oji praychats,
+ - Lot letsat nolv meloma na Ashunzariy toyat.
+ - Brasliyvat doyna, shemo svoloch, mronats oji praychats,
+ - Lot letsat nolv meloma na Ashunzariy toyat.
+
+---
 
 #### 4
  - Повторит, сйма, на рй сдовалй мй вэлотэйс итэвё,

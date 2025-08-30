@@ -8,6 +8,7 @@ Stress is usually at the beginning or the middle of the word.
 	<tr> <td>Іі</td> <td>/ɪ/</td> </tr>
 	<tr> <td>Ии</td> <td>/i/</td> </tr>
 	<tr> <td>Оо</td> <td>/o/</td> </tr>
+	<tr> <td>Ьь</td> <td>/ә/</td> </tr>
 	<tr> <td>Уу</td> <td>/ʊ/</td> </tr>
 </tbody></table>
 
