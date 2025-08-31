@@ -5,7 +5,7 @@
 	<tr> <th colspan=2>Лукшан Ролов /'lʊkʃɐn 'rolov/</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Kagalarian Military and Politics</td> </tr>
-	<tr> <td>Occupation</td> <td>Commander<br>Wormhole System Operator<br>Head of Security</td> </tr>
+	<tr> <td>Occupation</td> <td>Commander<br>Wormhole System Operator<br>Security Overseer</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>27</td> </tr>
 	<tr> <td>Birthday</td> <td>2013</td> </tr>
@@ -52,8 +52,10 @@ Furthermore, he is proficient in Dagsar, a mandatory martial art taught to soldi
 Lukhan's native language is Kagalarian. He also knows how to speak English.
 
 ## Backstory
-Lukhan joined the military at 19 years old.
+Before clone technology, Lukhan was 19 years old when he joined the Kagalarian army. He started as an infantryman.
 
-In a battle against the Seenians, he was shot three times, but he survived. Later, in another battle, he was shot again, twice on his chest, and four times on his back. Suprisingly, he also survived. One time, he defended a military camp by himself, killing about 20 seenians in total.
+On the planet Ramalosedot, he fought his first battle, the Battle for Samandol. During this battle, he was shot three times, but he survived.
 
-He was promoted to Captain. A few years later at 25 years old, Lukhan caught a Seenian spy in Horinsoler City during his visit to his family. He captured the spy, then took her to the nearest military base blindfolded, tied, and knocked out cold. After this, High Commander Garinor made Lukhan a commander, and assigned him wormhole operator and battleship security overseer.
+Later, in the Battle of Sarvikal, he was shot again, twice on his chest, and four times on his back. Surprisingly, he also survived. One time, he defended a military camp by himself, killing about 20 seenians in total.
+
+He was promoted to Captain. A few years later, at 25 years old, Lukhan caught a Seenian spy in Horinsoler City during his visit to his family. He captured the spy, then took her to the nearest military base blindfolded, tied, and knocked out cold. After this, High Commander Garinor assigned Lukhan as a commander with the specialty of a wormhole operator and also made him a security overseer.

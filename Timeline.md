@@ -42,7 +42,7 @@ The Battle of Samandol on the planet Ramalosedot is fought, an attempt by Kagala
 The Kagalarian Empire begins to invest in the research of clone technology.
 
 ## 2038
-The Kagalarian Empire begins to invest in the research and construction of the first battle robot.
+The Kagalarian Empire begins to invest in the research and construction of the first battle robot. During the same year, Kagalar initiates the Battle of Sarvikal, fought on one of the Escorian Empire's planets in defence of a Naulish Invasion.
 
 ## 3039
 The Invasion of Ashunzaria begins.
