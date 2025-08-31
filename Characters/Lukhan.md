@@ -43,9 +43,14 @@ Other than that, he's very loyal to the Kagalarian Empire, and sometimes goes on
 He likes to eat steak.
 
 ## Abilities
-Lukhan is proficient in Dagsar, a martial art practiced by Kagalarian people. He also received the standard infantry training in the army.
+#### Standard Infantry Training
+Lukhan received standard infantry training in the Kagalarian army. This includes reloading plasma rifles and pistols quicker, assembling and disassembling them, unjamming them, etc.
 
-His native language is Kagalarian, and he knows how to speak English.
+#### Martial Combat
+Lukhan is proficient in Dagsar, a martial art practiced by Kagalarian people.
+
+#### Languages
+Lukhan's native language is Kagalarian. He also knows how to speak English.
 
 ## Backstory
 Lukhan joined the military at 19 years old.
