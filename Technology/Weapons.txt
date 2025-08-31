@@ -50,7 +50,7 @@ All-Purpose Missile Launcher
 	Type:            Warship Turret
 	Rate of Fire:    2 seconds
 	Projectile:      APMLMs
-	Detection Range: 8,000 km
+	Detection Range: 8,000 km (8 kacholnakins)
 	
 	A missile launcher with a multi-purpose computing and launching system. Can be used to counter missiles and other projectiles, ships, ground structures, etc. These turrets are controlled by AI, which is connected to all other turrets, so the ship will always fire the most optimal missiles required. They can also be controlled manually via the control room.
 
@@ -104,7 +104,7 @@ Long-Range Laser Projector
 	Type:            Warship Turret
 	Rate of Fire:    Continuous
 	Projectile:      A beam of intensely concentrated light. The color of these weapons are always white, and does not use a crystal core.
-	Effective Range: 200 km
+	Effective Range: 200 km (0.2 kacholnakins)
 	
 	Designed to attack ships with shield generators.
 
@@ -146,6 +146,6 @@ All-Purpose Missile Launcher Missile (APMLM)
 	Length:                 5 meters
 	Speed:                  600 m/s
 	Destruction Equivalent: 50 kilograms of tnt
-	Fuel Capacity:          10,000 km
+	Fuel Capacity:          10,000 km (10 kacholnakins)
 	
 	Uses a crystal warhead and is propelled by a crystal rocket engine.
