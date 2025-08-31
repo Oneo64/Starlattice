@@ -2,7 +2,7 @@
 
 <table align=right><tbody>
 	<tr> <th colspan=2>Lukhan Rolov</th> </tr>
-	<tr> <th colspan=2>Лукшан Ролов</th> </tr>
+	<tr> <th colspan=2>Лукшан Ролов /'lʊkʃɐn 'rolov/</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Kagalarian Military and Politics</td> </tr>
 	<tr> <td>Occupation</td> <td>Commander<br>Wormhole System Operator<br>Head of Security</td> </tr>
