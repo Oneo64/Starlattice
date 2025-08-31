@@ -4,20 +4,20 @@ Stress is usually at the beginning or the middle of the word.
 ## Monothongs
 <table><tbody>
 	<tr> <td>Аа</td> <td>/ɐ/</td> </tr>
-	<tr> <td>Єє</td> <td>/ɛ/</td> </tr>
+	<tr> <td>Єє</td> <td>/ɛ ә/</td> <td>єжє /'ɛʒɛ/, фємєл /'fɛmɛɫ/, жєрат /'ʒɛrɐt/, солєрат /'solɛrɐt/, ємєртат /'ɛmәɹtɐt/, gurk /gәɹk/</td> </tr>
 	<tr> <td>Іі</td> <td>/ɪ/</td> </tr>
 	<tr> <td>Ии</td> <td>/iː/</td> </tr>
 	<tr> <td>Оо</td> <td>/o/</td> </tr>
-	<tr> <td>Ьь</td> <td>/ә/</td> </tr>
+	<tr> <td>Ьь</td> <td>/ʌ/</td> </tr>
 	<tr> <td>Уу</td> <td>/ʊː/</td> </tr>
 </tbody></table>
 
 ## Diphthongs
 <table><tbody>
 	<tr> <td>Її</td> <td>/jiː/</td> </tr>
-	<tr> <td>АИ аи</td> <td>/aiː/</td> <td></td> </tr>
-	<tr> <td>ЄИ єи</td> <td>/ɛiː/</td> <td></td> </tr>
-	<tr> <td>ОИ ои</td> <td>/oiː/</td> <td></td> </tr>
+	<tr> <td>АИ аи</td> <td>/aiː/</td> </tr>
+	<tr> <td>ЄИ єи</td> <td>/ɛiː/</td> </tr>
+	<tr> <td>ОИ ои</td> <td>/oiː/</td> </tr>
 </tbody></table>
 
 ## Consonants
