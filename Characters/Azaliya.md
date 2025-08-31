@@ -9,7 +9,7 @@
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>25</td> </tr>
 	<tr> <td>Birthday</td> <td>2015</td> </tr>
-	<tr> <td>Birthplace</td> <td>Korabkrada, Kregsorin, Kagalar</td> </tr>
+	<tr> <td>Birthplace</td> <td>Horinsoler, Kregsorin, Kagalar</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Klev (older brother)</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
