@@ -17,9 +17,13 @@ All military spacecraft have the Wormhole Transporter Module installed, and all 
 Furthermore, all Kagalarian programming runs on a language where Kagalarian is predominantly used. Therefore, a kagalarian spaceship cannot be hacked with an injection of any programming language other than the one the spaceship uses.
 
 #### Kagalarian code examples
+	сєвіинтікорас = дросєл:фєдатСєвіинтікорас()
+
 	шаст (їт = 0, дросєл:йадроас:фрєином) [
-		нором йоном = дросєл:йадроас(їт):фєдатЙономЙом()
-		там (йоном > дросєл:йадроас(їт)) [
-			
+		йадроСомт йадро = дросєл:йадроас(їт)
+		нором йоном = йадро:фєдатЙономЙом()
+
+		там (йоном > сєвіинтікорас:тєисолЙоном) [
+
 		]
 	]
