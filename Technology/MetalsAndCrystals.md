@@ -16,12 +16,23 @@ Arsenium is a soft brown metal used for wiring.
 Graltite is a soft grey metal used for making computer chips.
 
 ## Crystals
-Distinite (Beatiful white and green crystal)
-Nalastite (Beautiful purple and blue crystal)
-Quastarine (Beautiful glowing purple crystal)
-Morigalt (Beautiful green and yellow crystal)
-Korin (Beautiful deep blue crystal)
-Illisinion (Beautiful brightly white crystal with traces of gold)
+#### Distintite
+Distintite is a white and green crystal.
+
+#### Nalastite
+Nalastite is a purple and blue crystal.
+
+#### Quastarine
+Quastarine is a beautiful purple crystal that glows.
+
+#### Morigalt
+Morigalt is a beautiful green and yellow crystal.
+
+#### Korin
+Korin is a beautiful, deep blue crystal.
+
+#### Illisinion
+Illisinion is a beautiful white crystal that has a bright glint and streaks of gold inside.
 
 ## Magic Crystals
 #### Mrokek
