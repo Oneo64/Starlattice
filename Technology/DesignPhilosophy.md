@@ -14,7 +14,7 @@ Crucial areas such as the command deck, engine rooms, or the reactor/generator r
 
 All military spacecraft have the Wormhole Transporter Module installed, and all military warships have the following modules installed: Shield Generator Module and Military-grade Radar Module. Large military ships usually have a crystal core reactor and a solar energy system that powers their systems.
 
-Furthermore, all Kagalarian programming runs on a language where Kagalarian is predominantly used. Therefore, a kagalarian spaceship cannot be hacked with an injection of any programming language other than the one the spaceship uses.
+Furthermore, all Kagalarian programming runs on a language where Kagalarian is predominantly used, and this language isn't in any way based on Assembly. Therefore, a kagalarian spaceship cannot be hacked with an injection of any programming language other than the one the spaceship uses.
 
 #### Kagalarian code examples
 ```
