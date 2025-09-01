@@ -14,8 +14,8 @@ Mounted turrets work the same way plasmatic handweapons work, except on a bigger
 A plasmatic explosive detonates by surging its crystal core with a ridiculous amount of electricity, making it release a lot of explosive plasma. The energy released cannot escape anywhere, so it bursts through the shell, causing an explosion.
 
 ## Plasmatic Handweapons
-#### KAG-MP-114 (KAG Fernuskaniy Panovka Model 114)
- - **Type:** Plasmatic Handweapon
+#### KAG MP-114 (KAG Mrelniy Panovka Model 114)
+ - **Type:** Automatic plasmatic rifle
  - **Core:** Mrokek
  - **Rate of Fire:** 700 rpm
  - **Length:** ~70 centimeters
@@ -24,17 +24,30 @@ A plasmatic explosive detonates by surging its crystal core with a ridiculous am
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
  - **Effective Range:** ~500 meters
 
-A KAG-MP-114 is a plasmatic rifle manufactured in the Kagalarian Empire. It uses a mrokek core.
+A KAG MP-114, shortened to MP-144, is a plasmatic rifle manufactured in the Kagalarian Empire. It uses a mrokek core.
 
-#### KAG-YP-P4 (KAG Yivniy Panovka Prototype 4)
- - **Type:** Plasmatic Handweapon
+#### KAG MN-12 (KAG Mrelniy Nogen Model 12)
+ - **Type:** Semi-automatic plasmatic pistol
+ - **Core:** Mrokek
+ - **Rate of Fire:** 600 rpm
+ - **Rate of Fire:** 600 rpm
+ - **Length:** 18 centimeters
+ - **Projectile:** Supercompressed plasma bolt
+ - **Muzzle Velocity:** 330 m/s
+ - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
+ - **Effective Range:** ~250 meters
+
+A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured in the Kagalarian Empire. It uses a mrokek core.
+
+#### KAG YP-P4 (KAG Yivniy Panovka Prototype 4)
+ - **Type:** Plasmatic handweapon
  - **Core:** Mrokek
  - **Length:** ~110 centimeters
  - **Projectile:** Thin plasma beam
  - **Muzzle Velocity:** 330 m/s
  - **Effective Range:** ~50 meters
 
-A KAG-YP-P4 is a plasmatic rifle manufactured in the Kagalarian Empire.
+A KAG YP-P4, shortened to MYP P-4, is a plasmatic rifle manufactured in the Kagalarian Empire.
 
 Instead of bolts, this rifle fires a beam of plasma by allowing a steady electrical current into its mrokek core.
 
