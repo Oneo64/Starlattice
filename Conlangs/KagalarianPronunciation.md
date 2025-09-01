@@ -24,6 +24,7 @@ Stress is usually at the beginning or the middle of the word.
 <table><tbody>
 	<tr> <td>Бб</td> <td>/b/</td> <td></td> </tr>
 	<tr> <td>Вв</td> <td>/v/</td> <td></td> </tr>
+	<tr> <td>ВЛ вл</td> <td>/ⱱ/</td> <td>вло /ⱱo/</td> </tr>
 	<tr> <td>Гг</td> <td>/g/</td> <td></td> </tr>
 	<tr> <td>Дд</td> <td>/d/</td> <td></td> </tr>
 	<tr> <td>Жж</td> <td>/ʒ/</td> <td></td> </tr>
@@ -34,7 +35,7 @@ Stress is usually at the beginning or the middle of the word.
 	<tr> <td>Мм</td> <td>/m/</td> <td></td> </tr>
 	<tr> <td>Нн</td> <td>/n/</td> <td></td> </tr>
 	<tr> <td>Пп</td> <td>/p/</td> <td></td> </tr>
-	<tr> <td>Рр</td> <td>/r ɹ/</td> <td>ралінєфєив /'rɐlɪnɛfɛiːv/, єнлутар /ɛn'lʊːtɐr/, фйєрда /'fjɛɹdɐ/, ахорстни /ɐ'xoɹstniː/</td> </tr>
+	<tr> <td>Рр</td> <td>/r ɹ/</td> <td>ралінєфєив /'rɐlɪnɛfɛiːv/, єнлутар /ɛn'lʊːtɐr/, фйєрда /'fjɛɹdɐ/, ахорстни /ɐ'xoɹstniː/, forl /forɫ/</td> </tr>
 	<tr> <td>РЛ рл</td> <td>/ɾ/</td> <td>рликор /'ɾikor/, рлорт /ɾoɹt/</td> </tr>
 	<tr> <td>ЖР жр</td> <td>/d͡ʒɹ/</td> <td>жромалар /'d͡ʒɹomɐlɐr/</td> </tr>
 	<tr> <td>Сс</td> <td>/s/</td> <td></td> </tr>
