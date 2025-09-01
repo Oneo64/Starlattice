@@ -24,7 +24,6 @@ Stress is usually at the beginning or the middle of the word.
 <table><tbody>
 	<tr> <td>Бб</td> <td>/b/</td> <td></td> </tr>
 	<tr> <td>Вв</td> <td>/v/</td> <td></td> </tr>
-	<tr> <td>ВЛ вл</td> <td>/vɾ/</td> <td>вло /vɾo/</td> </tr>
 	<tr> <td>Гг</td> <td>/g/</td> <td></td> </tr>
 	<tr> <td>Дд</td> <td>/d/</td> <td></td> </tr>
 	<tr> <td>Жж</td> <td>/ʒ/</td> <td></td> </tr>
