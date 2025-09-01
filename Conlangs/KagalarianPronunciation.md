@@ -3,13 +3,13 @@ Stress is usually at the beginning or the middle of the word.
 
 ## Monothongs
 <table><tbody>
-	<tr> <td>Аа</td> <td>/ɐ/</td> </tr>
+	<tr> <td>Аа</td> <td>/ɐ/</td> <td></td> </tr>
 	<tr> <td>Єє</td> <td>/ɛ ә/</td> <td>єжє /'ɛʒɛ/, фємєл /'fɛmɛɫ/, жєрат /'ʒɛrɐt/, солєрат /'solɛrɐt/, ємєртат /'ɛmәɹtɐt/, гьрк /gәɹk/</td> </tr>
-	<tr> <td>Іі</td> <td>/ɪ/</td> </tr>
-	<tr> <td>Ии</td> <td>/iː/</td> </tr>
-	<tr> <td>Оо</td> <td>/o/</td> </tr>
-	<tr> <td>Ьь</td> <td>/ʌ/</td> </tr>
-	<tr> <td>Уу</td> <td>/ʊː/</td> </tr>
+	<tr> <td>Іі</td> <td>/ɪ/</td> <td></td> </tr>
+	<tr> <td>Ии</td> <td>/iː/</td> <td></td> </tr>
+	<tr> <td>Оо</td> <td>/o/</td> <td></td> </tr>
+	<tr> <td>Ьь</td> <td>/ʌ/</td> <td></td> </tr>
+	<tr> <td>Уу</td> <td>/ʊː/</td> <td></td> </tr>
 </tbody></table>
 
 ## Diphthongs
