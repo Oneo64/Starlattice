@@ -1,7 +1,7 @@
 # Weapons
 ## Types
 #### Plasmatic Handweapon
-A plasmatic rifle is a plasma-firing weapon that utilises a crystal core. They fire a bolt by releasing a burst of electricity into its core. The core, due to its mineral properties, converts the electrical charge into explosive plasma and emits it back out.
+A plasmatic rifle is a plasma-firing weapon that utilizes a crystal core. They fire a bolt by releasing a burst of electricity into its core. The core, due to its mineral properties, converts the electrical charge into explosive plasma and emits it back out.
 
 Since this burst of explosive plasma has nowhere to go other than the barrel, a thick tube with a narrow interior, it shoots out of the barrel and becomes supercompressed due to the narrowness of the barrel. The supercompressed burst of plasma that comes out of the rifle is the bolt of plasma.
 
@@ -21,7 +21,7 @@ A plasmatic explosive detonates by surging its crystal core with a ridiculous am
  - **Length:** ~70 centimeters
  - **Projectile:** Supercompressed plasma bolt
  - **Muzzle Velocity:** 330 m/s
- - **On impact:** Bolts explode in a small shower of sparks, burning whatever it touches.
+ - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
  - **Effective Range:** ~500 meters
 
 A KAG-MP-114 is a plasmatic rifle manufactured in the Kagalarian Empire. It uses a mrokek core.
@@ -58,7 +58,7 @@ The grenade's shell is made of arsenium. After 5 seconds of the pin being pulled
  - **Type:** Mounted Turret
  - **Rate of Fire:** 30 rpm
  - **Projectile:** APMLMs
- - **Detection Range:** 8,000 kilometers (8 kacholnakins)
+ - **Detection Range:** 8,000 kilometres (8 kacholnakins)
 	
 A missile launcher with a multi-purpose computing and launching system. Can be used to counter missiles and other projectiles, ships, ground structures, etc. These turrets are controlled by AI, which is connected to all other turrets, so the ship will always fire the most optimal missiles required. But ultimately, the target of these turrets is set in the control room of the spacecraft.
 
@@ -102,47 +102,32 @@ Designed to mow down crowds of enemies.
  - **Destruction Equivalent:** A stick of dynamite
  - **Effective Range:** 5 kilometers
 
-An all-purpose weapon mounted on spacefighters other similar spacecraft.
+An all-purpose weapon mounted on spacefighters and other similar spacecraft.
 
 #### Long-range Laser Projector
  - **Type:** Mounted Turret
  - **Projectile:** Laser
  - **Destruction Equivalent:** A stick of dynamite
- - **Effective Range:** 200 kilometers (0.2 kacholnakins)
+ - **Effective Range:** 200 kilometres (0.2 kacholnakins)
 
 A long-range laser projector is a laser-firing mounted turret, designed to attack ships that have a shield generator or are fast.
 
 Instead of a bolt of supercompressed plasma, it shoots an intensely concentrated beam of light, otherwise known as a laser *(I can’t believe I have to explain this to people who think lasers are colourful bolts that fly)*. The colour of these weapons is always white, and they do not use a crystal core.
 
-----------------------------------------------------------------------------------------------------
+## Missiles & Projectiles
+#### Crystal Warhead
+The warhead is tipped with an unstable crystal. When this crystal is struck, it releases a high amount of explosive plasma. The crystal on the tip of the warhead is actually connected to a larger piece in the middle of the missile, which is enclosed in a hard metal. Because the unstable crystal released a lot of plasma, this plasma is contained inside the missile. The missile cannot contain this much plasma, so the missile explodes.
 
+#### Pre-Computed Missile
+A computed missile is a missile that follows a pre-computed path and explodes once it reaches the end of the path. The missile will also explode if the warhead physically hits anything.
 
+#### All-Purpose Missile Launcher Missile (APMLM)
+ - **Missile Type:** Pre-Computed Missile
+ - **Warhead:** Crystal Warhead
+ - **Radius:** 30 centimeters
+ - **Length:** 5 meters
+ - **Speed:** 600 m/s
+ - **Destruction Equivalent:** 50 kilograms of tnt
+ - **Fuel Capacity:** 10,000 kilometres (10 kacholnakins)
 
-[[MISSILES & PROJECTILES]]
-
-
-
-Crystal Warhead
-	Type: Warhead
-
-	The warhead is tipped with an unstable crystal. When this crystal is struck, it releases a high amount of explosive plasma. The crystal on the tip of the warhead is actually connected to a larger piece in the middle of the missile, which is enclosed with a hard metal. Because the unstable crystal released a lot of plasma, this plasma is contained inside the missile. The missile cannot contain this much plasma, so the missile explodes.
-
-
-
-Pre-Computed Missile
-	Type: Crystal Missile
-	
-	A computed missile is a missile that follows a pre-computed path, and explodes once it reaches the end of the path. The missile will also explode if the warhead physically hits anything.
-
-
-
-All-Purpose Missile Launcher Missile (APMLM)
-	Missile Type:           Pre-Computed Missile
-	Warhead:                Crystal Warhead
-	Radius:                 30 cm
-	Length:                 5 meters
-	Speed:                  600 m/s
-	Destruction Equivalent: 50 kilograms of tnt
-	Fuel Capacity:          10,000 km (10 kacholnakins)
-	
-	Uses a crystal warhead and is propelled by a crystal rocket engine.
+Uses a crystal warhead and is propelled by a crystal rocket engine.
