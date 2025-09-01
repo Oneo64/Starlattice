@@ -4,7 +4,7 @@
  - **CCRE:** Crystal Core Rocket Engine
 
 ## Text
-To make a spaceship, many things need to be considered to ensure the safety of its crew members, staff, and other inhabitants. The hulls and inside structure are made of clean fresarmanite plating, and are painted black to camouflage with nighttime/space. Inside the hulls, there is a sheet of lead 10 centimetres thick to make sure no space radiation enters. Between the lead and fresarmanite plating is a thin sheet of polyethylene to block out cosmic rays and radiation. There are also other things, such as heat regulations, and for ships longer than 20 meters, an alarm and broadcasting system.
+To make a spaceship, many things need to be considered to ensure the safety of its crew members, staff, and other inhabitants. The hulls and inside structure are made of clean fresarmanite plating, and are painted black with light-absorbent black paint to camouflage with nighttime/space. Inside the hulls, there is a sheet of lead 10 centimetres thick to make sure no space radiation enters. Between the lead and fresarmanite plating is a thin sheet of polyethylene to block out cosmic rays and radiation. There are also other things, such as heat regulations, and for ships longer than 20 meters, an alarm and broadcasting system.
 
 Inside the spaceship, there are no openings to the computing system other than strategic spots. Each spot is a small room with a computer machine that lets entry to the computing system, but is locked behind a door by a DNA scanner. Only trusted human personnel, such as a commander or the ship captain, have their DNAs authorized in the door to prevent manipulation of human clones.
 
