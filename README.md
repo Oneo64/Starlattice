@@ -1,4 +1,4 @@
-# FantasyInKagalarianSpace
- Note: When I say 'energy', I probably mean plasma. Whatever it is, until it doesn't say 'energy', just pretend it's plasma.
- 
- Fantasy set in a sci fi world. 
+# Fantasy in Kagalarian Space
+*this is just a placeholder name*
+
+This is a science fictional world set in 2040. It follows the genre of Industrial Space Opera.

@@ -1,21 +1,37 @@
-[[Weapons]]
+# Weapons
+## Plasmatic Rifles
+#### KAG-MP-114 (KAG Fernuskaniy Panovka Model 114)
+ - **Type:** Plasmatic Rifle
+ - **Length:** ~70 centimeters
+ - **Projectile:** Supercompressed plasma bolt
+ - **Muzzle Velocity:** 330 m/s
+ - **On impact:** Bolts explode in a small shower of sparks, burning whatever it touches.
+ - **Effective Range:** ~500 meters
 
+A KAG-MP-114 is a plasmatic rifle manufactured in the Kagalarian Empire.
 
+This rifle fires a bolt by releasing a burst of electricity into a mrokek core. The core, due to its mineral properties, converts the electrical charge into explosive plasma and emits it back out.
 
-Plasmatic Rifle
-	Type:            Plasmatic Rifle
-	Length:          About 60 cm long
-	Projectile:      Bolt of supercompressed plasma, 300 m/s
-	On impact:       The bolts explode in a small shower of sparks, burning what ever it touches.
-	Effective Range: 500 m
-	Designs:
-		KAG Plasmatic Rifle 114 (KAGER 114, uses mrokek)
-		Queendom's Rifle 3 (uses phystine)
-		Reedian Plasmatic Rifle 15 (RER 15, uses exite)
+Since this burst of explosive plasma has nowhere to go other than the barrel, a thick tube with a narrow interior, it shoots out of the barrel and becomes supercompressed due to the narrowness of the barrel. The supercompressed burst of plasma that comes out of the rifle is the bolt of plasma.
 
-	In the rifle, a fast, strong burst of electricity is released through a crystal core, creating high amounts of explosive plasma. This burst of explosive plasma is pushed through a thin tube out of the rifle, supercompressing it in the process. The supercompressed burst of plasma that comes out of the rifle is the bolt of plasma. In attempt to cool down the weapon from heating, the barrel is enclosed by a sealed tank of liquid nitrogen. Because of this, the metal of a plasmatic rifle that hasn't been fired in a while will feel very cold.
+In an attempt to cool down the weapon from heating, the rifle has a built-in cooling system, which is done by taking some nitrogen from the air, turning it into liquid nitrogen, and running it through the barrel. Because of this, the metal of a plasmatic rifle that hasn’t been fired in a while will feel very cold.
 
+#### KAG-YP-P4 (KAG Yivniy Panovka Prototype 4)
+ - **Type:** Plasmatic Rifle
+ - **Length:** ~110 centimeters
+ - **Projectile:** Thin plasma beam
+ - **Muzzle Velocity:** 330 m/s
+ - **Effective Range:** ~50 meters
 
+In the rifle, a continuous electrical current passes through a crystal core, creating high amounts of explosive plasma. The explosive plasma is pushed through a thin tube, shooting out like a deadly water cannon.
+
+#### Queendom's Rifle 3 (uses phystine)
+placeholder
+
+#### Reedian Plasmatic Rifle 15 (RER 15, uses exite)
+placeholder
+
+---
 
 Concentrated Plasmatic Anti-Materiel Rifle
 	Type:            Plasmatic "Laser" Rifle
