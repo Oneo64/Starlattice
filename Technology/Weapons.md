@@ -1,29 +1,42 @@
 # Weapons
-## Plasmatic Rifles
+## Types
+#### Plasmatic Handweapon
+A plasmatic rifle is a plasma-firing weapon that utilises a crystal core. They fire a bolt by releasing a burst of electricity into its core. The core, due to its mineral properties, converts the electrical charge into explosive plasma and emits it back out.
+
+Since this burst of explosive plasma has nowhere to go other than the barrel, a thick tube with a narrow interior, it shoots out of the barrel and becomes supercompressed due to the narrowness of the barrel. The supercompressed burst of plasma that comes out of the rifle is the bolt of plasma.
+
+In an attempt to cool down the weapon from heating, the rifle has a built-in cooling system, which is done by taking some nitrogen from the air, turning it into liquid nitrogen, and running it through the barrel. Because of this, the metal of a plasmatic rifle that hasn’t been fired in a while will feel very cold.
+
+#### Mounted Turrets
+Mounted turrets work the same way plasmatic handweapons work, except on a bigger scale. Additionally, to assist turret operators, almost every mounted turret has a targeting system installed, telling them where they should aim to get the best shot. These targeting systems take average speed and movement direction into account.
+
+#### Plasmatic Explosives
+A plasmatic explosive detonates by surging its crystal core with a ridiculous amount of electricity, making it release a lot of explosive plasma. The energy released cannot escape anywhere, so it bursts through the shell, causing an explosion.
+
+## Plasmatic Handweapons
 #### KAG-MP-114 (KAG Fernuskaniy Panovka Model 114)
- - **Type:** Plasmatic Rifle
+ - **Type:** Plasmatic Handweapon
+ - **Core:** Mrokek
+ - **Rate of Fire:** 700 rpm
  - **Length:** ~70 centimeters
  - **Projectile:** Supercompressed plasma bolt
  - **Muzzle Velocity:** 330 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever it touches.
  - **Effective Range:** ~500 meters
 
-A KAG-MP-114 is a plasmatic rifle manufactured in the Kagalarian Empire.
-
-This rifle fires a bolt by releasing a burst of electricity into a mrokek core. The core, due to its mineral properties, converts the electrical charge into explosive plasma and emits it back out.
-
-Since this burst of explosive plasma has nowhere to go other than the barrel, a thick tube with a narrow interior, it shoots out of the barrel and becomes supercompressed due to the narrowness of the barrel. The supercompressed burst of plasma that comes out of the rifle is the bolt of plasma.
-
-In an attempt to cool down the weapon from heating, the rifle has a built-in cooling system, which is done by taking some nitrogen from the air, turning it into liquid nitrogen, and running it through the barrel. Because of this, the metal of a plasmatic rifle that hasn’t been fired in a while will feel very cold.
+A KAG-MP-114 is a plasmatic rifle manufactured in the Kagalarian Empire. It uses a mrokek core.
 
 #### KAG-YP-P4 (KAG Yivniy Panovka Prototype 4)
- - **Type:** Plasmatic Rifle
+ - **Type:** Plasmatic Handweapon
+ - **Core:** Mrokek
  - **Length:** ~110 centimeters
  - **Projectile:** Thin plasma beam
  - **Muzzle Velocity:** 330 m/s
  - **Effective Range:** ~50 meters
 
-In the rifle, a continuous electrical current passes through a crystal core, creating high amounts of explosive plasma. The explosive plasma is pushed through a thin tube, shooting out like a deadly water cannon.
+A KAG-YP-P4 is a plasmatic rifle manufactured in the Kagalarian Empire.
+
+Instead of bolts, this rifle fires a beam of plasma by allowing a steady electrical current into its mrokek core.
 
 #### Queendom's Rifle 3 (uses phystine)
 placeholder
@@ -31,107 +44,75 @@ placeholder
 #### Reedian Plasmatic Rifle 15 (RER 15, uses exite)
 placeholder
 
----
+## Plasmatic Explosives
+#### Plasmatic Grenade
+ - **Type:** Plasmatic Explosive
+ - **Kill radius:** 3 meters
+ - **Blast radius:** 7 meters
+ - **Shock radius:** 15 meters
 
-Concentrated Plasmatic Anti-Materiel Rifle
-	Type:            Plasmatic "Laser" Rifle
-	Length:          About 100 cm long
-	Projectile:      Thin beam of plasma, 300 m/s
-	Effective Range: 50 m
-	Designs:
-		KAG Stream Rifle Prototype 4
+The grenade's shell is made of arsenium. After 5 seconds of the pin being pulled, the grenade's detonation mechanism activates.
 
-	In the rifle, a continuous electrical current passes through a crystal core, creating high amounts of explosive plasma. The explosive plasma is pushed through a thin tube, shooting out like a deadly water cannon.
-
-
-
-Plasmatic Grenade
-	Type:         Plasmatic Explosive
-	Kill radius:  3 meters
-	Blast radius: 7 meters
-
-	The grenade's shell is made of arsenium. After 5 seconds of the pin being pulled, the grenade surges the mrokek core with a ridiculous amount of electricity, making it release a lot of explosive plasma. The explosive plasma cannot escape anywhere, and burst open the grenade.
-
-
-
-----------------------------------------------------------------------------------------------------
-
-
-
-[[MOUNTED TURRETS]]
-
-
-
-All-Purpose Missile Launcher
-	Type:            Warship Turret
-	Rate of Fire:    2 seconds
-	Projectile:      APMLMs
-	Detection Range: 8,000 km (8 kacholnakins)
+## Mounted Turrets
+#### All-Purpose Missile Launcher
+ - **Type:** Mounted Turret
+ - **Rate of Fire:** 30 rpm
+ - **Projectile:** APMLMs
+ - **Detection Range:** 8,000 kilometers (8 kacholnakins)
 	
-	A missile launcher with a multi-purpose computing and launching system. Can be used to counter missiles and other projectiles, ships, ground structures, etc. These turrets are controlled by AI, which is connected to all other turrets, so the ship will always fire the most optimal missiles required. They can also be controlled manually via the control room.
+A missile launcher with a multi-purpose computing and launching system. Can be used to counter missiles and other projectiles, ships, ground structures, etc. These turrets are controlled by AI, which is connected to all other turrets, so the ship will always fire the most optimal missiles required. But ultimately, the target of these turrets is set in the control room of the spacecraft.
 
+Missile launchers are too heavy to go onto smaller spacecraft such as civilian travelling vessels, but the minimum length requirement a ship must be in order to fly safely with a missile launcher installed is 50 meters.
 
+#### Anti-Spacefighter Repeater
+ - **Type:** Mounted Turret
+ - **Rate of Fire:** 300 rpm
+ - **Projectile:** Supercompressed plasma bolt
+ - **Muzzle Velocity:** 500 m/s
+ - **Destruction Equivalent:** A stick of dynamite
+ - **Effective Range:** 5 kilometers
 
-Anti-Spacefighter Repeater
-	Type:                   Warship Turret
-	Rate of Fire:           0.1 seconds
-	Projectile:             Bolt of supercompressed plasma, 500 m/s
-	Destruction Equivalent: A grenade
-	Effective Range:        5 km
-	
-	Designed to destroy spacefighters.
+Designed to destroy spacefighters.
 
+#### Cannon
+ - **Type:** Mounted Turret
+ - **Rate of Fire:** 60 rpm
+ - **Projectile:** Supercompressed plasma bolt
+ - **Muzzle Velocity:** 400 m/s
+ - **Destruction Equivalent:** A landmine
+ - **Effective Range:** 30 kilometers
 
+An all-purpose weapon.
 
-Cannon
-	Type:                   Warship/Vehicle (See below) Turret
-	Rate of fire:           1 seconds
-	Projectile:             Bolt of supercompressed plasma, 400 m/s
-	Destruction Equivalent: A landmine
-	Effective Range:        30 km
-	
-	An all-purpose weapon.
+#### High-speed Repeater
+ - **Type:** Mounted Turret
+ - **Rate of Fire:** 1200 rpm
+ - **Projectile:** Supercompressed plasma bolt
+ - **Muzzle Velocity:** 330 m/s
+ - **Destruction Equivalent:** A heavy machine gun, such as an M2 Browning
+ - **Effective Range:** 2 kilometers
 
+Designed to mow down crowds of enemies.
 
+#### Spacefighter Cannon
+ - **Type:** Mounted Turret, non-rotating gun
+ - **Rate of Fire:** 300 rpm
+ - **Projectile:** Supercompressed plasma bolt
+ - **Muzzle Velocity:** 330 m/s, 500 m/s when shot from a flying spacefighter
+ - **Destruction Equivalent:** A stick of dynamite
+ - **Effective Range:** 5 kilometers
 
-High-Speed Repeater
-	Type:                   Vehicle Turret
-	Rate of Fire:           0.05 seconds
-	Projectile:             Bolt of supercompressed plasma, 300 m/s
-	Destruction Equivalent: A heavy machine gun
-	Effective Range:        1 km
-	
-	Designed to mow down crowds of enemies.
+An all-purpose weapon mounted on spacefighters other similar spacecraft.
 
+#### Long-range Laser Projector
+ - **Type:** Mounted Turret
+ - **Projectile:** Laser
+ - **Destruction Equivalent:** A stick of dynamite
+ - **Effective Range:** 200 kilometers (0.2 kacholnakins)
 
+A long-range laser projector is a laser-firing mounted turret, designed to attack ships that have a shield generator or are fast.
 
-Spacefighter Cannon
-	Type:                   Fixed Gun
-	Rate of Fire:           0.2 seconds
-	Projectile:             Bolt of supercompressed plasma, 300 m/s, 500 m/s when shot from spacefighter whilst flying
-	Destruction Equivalent: A grenade
-	Effective Range:        5 km
-	
-	An all-purpose weapon mounted on spacefighters other similar spacecraft.
-
-
-
-Long-Range Laser Projector
-	Type:            Warship Turret
-	Rate of Fire:    Continuous
-	Projectile:      A beam of intensely concentrated light. The color of these weapons are always white, and does not use a crystal core.
-	Effective Range: 200 km (0.2 kacholnakins)
-	
-	Designed to attack ships with shield generators.
-
-
-
-Ground Turret
-	Type: Any Turret (High-speed, anti-spacefighter, and cannon turrets)
-
-	Designed to destroy vehicles and other transport.
-
-
+Instead of a bolt of supercompressed plasma, it shoots an intensely concentrated beam of light, otherwise known as a laser *(I can’t believe I have to explain this to people who think lasers are colourful bolts that fly)*. The colour of these weapons is always white, and they do not use a crystal core.
 
 ----------------------------------------------------------------------------------------------------
 
