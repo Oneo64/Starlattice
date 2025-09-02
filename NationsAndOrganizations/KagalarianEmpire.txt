@@ -45,12 +45,12 @@ Infantry and Captains:
 	Forest:				Dark green combat helmet, dark green balaclava, dark green coat, black utility belt, and a pair of black boots.
 	Snow:				White combat helmet, white balaclava, white coat, black utility belt, and a pair of black boots.
 	Default:			White combat helmet, white coat, black utility belt, and a pair of black boots.
-	Infantry Equipment: KAG Plasmatic Rifle 114, battery recharger, handheld radio.
+	Infantry Equipment: KAG MP-114, battery recharger, handheld radio.
 	Armor:              A simple kevlar vest that covers the whole front and back torso.
 
 Guards:
 	Uniform:            A black surcoat with a nameplate placed at the middle, black utility belt, dark grey long-sleeved shirt, dark grey pants, and a pair of black boots.
-	Infantry Equipment: KAG Plasmatic Rifle 114, battery recharger, handheld radio.
+	Infantry Equipment: KAG MP-114, battery recharger, handheld radio.
 	Armor:              A kevlar jacket is also worn under the shirt, which covers the torso, thighs, and upper arms.
 
 Secret Intelligence Agents:
