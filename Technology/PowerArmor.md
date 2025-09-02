@@ -6,7 +6,7 @@ The power armour's main armour part is a 1 cm thick titanium alloy (Ti-6Al-4V). 
 
 The power armour opens on the front once it's shut off, and closes when it is turned on, allowing the wearer to step in and out at any time. Once it's shut and activated, it is completely airtight and bio-sealed, except when the visor is opened.
 
-The inside of the power armour has a ventilation system and a backup oxygen tank that can sustain 8 minutes of breathing. The power armour also increases its wearer's lifting strength by about 50%.
+The inside of the power armour has a ventilation system and a backup oxygen cylinder (6 litres, 1200 litres of air at 200 bar) that can sustain 2.5 hours of breathing, or 24 minutes if the wearer is breathing heavily. The power armour also increases its wearer's lifting strength by about 50%.
 
 **Standard modules installed in this power armor:**
 
@@ -32,7 +32,7 @@ A suit of military grade power armour is a variant of power armour designed to p
 #### Exploration Power Armor
 A suit of exploration power armour is a variant of power armour designed to protect the wearer from all sorts of environmental hazards and monstrous threats. It can carry at most two of each module type. It can carry at most 12 modules. There is a thin 0.5 cm layer of lead built inside to protect the wearer from radiation.
 
-This variant can support 20 minutes of breath.
+This variant has a larger and stronger oxygen cylinder (7 litres, 1750 litres of air at 250 bar) that can sustain 3.5 hours of breathing, or 35 minutes if the wearer is breathing heavily.
 
 **Standard modules installed in this power armor:**
 
