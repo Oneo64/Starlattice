@@ -120,7 +120,7 @@ A traveller spacecraft is a type of space vessel. Travellers are available to al
  - **Cruising Speed:** 20 m/s
  - **Method of Transportation:** 6 wheels
  - **Arnament:** 1 high-speed repeater
- - **Crew:** 1 driver, 1 high-speed repeater operator
+ - **Crew:** 1 driver and 1 high-speed repeater operator
  - **Troop Capacity:** 40 soldiers
 
 #### Military Cargo Transportation Truck
