@@ -4,7 +4,7 @@ Stress is usually at the beginning or the middle of the word.
 ## Monothongs
 <table><tbody>
 	<tr> <td>Аа</td> <td>/ɐ/</td> <td></td> </tr>
-	<tr> <td>Єє</td> <td>/ɛ ә/</td> <td>єжє /'ɛʒɛ/, фємєл /'fɛmɛɫ/, жєрат /'ʒɛrɐt/, солєрат /'solɛrɐt/, ємєртат /'ɛmәɹtɐt/, гьрк /gәɹk/</td> </tr>
+	<tr> <td>Ее</td> <td>/ɛ ә/</td> <td>еже /'ɛʒɛ/, фемел /'fɛmɛɫ/, жерат /'ʒɛrɐt/, солерат /'solɛrɐt/, емертат /'ɛmәɹtɐt/, гьрк /gәɹk/</td> </tr>
 	<tr> <td>Іі</td> <td>/ɪ/</td> <td></td> </tr>
 	<tr> <td>Ии</td> <td>/iː/</td> <td></td> </tr>
 	<tr> <td>Оо</td> <td>/o/</td> <td></td> </tr>
@@ -14,8 +14,11 @@ Stress is usually at the beginning or the middle of the word.
 
 ## Diphthongs
 <table><tbody>
+	<tr> <td>Яя</td> <td>/jɐː/</td> </tr>
+	<tr> <td>Єє</td> <td>/jɛː/</td> </tr>
 	<tr> <td>Її</td> <td>/jiː/</td> </tr>
-	<tr> <td>АИ аи</td> <td>/aiː/</td> </tr>
+	<tr> <td>Юю</td> <td>/joː/</td> </tr>
+	<tr> <td>АИ аи</td> <td>/ɐiː/</td> </tr>
 	<tr> <td>ЄИ єи</td> <td>/ɛiː/</td> </tr>
 	<tr> <td>ОИ ои</td> <td>/oiː/</td> </tr>
 </tbody></table>
@@ -29,12 +32,12 @@ Stress is usually at the beginning or the middle of the word.
 	<tr> <td>Жж</td> <td>/ʒ/</td> <td></td> </tr>
 	<tr> <td>Зз</td> <td>/z/</td> <td></td> </tr>
 	<tr> <td>Йй</td> <td>/j/</td> <td></td> </tr>
-	<tr> <td>Кк</td> <td>/k kʰ/</td> <td>кєрєм /'kʰɛrɛm/, кшнолот /'kʃnolot/, аграламк /'ɐgrɐlɐmk/</td> </tr>
-	<tr> <td>Лл</td> <td>/l ɫ/</td> <td>латас /'lɐtɐs/, кєломат /'kɛlomɐt/, мол /moɫ/, катокол /'kɐtokoɫ/</td> </tr>
+	<tr> <td>Кк</td> <td>/k kʰ/</td> <td>керем /'kʰɛrɛm/, кшнолот /'kʃnolot/, аграламк /'ɐgrɐlɐmk/</td> </tr>
+	<tr> <td>Лл</td> <td>/l ɫ/</td> <td>латас /'lɐtɐs/, келомат /'kɛlomɐt/, мол /moɫ/, катокол /'kɐtokoɫ/</td> </tr>
 	<tr> <td>Мм</td> <td>/m/</td> <td></td> </tr>
 	<tr> <td>Нн</td> <td>/n/</td> <td></td> </tr>
 	<tr> <td>Пп</td> <td>/p/</td> <td></td> </tr>
-	<tr> <td>Рр</td> <td>/r ɹ/</td> <td>ралінєфєив /'rɐlɪnɛfɛiːv/, єнлутар /ɛn'lʊːtɐr/, фйєрда /'fjɛɹdɐ/, ахорстни /ɐ'xoɹstniː/, forl /forɫ/</td> </tr>
+	<tr> <td>Рр</td> <td>/r ɹ/</td> <td>ралінефеив /'rɐlɪnɛfɛiːv/, енлутар /ɛn'lʊːtɐr/, фєрда /'fjɛɹdɐ/, ахорстни /ɐ'xoɹstniː/, форл /forɫ/</td> </tr>
 	<tr> <td>РЛ рл</td> <td>/ɾ/</td> <td>рликор /'ɾikor/, рлорт /ɾoɹt/</td> </tr>
 	<tr> <td>ЖР жр</td> <td>/d͡ʒɹ/</td> <td>жромалар /'d͡ʒɹomɐlɐr/</td> </tr>
 	<tr> <td>Сс</td> <td>/s/</td> <td></td> </tr>
