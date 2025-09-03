@@ -1,7 +1,6 @@
 # Nanopus
 <table><tbody>
 	<tr> <th colspan=2>Nanopus</th> </tr>
-	<tr> <th colspan=2>Molumba/Мольмба</th> </tr>
 	<tr> <td>Type</td> <td>Monster</td> </tr>
 	<tr> <td>Native to</td> <td>Kagalar</td> </tr>
 	<tr> <td>Behaviour to humans</td> <td>Hostile</td> </tr>

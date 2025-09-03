@@ -1,7 +1,6 @@
 # Sorkul
 <table><tbody>
 	<tr> <th colspan=2>Sorkul</th> </tr>
-	<tr> <th colspan=2>Sorkul/Соркьл</th> </tr>
 	<tr> <td>Type</td> <td>Monster</td> </tr>
 	<tr> <td>Native to</td> <td>Kagalar, Ramalosedot, Escorin</td> </tr>
 	<tr> <td>Behaviour to humans</td> <td>Hostile</td> </tr>
