@@ -11,26 +11,26 @@
 The **Kagalarian Empire**, known formally as the **Empire of Kagalar**, also known in its native language as *Кшавико ожан Кагалар*, is an interstellar power that is in control of a dozen planets.
 
 ## Military
-The Kagalarian empire has about 10 bilion troops, around one billion per planet. Each troop are trained for about a month before they become eligible for deployment, but will continue training after the month. Pistols are trained to be shot with one hand and their torso turned sideways. Their space fleet consists of 130 battleships, a thousand carriers, four thousand destroyers, and three hundred thousand spacefighters.
+The Kagalarian Empire has about 10 billion troops, around one billion per planet. Each troop are trained for about a month before they become eligible for deployment, but will continue training after the month. Pistols are trained to be shot with one hand and their torso turned sideways. Their space fleet consists of 130 battleships, a thousand carriers, four thousand destroyers, and three hundred thousand spacefighters.
 
-Military ranks are from highest to lowest: Emperor, High Commander, Commander, Captain, Infantry.
+Military ranks are from highest to lowest: Emperor, High Commander, Commander, Captain, and Infantry.
 
 A captain controls 4 infantry, and one captain and 4 infantry make a squad.
 
-A commander can give orders to 4 captains, however a commander usually doesn't participate in the frontlines. A commander would usually be assigned a exploration, scouting, escorting, or stealth mission, with an assigned traveler ship and small crew of operators.
+A commander can give orders to 4 captains; however, a commander usually doesn't participate in the frontlines. A commander would usually be assigned an exploration, scouting, escorting, or stealth mission, with an assigned traveller ship and a small crew of operators.
 
 A high commander is in command of a battleship. Each high commander controls a crew of commanders.
 
 A space fleet usually consists of one battleship, flanked by 4 capital ships, each flanked by 4 destroyers (making 16 destroyers in total).
 
 #### Main base
-The Kagalarian main base is built on a hill, surrounded by snowy coniferous forests. The entrance built on it's side, and it reaches down into the earth. There are 6 floors in the main Kagalarian base, each floor being about 10 meters in height, and 400 meters in width and length. On the hill, there are 4 APMT systems, and 8 anti-spacefighter repeaters. The entrance has a large 10x30 meter gate, and to it's right there is a smaller door.
+The Kagalarian main base is built on a hill, surrounded by snowy coniferous forests. The entrance is built on its side, and it reaches down into the earth. There are 6 floors in the main Kagalarian base, each floor being about 10 meters in height, and 400 meters in width and length. On the hill, there are 4 APMT systems and 8 anti-spacefighter repeaters. The entrance has a large 10x30 meter gate, and to its right, there is a smaller door.
 
 There is a runway connecting the gate to a nearby air and spacecraft field. The spacecraft field has a few carriers, destroyers, and many spacefighters.
 
-The ground level is a vehicle storage with many vehicles such as cars, armored cars, tanks, etc.
+The ground level is a vehicle storage with many vehicles such as cars, armoured cars, tanks, etc.
 
-This military base is about 20 kilometers north of Doryamut.
+This military base is about 20 kilometres north of Doryamut.
 
 #### Uniforms
  - **Infantry and Captains:**
