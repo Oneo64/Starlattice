@@ -7,7 +7,7 @@
 	<tr> <td>Behaviour to humans</td> <td>Hostile</td> </tr>
 </tbody></table>
 
-The sorkul is an adaptable creature native to many planets. They can live in most environments, but as of now, they are only documented to live on three planets: Kagalar, Ramalosedot, and Escorin.
+The **sorkul** (Kagalarian: *соркьл*) is an adaptable creature native to many planets. They can live in most environments, but as of now, they are only documented to live on three planets: Kagalar, Ramalosedot, and Escorin.
 
 ## Etymology
 The term *sorkul* is a romanisation of the Kagalarian word *соркьл*, which has the same meaning.
