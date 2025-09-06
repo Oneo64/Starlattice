@@ -9,6 +9,8 @@ Plasmatic handweapons, such as rifles and pistols, almost always have insulated 
 
 Upon impact, these bolts of plasma typically produce a small flash of light, a cracking sound similar to a firecracker, and sparks. Injuries caused by plasmatic handweapons include 2nd to 3rd degree burns and can put a dent in concrete.
 
+Of course, larger weapons such as mounted turrets produce more powerful bolts.
+
 #### Mounted Turrets
 Mounted turrets work the same way plasmatic weapons work, except on a bigger scale. Additionally, to assist turret operators, almost every mounted turret has a targeting system installed, telling them where they should aim to get the best shot. These targeting systems take average speed and movement direction into account.
 
