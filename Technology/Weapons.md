@@ -7,7 +7,7 @@ Because these weapons tend to get hot very easily, especially after firing sever
 
 Plasmatic handweapons, such as rifles and pistols, almost always have insulated grips and handles. It's a safety precaution not to touch the parts of the weapon that directly connect to the main weapon system.
 
-A bolt produced by a plasmatic handweapon is very hard to see at daylight, but its observed to be a streak of the same color of the crystal used to create the plasma. Upon impact, these bolts of plasma typically produce a small flash of light, a cracking sound similar to a firecracker, and sparks. Injuries caused by plasmatic handweapons include 2nd to 3rd degree burns and can put a dent in concrete.
+A bolt produced by a plasmatic handweapon is very hard to see in daylight, but it's observed to be a streak of the same colour as the crystal used to create the plasma. Upon impact, these bolts of plasma typically produce a small flash of light, a cracking sound similar to a firecracker, and sparks. Injuries caused by plasmatic handweapons include 2nd to 3rd degree burns and can put a dent in concrete.
 
 Of course, larger weapons such as mounted turrets produce more powerful bolts.
 
