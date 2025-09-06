@@ -1,14 +1,14 @@
 # Weapons
 ## Types
-#### Plasmatic Handweapon
-A plasmatic rifle is a plasma-firing weapon that utilizes a crystal core. They fire a bolt by releasing a burst of electricity into its core. The core, due to its mineral properties, converts the electrical charge into explosive plasma and emits it back out.
+#### Plasmatic Weapons
+Plasmatic weapons are plasma-firing weapons that utilize a crystal core. Most plasmatic weapons fire a bolt by releasing a burst of electricity into their core. The core, due to its special properties, converts the electrical charge into explosive plasma and emits it back out. The plasma is then contained by a small containment field generator in the weapon and expelled out the barrel. The contained burst of plasma that emerges from the weapon is known as the plasma bolt.
 
-Since this burst of explosive plasma has nowhere to go other than the barrel, a thick tube with a narrow interior, it shoots out of the barrel and becomes supercompressed due to the narrowness of the barrel. The supercompressed burst of plasma that comes out of the rifle is the bolt of plasma.
+Because these weapons tend to get hot very easily, especially after firing several bolts, these weapons have a built-in cooling system which activates when the weapon becomes hotter than 60 °C. The cooling system cools the weapon by extracting nitrogen from the air, turning it into liquid nitrogen, and spraying it onto the barrel.
 
-In an attempt to cool down the weapon from heating, the rifle has a built-in cooling system, which is done by taking some nitrogen from the air, turning it into liquid nitrogen, and running it through the barrel. Because of this, the metal of a plasmatic rifle that hasn’t been fired in a while will feel very cold.
+Plasmatic handweapons, such as rifles and pistols, almost always have insulated grips and handles. It's a safety precaution not to touch the parts of the weapon that directly connect to the main weapon system.
 
 #### Mounted Turrets
-Mounted turrets work the same way plasmatic handweapons work, except on a bigger scale. Additionally, to assist turret operators, almost every mounted turret has a targeting system installed, telling them where they should aim to get the best shot. These targeting systems take average speed and movement direction into account.
+Mounted turrets work the same way plasmatic weapons work, except on a bigger scale. Additionally, to assist turret operators, almost every mounted turret has a targeting system installed, telling them where they should aim to get the best shot. These targeting systems take average speed and movement direction into account.
 
 #### Plasmatic Explosives
 A plasmatic explosive detonates by surging its crystal core with a ridiculous amount of electricity, making it release a lot of explosive plasma. The energy released cannot escape anywhere, so it bursts through the shell, causing an explosion.
@@ -19,12 +19,14 @@ A plasmatic explosive detonates by surging its crystal core with a ridiculous am
  - **Core:** Mrokek
  - **Rate of Fire:** 700 rpm
  - **Length:** ~70 centimeters
- - **Projectile:** Supercompressed plasma bolt
+ - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 330 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
  - **Effective Range:** ~500 meters
 
 A KAG MP-114, shortened to MP-144, is a plasmatic rifle manufactured in the Kagalarian Empire. It uses a mrokek core.
+
+Its containment field generator holds the plasma bolts using 20 joules of energy.
 
 #### KAG MN-12 (KAG Mrelniy Nogen Model 12)
  - **Type:** Semi-automatic plasmatic pistol
@@ -32,24 +34,26 @@ A KAG MP-114, shortened to MP-144, is a plasmatic rifle manufactured in the Kaga
  - **Rate of Fire:** 600 rpm
  - **Rate of Fire:** 600 rpm
  - **Length:** 18 centimeters
- - **Projectile:** Supercompressed plasma bolt
+ - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 330 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
  - **Effective Range:** ~250 meters
 
 A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured in the Kagalarian Empire. It uses a mrokek core.
 
+Its containment field generator holds the plasma bolts using 8 joules of energy.
+
 #### KAG YP-P4 (KAG Yivniy Panovka Prototype 4)
  - **Type:** Plasmatic handweapon
  - **Core:** Mrokek
  - **Length:** ~110 centimeters
- - **Projectile:** Thin plasma beam
+ - **Projectile:** Steady plasma output in the form of a beam
  - **Muzzle Velocity:** 330 m/s
  - **Effective Range:** ~50 meters
 
-A KAG YP-P4, shortened to MYP P-4, is a plasmatic rifle manufactured in the Kagalarian Empire.
+A KAG YP-P4, shortened to MYP P-4, is a plasmatic rifle manufactured in the Kagalarian Empire. Instead of bolts, this rifle fires a beam of plasma by allowing a steady electrical current into its mrokek core.
 
-Instead of bolts, this rifle fires a beam of plasma by allowing a steady electrical current into its mrokek core.
+Its containment field generator holds the plasma beam together using 15 joules of energy.
 
 #### Queendom's Rifle 3 (uses phystine)
 placeholder
@@ -80,7 +84,7 @@ Missile launchers are too heavy to go onto smaller spacecraft such as civilian t
 #### Anti-Spacefighter Repeater
  - **Type:** Mounted Turret
  - **Rate of Fire:** 300 rpm
- - **Projectile:** Supercompressed plasma bolt
+ - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 500 m/s
  - **Destruction Equivalent:** A stick of dynamite
  - **Effective Range:** 5 kilometers
@@ -90,7 +94,7 @@ Designed to destroy spacefighters.
 #### Cannon
  - **Type:** Mounted Turret
  - **Rate of Fire:** 60 rpm
- - **Projectile:** Supercompressed plasma bolt
+ - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 400 m/s
  - **Destruction Equivalent:** A landmine
  - **Effective Range:** 30 kilometers
@@ -100,7 +104,7 @@ An all-purpose weapon.
 #### High-speed Repeater
  - **Type:** Mounted Turret
  - **Rate of Fire:** 1200 rpm
- - **Projectile:** Supercompressed plasma bolt
+ - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 330 m/s
  - **Destruction Equivalent:** A heavy machine gun, such as an M2 Browning
  - **Effective Range:** 2 kilometers
@@ -110,7 +114,7 @@ Designed to mow down crowds of enemies.
 #### Spacefighter Cannon
  - **Type:** Mounted Turret, non-rotating gun
  - **Rate of Fire:** 300 rpm
- - **Projectile:** Supercompressed plasma bolt
+ - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 330 m/s, 500 m/s when shot from a flying spacefighter
  - **Destruction Equivalent:** A stick of dynamite
  - **Effective Range:** 5 kilometers
