@@ -26,7 +26,7 @@ A plasmatic explosive detonates by surging its crystal core with a ridiculous am
 
 A KAG MP-114, shortened to MP-144, is a plasmatic rifle manufactured in the Kagalarian Empire. It uses a mrokek core.
 
-Its containment field generator holds the plasma bolts using 20 joules of energy.
+Its containment field generator holds the plasma bolts using 2 kilojoules of energy.
 
 #### KAG MN-12 (KAG Mrelniy Nogen Model 12)
  - **Type:** Semi-automatic plasmatic pistol
@@ -41,7 +41,7 @@ Its containment field generator holds the plasma bolts using 20 joules of energy
 
 A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured in the Kagalarian Empire. It uses a mrokek core.
 
-Its containment field generator holds the plasma bolts using 8 joules of energy.
+Its containment field generator holds the plasma bolts using 0.8 kilojoules of energy.
 
 #### KAG YP-P4 (KAG Yivniy Panovka Prototype 4)
  - **Type:** Plasmatic handweapon
@@ -53,7 +53,7 @@ Its containment field generator holds the plasma bolts using 8 joules of energy.
 
 A KAG YP-P4, shortened to MYP P-4, is a plasmatic rifle manufactured in the Kagalarian Empire. Instead of bolts, this rifle fires a beam of plasma by allowing a steady electrical current into its mrokek core.
 
-Its containment field generator holds the plasma beam together using 15 joules of energy.
+Its containment field generator holds the plasma beam together using 1.5 kilojoules of energy.
 
 #### Queendom's Rifle 3 (uses phystine)
 placeholder
