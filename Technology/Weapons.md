@@ -3,7 +3,7 @@
 #### Plasmatic Weapons
 Plasmatic weapons are plasma-firing weapons that utilize a crystal core. Most plasmatic weapons fire a bolt by releasing a burst of electricity into their core. The core, due to its special properties, converts the electrical charge into explosive plasma and emits it back out. The plasma is then contained by a small containment field generator in the weapon and expelled out the barrel. The contained burst of plasma that emerges from the weapon is known as the plasma bolt.
 
-Because these weapons tend to get hot very easily, especially after firing several bolts, these weapons have a built-in cooling system which activates when the weapon becomes hotter than 60 °C. The cooling system cools the weapon by extracting nitrogen from the air, turning it into liquid nitrogen, and spraying it onto the barrel.
+Because these weapons tend to get hot very easily, especially after firing several bolts, these weapons have a built-in cooling system which activates when the weapon becomes hotter than 60 °C. The cooling system cools the weapon by extracting nitrogen from the air, turning it into liquid nitrogen, and spraying it onto the barrel. On many handweapons, the cooling system can also be manually activated by a button.
 
 Plasmatic handweapons, such as rifles and pistols, almost always have insulated grips and handles. It's a safety precaution not to touch the parts of the weapon that directly connect to the main weapon system. A bolt produced by a plasmatic handweapon is very hard to see at daylight, but its observed to be a streak of the same color of the crystal used to create the plasma.
 
