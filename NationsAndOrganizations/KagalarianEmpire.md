@@ -43,7 +43,7 @@ This military base is about 20 kilometres north of Doryamut.
     - **Forest uniform:**	A dark green combat helmet, a dark green balaclava, a dark green overcoat, a utility belt, and a pair of black boots.
     - **Snow uniform:** A white combat helmet, a white balaclava, a white overcoat, a utility belt, and a pair of black boots.
     - **Standard uniform:** A white combat helmet, a white overcoat, a utility belt, and a pair of black boots.
-    - **Infantry equipment:** A KAG MP-114 plasmatic rifle, a battery recharger, and a handheld radio.
+    - **Infantry equipment:** A KAG MP-114 plasmatic rifle, a battery recharger, a handheld radio, and a pair of gloves.
     - **Infantry armour:** A simple Kevlar vest that covers the whole front and back torso, it should be worn under the overcoat.
  - **Guards and Patrollers:**
     - **Standard uniform:** A black combat helmet, a black overcoat, a utility belt, a pair of dark grey pants, and a pair of black boots.
@@ -62,5 +62,6 @@ This military base is about 20 kilometres north of Doryamut.
 	- **Armour:** A Kevlar jacket worn under the surcoat, which covers the torso, thighs, and upper arms.
  - **Combative high-rank uniforms:** A military-grade power armour painted black, with a blue Kagalarian Insignia on the front and back. Removing/not having the default modules is punishable, but additional modules may be added, except for point laser defences.
  - **Nameplates:** All military personnel, soldiers included, have a nameplate placed at the top middle of their surcoat/overcoat, where their chests are. The nameplate displays their Kagalarian names (which are in Cyrillic), except for clones, whose nameplates will display their ID.
+ - **Gloves:** All weapon-bearing military personnel, soldiers included, will be given a set of heat-resistant gloves and are required to wear them when handling their weapon to prevent accidental burn injury.
 
 A formal uniform is worn by high-ranked military personnel (the emperor, commanders, high commanders) when they are sent as military representatives or sent to a meeting in another nation, faction, or power. This is done to appear as less threatening and as less intimidating as possible.
