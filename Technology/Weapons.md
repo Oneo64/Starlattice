@@ -7,6 +7,8 @@ Because these weapons tend to get hot very easily, especially after firing sever
 
 Plasmatic handweapons, such as rifles and pistols, almost always have insulated grips and handles. It's a safety precaution not to touch the parts of the weapon that directly connect to the main weapon system.
 
+On impact, these bolts of plasma typically produce a small flash of light, a cracking sound like a firecracker, and sparks.
+
 #### Mounted Turrets
 Mounted turrets work the same way plasmatic weapons work, except on a bigger scale. Additionally, to assist turret operators, almost every mounted turret has a targeting system installed, telling them where they should aim to get the best shot. These targeting systems take average speed and movement direction into account.
 
@@ -19,14 +21,14 @@ A plasmatic explosive detonates by surging its crystal core with a ridiculous am
  - **Core:** Mrokek
  - **Rate of Fire:** 700 rpm
  - **Length:** ~70 centimeters
- - **Projectile:** Contained plasma bolt
+ - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
  - **Muzzle Velocity:** 330 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
  - **Effective Range:** ~500 meters
 
 A KAG MP-114, shortened to MP-144, is a plasmatic rifle manufactured in the Kagalarian Empire. It uses a mrokek core.
 
-Its containment field generator holds the plasma bolts using 2 kilojoules of energy.
+Its containment field generator holds the plasma bolts using 3 kilojoules of energy.
 
 #### KAG MN-12 (KAG Mrelniy Nogen Model 12)
  - **Type:** Semi-automatic plasmatic pistol
@@ -34,26 +36,26 @@ Its containment field generator holds the plasma bolts using 2 kilojoules of ene
  - **Rate of Fire:** 600 rpm
  - **Rate of Fire:** 600 rpm
  - **Length:** 18 centimeters
- - **Projectile:** Contained plasma bolt
+ - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
  - **Muzzle Velocity:** 330 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
  - **Effective Range:** ~250 meters
 
 A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured in the Kagalarian Empire. It uses a mrokek core.
 
-Its containment field generator holds the plasma bolts using 0.8 kilojoules of energy.
+Its containment field generator holds the plasma bolts using 1 kilojoule of energy.
 
 #### KAG YP-P4 (KAG Yivniy Panovka Prototype 4)
  - **Type:** Plasmatic handweapon
  - **Core:** Mrokek
  - **Length:** ~110 centimeters
- - **Projectile:** Steady plasma output in the form of a beam
+ - **Projectile:** Steady plasma output in the form of a beam (heat estimated to be 3000 kelvins)
  - **Muzzle Velocity:** 330 m/s
  - **Effective Range:** ~50 meters
 
 A KAG YP-P4, shortened to MYP P-4, is a plasmatic rifle manufactured in the Kagalarian Empire. Instead of bolts, this rifle fires a beam of plasma by allowing a steady electrical current into its mrokek core.
 
-Its containment field generator holds the plasma beam together using 1.5 kilojoules of energy.
+Its containment field generator holds the plasma beam together using 2.5 kilojoules of energy.
 
 #### Queendom's Rifle 3 (uses phystine)
 placeholder
