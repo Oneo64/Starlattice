@@ -5,9 +5,9 @@ Plasmatic weapons are plasma-firing weapons that utilize a crystal core. Most pl
 
 Because these weapons tend to get hot very easily, especially after firing several bolts, these weapons have a built-in cooling system which activates when the weapon becomes hotter than 60 °C. The cooling system cools the weapon by extracting nitrogen from the air, turning it into liquid nitrogen, and spraying it onto the barrel.
 
-Plasmatic handweapons, such as rifles and pistols, almost always have insulated grips and handles. It's a safety precaution not to touch the parts of the weapon that directly connect to the main weapon system.
+Plasmatic handweapons, such as rifles and pistols, almost always have insulated grips and handles. It's a safety precaution not to touch the parts of the weapon that directly connect to the main weapon system. A bolt produced by a plasmatic handweapon is very hard to see at daylight, but its observed to be a streak of the same color of the crystal used to create the plasma.
 
-On impact, these bolts of plasma typically produce a small flash of light, a cracking sound like a firecracker, and sparks.
+On impact, these bolts of plasma typically produce a small flash of light, a cracking sound like a firecracker, and sparks. Injuries caused by plasmatic handweapons include 2nd to 3rd degree burns and can put a dent in concrete.
 
 #### Mounted Turrets
 Mounted turrets work the same way plasmatic weapons work, except on a bigger scale. Additionally, to assist turret operators, almost every mounted turret has a targeting system installed, telling them where they should aim to get the best shot. These targeting systems take average speed and movement direction into account.
