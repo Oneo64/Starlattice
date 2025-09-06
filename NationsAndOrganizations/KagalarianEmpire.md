@@ -11,6 +11,13 @@
 
 The **Kagalarian Empire**, known formally as the **Empire of Kagalar**, also known in its native language as *Кшавико ожан Кагалар*, is an interstellar power that is in control of a dozen planets.
 
+## Law
+Here's a list of crimes that are commitable in the Kagalarian Empire.
+
+#### Crimes (not finished, right now only lists out the non-obvious ones)
+ - **Unlawful Possession of Plasmatic Weapon:** All plasmatic weapons must have a valid license, and the weapon bearer must also have a valid license.
+ - **Improper Weapon Building:** It is a crime to build plasmatic weapons that do not have a cooling system, or with a cooling system that cannot keep the weapon under 250 °C. Plasmatic weapons that don't have these requirements could overheat to the point that they either melt or become very hazardous.
+
 ## Military
 The Kagalarian Empire has about 8 billion troops, having around 600 million on each planet. Each troop are trained for about a month before they become eligible for deployment, but will continue training after the month. Pistols are trained to be shot with one hand and their torso turned sideways. Their space fleet consists of 130 battleships, a thousand carriers, four thousand destroyers, and three hundred thousand spacefighters.
 
