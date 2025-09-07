@@ -1,5 +1,4 @@
 # Lukhan Rolov
-
 <table align=right><tbody>
 	<tr> <th colspan=2>Lukhan Rolov</th> </tr>
 	<tr> <th colspan=2>Лукшан Ролов /'lʊkʃɐn 'rolov/</th> </tr>

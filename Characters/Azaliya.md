@@ -1,5 +1,4 @@
 # Azaliya Jovomanol
-
 <table align=right><tbody>
 	<tr> <th colspan=2>Azaliya Jovomanol</th> </tr>
 	<tr> <th colspan=2>Азалія Жовоманол</th> </tr>

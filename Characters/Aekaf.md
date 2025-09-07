@@ -1,5 +1,4 @@
 # Aekaf Nolmatev
-
 <table align=right><tbody>
 	<tr> <th colspan=2>Aekaf Nolmatev</th> </tr>
 	<tr> <th colspan=2>Еикаф Нолматев</th> </tr>

@@ -1,5 +1,4 @@
 # Amolov
-
 <table align=right><tbody>
 	<tr> <th colspan=2>Amolov</th> </tr>
 	<tr> <th colspan=2>Амолов</th> </tr>
