@@ -21,9 +21,17 @@ Nevon is a man from Doryamut. He works as a programmer in the Kagalarian Militar
 ## Appearance
 Nevon has medium-length brown hair, dark green eyes, and fair skin. He wears a dark blue overcoat, dark grey pants, and a pair of black boots. His eyes are downturned, and his eyebrows are thick.
 
+Inside his overcoat, Nevon keeps a small civilian radio and a concealed plasmatic pistol (KAG MN-12).
+
 ## Personality
-Nevon is described as a creative person when it comes to solutions. He is also good-hearted but struggles with actually speaking with people, especially with boisterous ones.
+Nevon is described as a creative person when it comes to solutions. He is also good-hearted but struggles with speaking with people, especially when having a conversation with extroverts.
 
 ## Abilities
+#### Weaponry
+Nevon has a license for his KAG MN-12 and knows how to operate it.
+
+#### Programming Languages
+Nevon can write in many Kagalarian programming languages, but he is the most proficient with the one that the military uses.
+
 #### Languages
-Nevon knows many Kagalarian programming languages. His native language is Kagalarian, and he knows how to speak English.
+Nevon knows many Kagalarian programming languages. His native language is Kagalarian, and he can speak English.
