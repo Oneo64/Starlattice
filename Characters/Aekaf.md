@@ -1,0 +1,66 @@
+# Aekaf Nolmatev
+
+<table align=right><tbody>
+	<tr> <th colspan=2>Aekaf Nolmatev</th> </tr>
+	<tr> <th colspan=2>Еикаф Нолматев</th> </tr>
+	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
+	<tr> <td>Affiliation</td> <td>SMRK</td> </tr>
+	<tr> <td>Occupation</td> <td>SMRK Explorer</td> </tr>
+	<tr> <th colspan=2>Biographical information</th> </tr>
+	<tr> <td>Age</td> <td>33</td> </tr>
+	<tr> <td>Birthday</td> <td>2007</td> </tr>
+	<tr> <td>Birthplace</td> <td>Kagalar</td> </tr>
+	<tr> <th colspan=2>Physical description</th> </tr>
+	<tr> <td>Species</td> <td>Human</td> </tr>
+	<tr> <td>Gender</td> <td>Male</td> </tr>
+	<tr> <td>Hair color</td> <td>Blond</td> </tr>
+	<tr> <td>Eye color</td> <td>Brown</td> </tr>
+</tbody></table>
+
+Aekaf is a member of SMRK.
+
+## Appearance
+Aekaf is a human born on the planet Kagalar. He has brown eyes, fair skin, and his hair is short and blond.
+
+He wears a silvery-gray exploration power armour that he built himself. He managed to fit fourteen modules onto the armour, despite the documented maximum being twelve. The armour is made of fresarmanite, a metal commonly used for the hull of spacecraft (especially military warships). But because the crash created a crack in the portable crystal reactor of the power armour, sand got in, and now the reactor is weakened, not able to work any of its modules except for the spotlight.
+
+#### Modules in Aekaf's power armor
+ - **Power:** Portable Crystal Reactor
+ - **Defensive:** Point Laser Defense (4 points), Wrist-Mounted Crystal Core Guns, Landing Protection Thrusters
+ - **Scanning:** Spotlight (on helmet), Rangesight Camera (on helmet), Nightvision Camera, Heatvision Camera, Material Scanner (on hand)
+ - **Movement:** Striding Exoskeletons, Hand-Based Burst Thrusters, Jumping Thrusters
+ - **Environmental:** Heat Regulation System
+ - **Communication:** Speaker and Microphone
+
+## Personality
+Aekaf is brave and curious. He is also intelligent, shown by how he created his own power armour. When he faces simple situations, he could overthink them, thinking a more complex solution is needed.
+
+## Abilities
+#### Skills in Technological Fields
+Aekaf is proficient in engineering, welding, programming, and electronics. He knows how to repair small weapons such as plasmatic rifles.
+
+#### Languages
+Aekaf can speak Kagalarian and English.
+
+## Lore
+Aekaf was a member of SMRK, which stands for Saetar Morston Rolskiya Khnorotal (English: Exotic Planet Exploring Corporation). On his tenth exploration to an unknown planet, which they named TalmoleriyMorston-4530, the engines of his ship malfunctioned as it entered the atmosphere of the planet, and he crashlanded onto a flat, desolate rocky land covered in sand; pretty much a desert.
+
+Aekaf then proceeded to discover that sand had gotten into his armour and weakened his portable reactor. After pacing around the ship, he decided to leave the ship with a metal bar for defence. In the distance, he saw a jungle that was nothing like he had seen before. The trees were quite small compared to those on Kagalar, had oddly bluish leaves, and had really stiff branches, judging by how little they swayed in the wind. There was a pond in this grove, which bore some fish that Aekaf had never seen before. The grass was also weirdly short.
+
+Aekaf returned to his wreck of a ship to calm down and process his new situation. After a few hours, he came back out with a plasmatic pistol. He used it to shoot down a tree and use it to barricade the entrance to the ruined ship.
+
+A week later, Aekaf eventually took all the fish in the pond for eating. With just two fish left, he decided to set out to look for more food sources. While on the journey, he encountered a millipede thing (see Creatures.txt for more context). The millipede thing attacked Aekaf, but he killed it with the pistol. He found a lake, where he could fish for more food.
+
+After many weeks, the nearest water source (the pool in the thicket of alien trees) began to run out. Once again, he set off for the lake, bringing a small bowl-shaped metal piece with him. But when he looked into the lake, it was filled to the brim with dirt, algae, and other sorts of nasty things like giant floating plankton. Following the left side of the lake, he eventually found something new: the body belonging to a marfrenic explorer, lying right next to what looked like a mountain of rotting wood, dirt, and possibly feces. And then, Aekaf saw it. A couple of large, twitching antennae protruding out of a hole. He then realized they belonged to a giant bug, and this mound of decayed and defecated materials was a nest. So he ran. He looked back and saw a giant centipede slither out of its hole, followed by a couple more, to attack two giant millipedes that strode too close to the centipede nest.
+
+Eventually, he decided he couldn't take the thirst anymore and turned to the lake. He took out the bowl-shaped metal, scooped up the lake water, flicked the nasty plankton out of the bowl and drank it. It was, of course, disgusting. He almost spat it out (because it's literally alien water), but forced himself to drink it.
+
+Night came. He stayed calm and tried to build himself a shelter. But he then realized that shelter wouldn't do much against giant bugs, and it would take too long for him to make one, so he just climbed one of the small trees and rested there.
+
+When Aekaf woke in the morning, he decided to continue to look for fresh water. After hours, he finally found something: an abandoned makeshift bunker, made with alien wood. It was a big find, but not really, since it was mostly empty, except for a half-used blowtorch he found lying under a skeleton. There were also skeletal remains scattered all over the floor. It seemed as if this bunker was attacked by those giant bugs, and whoever was in there didn't survive it. The blowtorch would be good for starting a fire, which then he could boil the lake water for fresh water. When he left the makeshift bunker, he thought that maybe he could find something else, based on his recent findings. So he wandered for three hours. And then, he found another crashed ship. It was one of those marfrenic ships, specifically a commercial ship. He entered it, but it was empty. He decided to return to the bunker to look for anything else he could find.
+
+Aekaf reentered the bunker, but then, he noticed something he had never seen before. It was what looked like a corpse covered in sand. But something wasn't right; it looked too fresh. And so, naturally, Aekaf went to investigate. When he brushed off the sand, he saw a woman lying unconscious. She was wearing worn civilian clothing, with a broken marnine circlet. From Aekaf's knowledge, wealthy Escorian citizens wore marnine circlets. Aekaf woke her up and asked her if she was okay. The woman tells him that she's thirsty and that they were attacked by giant millipedes. Aekaf then made a small fire with the blowtorch and boiled water from the lake. Then he picked the metal bowl up (because he's wearing a power suit, so the hot bowl doesn't matter), and cooled it down by dipping the bottom of the bowl in the lake. He returned and gave the water to the woman in the makeshift bunker.
+
+After staying for an hour, Aekaf told the survivor that he was going to return to his crash-landed ship and asked her if he wanted to go. She agreed, so Aekaf picked her up from the underarms and led her back to the ship, almost getting lost in the process. Once back at the ship, he took down another tree with his plasmatic pistol and turned it into multiple smaller pieces. He used the blowtorch to start a fire.
+
+The next morning, Aekaf left the ship to get more water and fish from the lake.
