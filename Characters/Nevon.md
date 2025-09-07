@@ -16,7 +16,7 @@
 	<tr> <td>Eye color</td> <td>Dark green</td> </tr>
 </tbody></table>
 
-Nevon is a man from Doryamut. He works as a programmer in the Kagalarian Military and is currently working on the battle automaton Kag Yakader.
+Nevon is a programmer in the Kagalarian Military and is currently working on the battle automaton Kag Yakader. He grew up in Doryamut.
 
 ## Appearance
 Nevon has medium-length brown hair, dark green eyes, and fair skin. He wears a dark blue overcoat, dark grey pants, and a pair of black boots. His eyes are downturned, and his eyebrows are thick.
