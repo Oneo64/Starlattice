@@ -1,8 +1,8 @@
-# Azaliya Jovomaniy
+# Azaliya Jovomanol
 
 <table align=right><tbody>
-	<tr> <th colspan=2>Azaliya Jovomaniy</th> </tr>
-	<tr> <th colspan=2>Азалия Жовоманй</th> </tr>
+	<tr> <th colspan=2>Azaliya Jovomanol</th> </tr>
+	<tr> <th colspan=2>Азалія Жовоманол</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
 	<tr> <td>Affiliation</td> <td>None</td> </tr>
 	<tr> <td>Occupation</td> <td>Vigilante</td> </tr>
@@ -27,7 +27,7 @@ Azaliya is a curvaceous woman in her mid-twenties. She has shoulder-length strai
 She usually wears a red blouse, black cargo pants, and black boots. She also wears a black leather baldric that holds a KAG Plasmatic Rifle 114 on her back, and another belt on her waist to secure the barrel to her back.
 
 ## Personality
-Azaliya is usually described as a kind and polite person to other people, especially those close to her. Sometimes she is very curious of things, and would try or test something out even if it's not really a good idea. Azaliya is also a little stubborn once she decides on something.
+Azaliya is usually described as a kind and polite person to other people, especially those close to her. Sometimes she is very curious about things and would try or test something out even if it's not really a good idea. Azaliya is also a little stubborn once she decides on something.
 
 ## Abilities
-Azaliya can speak Kagalarian as her native language. She also has some skill in hijacking and parkour.
+Azaliya can speak Kagalarian as her native language. She also has some skills in hijacking and parkour.
