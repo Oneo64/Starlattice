@@ -22,13 +22,13 @@ Lukhan was born in Doryamut, Kregsorin Continent, Kagalar. He is a military comm
 ## Appearance
 Lukhan is a tall Kagalarian man at 6'1", with short brown hair, blue eyees, and fair skin. He has five plasmatic rifle burn marks on his chest, four on his back, one on his right arm, another one on his left thigh, and a scar on his back from a plasma explosion.
 
-Casually, Lukhan wears a brown trench coat, black inner shirt, black pants, and a pair of black boots.
+Casually, Lukhan wears a brown overcoat, black inner shirt, black pants, and a pair of black boots.
 
 Formally, Lukhan wears his military grade power armor for commander ranks. He also has a set of the formal Kagalarian military uniform.
 
 #### Modules in Lukhan’s power armor
  - **Power:** Portable Crystal Reactor
- - **Defensive:** Wrist-Mounted Crystal Core Guns, Blast Protection Module
+ - **Defensive:** Wrist-Mounted Crystal Core Guns, Advanced Blast Protection Module
  - **Scanning:** Nightvision Camera, Rangesight Camera
  - **Movement:** Striding Exoskeletons, Jumping Thrusters
  - **Environmental:** Heat Regulation System

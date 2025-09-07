@@ -23,7 +23,7 @@ A suit of military grade power armour is a variant of power armour designed to p
 **Standard modules installed in this power armor:**
 
  - **Power:** Portable Crystal Reactor
- - **Defensive:** Wrist-Mounted Crystal Core Guns, Blast Protection Module
+ - **Defensive:** Wrist-Mounted Crystal Core Guns, Advanced Blast Protection Module
  - **Scanning:** Nightvision Camera
  - **Movement:** Striding Exoskeletons
  - **Environmental:** Heat Regulation System
@@ -47,10 +47,15 @@ This variant has a larger and stronger oxygen cylinder (7 litres, 1750 litres of
 #### Advanced Point Laser Defense
 A point laser defence point is a small automated laser turret built onto the armour. These lasers can reach up to 10 meters, and they use a mix of colour-based and heat-based targeting systems. Because of this, if the targeting system is set to "red", it may attack any warm-blooded creature or warm object that is colored a certain amount of red.
 
-#### Blast Protection Shields
+#### Advanced Blast Protection Shields
 Blast protection shields are a forcefield that forms on the surface of the power armour. It protects from all forms of physical and energy attacks.
 
 The shielding can take 20 AK-47 shots, 20 plasma blasts, 10 high-speed repeater plasma blasts, or 1 (and a half) artillery explosions (mortar) before it runs out of energy.
+
+#### Blast Protection Shields
+Blast protection shields are a forcefield that forms on the surface of the power armour. It protects from all forms of physical and energy attacks.
+
+The shielding can take 5 AK-47 shots, 5 plasma blasts, 2 high-speed repeater plasma blasts, or subdue one artillery explosion (mortar) before it runs out of energy.
 
 #### Jumping Thrusters
 The jumping burst thrusters are an extremely weak version of a warship engine, capable of only releasing a quick burst of energy before heating up. When activated, these jump thrusters can be used to propel the user about 10 meters up in the air.
@@ -59,7 +64,7 @@ The jumping burst thrusters are an extremely weak version of a warship engine, c
 The hand-based burst thrusters are an extremely weak version of a warship engine, capable of only releasing a quick burst of energy before heating up. When activated, these hand-based burst thrusters can be used to propel the user a meter in any direction.
 
 #### Heat Regulation System
-The heat regulation system is self-explanatory; it allows the user to change the temperature in their armour. This module is effective only in the -250 °C to 50 °C.
+The heat regulation system is self-explanatory; it allows the user to change the temperature in their armour. This module is effective only in temperatures -250 °C to 50 °C.
 
 #### Landing Protection Thrusters
 The landing protection thrusters can detect whether the user is moving too fast (more than 15 m/s) in the direction it is facing. If it detects that the user is moving too fast, it automatically activates, which will slow the user down.
