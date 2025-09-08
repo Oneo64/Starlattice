@@ -20,6 +20,7 @@ A plasmatic explosive detonates by surging its crystal core with a ridiculous am
 ## Plasmatic Handweapons
 #### KAG MP-114 (KAG Mrelniy Panovka Model 114)
  - **Type:** Automatic plasmatic rifle
+ - **Manufacturer:** KAG Armoury
  - **Core:** Mrokek
  - **Rate of Fire:** 700 rpm
  - **Length:** ~70 centimeters
@@ -34,6 +35,7 @@ Its containment field generator holds the plasma bolts using 3 kilojoules of ene
 
 #### KAG MN-12 (KAG Mrelniy Nogen Model 12)
  - **Type:** Semi-automatic plasmatic pistol
+ - **Manufacturer:** KAG Armoury
  - **Core:** Mrokek
  - **Rate of Fire:** 600 rpm
  - **Length:** 17 centimeters
@@ -46,8 +48,9 @@ A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured in the Kagal
 
 Its containment field generator holds the plasma bolts using 1 kilojoule of energy.
 
-#### AON-3 (Avtit Olglor Nogen 3)
+#### AON-9 (Avtit Olgor Nogen 9)
  - **Type:** Automatic plasmatic pistol
+ - **Manufacturer:** Olgorzast Arsenal Cooperations
  - **Core:** Mrokek
  - **Rate of Fire:** 980 rpm, 700 rpm in semi-automatic
  - **Length:** ~19 centimeters
@@ -62,6 +65,7 @@ Its containment field generator holds the plasma bolts using 900 joules of energ
 
 #### KAG YP-P4 (KAG Yivniy Panovka Prototype 4)
  - **Type:** Plasmatic handweapon
+ - **Manufacturer:** KAG Armoury
  - **Core:** Mrokek
  - **Length:** ~110 centimeters
  - **Projectile:** Steady plasma output in the form of a beam (heat estimated to be 3000 kelvins)

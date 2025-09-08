@@ -21,7 +21,7 @@ Nevon is a programmer in the Kagalarian Military and is currently working on the
 ## Appearance
 Nevon has medium-length brown hair, dark green eyes, and fair skin. He wears a dark blue overcoat, dark grey pants, and a pair of black boots. His eyes are downturned, and his eyebrows are thick.
 
-Inside his overcoat, Nevon keeps a small civilian radio and a concealed plasmatic pistol (KAG MN-12).
+Inside his overcoat, Nevon keeps a small civilian radio and a concealed plasmatic pistol (AON-9).
 
 ## Personality
 Nevon is described as a creative person when it comes to solutions. He is also good-hearted but struggles with speaking with people, especially when having a conversation with extroverts.
