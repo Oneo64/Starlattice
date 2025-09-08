@@ -19,16 +19,17 @@
 Nevon is a programmer in the Kagalarian Military and is currently working on the battle automaton Kag Yakader. He grew up in Doryamut.
 
 ## Appearance
-Nevon has medium-length brown hair, dark green eyes, and fair skin. He wears a dark blue overcoat, dark grey pants, and a pair of black boots. His eyes are downturned, and his eyebrows are thick.
-
-Inside his overcoat, Nevon keeps a small civilian radio and a concealed plasmatic pistol (AON-9).
+Nevon has medium-length brown hair, dark green eyes, and fair skin. He wears a dark blue overcoat, dark grey pants, and a pair of black boots. His eyes are downturned, and his eyebrows are thick. Inside his overcoat, Nevon keeps a small civilian radio and a concealed plasmatic pistol (AON-9).
 
 ## Personality
 Nevon is described as a creative person when it comes to solutions. He is also good-hearted but struggles with speaking with people, especially when having a conversation with extroverts.
 
 ## Abilities
 #### Weaponry
-Nevon has a license for his KAG MN-12 and knows how to operate it.
+Nevon has a license for his AON-9 and knows how to operate it.
+
+#### Dagsar
+Nevon is an intermediate level in Dagsar, a Kagalarian martial art. He knows how to armlock, disarm, de-grapple, and perfom various fist strikes and leg strikes.
 
 #### Programming Languages
 Nevon can write in many Kagalarian programming languages, but he is the most proficient with the one that the military uses.

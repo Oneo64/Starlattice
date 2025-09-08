@@ -22,7 +22,7 @@ Alv is an SMRK explorer.
 ## Appearance
 Alv has medium-length brown hair that is slightly wavy, blue eyes, and a thin nose. He has tanned skin.
 
-Alv wears a beige trench coat, dark pants, and a grey pair of boots. Alv also owns a suit of exploration power armor.
+Alv wears a beige overcoat, dark pants, and a grey pair of boots. Alv also owns a suit of exploration power armor.
 
 #### Modules in Alv's power armor
  - **Power:** Portable Crystal Reactor
