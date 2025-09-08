@@ -43,7 +43,11 @@ This variant has a larger and stronger oxygen cylinder (7 litres, 1750 litres of
  - **Environmental:** Heat Regulation System
  - **Communication:** Handheld Radio, Speaker and Microphone
 
-## Power armor modules
+## Power modules
+#### Portable Crystal Reactor
+A small reactor made of an unstable crystal. This works the same way a Crystal Core Reactor works, but on a smaller scale.
+
+## Defensive modules
 #### Advanced Point Laser Defense
 A point laser defence point is a small automated laser turret built onto the armour. These lasers can reach up to 10 meters, and they use a mix of colour-based and heat-based targeting systems. Because of this, if the targeting system is set to "red", it may attack any warm-blooded creature or warm object that is colored a certain amount of red.
 
@@ -57,38 +61,39 @@ Blast protection shields are a forcefield that forms on the surface of the power
 
 The shielding can take 5 AK-47 shots, 5 plasma blasts, 2 high-speed repeater plasma blasts, or subdue one artillery explosion (mortar) before it runs out of energy.
 
-#### Jumping Thrusters
-The jumping burst thrusters are an extremely weak version of a warship engine, capable of only releasing a quick burst of energy before heating up. When activated, these jump thrusters can be used to propel the user about 10 meters up in the air.
-
-#### Hand-Based Burst Thrusters
-The hand-based burst thrusters are an extremely weak version of a warship engine, capable of only releasing a quick burst of energy before heating up. When activated, these hand-based burst thrusters can be used to propel the user a meter in any direction.
-
-#### Heat Regulation System
-The heat regulation system is self-explanatory; it allows the user to change the temperature in their armour. This module is effective only in temperatures -250 °C to 50 °C.
-
 #### Landing Protection Thrusters
 The landing protection thrusters can detect whether the user is moving too fast (more than 15 m/s) in the direction it is facing. If it detects that the user is moving too fast, it automatically activates, which will slow the user down.
 
+#### Point Laser Defense
+A point laser defence point is a small automated laser turret built onto the armour. These lasers can reach up to 10 meters, and they use a colour-based targeting system. Because of this, if the targeting system is set to "red", it may attack anyone who is wearing a certain amount of red. However, it may mistake a red flag or a red flower pot for an enemy and attack it instead.
+
+#### Wrist-Mounted Crystal Core Guns
+The wrist-mounted crystal core guns can fire a burst of three plasma bolts at a time.
+
+## Scanning modules
 #### Material Scanner
 The material scanner is a scanning device that can be mounted anywhere. It takes a few seconds to scan, which will then send its data to a small screen. When the scan is complete, a list of the top 5 elements found in the scan is returned, including their composition percentage, periodic symbol, state of matter, and percentage of neutrons, protons, and electrons.
 
 #### Nightvision and Heatvision Camera
 The nightvision and heatvision cameras streamline data to a small screen inside the helmet.
 
-#### Point Laser Defense
-A point laser defence point is a small automated laser turret built onto the armour. These lasers can reach up to 10 meters, and they use a colour-based targeting system. Because of this, if the targeting system is set to "red", it may attack anyone who is wearing a certain amount of red. However, it may mistake a red flag or a red flower pot for an enemy and attack it instead.
-
-#### Portable Crystal Reactor
-A small reactor made of an unstable crystal. This works the same way a Crystal Core Reactor works, but on a smaller scale.
-
 #### Rangesight Camera
-The rangesight camera is a camera that is designed to zoom in on faraway objects. Standing at 1 kilometre away, you should be able to see an apple on a table just clear enough to make out what it is.	
+The rangesight camera is a camera that is designed to zoom in on faraway objects. Standing at 1 kilometre away, you should be able to see an apple on a table just clear enough to make out what it is.
 
-#### Speaker and Microphone
-The speaker and microphone allow clear communication outside the power armour.
+## Movement modules
+#### Jumping Thrusters
+The jumping burst thrusters are an extremely weak version of a warship engine, capable of only releasing a quick burst of energy before heating up. When activated, these jump thrusters can be used to propel the user about 10 meters up in the air.
+
+#### Hand-Based Burst Thrusters
+The hand-based burst thrusters are an extremely weak version of a warship engine, capable of only releasing a quick burst of energy before heating up. When activated, these hand-based burst thrusters can be used to propel the user a meter in any direction. These thusters can also be used offensively, but the user must be at least a metre close to the intended target for the plasma exhaust to hit. Even though this plasma exhaust is around 350 degrees Celsius, it isn't hot enough to start a fire since the plasma dissipates into the air too quickly.
 
 #### Striding Exoskeletons
 This module is built on the back of the legs, which amplify the speed the user can run from 7 m/s to 14 m/s.
 
-#### Wrist-Mounted Crystal Core Guns
-The wrist-mounted crystal core guns can fire a burst of three plasma bolts at a time.
+## Environmental modules
+#### Heat Regulation System
+The heat regulation system is self-explanatory; it allows the user to change the temperature in their armour. This module is effective only in temperatures -250 °C to 50 °C.
+
+## Communication modules
+#### Speaker and Microphone
+The speaker and microphone allow clear communication outside the power armour.
