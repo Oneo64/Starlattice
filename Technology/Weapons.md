@@ -49,7 +49,7 @@ Its containment field generator holds the plasma bolts using 1 kilojoule of ener
 #### AON-3 (Avtit Olglor Nogen 3)
  - **Type:** Automatic plasmatic pistol
  - **Core:** Mrokek
- - **Rate of Fire:** 980 rpm
+ - **Rate of Fire:** 980 rpm, 700 rpm in semi-automatic
  - **Length:** ~19 centimeters
  - **Projectile:** Contained plasma bolt (4 grams, heat estimated to be 1600 kelvins)
  - **Muzzle Velocity:** 290 m/s
