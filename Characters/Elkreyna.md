@@ -28,10 +28,9 @@ Casually, Elkreyna wears a dark, pale green overcoat with embroidered sleeve hem
 Elkreyna is pleasant yet energetic and has an optimistic view of the future. She likes to talk to people about things such as aliens and sometimes about common gossip. However, she is easily distracted by anything to do with aliens and is willing to take unnecessary risks.
 
 ## Abilities
-#### Biology
+#### Biology & Xenobiology
 Elkreyna knows a bit of biology. In addition to common animals, she has studied the anatomies and behaviours of multiple native Kagalarian species such as nanopi and sorkuls.
-
-###### Xenobiology
+ 
 While it is just a theory, Elkreyna has studied theories on silicon-based lifeforms. Currently in her record, she has helped complete the research of the acid mouths, an alienous creature that spews acid from its mouth.
 
 #### Language
