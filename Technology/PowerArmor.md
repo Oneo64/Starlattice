@@ -30,7 +30,7 @@ A suit of military grade power armour is a variant of power armour designed to p
  - **Communication:** Handheld Radio, Speaker and Microphone
 
 #### Exploration Power Armor
-A suit of exploration power armour is a variant of power armour designed to protect the wearer from all sorts of environmental hazards and monstrous threats. It can carry at most two of each module type. It can carry at most 12 modules. There is a thin 0.5 cm layer of lead built inside to protect the wearer from radiation.
+A suit of exploration power armour is a variant of power armour designed to protect the wearer from various environmental hazards and monstrous threats. It can carry at most two of each module type. It can carry at most 12 modules. There is a thin 0.5 cm layer of lead built inside to protect the wearer from radiation, and then a thin plastic layer to prevent lead poisoning.
 
 This variant has a larger and stronger oxygen cylinder (7 litres, 1750 litres of air at 250 bar) that can sustain 3.5 hours of breathing, or 35 minutes if the wearer is breathing heavily.
 
