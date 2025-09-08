@@ -77,6 +77,9 @@ The material scanner is a scanning device that can be mounted anywhere. It takes
 #### Nightvision and Heatvision Camera
 The nightvision and heatvision cameras streamline data to a small screen inside the helmet.
 
+#### Radiation Sampler
+The radiation sampler samples a small amount of the outside air and sends the data to a small screen inside the helmet, which then displays the radiation levels.
+
 #### Rangesight Camera
 The rangesight camera is a camera that is designed to zoom in on faraway objects. Standing at 1 kilometre away, you should be able to see an apple on a table just clear enough to make out what it is.
 
