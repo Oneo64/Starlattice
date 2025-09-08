@@ -36,3 +36,7 @@ Nevon can write in many Kagalarian programming languages, but he is the most pro
 
 #### Languages
 Nevon knows many Kagalarian programming languages. His native language is Kagalarian, and he can speak English.
+
+## Relations
+#### Alv
+Nevon is friends with Alv.
