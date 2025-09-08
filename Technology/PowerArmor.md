@@ -91,4 +91,4 @@ The speaker and microphone allow clear communication outside the power armour.
 This module is built on the back of the legs, which amplify the speed the user can run from 7 m/s to 14 m/s.
 
 #### Wrist-Mounted Crystal Core Guns
-The wrist-mounted crystal core guns can fire a burst of three at a time, with each projectile being a thin, bright blue bolt of supercompressed plasma.
+The wrist-mounted crystal core guns can fire a burst of three plasma bolts at a time.
