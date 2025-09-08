@@ -4,7 +4,7 @@
 	<tr> <th colspan=2>Невон Фоленсен</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
 	<tr> <td>Affiliation</td> <td>Kagalarian Military</td> </tr>
-	<tr> <td>Occupation</td> <td>Robotics Engineer<br>Programmer</td> </tr>
+	<tr> <td>Occupation</td> <td>Military Robotics Engineer<br>Programmer</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>21</td> </tr>
 	<tr> <td>Birthday</td> <td>2019</td> </tr>
