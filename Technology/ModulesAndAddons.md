@@ -35,7 +35,7 @@ When materialised, the wormhole appears as a giant, grey, smoky ring, big enough
  - **Between planets:** 1 to 3 minutes *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
  - **Across a star system:** 30 minutes *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
  - **Between star systems:** 2+ hours *(wormhole strength at 2000 AU/s, or 300,000 kn/s)*
- - **Between far-away star systems:** 1+ days *(wormhole strength at 2000 AU/s, or 300,000 kn/s)*
+ - **Between far-away star systems:** 2+ days *(wormhole strength at 2000 AU/s, or 300,000 kn/s)*
  - **Across a galaxy:** approximately 19 years *(at full wormhole strength, which is 10,000 AU/s, or 1,500,000 kn/s)*
 
 #### Shield Generator Module
