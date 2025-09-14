@@ -26,7 +26,7 @@ Of course, there is also an automatic fail-safe system. When the amount of plasm
 
 ## Optional Spacecraft Modules
 #### Wormhole Transport Module
-This module is an FTL system installed on a ship to create travelling wormholes using a magical crystal. Even though the travelling speed in the wormhole is about 2000 m/s (2 mn/s), the travelling speed to the target is much faster. The most powerful models can create wormholes with an exterior speed of 2000 AU/s.
+This module is an FTL system installed on a ship to create travelling wormholes using a magical crystal. Even though the travelling speed in the wormhole is about 2000 m/s (2 mn/s), the travelling speed to the target is much faster. The most powerful models can create wormholes with an exterior speed of 1000 AU/s.
 
 When materialised, the wormhole appears as a giant, grey, smoky ring, big enough to fit the ship that created it. Green lightning rapidly connects random points of the ring, creating flashes of green.
 
@@ -34,9 +34,9 @@ When materialised, the wormhole appears as a giant, grey, smoky ring, big enough
  - **Across a planet:** 5 to 15 seconds *(wormhole strength at 0.00006 AU/s, or 10 mn/s)*
  - **Between planets:** 1 to 3 minutes *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
  - **Across a star system:** 30 minutes *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
- - **Between star systems:** 2+ hours *(at full wormhole strength, which is 2000 AU/s, or 300,000 kn/s)*
- - **Between far-away star systems:** 1+ days *(at full wormhole strength, which is 2000 AU/s, or 300,000 kn/s)*
- - **Across a galaxy:** approximately 36 days *(at full wormhole strength, which is 2000 AU/s, or 300,000 kn/s)*
+ - **Between star systems:** 4+ hours *(at full wormhole strength, which is 1000 AU/s, or 150,000 kn/s)*
+ - **Between far-away star systems:** 2+ days *(at full wormhole strength, which is 1000 AU/s, or 150,000 kn/s)*
+ - **Across a galaxy:** approximately 72 days *(at full wormhole strength, which is 1000 AU/s, or 150,000 kn/s)*
 
 #### Shield Generator Module
 Generates a force field around a ship. The force field acts like an inverted gravity field that pushes things away instead of pulling them in. This force field has a maximum distance of affection.
