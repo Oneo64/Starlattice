@@ -8,7 +8,7 @@
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>21</td> </tr>
 	<tr> <td>Birthday</td> <td>2019</td> </tr>
-	<tr> <td>Birthplace</td> <td>Doryamut, Kregsorin, Kagalar</td> </tr>
+	<tr> <td>Birthplace</td> <td>Jovomut, Kregsorin, Kagalar</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
@@ -16,7 +16,9 @@
 	<tr> <td>Eye color</td> <td>Dark green</td> </tr>
 </tbody></table>
 
-Nevon is a programmer in the Kagalarian Military and is currently working on the battle automaton Kag Yakader. He grew up in Doryamut.
+Nevon is a programmer in the Kagalarian Military and is currently working on the battle automaton Kag Yakader. He grew up in Jovomut.
+
+Nevon currently lives in an apartment. He is on the 8th floor, number 86.
 
 ## Appearance
 Nevon has medium-length brown hair, dark green eyes, and fair skin. He wears a dark blue overcoat, dark grey pants, and a pair of black boots. His eyes are downturned, and his eyebrows are thick. Inside his overcoat, Nevon keeps a small civilian radio and a concealed plasmatic pistol (AON-9).
@@ -39,4 +41,4 @@ Nevon knows many Kagalarian programming languages. His native language is Kagala
 
 ## Relations
 #### Alv
-Nevon is friends with Alv.
+Alv is Nevon's former friend and roommate in university. Although now they have each other's phone numbers, they rarely message/call each other.
