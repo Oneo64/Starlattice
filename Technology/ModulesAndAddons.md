@@ -31,9 +31,9 @@ This module is an FTL system installed on a ship to create travelling wormholes 
 When materialised, the wormhole appears as a giant, grey, smoky ring, big enough to fit the ship that created it. Green lightning rapidly connects random points of the ring, creating flashes of green.
 
 ###### Travel times
- - **Across a planet:** 5 to 15 seconds *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
- - **Between planets:** 30 seconds to 1 minute *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
- - **Across a star system:** 15 minutes *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
+ - **Across a planet:** 5 to 15 seconds *(wormhole strength at 0.00006 AU/s, or 10 mn/s)*
+ - **Between planets:** 1 to 3 minutes *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
+ - **Across a star system:** 30 minutes *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
  - **Between star systems:** 2+ hours *(at full wormhole strength, which is 2000 AU/s, or 300,000 kn/s)*
  - **Between far-away star systems:** 1+ days *(at full wormhole strength, which is 2000 AU/s, or 300,000 kn/s)*
  - **Across a galaxy:** approximately 36 days *(at full wormhole strength, which is 2000 AU/s, or 300,000 kn/s)*
