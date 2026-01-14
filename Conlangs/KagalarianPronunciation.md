@@ -6,7 +6,7 @@ Stress is usually at the beginning or the middle of the word.
 	<tr> <td>Аа</td> <td>/ɐ/</td> <td></td> </tr>
 	<tr> <td>Ее</td> <td>/ɛ ә/</td> <td>еже /'ɛʒɛ/, фемел /'fɛmɛɫ/, жерат /'ʒɛrɐt/, солерат /'solɛrɐt/, емертат /'ɛmәɹtɐt/, гьрк /gәɹk/</td> </tr>
 	<tr> <td>Іі</td> <td>/ɪ/</td> <td></td> </tr>
-	<tr> <td>Ии</td> <td>/iː/</td> <td></td> </tr>
+	<tr> <td>Ии</td> <td>/iː/</td> <td>ахорстни /ɐ'xoɹstniː/</td> </tr>
 	<tr> <td>Оо</td> <td>/o/</td> <td></td> </tr>
 	<tr> <td>Ьь</td> <td>/ʌ/</td> <td></td> </tr>
 	<tr> <td>Уу</td> <td>/ʊː/</td> <td></td> </tr>
@@ -18,6 +18,7 @@ Stress is usually at the beginning or the middle of the word.
 	<tr> <td>Єє</td> <td>/jɛː/</td> </tr>
 	<tr> <td>Її</td> <td>/jiː/</td> </tr>
 	<tr> <td>Юю</td> <td>/joː/</td> </tr>
+	<tr> <td>ЙУ йу</td> <td>/jʊː/</td> </tr>
 	<tr> <td>АИ аи</td> <td>/ɐiː/</td> </tr>
 	<tr> <td>ЄИ єи</td> <td>/ɛiː/</td> </tr>
 	<tr> <td>ОИ ои</td> <td>/oiː/</td> </tr>
