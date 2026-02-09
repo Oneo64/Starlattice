@@ -8,7 +8,7 @@
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>21</td> </tr>
 	<tr> <td>Birthday</td> <td>2019</td> </tr>
-	<tr> <td>Birthplace</td> <td>Jovomut, Kregsorin, Kagalar</td> </tr>
+	<tr> <td>Birthplace</td> <td>Javona, Kregsorin, Kagalar</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
@@ -16,7 +16,7 @@
 	<tr> <td>Eye color</td> <td>Dark green</td> </tr>
 </tbody></table>
 
-Nevon is a programmer in the Kagalarian Military and is currently working on the battle automaton Kag Yakader. He grew up in Jovomut.
+Nevon is a programmer in the Kagalarian Military and is currently working on the battle automaton Kag Yakader. He grew up in Javona.
 
 Nevon currently lives in an apartment. He is on the 8th floor, number 86.
 

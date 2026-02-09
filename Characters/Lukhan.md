@@ -8,7 +8,7 @@
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>27</td> </tr>
 	<tr> <td>Birthday</td> <td>2013</td> </tr>
-	<tr> <td>Birthplace</td> <td>Doryamut, Kregsorin, Kagalar</td> </tr>
+	<tr> <td>Birthplace</td> <td>Jovikal, Kregsorin, Kagalar</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
@@ -17,7 +17,7 @@
 	<tr> <td>Eye color</td> <td>Blue</td> </tr>
 </tbody></table>
 
-Lukhan was born in Doryamut, Kregsorin Continent, Kagalar. He is a military commander and operates the wormhole system on High Commander Garinor's battleship. He is also a security overseer on his commander's battleship.
+Lukhan was born in Jovikal, Kregsorin Continent, Kagalar. He is a military commander and operates the wormhole system on High Commander Garinor's battleship. He is also a security overseer on his commander's battleship.
 
 ## Appearance
 Lukhan is a tall Kagalarian man at 6'1", with short brown hair, blue eyees, and fair skin. He has five plasmatic rifle burn marks on his chest, four on his back, one on his right arm, another one on his left thigh, and a scar on his back from a plasma explosion.
