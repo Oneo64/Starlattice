@@ -4,7 +4,7 @@
 	<tr> <td>Founding date</td> <td>858 (beginning)<br>1246 (full establishment of the Kagalarian Empire)</td> </tr>
    <tr> <td>Scope of influence</td> <td>Interstellar (12 planets in control)</td> </tr>
 	<tr> <td>Capital planet</td> <td>Kagalar</td> </tr>
-	<tr> <td>Location of the main base</td> <td>North of Doryamut, Kregsorin, Kagalar</td> </tr>
+	<tr> <td>Location of the main base</td> <td>North of Jovikal, Kregsorin, Kagalar</td> </tr>
 	<tr> <td>Main language</td> <td>Kagalarian</td> </tr>
 	<tr> <td>Main currency</td> <td>Orlaks</td> </tr>
 </tbody></table>
@@ -43,7 +43,7 @@ There is a runway connecting the gate to a nearby air and spacecraft field. The 
 
 The ground level is a vehicle storage with many vehicles such as cars, armoured cars, tanks, etc.
 
-This military base is about 20 kilometres north of Doryamut.
+This military base is about 20 kilometres north of Jovikal.
 
 #### Uniforms
  - **Infantry and Captains:**
