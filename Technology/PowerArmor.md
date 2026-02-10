@@ -31,7 +31,7 @@ A suit of military-grade power armour is a variant of power armour designed to p
 **Standard modules installed in this power armour:**
 
  - **Power:** Portable Crystal Reactor
- - **Defensive:** Wrist-Mounted Crystal Core Guns, Advanced Blast Protection Module
+ - **Defensive:** Advanced Blast Protection Module
  - **Scanning:** Nightvision Camera
  - **Movement:** Striding Exoskeletons
  - **Environmental:** Heat Regulation System
@@ -45,7 +45,7 @@ This variant has a larger and stronger oxygen cylinder (7 litres, 1750 litres of
 **Standard modules installed in this power armour:**
 
  - **Power:** Portable Crystal Reactor
- - **Defensive:** Wrist-Mounted Crystal Core Guns
+ - **Defensive:** *none*
  - **Scanning:** Spotlight (on helmet), Nightvision Camera, Material Scanner (on hand)
  - **Movement:** Striding Exoskeletons, Hand-Based Burst Thrusters
  - **Environmental:** Heat Regulation System

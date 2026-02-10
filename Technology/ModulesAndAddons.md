@@ -92,9 +92,6 @@ The landing protection thrusters can detect whether the user is moving too fast 
 #### Point Laser Defense
 A point laser defence point is a small automated laser turret built onto the armour. These lasers can reach up to 10 meters, and they use a colour-based targeting system. Because of this, if the targeting system is set to "red", it may attack anyone who is wearing a certain amount of red. However, it may mistake a red flag or a red flower pot for an enemy and attack it instead.
 
-#### Wrist-Mounted Crystal Core Guns
-The wrist-mounted crystal core guns can fire a burst of three plasma bolts at a time.
-
 ### Scanning modules
 #### Material Scanner
 The material scanner is a scanning device that can be mounted anywhere. It takes a few seconds to scan, which will then send its data to a small screen. When the scan is complete, a list of the top 5 elements found in the scan is returned, including their composition percentage, periodic symbol, state of matter, and percentage of neutrons, protons, and electrons.

@@ -26,7 +26,7 @@ Alv wears a beige overcoat, dark pants, and a grey pair of boots. Alv also owns 
 
 #### Modules in Alv's power armor
  - **Power:** Portable Crystal Reactor
- - **Defensive:** Blast Protection Shields, Wrist-Mounted Crystal Core Guns
+ - **Defensive:** Blast Protection Shields
  - **Scanning:** Spotlight (on helmet), Nightvision Camera, Material Scanner (on hand)
  - **Movement:** Striding Exoskeletons, Hand-Based Burst Thrusters, Jumping Thrusters
  - **Environmental:** Heat Regulation System

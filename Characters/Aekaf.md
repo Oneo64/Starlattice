@@ -25,7 +25,7 @@ He wears a silvery-gray exploration power armour that he built himself. He manag
 
 #### Modules in Aekaf's power armor
  - **Power:** Portable Crystal Reactor
- - **Defensive:** Point Laser Defense (4 points), Wrist-Mounted Crystal Core Guns, Landing Protection Thrusters
+ - **Defensive:** Point Laser Defense (4 points), Landing Protection Thrusters
  - **Scanning:** Spotlight (on helmet), Rangesight Camera (on helmet), Nightvision Camera, Heatvision Camera, Material Scanner (on hand)
  - **Movement:** Striding Exoskeletons, Hand-Based Burst Thrusters, Jumping Thrusters
  - **Environmental:** Heat Regulation System
