@@ -1,4 +1,4 @@
-# Metals, crystals, and other minerals
+# Minerals
 ## Metals
 #### Fresenite
 Fresenite is a hard, white metal used for building structural frames.
@@ -36,12 +36,16 @@ Illisinion is a beautiful white crystal that has a bright glint and streaks of g
 
 ## Magic Crystals
 #### Mrokek
-Mrokek is an unstable blue crystal that glows. Its unstableness is marked by darker, browner spots within the crystal, giving it a dirty appearance.
+Mrokek is an unstable blue crystal that glows in the dark. Its instability is marked by darker, browner spots within the crystal, giving it a dirty appearance.
 
-Because mrokek crystals are unstable, they are commonly used for weapons and explosives in the Kagalarian Empire.
+Because mrokek crystals are unstable, they are commonly used for weapons and explosives in the Kagalarian Empire. They are also the most prevalent type of crystal in Star System KA-A, making them a... "stable" ingredient in weapons production.
+
+Since these crystals are classified as unstable, they generate plasma and expel it outwards when electricity is shot into them, making them semi-volatile.
 
 #### Mroken
 Mroken is a stable blue crystal that glows. Unlike mrokek, mroken doesn't have any darker or brown spots inside. These crystals are used for various miscellaneous things, such as heaters.
+
+It's possible to destablise mroken into mrokek by shooting high amounts of radiation into the crystal (this is obviously very dangerous).
 
 #### Phystine
 Phystine is a glowing, pale red crystal. They are used for weapons and explosives.
@@ -63,6 +67,6 @@ Anglothite is a red, amber-like crystal. It feels warm to the touch even in icy 
 Silartite is a rare crystal used to enchant objects. It glows and is deep purple with darker spots.
 
 #### Marnine
-Marnine is a beautiful green crystal, prized for its extraordinary magical properties, where jewellery made of this can heal the wearer of lost limbs and wounds.
+Marnine is a beautiful green crystal, prized for its extraordinary magical properties, where jewellery made of this can heal the wearer of lost limbs and wounds. The rate at which lost limbs are regenerated is about two months, whereas wounds take about a week to heal.
 
-Marnine jewellery can regenerate lost limbs in about two months, whereas wounds take about a week to heal.
+Marnine is also one of the most expensive crystals in the universe, for it is also very rare to find.
