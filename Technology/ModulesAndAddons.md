@@ -64,8 +64,8 @@ Basic radar systems. Each ship usually has 6 points where radar waves are fired 
 
 The radar returns its distance outputs in maglonakins.
 
-#### Mirror Armor Module
-Many mirrors are installed on the ship's hull. Laser weapons are almost useless against ships with this module installed, and are much harder to see during daytime or inside nebulae.
+#### Mirror Armour Module
+This type of module involves using a prism-textured mirror surface to weaken harmful lasers. This type of armour usually comes in panels, cut and fitted onto a ship's hull. Inside the mirror is a coating of an aluminum and fresenite mixture.
 
 ## Power Armour Modules
 ### Power modules
@@ -124,4 +124,4 @@ The heat regulation system is self-explanatory; it allows the user to change the
 
 ### Communication modules
 #### Speaker and Microphone
-The speaker and microphone allow clear communication outside the power armour.
+The speaker and microphone allow clear communication outside the power armour. But, because this module is much smaller than a regular handheld radio, the sound quality isn't as good.

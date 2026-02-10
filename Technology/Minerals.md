@@ -1,13 +1,16 @@
 # Minerals
 ## Metals
 #### Fresenite
-Fresenite is a hard, white metal used for building structural frames.
+Fresenite is a white, reflective metal.
 
 #### Armanite
-Armanite is a hard, white metal used for making armour.
+Armanite is a hard, white metal known for its plasma and radiation resistance. It is most commonly used to make blast-resistant armour.
 
 #### Fresarmanite Alloy
 Fresarmanite is an extremely strong alloy made of fresenite and armanite. This alloy is used for building the hulls of spaceships.
+
+#### Fresenite Steel
+Fresenite Steel is a strong steel alloy of iron and fresenite. It is used to build structural frames in common buildings, skyscrapers, bunkers, and warships.
 
 #### Arsenium
 Arsenium is a soft brown metal used for wiring.
