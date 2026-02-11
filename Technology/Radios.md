@@ -18,7 +18,7 @@ Military-grade radios are large, heavy-duty radios that can only be fixed to the
 
 These radios use the same identification and encryption system as handheld radios, requiring an ID and a code before they can be used.
 
-The limitation of these radios is that beyond their range, or through around 40 meters of thick material (like concrete), their messages will start to go fuzzy and eventually disappear.
+The limitation of these radios is that, through around 40 meters of thick material (or beyond their range), their messages will start to go fuzzy and eventually disappear.
 
 ## Table of Stats
 <table><tbody>
