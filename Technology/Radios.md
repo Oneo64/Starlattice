@@ -21,7 +21,7 @@ These radios use the same identification and encryption system as handheld radio
 The limitation of these radios is that beyond their range, or through around 40 meters of thick material (like concrete), their messages will start to go fuzzy and eventually disappear.
 
 ## Table of Stats
-<table align=right><tbody>
+<table><tbody>
 	<tr> <th>Type</th> <th>Mobility</th> <th>Range</th> <th>En/decryption</th> <th>Limitation</th> </tr>
 	<tr> <th>Civilian</th> <td>Portable</td> <td>N/A</td> <td>No</td> <td>Cannot broadcast</td> </tr>
 	<tr> <th>Handheld</th> <td>Portable in hand</td> <td>About 300 km</td> <td>Yes</td> <td>About 5 m of solid material</td> </tr>
