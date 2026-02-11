@@ -2,7 +2,7 @@
 Radios, just like the ones in our world, are portable sound transmitters allowing long-range communication. They come in three main forms: civilian, handheld, and military-grade.
 
 ## Civilian Radios
-Civilian radios are small, moderately heavy radios that most people use. They are similar to a visual-less TV that is easier to carry around. Since these are for civilians, they cannot broadcast messages and are used for radio stations, advertisements, and music.
+Civilian radios are small, moderately heavy radios that are used to listen to radio stations, advertisements, and music. Unlike the other types of radios, they cannot send messages.
 
 ## Handheld Radios
 Handheld radios are small radio devices that fit into one's hand, used as a quick way to communicate between members of large organisations, such as law enforcement and the military. However, every radio is encoded.
