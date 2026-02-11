@@ -12,8 +12,8 @@ Getting past that encryption requires the person (or the manufacturer) to set a 
 Once set, the user can send live voice messages to other radios by specifying an ID and/or a broadcast range.
 
 ## Military-grade Radios
-Military-grade radios are large, heavy-duty radios that cannot be carried. They are fixed to the ground as machines or carried on vehicles. These radios, however, are favoured in military environments since their broadcast range is so great that any radio across a star system can receive their messages.
+Military-grade radios are large, heavy-duty radios that cannot be carried. They are fixed to the ground as machines or carried on vehicles. These radios, however, are favoured in military environments since their broadcast range is so great that any radio across a star system can receive their messages. The reason they are so powerful is that they use a large magical crystal, which is also why they are so heavy.
 
-These radios are so powerful because they use a large magical crystal, which is also why they are so heavy.
+These radios use the same identification system as handheld radios, requiring an ID and a code before they can be used.
 
-The limitation of these radios is that after a few hundred thousand astronomical units, or through several meters of thick material, their messages will start to go fuzzy and eventually disappear.
+The limitation of these radios is that after a few hundred thousand astronomical units, or through around 40 meters of thick material (like concrete), their messages will start to go fuzzy and eventually disappear.
