@@ -29,7 +29,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
  - **Core:** Mrokek
  - **Rate of Fire:** 700 rpm
  - **Length:** ~70 centimeters
- - **Weight:** ~3.4 kilograms
+ - **Weight:** ~3.6 kilograms
  - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
  - **Muzzle Velocity:** 360 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
