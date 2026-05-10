@@ -128,7 +128,7 @@ An all-purpose weapon.
 
 #### High-speed Repeater
  - **Type:** Mounted Turret
- - **Rate of Fire:** 900 rpm
+ - **Rate of Fire:** 800 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 400 m/s
  - **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
