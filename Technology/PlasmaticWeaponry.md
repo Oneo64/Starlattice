@@ -148,7 +148,7 @@ An all-purpose weapon mounted on spacefighters and other similar spacecraft.
 #### Long-range Laser Projector
  - **Type:** Mounted Turret
  - **Projectile:** Laser
- - **Destruction Equivalent:** 500 grams of TNT per second
+ - **Destruction Equivalent:** 1 centimetre of penetration per second (for fresarmanite plating)
  - **Effective Range:** 200 kilometres (0.2 kacholnakins)
 
 A long-range laser projector is a laser-firing mounted turret, designed to attack ships that have a shield generator or are fast.
