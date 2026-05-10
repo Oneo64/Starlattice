@@ -132,7 +132,7 @@ An all-purpose weapon.
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 400 m/s
  - **Destruction Equivalent:** 10 grams of TNT
- - **Effective Range:** 3 kilometers
+ - **Effective Range:** 2 kilometers
 
 Designed to mow down crowds of enemies.
 
