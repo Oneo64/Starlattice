@@ -148,7 +148,7 @@ An all-purpose weapon mounted on spacefighters and other similar spacecraft.
 #### Long-range Laser Projector
  - **Type:** Mounted Turret
  - **Projectile:** Laser
- - **Penetration per Second:** 3.5 centimetres (for fresarmanite plating), 5 centimetres (for typical steel), 5 to 40 centimetres (for civilian concrete)
+ - **Penetration per Second:** 3.5 centimetres (for fresarmanite plating), 5 centimetres (for typical steel), 30 centimetres (for civilian concrete, but the total performance range is 10 to 40 centimetres)
  - **Effective Range:** 200 kilometres (0.2 kacholnakins)
 
 A long-range laser projector is a laser-firing mounted turret, designed to attack ships that have a shield generator or are fast.
