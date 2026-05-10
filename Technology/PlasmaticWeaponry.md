@@ -111,7 +111,7 @@ Missile launchers are too heavy to go onto smaller spacecraft such as civilian t
  - **Rate of Fire:** 300 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 500 m/s
- - **Destruction Equivalent:** 25 grams of TNT
+ - **Destruction Equivalent:** 30 grams of TNT
  - **Effective Range:** 5 kilometers
 
 Designed to destroy spacefighters.
@@ -141,7 +141,7 @@ Designed to mow down crowds of enemies.
  - **Rate of Fire:** 300 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 330 m/s, 500 m/s when shot from a flying spacefighter
- - **Destruction Equivalent:** 25 grams of TNT
+ - **Destruction Equivalent:** 30 grams of TNT
  - **Effective Range:** 5 kilometers
 
 An all-purpose weapon mounted on spacefighters and other similar spacecraft.
