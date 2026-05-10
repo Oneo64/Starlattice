@@ -91,6 +91,7 @@ Its containment field generator holds the plasma beam together using 2.5 kilojou
  - **Kill radius:** 3 meters
  - **Blast radius:** 7 meters
  - **Shock radius:** 15 meters
+ - **Destruction Equivalent:** 150 grams of TNT
 
 The grenade's shell is made of arsenium. After 5 seconds of the pin being pulled, the grenade's detonation mechanism activates.
 
@@ -110,7 +111,7 @@ Missile launchers are too heavy to go onto smaller spacecraft such as civilian t
  - **Rate of Fire:** 300 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 500 m/s
- - **Destruction Equivalent:** 500 grams of TNT
+ - **Destruction Equivalent:** 25 grams of TNT
  - **Effective Range:** 5 kilometers
 
 Designed to destroy spacefighters.
@@ -130,7 +131,7 @@ An all-purpose weapon.
  - **Rate of Fire:** 1200 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 330 m/s
- - **Destruction Equivalent:** 100 grams of TNT
+ - **Destruction Equivalent:** 10 grams of TNT
  - **Effective Range:** 2 kilometers
 
 Designed to mow down crowds of enemies.
@@ -140,7 +141,7 @@ Designed to mow down crowds of enemies.
  - **Rate of Fire:** 300 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 330 m/s, 500 m/s when shot from a flying spacefighter
- - **Destruction Equivalent:** 500 grams of TNT
+ - **Destruction Equivalent:** 25 grams of TNT
  - **Effective Range:** 5 kilometers
 
 An all-purpose weapon mounted on spacefighters and other similar spacecraft.
