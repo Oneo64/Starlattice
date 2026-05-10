@@ -31,7 +31,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
  - **Length:** ~70 centimeters
  - **Weight:** ~3.6 kilograms
  - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
- - **Muzzle Velocity:** 360 m/s
+ - **Muzzle Velocity:** 400 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
  - **Effective Range:** ~500 meters
 
@@ -47,7 +47,7 @@ These rifles use a mrokek core, causing its bolts to appear blue, and its contai
  - **Length:** 17 centimeters
  - **Weight:** ~680 grams
  - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
- - **Muzzle Velocity:** 330 m/s
+ - **Muzzle Velocity:** 400 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
  - **Effective Range:** ~200 meters
 
@@ -63,7 +63,7 @@ Its containment field generator holds the plasma bolts using 1 kilojoule of ener
  - **Length:** ~19 centimeters
  - **Weight:** ~700 grams
  - **Projectile:** Contained plasma bolt (4 grams, heat estimated to be 1600 kelvins)
- - **Muzzle Velocity:** 290 m/s
+ - **Muzzle Velocity:** 320 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
  - **Effective Range:** ~100 meters
 
@@ -78,7 +78,7 @@ Its containment field generator holds the plasma bolts using 900 joules of energ
  - **Length:** ~110 centimeters
  - **Weight:** ~9 kilograms
  - **Projectile:** Steady plasma output in the form of a beam (heat estimated to be 3000 kelvins)
- - **Muzzle Velocity:** 330 m/s
+ - **Muzzle Velocity:** 350 m/s
  - **Effective Range:** ~50 meters
 
 A KAG YP-P4, shortened to MYP P-4, is a plasmatic rifle manufactured in the Kagalarian Empire. Instead of bolts, this rifle fires a beam of plasma by allowing a steady electrical current into its mrokek core.
@@ -120,7 +120,7 @@ Designed to destroy spacefighters.
  - **Type:** Mounted Turret
  - **Rate of Fire:** 60 rpm
  - **Projectile:** Contained plasma bolt
- - **Muzzle Velocity:** 400 m/s
+ - **Muzzle Velocity:** 500 m/s
  - **Destruction Equivalent:** 1.5 kilograms of TNT
  - **Effective Range:** 30 kilometers
 
@@ -128,11 +128,11 @@ An all-purpose weapon.
 
 #### High-speed Repeater
  - **Type:** Mounted Turret
- - **Rate of Fire:** 1200 rpm
+ - **Rate of Fire:** 900 rpm
  - **Projectile:** Contained plasma bolt
- - **Muzzle Velocity:** 330 m/s
+ - **Muzzle Velocity:** 400 m/s
  - **Destruction Equivalent:** 10 grams of TNT
- - **Effective Range:** 2 kilometers
+ - **Effective Range:** 3 kilometers
 
 Designed to mow down crowds of enemies.
 
@@ -140,7 +140,7 @@ Designed to mow down crowds of enemies.
  - **Type:** Mounted Turret, non-rotating gun
  - **Rate of Fire:** 300 rpm
  - **Projectile:** Contained plasma bolt
- - **Muzzle Velocity:** 330 m/s, 500 m/s when shot from a flying spacefighter
+ - **Muzzle Velocity:** 400 m/s, 550 m/s when shot from a flying spacefighter
  - **Destruction Equivalent:** 30 grams of TNT
  - **Effective Range:** 5 kilometers
 
