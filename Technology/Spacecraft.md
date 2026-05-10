@@ -74,19 +74,19 @@ The Anora Lorstformikiy M-422 is a combat spacecraft.
 #### Anora Moljorholt M-94
  - **Manufacturer:** Anora Spacecraft Manufacturing
  - **Type:** Carrier
- - **Length:** 400 meters
- - **Width:** 120 meters
- - **Height:** 50 meters
+ - **Length:** 250 meters
+ - **Width:** 100 meters
+ - **Height:** 40 meters
  - **Shape:** Hexagonal Prism
  - **Speed:** 120 m/s
  - **Agility:** 0.35 rad/s (20 deg/s)
- - **Crew:** 8 commanders, 100 guards, and 50 additional crew members
+ - **Crew:** 8 commanders, 50 guards, and 50 additional crew members
  - **Arnament:**
     - 12 × Anti-spacefighter repeaters
     - 2 × long-range laser projectors
- - **Capacity:** 5,000 metric tons of cargo
+ - **Capacity:** 2,500 metric tons of cargo
  - **Docks capacity:**
-    - 200 × Spacefighters
+    - 100 × Spacefighters
  - **Installed modules:**
     - Military-grade Radar Module
     - Shield Generator Module
