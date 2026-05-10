@@ -106,7 +106,7 @@ A missile launcher with a multi-purpose computing and launching system. Can be u
 
 Missile launchers are too heavy to go onto smaller spacecraft such as civilian travelling vessels, but the minimum length requirement a ship must be in order to fly safely with a missile launcher installed is 50 meters.
 
-#### Anti-Spacefighter Repeater
+#### Anti-spacefighter Repeater
  - **Type:** Mounted Turret
  - **Rate of Fire:** 300 rpm
  - **Projectile:** Contained plasma bolt
