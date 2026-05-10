@@ -110,7 +110,7 @@ Missile launchers are too heavy to go onto smaller spacecraft such as civilian t
  - **Rate of Fire:** 300 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 500 m/s
- - **Destruction Equivalent:** A stick of dynamite
+ - **Destruction Equivalent:** 500 grams of TNT
  - **Effective Range:** 5 kilometers
 
 Designed to destroy spacefighters.
@@ -120,7 +120,7 @@ Designed to destroy spacefighters.
  - **Rate of Fire:** 60 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 400 m/s
- - **Destruction Equivalent:** A landmine
+ - **Destruction Equivalent:** 1.5 kilograms of TNT
  - **Effective Range:** 30 kilometers
 
 An all-purpose weapon.
@@ -130,7 +130,7 @@ An all-purpose weapon.
  - **Rate of Fire:** 1200 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 330 m/s
- - **Destruction Equivalent:** A heavy machine gun, such as an M2 Browning
+ - **Destruction Equivalent:** 100 grams of TNT
  - **Effective Range:** 2 kilometers
 
 Designed to mow down crowds of enemies.
@@ -140,7 +140,7 @@ Designed to mow down crowds of enemies.
  - **Rate of Fire:** 300 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 330 m/s, 500 m/s when shot from a flying spacefighter
- - **Destruction Equivalent:** A stick of dynamite
+ - **Destruction Equivalent:** 500 grams of TNT
  - **Effective Range:** 5 kilometers
 
 An all-purpose weapon mounted on spacefighters and other similar spacecraft.
@@ -148,7 +148,7 @@ An all-purpose weapon mounted on spacefighters and other similar spacecraft.
 #### Long-range Laser Projector
  - **Type:** Mounted Turret
  - **Projectile:** Laser
- - **Destruction Equivalent:** A stick of dynamite
+ - **Destruction Equivalent:** 500 grams of TNT per second
  - **Effective Range:** 200 kilometres (0.2 kacholnakins)
 
 A long-range laser projector is a laser-firing mounted turret, designed to attack ships that have a shield generator or are fast.
@@ -168,7 +168,7 @@ A computed missile is a missile that follows a pre-computed path and explodes on
  - **Radius:** 30 centimeters
  - **Length:** 5 meters
  - **Speed:** 600 m/s
- - **Destruction Equivalent:** 50 kilograms of tnt
+ - **Destruction Equivalent:** 50 kilograms of TNT
  - **Fuel Capacity:** 10,000 kilometres (10 kacholnakins)
 
 Uses a crystal warhead and is propelled by a crystal rocket engine.
