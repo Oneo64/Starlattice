@@ -155,6 +155,8 @@ A long-range laser projector is a laser-firing mounted turret, designed to attac
 
 Instead of a bolt of supercompressed plasma, it shoots an intensely concentrated beam of light, otherwise known as a laser *(I can’t believe I have to explain this to people who think lasers are colourful bolts that fly)*. The colour of these weapons is always white, and they do not use a crystal core.
 
+Since laser projectors can heat up fast, militaries fire them for a few seconds at a time before letting them cool down.
+
 ## List of Missiles & Projectiles
 #### Crystal Warhead
 The warhead is tipped with an unstable crystal. When this crystal is struck, it releases a high amount of explosive plasma. The crystal on the tip of the warhead is actually connected to a larger piece in the middle of the missile, which is enclosed in a hard metal. Because the unstable crystal released a lot of plasma, this plasma is contained inside the missile. The missile cannot contain this much plasma, so the missile explodes.
