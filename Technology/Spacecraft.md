@@ -51,8 +51,8 @@ The Anora Vindaror M-8 is a giant spacecraft designed to transport massive amoun
 #### Anora Lorstformikiy M-422
  - **Manufacturer:** Anora Spacecraft Manufacturing
  - **Type:** Combat warship
- - **Length:** 100 meters
- - **Width:** 35 meters
+ - **Length:** 60 meters
+ - **Width:** 25 meters
  - **Height:** 15 meters
  - **Shape:** Spear-shaped
  - **Speed:** 120 m/s
@@ -74,8 +74,8 @@ The Anora Lorstformikiy M-422 is a combat spacecraft.
 #### Anora Moljorholt M-94
  - **Manufacturer:** Anora Spacecraft Manufacturing
  - **Type:** Carrier
- - **Length:** 500 meters
- - **Width:** 150 meters
+ - **Length:** 400 meters
+ - **Width:** 120 meters
  - **Height:** 50 meters
  - **Shape:** Hexagonal Prism
  - **Speed:** 120 m/s
