@@ -108,7 +108,7 @@ Missile launchers are too heavy to go onto smaller spacecraft such as civilian t
 
 #### Anti-spacefighter Repeater
  - **Type:** Mounted Turret
- - **Rate of Fire:** 300 rpm
+ - **Rate of Fire:** 400 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 600 m/s
  - **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
