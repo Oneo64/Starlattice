@@ -33,6 +33,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
  - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
  - **Muzzle Velocity:** 400 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
+ - **Destruction Equivalent:** less than 5 grams of TNT
  - **Effective Range:** ~500 meters
 
 A KAG MP-114, shortened to MP-114, is a plasmatic rifle manufactured in the Kagalarian Empire. This weapon is the standard-issue rifle in the Kagalarian army, valued for its effectiveness, reliability, and its balance in its production cost and end quality. For decades, their army has still not replaced this rifle, and will probably not be for another several years.
@@ -49,6 +50,7 @@ These rifles use a mrokek core, causing its bolts to appear blue, and its contai
  - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
  - **Muzzle Velocity:** 400 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
+ - **Destruction Equivalent:** less than 5 grams of TNT
  - **Effective Range:** ~200 meters
 
 A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured in the Kagalarian Empire. It uses a mrokek core.
@@ -65,6 +67,7 @@ Its containment field generator holds the plasma bolts using 1 kilojoule of ener
  - **Projectile:** Contained plasma bolt (4 grams, heat estimated to be 1600 kelvins)
  - **Muzzle Velocity:** 320 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
+ - **Destruction Equivalent:** less than 5 grams of TNT
  - **Effective Range:** ~100 meters
 
 A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured in the Kagalarian Empire. It uses a mrokek core.
