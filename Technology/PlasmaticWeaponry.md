@@ -33,7 +33,6 @@ It is a law in many nations that unsupervised weapons production is a severe cri
  - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
  - **Muzzle Velocity:** 400 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
- - **Destruction Equivalent:** less than 5 grams of TNT
  - **Effective Range:** ~500 meters
 
 A KAG MP-114, shortened to MP-114, is a plasmatic rifle manufactured in the Kagalarian Empire. This weapon is the standard-issue rifle in the Kagalarian army, valued for its effectiveness, reliability, and its balance in its production cost and end quality. For decades, their army has still not replaced this rifle, and will probably not be for another several years.
@@ -50,7 +49,6 @@ These rifles use a mrokek core, causing its bolts to appear blue, and its contai
  - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
  - **Muzzle Velocity:** 400 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
- - **Destruction Equivalent:** less than 5 grams of TNT
  - **Effective Range:** ~200 meters
 
 A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured in the Kagalarian Empire. It uses a mrokek core.
@@ -67,7 +65,6 @@ Its containment field generator holds the plasma bolts using 1 kilojoule of ener
  - **Projectile:** Contained plasma bolt (4 grams, heat estimated to be 1600 kelvins)
  - **Muzzle Velocity:** 320 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
- - **Destruction Equivalent:** less than 5 grams of TNT
  - **Effective Range:** ~100 meters
 
 A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured in the Kagalarian Empire. It uses a mrokek core.
@@ -94,7 +91,7 @@ Its containment field generator holds the plasma beam together using 2.5 kilojou
  - **Kill radius:** 3 meters
  - **Blast radius:** 7 meters
  - **Shock radius:** 15 meters
- - **Destruction Equivalent:** 150 grams of TNT
+ - **Destruction Equivalent:** 100 grams of TNT
 
 The grenade's shell is made of arsenium. After 5 seconds of the pin being pulled, the grenade's detonation mechanism activates.
 
@@ -114,7 +111,7 @@ Missile launchers are too heavy to go onto smaller spacecraft such as civilian t
  - **Rate of Fire:** 300 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 500 m/s
- - **Destruction Equivalent:** 30 grams of TNT
+ - **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
  - **Effective Range:** 5 kilometers
 
 Designed to destroy spacefighters.
@@ -134,7 +131,7 @@ An all-purpose weapon.
  - **Rate of Fire:** 900 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 400 m/s
- - **Destruction Equivalent:** 10 grams of TNT
+ - **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
  - **Effective Range:** 2 kilometers
 
 Designed to mow down crowds of enemies.
@@ -144,7 +141,7 @@ Designed to mow down crowds of enemies.
  - **Rate of Fire:** 300 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 400 m/s, 550 m/s when shot from a flying spacefighter
- - **Destruction Equivalent:** 30 grams of TNT
+ - **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
  - **Effective Range:** 5 kilometers
 
 An all-purpose weapon mounted on spacefighters and other similar spacecraft.
