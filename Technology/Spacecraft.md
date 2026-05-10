@@ -86,7 +86,7 @@ The Anora Lorstformikiy M-422 is a combat spacecraft.
     - 2 × long-range laser projectors
  - **Capacity:** 3,000 metric tons of cargo
  - **Docks capacity:**
-    - 100 × Spacefighters
+    - 50 × Spacefighters
  - **Installed modules:**
     - Military-grade Radar Module
     - Shield Generator Module
