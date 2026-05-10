@@ -29,6 +29,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
  - **Core:** Mrokek
  - **Rate of Fire:** 700 rpm
  - **Length:** ~70 centimeters
+ - **Weight:** ~3.4 kilograms
  - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
  - **Muzzle Velocity:** 360 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
@@ -44,6 +45,7 @@ These rifles use a mrokek core, causing its bolts to appear blue, and its contai
  - **Core:** Mrokek
  - **Rate of Fire:** 600 rpm
  - **Length:** 17 centimeters
+ - **Weight:** ~680 grams
  - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
  - **Muzzle Velocity:** 330 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
@@ -59,6 +61,7 @@ Its containment field generator holds the plasma bolts using 1 kilojoule of ener
  - **Core:** Mrokek
  - **Rate of Fire:** 980 rpm, 700 rpm in semi-automatic
  - **Length:** ~19 centimeters
+ - **Weight:** ~700 grams
  - **Projectile:** Contained plasma bolt (4 grams, heat estimated to be 1600 kelvins)
  - **Muzzle Velocity:** 290 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
@@ -73,6 +76,7 @@ Its containment field generator holds the plasma bolts using 900 joules of energ
  - **Manufacturer:** KAG Armoury
  - **Core:** Mrokek
  - **Length:** ~110 centimeters
+ - **Weight:** ~9 kilograms
  - **Projectile:** Steady plasma output in the form of a beam (heat estimated to be 3000 kelvins)
  - **Muzzle Velocity:** 330 m/s
  - **Effective Range:** ~50 meters
