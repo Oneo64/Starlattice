@@ -52,7 +52,7 @@ Shield generator modules are a spectacle in modern engineering. It works by gene
 
 Since it is a repulsion field, it dissipates plasma bolts almost instantly, slows down physical bullets, and dampens explosion shockwaves. The only things that are largely unaffected are light, gas, radiation, and heat. This means that lasers (not energy weapons!) can shoot through shields, but because the shield distorts light, the laser becomes unfocused.
 
-Whenever a strong enough force strikes the shield, it dissipates in that area (absorbing the force). Forces strong enough to dissipate the shield include plasma bolts from basic weaponry, explosions from plasma cannons (but only inside the killzone), repeated firing from turrets of the ship (especially things like 10 seconds of continuous anti-fighter firing), physical missiles, etc. The shield regenerates (using ship energy) moderately quickly at 3 cubic metres per second.
+Whenever a strong enough force strikes the shield, it dissipates in that area, absorbing half of its power. Forces strong enough to dissipate the shield include plasma bolts from basic weaponry, explosions from plasma cannons, repeated firing from turrets of the ship (especially things like 10 seconds of continuous anti-fighter firing), physical missiles, etc. The shield regenerates (using ship energy) at 2 cubic metres per second.
 
 Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.
 
