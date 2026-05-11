@@ -19,22 +19,24 @@ Here's a list of crimes that are commitable in the Kagalarian Empire.
  - **Improper Weapon Building:** It is a crime to build plasmatic weapons that do not have a cooling system, or with a cooling system that cannot keep the weapon under 250 °C. Plasmatic weapons that don't have these requirements could overheat to the point that they either melt or become very hazardous.
 
 ## Military
-The Kagalarian Empire has about 8 billion troops, having around 600 million on each planet. Each troop are trained for about a month before they become eligible for deployment, but will continue training after the month. Pistols are trained to be shot with one hand and their torso turned sideways. Their space fleet consists of 130 battleships, a thousand carriers, four thousand destroyers, and three hundred thousand spacefighters.
+The Kagalarian Empire has about 8 billion troops, with around 600 million on each planet. Each troop are trained for about a month before they become eligible for deployment, and will continue training after the month. Military ranks, from highest to lowest, are: Emperor, High Commander, Commander, Captain, and Infantry.
 
-Military ranks are from highest to lowest: Emperor, High Commander, Commander, Captain, and Infantry.
+The army is split into legions. A legion is a group of 64 squadrons. Each squadron has 4 squads, led by a commander. A squad has one captain and three infantrymen. From this model, a legion would have a total of 1024 soldiers, and a squadron would have 16 soldiers. Each military base would have its own legion, while some larger "central" bases have two to three legions.
 
-A captain controls 4 infantry, and one captain and 4 infantry make a squad.
+The army sends individual squadrons to combat locations. From there, each squad of the squadron plans its own miniature mission to work towards the main mission of its squadron.
 
-A commander can give orders to 4 captains; however, a commander usually doesn't participate in the frontlines. A commander would usually be assigned an exploration, scouting, escorting, or stealth mission, with an assigned traveller ship and a small crew of operators.
+Commanders and high commanders are assigned to either a ship or a squadron.
 
-A high commander is in command of a battleship. Each high commander controls a crew of commanders.
+In the space navy, each battleship is in control of one captain (who has the rank of high commander). Several commanders are under the captain's command, who also take the head position of a specific branch on the ship. A space fleet usually consists of one battleship, flanked by 12 destroyers and 4 carriers.
 
-A space fleet usually consists of one battleship, flanked by 4 capital ships, each flanked by 4 destroyers (making 16 destroyers in total).
+Their entire space navy consists of 130 battleships, 1000 carriers, 4000 destroyers, and 300,000 spacefighters.
 
 #### Cloning technology
 The Kagalarian Empire has heavily utilized cloning technology to create a sizable portion of its army. The Kagalarian Army consists of 13% clones of humans; the rest are non-clones.
 
 To prevent clones from betraying allies or freaking out upon creation, they have been biologically preprogrammed (rewiring brain cells) before being awakened from their initial coma.
+
+Clones can only be infantry.
 
 #### Main base
 The Kagalarian main base is built on a hill, surrounded by snowy coniferous forests. The entrance is built on its side, and it reaches down into the earth. There are 6 floors in the main Kagalarian base, each floor being about 10 meters in height, and 400 meters in width and length. On the hill, there are 4 APMT systems and 8 anti-spacefighter repeaters. The entrance has a large 10x30 meter gate, and to its right, there is a smaller door.
