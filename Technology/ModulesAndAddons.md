@@ -56,8 +56,6 @@ Whenever a strong enough force strikes the shield, it dissipates in that area, a
 
 Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.
 
-If an explosion creates a hole in the shield, the radius of the hole can be estimated using the equation ***r = √t × φ***, where ***r*** is the radius of the hole in centimetres and ***t*** is the TNT equivalency of the explosion in grams.
-
 #### Radar Module
 Basic radar systems. Each ship usually has 6 points where radar waves are fired off, one on the top, bottom, front, back, left, and right side. This info is usually sent to the command deck. The radar can detect ships up to 10,000 kilometres (10 maglonakins) away.
 
