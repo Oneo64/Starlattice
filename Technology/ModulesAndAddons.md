@@ -56,6 +56,8 @@ Whenever something strikes the shield, two things can happen. In the first scena
 
 Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.
 
+Usually, multiple shield generators are placed evenly across the surface of large ships to ensure multiple areas of the shield can be regenerated at the same time.
+
 If an explosion creates a hole in the shield, the radius of the hole can be estimated using the equation ***r = √t × φ***, where ***r*** is the radius of the hole in centimetres and ***t*** is the TNT equivalency of the explosion in grams.
 
 #### Radar Module
