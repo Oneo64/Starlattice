@@ -30,7 +30,7 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
  - **Height:** 220 meters
  - **Shape:** Hexagonal Prism
  - **Hull:** 25-centimetre fresarmanite plating
- - **Speed:** 120 m/s
+ - **Speed:** 160 m/s (atmospheric), 480 m/s (outer space)
  - **Agility:** 0.35 rad/s (20 deg/s)
  - **Crew:** 20 commanders, 500 guards, and 480 additional crew members
  - **Arnament:**
@@ -57,7 +57,7 @@ The Anora Vindaror M-8 is a giant spacecraft designed to transport massive amoun
  - **Height:** 15 meters
  - **Shape:** Spear-shaped
  - **Hull:** 15-centimetre fresarmanite plating
- - **Speed:** 120 m/s
+ - **Speed:** 160 m/s (atmospheric), 480 m/s (outer space)
  - **Agility:** 0.35 rad/s (20 deg/s)
  - **Crew:** 4 commanders, 30 guards, and 45 additional crew members
  - **Arnament:**
@@ -81,7 +81,7 @@ The Anora Lorstformikiy M-422 is a combat spacecraft.
  - **Height:** 40 meters
  - **Shape:** Hexagonal Prism
  - **Hull:** 15-centimetre fresarmanite plating
- - **Speed:** 120 m/s
+ - **Speed:** 160 m/s (atmospheric), 480 m/s (outer space)
  - **Agility:** 0.35 rad/s (20 deg/s)
  - **Crew:** 8 commanders, 50 guards, and 50 additional crew members
  - **Arnament:**
@@ -103,7 +103,7 @@ The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently tran
  - **Length:** 12 meters
  - **Wingspan:** 12 meters
  - **Hull:** 6-centimetre fresarmanite plating
- - **Speed:** 400 m/s
+ - **Speed:** 350 m/s (atmospheric), 1,050 m/s (outer space)
  - **Agility:** 1.57 rad/s (90 deg/s)
  - **Arnament:**
     - 2 × Spacefighter cannons
@@ -118,7 +118,7 @@ The Anora Vlatiyra M-224 is an agile combat spacefighter manufactured by Anora S
  - **Height:** 15 meters
  - **Shape:** Hexagonal Prism
  - **Hull:** 9-centimetre fresenite steel plating
- - **Speed:** 120 m/s
+ - **Speed:** 120 m/s (atmospheric), 360 m/s (outer space)
  - **Agility:** 0.35 rad/s (20 deg/s)
  - **Crew:** 3 commanders and 10 additional crew members
  - **Arnament:**
