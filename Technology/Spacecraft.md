@@ -52,7 +52,7 @@ The Anora Vindaror M-8 is a giant spacecraft designed for battles in outer space
 
 #### Anora Vindaror M8D2
  - **Manufacturer:** Anora Spacecraft Manufacturing
- - **Type:** Transportation warship
+ - **Type:** Transportation and utilitarian warship
  - **Length:** 1200 meters
  - **Width:** 210 meters
  - **Height:** 210 meters
