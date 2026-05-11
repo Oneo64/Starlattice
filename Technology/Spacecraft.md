@@ -37,7 +37,7 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
     - 24 × Anti-spacefighter repeaters
     - 24 × Cannons
     - 18 × Long-range laser projectors
-    - 8 × APML systems
+    - 8 × APML systems and 512 × missiles
  - **Capacity:** 20,000 soldiers and 8,000 metric tons of cargo
  - **Docks capacity:**
     - 100 × Spacefighters
