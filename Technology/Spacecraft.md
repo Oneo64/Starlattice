@@ -48,7 +48,7 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
     - Shield Generator Module
     - Wormhole Transporter Module
 
-The Anora Vindaror M-8 is a giant spacecraft designed for battles in outer space and for ground siege.
+The Anora Vindaror M-8 is a giant spacecraft designed for battles in outer space and for ground siege. For camouflage, the outer hull is coloured with a thin coat of light-absorbant black paint.
 
 #### Anora Vindaror M8D2
  - **Manufacturer:** Anora Spacecraft Manufacturing
@@ -75,7 +75,7 @@ The Anora Vindaror M-8 is a giant spacecraft designed for battles in outer space
     - Shield Generator Module
     - Wormhole Transporter Module
 
-The Anora Vindaror M-8 is a giant spacecraft designed to transport massive amounts of troops or cargo from one place to another.
+The Anora Vindaror M-8 is a giant spacecraft designed to transport massive amounts of troops or cargo from one place to another. For camouflage, the outer hull is coloured with a thin coat of light-absorbant black paint.
 
 #### Anora Lorstformikiy M-422
  - **Manufacturer:** Anora Spacecraft Manufacturing
