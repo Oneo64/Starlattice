@@ -56,9 +56,9 @@ Whenever something strikes the shield, two things can happen. In the first scena
 
 When their durability is compared to war cannons, it would take a few blasts aimed at the same point to break through. For more powerful weapons, such as missiles, one explosion would be enough to create an area of weakness.
 
-Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.
-
 Usually, multiple shield generators are placed evenly across the surface of large ships to ensure multiple areas of the shield can be regenerated at the same time.
+
+*Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.*
 
 #### Radar Module
 Basic radar systems. Each ship usually has 6 points where radar waves are fired off, one on the top, bottom, front, back, left, and right side. This info is usually sent to the command deck. The radar can detect ships up to 10,000 kilometres (10 maglonakins) away.
