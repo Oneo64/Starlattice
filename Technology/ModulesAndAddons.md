@@ -52,11 +52,9 @@ Shield generator modules are a spectacle in modern engineering. It works by gene
 
 Since it is a repulsion field, it deconcentrates plasma bolts (the containment field gets destroyed), slows down physical bullets and slightly changes their direction, and dampens explosions. The only things that are largely unaffected are light, gas, radiation, and heat. This means that lasers (not energy weapons!) can shoot through shields but will get distorted and unfocused.
 
-Whenever something strikes the shield, two things can happen. In the first scenario, the shield fully absorbs the force and now has a lowered density. In the second scenario, the shield absorbs the force and collapses when the density hits zero, creating a circle of weakness (or blob if it's messy). The shield regenerates (using ship energy) at 6 square metres per second, and weakened areas of the shield that still haven't collapsed regenerate to full density at the same rate.
+Whenever something strikes the shield, two things can happen. In the first scenario, the shield fully absorbs the force and now has a lowered density. In the second scenario, the shield absorbs the force and collapses when the density hits zero, creating a circle of weakness (or blob if it's messy). When their durability is compared to war cannons, it would take a few blasts aimed at the same point to break through. For more powerful weapons, such as missiles, one explosion would be enough to create an area of weakness.
 
-When their durability is compared to war cannons, it would take a few blasts aimed at the same point to break through. For more powerful weapons, such as missiles, one explosion would be enough to create an area of weakness.
-
-Usually, multiple shield generators are placed evenly across the surface of large ships to ensure multiple areas of the shield can be regenerated at the same time.
+The shield regenerates collapsed areas at 6 square metres per second, and weakened areas of the shield that still haven't collapsed regenerate to full density at the same rate. Usually, multiple generators are placed evenly across the surface of large ships to ensure multiple areas of the shield can be regenerated at the same time.
 
 *Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.*
 
