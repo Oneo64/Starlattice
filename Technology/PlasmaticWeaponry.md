@@ -116,7 +116,17 @@ Missile launchers are too heavy to go onto smaller spacecraft such as civilian t
 
 Designed to destroy spacefighters.
 
-#### Cannon
+#### Bombardment Cannon
+ - **Type:** Mounted Turret
+ - **Rate of Fire:** 15 rpm
+ - **Projectile:** Contained plasma bolt
+ - **Relative Muzzle Velocity:** 900 m/s
+ - **Destruction Equivalent:** 6 kilograms of TNT, 5-metre-radius killzone
+ - **Effective Range:** 30 kilometers
+
+A warship cannon designed for bombardment. Bolts fired are slightly wider than most, allowing more surface damage in exchange for higher energy consumption per shot.
+
+#### War Cannon
  - **Type:** Mounted Turret
  - **Rate of Fire:** 60 rpm
  - **Projectile:** Contained plasma bolt
@@ -124,7 +134,7 @@ Designed to destroy spacefighters.
  - **Destruction Equivalent:** 2 kilograms of TNT, 2-metre-radius killzone
  - **Effective Range:** 30 kilometers
 
-An all-purpose weapon.
+An anti-armour cannon.
 
 #### High-speed Repeater
  - **Type:** Mounted Turret

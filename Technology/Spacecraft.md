@@ -34,10 +34,11 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
  - **Agility:** 0.35 rad/s (20 deg/s)
  - **Crew:** 20 commanders, 1600 guards, and 1000 additional crew members
  - **Arnament:**
-    - 24 × Anti-spacefighter repeaters
-    - 24 × Cannons
-    - 18 × Long-range laser projectors
+    - 16 × Anti-spacefighter repeaters
+    - 12 × War cannons
+    - 8 × Long-range laser projectors
     - 8 × APML systems and 512 × missiles
+    - 4 × Bombardment cannons
  - **Capacity:** 20,000 soldiers and 8,000 metric tons of cargo
  - **Docks capacity:**
     - 100 × Spacefighters
@@ -61,8 +62,8 @@ The Anora Vindaror M-8 is a giant spacecraft designed to transport massive amoun
  - **Agility:** 0.35 rad/s (20 deg/s)
  - **Crew:** 4 commanders, 45 guards, and 70 additional crew members
  - **Arnament:**
-    - 16 × Anti-spacefighter repeaters
-    - 8 × Cannons
+    - 4 × Anti-spacefighter repeaters
+    - 4 × War cannons
  - **Capacity:** 100 metric tons of cargo
  - **Docks capacity:**
     - 5 × Spacefighters
