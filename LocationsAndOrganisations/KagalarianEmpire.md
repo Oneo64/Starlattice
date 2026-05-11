@@ -31,6 +31,11 @@ In the space navy, each battleship is in control of one captain (who has the ran
 
 Their entire space navy consists of 130 battleships, 1000 carriers, 4000 destroyers, and 300,000 spacefighters.
 
+#### Training
+During their initial month, soldiers are trained for multiple tactics such as weapons handling (duh), cover usage, stealth, enemy identification, shoot-to-kill reaction to surprise, and discipline.
+
+During weapons handling, the most interesting part that separates them from modern militaries is that they are trained to fire pistols with one hand, body turned to the side.
+
 #### Cloning technology
 The Kagalarian Empire has heavily utilized cloning technology to create a sizable portion of its army. The Kagalarian Army consists of 13% clones of humans; the rest are non-clones.
 
