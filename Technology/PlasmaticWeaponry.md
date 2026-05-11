@@ -121,7 +121,7 @@ Designed to destroy spacefighters.
  - **Rate of Fire:** 60 rpm
  - **Projectile:** Contained plasma bolt
  - **Muzzle Velocity:** 1,200 m/s
- - **Destruction Equivalent:** 4 kilograms of TNT
+ - **Destruction Equivalent:** 2.5 kilograms of TNT, 2-metre-radius killzone
  - **Effective Range:** 30 kilometers
 
 An all-purpose weapon.
