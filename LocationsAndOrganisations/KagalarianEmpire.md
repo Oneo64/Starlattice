@@ -21,11 +21,11 @@ Here's a list of crimes that are commitable in the Kagalarian Empire.
 ## Military
 The Kagalarian Empire has about 8 billion troops, with around 600 million on each planet. Each troop are trained for about a month before they become eligible for deployment, and will continue training after the month. Military ranks, from highest to lowest, are: Emperor, High Commander, Commander, Captain, and Infantry.
 
-The army is split into legions. A legion is a group of 64 squadrons. Each squadron has 4 squads, led by a commander. A squad has one captain and three infantrymen. From this model, a legion would have a total of 1024 soldiers, and a squadron would have 16 soldiers. Each military base would have its own legion, while some larger "central" bases have two to three legions.
+The army is split into legions. A legion can have up to 100 battalions or more. A battalion is a group of 64 squadrons. Each squadron has 4 squads, led by a commander. A squad has one captain and three infantrymen. From this model, a battalion would have a total of 1024 soldiers, and a squadron would have 16 soldiers. Each military base would have its own battalion, while larger "central" bases have their own legion.
 
-The army sends individual squadrons to combat locations. From there, each squad of the squadron plans its own miniature mission to work towards the main mission of its squadron.
+The army assigns one battalion to a battle, then sends individual squadrons to combat locations. From there, each squad of the squadron plans its own miniature mission to work towards the main mission of its squadron.
 
-Commanders and high commanders are assigned to either a ship or a squadron.
+Commanders and high commanders are assigned to either a ship or the army. If assigned to the army, high commanders are in control of a battalion, and commanders are in control of a squadron.
 
 In the space navy, each battleship is in control of one captain (who has the rank of high commander). Several commanders are under the captain's command, who also take the head position of a specific branch on the ship. A space fleet usually consists of one battleship, flanked by 12 destroyers and 4 carriers.
 
