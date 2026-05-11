@@ -102,7 +102,7 @@ The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently tran
  - **Type:** Spacefighter
  - **Length:** 12 meters
  - **Wingspan:** 12 meters
- - **Hull:** 3-centimetre fresarmanite plating
+ - **Hull:** 2-centimetre fresarmanite plating
  - **Speed:** 350 m/s (atmospheric), 1,050 m/s (outer space)
  - **Agility:** 1.57 rad/s (90 deg/s)
  - **Arnament:**
@@ -117,7 +117,7 @@ The Anora Vlatiyra M-224 is an agile combat spacefighter manufactured by Anora S
  - **Width:** 20 meters
  - **Height:** 15 meters
  - **Shape:** Hexagonal Prism
- - **Hull:** 5-centimetre fresenite steel plating
+ - **Hull:** 4-centimetre fresenite steel plating
  - **Speed:** 120 m/s (atmospheric), 360 m/s (outer space)
  - **Agility:** 0.35 rad/s (20 deg/s)
  - **Crew:** 3 commanders and 10 additional crew members
