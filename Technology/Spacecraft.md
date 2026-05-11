@@ -32,13 +32,13 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
  - **Hull:** 25-centimetre fresarmanite plating
  - **Speed:** 160 m/s (atmospheric), 480 m/s (outer space)
  - **Agility:** 0.35 rad/s (20 deg/s)
- - **Crew:** 20 commanders, 500 guards, and 480 additional crew members
+ - **Crew:** 20 commanders, 1600 guards, and 1000 additional crew members
  - **Arnament:**
     - 24 × Anti-spacefighter repeaters
     - 24 × Cannons
     - 18 × Long-range laser projectors
     - 8 × APML systems
- - **Capacity:** 24,000 soldiers and 10,000 metric tons of cargo
+ - **Capacity:** 20,000 soldiers and 8,000 metric tons of cargo
  - **Docks capacity:**
     - 100 × Spacefighters
     - 5 × Destroyers
@@ -59,7 +59,7 @@ The Anora Vindaror M-8 is a giant spacecraft designed to transport massive amoun
  - **Hull:** 15-centimetre fresarmanite plating
  - **Speed:** 160 m/s (atmospheric), 480 m/s (outer space)
  - **Agility:** 0.35 rad/s (20 deg/s)
- - **Crew:** 4 commanders, 30 guards, and 45 additional crew members
+ - **Crew:** 4 commanders, 45 guards, and 70 additional crew members
  - **Arnament:**
     - 16 × Anti-spacefighter repeaters
     - 8 × Cannons
@@ -83,7 +83,7 @@ The Anora Lorstformikiy M-422 is a combat spacecraft.
  - **Hull:** 15-centimetre fresarmanite plating
  - **Speed:** 160 m/s (atmospheric), 480 m/s (outer space)
  - **Agility:** 0.35 rad/s (20 deg/s)
- - **Crew:** 8 commanders, 50 guards, and 50 additional crew members
+ - **Crew:** 8 commanders, 70 guards, and 70 additional crew members
  - **Arnament:**
     - 12 × Anti-spacefighter repeaters
     - 2 × long-range laser projectors
