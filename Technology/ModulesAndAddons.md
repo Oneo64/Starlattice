@@ -50,11 +50,13 @@ Some cheaper models may only be able to overdrive the engines twice the normal o
 #### Shield Generator Module
 Shield generator modules are a spectacle in modern engineering. It works by generating a repulsion field around the surface of a ship, pushing things that are too close away. When generated, the field is almost invisible except for its slight distortion of light (like flowing water). When they are struck, they create a bright flash of white light and hinder the object from entering.
 
-Since it is a repulsion field, it deconcentrates plasma bolts (the containment field gets destroyed), slows down physical bullets, and dampens explosions. The only things that are largely unaffected are light, gas, radiation, and heat. This means that lasers (not energy weapons!) can shoot through shields, but because the shield distorts light, the laser becomes unfocused.
+Since it is a repulsion field, it deconcentrates plasma bolts (the containment field gets destroyed), slows down physical bullets and slightly changes their direction, and dampens explosions. The only things that are largely unaffected are light, gas, radiation, and heat. This means that lasers (not energy weapons!) can shoot through shields but will get distorted and unfocused.
 
-Whenever a strong enough force strikes the shield, it dissipates in that area, absorbing half of its power. Forces strong enough to dissipate the shield include plasma bolts from basic weaponry, explosions from plasma cannons, physical missiles, etc. The shield regenerates (using ship energy) at 4 square metres per second.
+Whenever something strikes the shield, two things can happen. In the first scenario, the shield fully absorbs the force and now has a lowered density. In the second scenario, the shield absorbs the force and collapses when the density hits zero, creating a circle of weakness (or blob if it's messy). The shield regenerates (using ship energy) at 4 square metres per second.
 
 Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.
+
+If an explosion creates a hole in the shield, the radius of the hole can be estimated using the equation ***r = √t × φ***, where ***r*** is the radius of the hole in centimetres and ***t*** is the TNT equivalency of the explosion in grams.
 
 #### Radar Module
 Basic radar systems. Each ship usually has 6 points where radar waves are fired off, one on the top, bottom, front, back, left, and right side. This info is usually sent to the command deck. The radar can detect ships up to 10,000 kilometres (10 maglonakins) away.
