@@ -50,9 +50,9 @@ Some cheaper models may only be able to overdrive the engines twice the normal o
 #### Shield Generator Module
 Shield generator modules are a spectacle in modern engineering. It works by generating a repulsion field around the surface of a ship, pushing things that are too close away. When generated, the field is almost invisible except for its slight distortion of light (like flowing water). When they are struck, they create a bright flash of white light and hinder the object from entering.
 
-Since it is a repulsion field, it dissipates plasma bolts almost instantly, slows down physical bullets, and dampens explosion shockwaves. The only things that are largely unaffected are light, gas, radiation, and heat. This means that lasers (not energy weapons!) can shoot through shields, but because the shield distorts light, the laser becomes unfocused.
+Since it is a repulsion field, it dissipates plasma bolts almost instantly (the containment field gets destroyed and the plasma becomes unconcentrated), slows down physical bullets, and dampens explosion shockwaves. The only things that are largely unaffected are light, gas, radiation, and heat. This means that lasers (not energy weapons!) can shoot through shields, but because the shield distorts light, the laser becomes unfocused.
 
-Whenever a strong enough force strikes the shield, it dissipates in that area, absorbing half of its power. Forces strong enough to dissipate the shield include plasma bolts from basic weaponry, explosions from plasma cannons, repeated firing from turrets of the ship (especially things like 10 seconds of continuous anti-fighter firing), physical missiles, etc. The shield regenerates (using ship energy) at 2 cubic metres per second.
+Whenever a strong enough force strikes the shield, it dissipates in that area, absorbing half of its power. Forces strong enough to dissipate the shield include plasma bolts from basic weaponry, explosions from plasma cannons, physical missiles, etc. The shield regenerates (using ship energy) at 2 cubic metres per second.
 
 Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.
 
