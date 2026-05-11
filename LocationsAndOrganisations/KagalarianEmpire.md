@@ -34,6 +34,8 @@ Their entire space navy consists of 130 battleships, 1000 carriers, 4000 destroy
 #### Training
 During their initial month, soldiers are trained for multiple tactics such as weapons handling (duh), cover usage, stealth, enemy identification, shoot-to-kill reaction to surprise, and discipline.
 
+Human soldiers are specifically disciplined to respect cloned infantry to reduce internal conflict.
+
 During weapons handling, the most interesting part that separates them from modern militaries is that they are trained to fire pistols with one hand, body turned to the side.
 
 #### Cloning technology
