@@ -31,7 +31,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
  - **Length:** ~70 centimeters
  - **Weight:** ~3.6 kilograms
  - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
- - **Muzzle Velocity:** 450 m/s
+ - **Muzzle Velocity:** 500 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
  - **Effective Range:** ~600 meters
 
@@ -63,7 +63,7 @@ Its containment field generator holds the plasma bolts using 1 kilojoule of ener
  - **Length:** ~19 centimeters
  - **Weight:** ~700 grams
  - **Projectile:** Contained plasma bolt (4 grams, heat estimated to be 1600 kelvins)
- - **Muzzle Velocity:** 320 m/s
+ - **Muzzle Velocity:** 330 m/s
  - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
  - **Effective Range:** ~100 meters
 
@@ -110,7 +110,7 @@ Missile launchers are too heavy to go onto smaller spacecraft such as civilian t
  - **Type:** Mounted Turret
  - **Rate of Fire:** 300 rpm
  - **Projectile:** Contained plasma bolt
- - **Muzzle Velocity:** 600 m/s
+ - **Muzzle Velocity:** 1,200 m/s
  - **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
  - **Effective Range:** 5 kilometers
 
@@ -120,7 +120,7 @@ Designed to destroy spacefighters.
  - **Type:** Mounted Turret
  - **Rate of Fire:** 60 rpm
  - **Projectile:** Contained plasma bolt
- - **Muzzle Velocity:** 600 m/s
+ - **Muzzle Velocity:** 1,200 m/s
  - **Destruction Equivalent:** 1.5 kilograms of TNT
  - **Effective Range:** 30 kilometers
 
@@ -130,7 +130,7 @@ An all-purpose weapon.
  - **Type:** Mounted Turret
  - **Rate of Fire:** 800 rpm
  - **Projectile:** Contained plasma bolt
- - **Muzzle Velocity:** 500 m/s
+ - **Muzzle Velocity:** 1,000 m/s
  - **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
  - **Effective Range:** 2 kilometers
 
@@ -140,7 +140,7 @@ Designed to mow down crowds of enemies.
  - **Type:** Mounted Turret, non-rotating gun
  - **Rate of Fire:** 300 rpm
  - **Projectile:** Contained plasma bolt
- - **Muzzle Velocity:** 500 m/s, 550 m/s when shot from a flying spacefighter
+ - **Muzzle Velocity:** 1,000 m/s, 1,400 m/s (when shot from a flying spacefighter)
  - **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
  - **Effective Range:** 5 kilometers
 
@@ -170,7 +170,7 @@ A computed missile is a missile that follows a pre-computed path and explodes on
  - **Warhead:** Crystal Warhead
  - **Radius:** 30 centimeters
  - **Length:** 5 meters
- - **Speed:** 800 m/s
+ - **Speed:** 1,600 m/s
  - **Destruction Equivalent:** 50 kilograms of TNT
  - **Fuel Capacity:** 10,000 kilometres (10 kacholnakins)
 
