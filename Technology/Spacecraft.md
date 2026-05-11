@@ -66,7 +66,7 @@ The Anora Vindaror M-8 is a giant spacecraft designed for battles in outer space
     - 16 × War cannons
     - 4 × Long-range laser projectors
     - 2 × APML systems and 128 × missiles
- - **Capacity:** 15,000 soldiers and 8,000 metric tons of cargo
+ - **Capacity:** 20,000 soldiers and 8,000 metric tons of cargo
  - **Docks capacity:**
     - 100 × Spacefighters
     - 5 × Destroyers
