@@ -34,8 +34,8 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
  - **Agility:** 0.35 rad/s (20 deg/s)
  - **Crew:** 20 commanders, 1600 guards, and 1000 additional crew members
  - **Arnament:**
-    - 16 × Anti-spacefighter repeaters
-    - 12 × War cannons
+    - 24 × Anti-spacefighter repeaters
+    - 24 × War cannons
     - 8 × Long-range laser projectors
     - 8 × APML systems and 512 × missiles
     - 4 × Bombardment cannons
