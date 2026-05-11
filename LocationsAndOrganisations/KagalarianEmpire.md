@@ -27,7 +27,7 @@ The army assigns one battalion to a battle, then sends individual squadrons to c
 
 Commanders and high commanders are assigned to either a ship or the army. If assigned to the army, high commanders are in control of a battalion, and commanders are in control of a squadron.
 
-In the space navy, each battleship is in control of one captain (who has the rank of high commander). Several commanders are under the captain's command, who also take the head position of a specific branch on the ship. A space fleet usually consists of one battleship, flanked by 12 destroyers and 4 carriers.
+In the space navy, each battleship is in control of one captain (who has the rank of high commander). Several commanders are under the captain's command, who also take the head position of a specific branch on the ship. A battle fleet usually consists of one siege battleship, flanked by 12 destroyers. An invasion fleet usually consists of one carrier battleship, flanked by 16 destroyers and 4 carriers.
 
 Their entire space navy consists of 130 battleships, 1000 carriers, 4000 destroyers, and 300,000 spacefighters.
 

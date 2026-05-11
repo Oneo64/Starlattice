@@ -22,12 +22,12 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
 ---
 
 ## List of Spacecraft
-#### Anora Vindaror M-8
+#### Anora Vindaror M8D1
  - **Manufacturer:** Anora Spacecraft Manufacturing
- - **Type:** Transportation warship
+ - **Type:** Capital ship
  - **Length:** 1400 meters
- - **Width:** 220 meters
- - **Height:** 220 meters
+ - **Width:** 180 meters
+ - **Height:** 180 meters
  - **Shape:** Hexagonal Prism
  - **Hull:** 25-centimetre fresarmanite plating
  - **Speed:** 160 m/s (atmospheric)
@@ -39,7 +39,34 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
     - 8 × Long-range laser projectors
     - 8 × APML systems and 512 × missiles
     - 4 × Bombardment cannons
- - **Capacity:** 20,000 soldiers and 8,000 metric tons of cargo
+ - **Capacity:** 2,000 soldiers and 20,000 metric tons of cargo
+ - **Docks capacity:**
+    - 50 × Spacefighters
+    - 1 × Destroyer
+ - **Installed modules:**
+    - Military-grade Radar Module
+    - Shield Generator Module
+    - Wormhole Transporter Module
+
+The Anora Vindaror M-8 is a giant spacecraft designed for battles in outer space and for ground siege.
+
+#### Anora Vindaror M8D2
+ - **Manufacturer:** Anora Spacecraft Manufacturing
+ - **Type:** Transportation warship
+ - **Length:** 1200 meters
+ - **Width:** 210 meters
+ - **Height:** 210 meters
+ - **Shape:** Hexagonal Prism
+ - **Hull:** 25-centimetre fresarmanite plating
+ - **Speed:** 160 m/s (atmospheric)
+ - **Agility:** 0.35 rad/s (20 deg/s)
+ - **Crew:** 20 commanders, 1600 guards, and 1000 additional crew members
+ - **Arnament:**
+    - 16 × Anti-spacefighter repeaters
+    - 16 × War cannons
+    - 4 × Long-range laser projectors
+    - 2 × APML systems and 128 × missiles
+ - **Capacity:** 15,000 soldiers and 8,000 metric tons of cargo
  - **Docks capacity:**
     - 100 × Spacefighters
     - 5 × Destroyers
