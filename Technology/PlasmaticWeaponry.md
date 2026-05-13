@@ -47,10 +47,10 @@ These rifles use a mrokek core, causing its bolts to appear blue, and its contai
 - **Type:** Automatic plasmatic machine gun
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
-- **Rate of Fire:** 622 rpm
-- **Length:** ~120 centimeters
-- **Weight:** ~4.8 kilograms
-- **Projectile:** Contained plasma bolt (6 grams, heat estimated to be 2000 kelvins)
+- **Rate of Fire:** 570 rpm
+- **Length:** ~110 centimeters
+- **Weight:** ~10.6 kilograms
+- **Projectile:** Contained plasma bolt (6 grams, heat estimated to be 2100 kelvins)
 - **Battery capacity:**
   - **Standard:** 120 blasts before weakening, ~150 blasts before empty
   - **Heavy-duty:** 200 blasts before weakening, ~250 blasts before empty
