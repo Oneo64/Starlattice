@@ -36,7 +36,7 @@ Squadrons are groups of 4 squads. They are usually sent to one location in the b
 
 Squads are groups of 4 soldiers, consisting of one leader and three infantrymen. Each squad within the squadron plans its own miniature mission to work towards the squadron's main mission.
 
-In the space navy, there are three types of fleets. A battle fleet consists of one siege battleship, flanked by 12 destroyers and 4 carriers. An invasion fleet consists of one carrier battleship, flanked by 16 destroyers and 2 carriers. A patrol fleet consists of 4 destroyers.
+In the space navy, there are three types of fleets. A battle fleet consists of one siege battleship, flanked by 12 destroyers and 4 carriers. An invasion fleet consists of one carrier battleship, flanked by 16 destroyers and 2 carriers. A patrol fleet consists of 2 destroyers (one assigned the lead destroyer).
 
 For a quick explanation of the military ranks:
 - **Army infantry** are soldiers under a squad leader.
