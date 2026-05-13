@@ -67,7 +67,7 @@ These machine guns use a mrokek core, causing its bolts to appear blue, and its 
 - **Rate of Fire:** 760 rpm
 - **Length:** ~120 centimeters
 - **Weight:** ~13.1 kilograms
-- **Projectile:** Contained plasma bolt (8 grams, heat estimated to be 1450 kelvins)
+- **Projectile:** Contained plasma bolt (8 grams, heat estimated to be 1070 kelvins)
 - **Battery capacity:** 60 blasts before weakening, ~75 blasts before empty
 - **Relative Muzzle Velocity:** 500 m/s
 - **Effective Range:** ~650 meters
