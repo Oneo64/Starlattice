@@ -40,6 +40,16 @@ Nelukal is a wild planet, with the only colonies being several military bases. I
 ### Sorkarvil
 Sorkarvil is a wild planet filled with weird forests and common monsters within the Kagalarian region. There are no Kagalarian colonies established on it, but the empire has claimed it as part of its territory.
 
+#### Escorian-controlled Planets
+### Escorin
+???
+
+### Estofear
+???
+
+### Forunal
+???
+
 #### Seenian-controlled Planets
 ### Ramalosedot
 Ramalosedot was originally the capital of the Kingdom of Ramalosedot, under the protection of the Kagalarian Empire. However, the Seenians conquered it and took control, causing their downfall.

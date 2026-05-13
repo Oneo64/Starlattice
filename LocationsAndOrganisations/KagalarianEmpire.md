@@ -4,7 +4,7 @@
 	<tr> <td>Founding date</td> <td>858 (beginning)<br>1246 (full establishment of the Kagalarian Empire)</td> </tr>
    <tr> <td>Scope of influence</td> <td>Interstellar (12 planets in control)</td> </tr>
 	<tr> <td>Capital planet</td> <td>Kagalar</td> </tr>
-	<tr> <td>Location of the main base</td> <td>North of Jovikal, Kregsorin, Kagalar</td> </tr>
+	<tr> <td>Location of the main base</td> <td>North of Jovikal (Kagalar)</td> </tr>
 	<tr> <td>Main language</td> <td>Kagalarian</td> </tr>
 	<tr> <td>Main currency</td> <td>Orlaks</td> </tr>
   <tr> <td>Population</td> <td>28 billion</td> </tr>
@@ -65,14 +65,17 @@ To prevent clones from betraying allies or freaking out upon creation, they have
 
 Clones can only be infantry.
 
-### Main base
+<!--### Main base
 The Kagalarian main base is built on a hill, surrounded by snowy coniferous forests. The entrance is built on its side, and it reaches down into the earth. There are 6 floors in the main Kagalarian base, each floor being about 10 meters in height, and 400 meters in width and length. On the hill, there are 4 APMT systems and 8 anti-spacefighter repeaters. The entrance has a large 10x30 meter gate, and to its right, there is a smaller door.
 
 There is a runway connecting the gate to a nearby air and spacecraft field. The spacecraft field has a few carriers, destroyers, and many spacefighters.
 
 The ground level is a vehicle storage with many vehicles such as cars, armoured cars, tanks, etc.
 
-This military base is about 20 kilometres north of Jovikal.
+This military base is about 20 kilometres north of Jovikal.-->
+
+### Military Site Equipment
+Every military site has a radio station (houses a military-grade radio transmitter), a strategy house, and barracks.
 
 ### Uniforms and Equipment
 #### Infantry and captains
