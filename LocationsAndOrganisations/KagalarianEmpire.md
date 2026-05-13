@@ -36,6 +36,8 @@ Squadrons are groups of 4 squads. They are usually sent to one location in the b
 
 Squads are groups of 4 soldiers, consisting of one leader and three infantrymen. Each squad within the squadron plans its own miniature mission to work towards the squadron's main mission.
 
+In the space navy, there are three types of fleets. A battle fleet consists of one siege battleship, flanked by 12 destroyers and 4 carriers. An invasion fleet consists of one carrier battleship, flanked by 16 destroyers and 2 carriers. A patrol fleet consists of 4 destroyers.
+
 For a quick explanation of the military ranks:
 - **Army infantry** are soldiers under a squad leader.
 - **Army leaders** are soldiers who lead a squad. There is no squadron leader rank (it's often the army general), so squad leaders must coordinate their moves.
@@ -44,7 +46,11 @@ For a quick explanation of the military ranks:
 - **Navy generals** stay in their planet's military headquarters or on their battleship. They take the head roles of local branches, such as security, engineering, navigation, etc.
 - **Navy high generals** stay in their planet's military headquarters or on their battleship. They act as the "army general" of their fleet and the captain of their battleship, and are the highest-ranking officers in the Kagalarian navy.
 
-In the space navy, a battle fleet usually consists of one siege battleship, flanked by 12 destroyers. An invasion fleet usually consists of one carrier battleship, flanked by 16 destroyers and 4 carriers.
+For a quick explanation on strategic levels:
+- **Intermediate strategic planning** involves squad leaders and infantry. A quick example, if the squadron's mission is to capture a house, a few squads handle clearing the interior while another squad handles guarding the surroundings.
+- **Lower-level strategic planning** involves commanders and high commanders, and later squad leaders of a squadron. They plan for the battle they are assigned to fight.
+- **Upper-level strategic planning** involves generals and high generals, and later high commanders. They plan for battles and what their goals are.
+- **Imperial strategic planning** involves high generals and the emperor. They plan for wars and battles, but they can also plan for the goals of specific battles.
 
 Their entire space navy consists of 130 battleships, 1000 carriers, 4000 destroyers, and 300,000 spacefighters.
 
