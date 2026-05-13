@@ -51,11 +51,11 @@ For a quick explanation on strategic levels:
 - **Imperial strategic planning** involves high generals and the emperor. During a meeting, they will plan for war and battles, but they can also plan for the goals of specific battles if they're important enough.
 
 ### Training
-During their initial month, soldiers are trained for multiple tactics such as weapons handling (duh), cover usage, stealth, enemy identification, shoot-to-kill reaction to surprise, and discipline.
+All Kagalarian soldiers (clones too!) are trained for two months before they are eligible for deployment. Training includes multiple tactics such as weapons handling (duh), cover against enemy fire and bombardment, stealth, identification, shoot-to-kill reaction to surprise, and discipline.
 
 Human soldiers are specifically disciplined to respect cloned infantry to reduce internal conflict.
 
-During weapons handling, the most interesting part that separates them from modern militaries is that they are trained to fire pistols with one hand, body turned to the side.
+During weapons handling, soldiers are trained to fire pistols with one hand, body turned to the side. This is to reduce the chances of being hit. In emergency cases, they are also lightly trained in various skills, such as one-handed rifle shooting (in case of injury).
 
 ### Cloning technology
 The Kagalarian Empire has heavily utilized cloning technology to create a sizable portion of its army. The Kagalarian Army consists of 13% clones of humans; the rest are non-clones.
