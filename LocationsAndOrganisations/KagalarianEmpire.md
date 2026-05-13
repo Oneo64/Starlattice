@@ -36,7 +36,7 @@ Squadrons are groups of 4 squads. They are usually sent to one location in the b
 
 Squads are groups of 4 soldiers, consisting of one leader and three infantrymen. Each squad within the squadron plans its own miniature mission to work towards the squadron's main mission.
 
-In the space navy, there are three types of fleets. A battle fleet consists of one siege battleship, flanked by 12 destroyers and 4 carriers. An invasion fleet consists of one carrier battleship, flanked by 16 destroyers and 2 carriers. A patrol fleet consists of 2 destroyers (one assigned the lead destroyer).
+The space navy has 130 battleships (about 90 siege battleships and 40 carrier battleships), 1000 carriers, 4000 destroyers, and 300,000 spacefighters. There are three types of fleets. A battle fleet consists of one siege battleship, flanked by 12 destroyers and 4 carriers. An invasion fleet consists of one carrier battleship, flanked by 16 destroyers and 2 carriers. A patrol fleet consists of 2 destroyers (one assigned the lead destroyer).
 
 For a quick explanation of the military ranks:
 - **Army infantry** are soldiers under a squad leader.
@@ -51,8 +51,6 @@ For a quick explanation on strategic levels:
 - **Lower-level strategic planning** involves commanders and high commanders, and later squad leaders of a squadron. They plan for the battle they are assigned to fight.
 - **Upper-level strategic planning** involves generals and high generals, and later high commanders. They plan for battles and what their goals are.
 - **Imperial strategic planning** involves high generals and the emperor. They plan for wars and battles, but they can also plan for the goals of specific battles.
-
-Their entire space navy consists of 130 battleships, 1000 carriers, 4000 destroyers, and 300,000 spacefighters.
 
 ### Training
 During their initial month, soldiers are trained for multiple tactics such as weapons handling (duh), cover usage, stealth, enemy identification, shoot-to-kill reaction to surprise, and discipline.
