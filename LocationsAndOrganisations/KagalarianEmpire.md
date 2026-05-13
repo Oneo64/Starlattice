@@ -7,6 +7,7 @@
 	<tr> <td>Location of the main base</td> <td>North of Jovikal, Kregsorin, Kagalar</td> </tr>
 	<tr> <td>Main language</td> <td>Kagalarian</td> </tr>
 	<tr> <td>Main currency</td> <td>Orlaks</td> </tr>
+  <tr> <td>Population</td> <td>28 billion</td> </tr>
 </tbody></table>
 
 The **Kagalarian Empire**, known formally as the **Empire of Kagalar**, also known in its native language as *Кшавико ожан Кагалар*, is an interstellar power that is in control of a dozen planets.
@@ -26,9 +27,9 @@ On the imperial level is the Kagalarian government. They handle major law, curre
 On the planetary level are the Jendoromiran, Lokaramarkian, and Nakarskanian governments. These governments are semi-autonomous, handling local law, policing, education, planetary exploration, etc.
 
 ## Military
-The Kagalarian Empire has about 630 million troops in both the army and space navy, with around 53 million on each planet. Military ranks, from highest to lowest, are: emperor, high general, general, high commander, commander, leader, and infantry.
+The Kagalarian Empire has about 253 million troops in both the army and space navy, with around 23 million on each planet. Military ranks, from highest to lowest, are: emperor, high general, general, high commander, commander, leader, and infantry.
 
-Legions, the biggest army unit, are determined by the planet they are on. A legion can contain hundreds of battalions.
+Legions, the biggest army unit, are determined by the planet they are on. A legion can contain hundreds of battalions. The Kagalarian army has 11 legions.
 
 Battalions are groups of 128 squadrons. Each battalion has its own military base. In war, the army assigns an appropriate number of battalions to a battle. Then, the battalion will send squadrons to the frontlines. A battalion has 2048 soldiers.
 

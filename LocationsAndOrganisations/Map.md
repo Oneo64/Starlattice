@@ -1,14 +1,14 @@
 # Map of the Galaxy
 A list of planets and star systems.
 
-## Planets
+## Kagalarian-controlled Planets
 ### Kagalar
 Kagalar is the capital of the Kagalarian Empire. It is the most populated planet in the Kagalarian Empire. Many corporations and businesses thrive here. The planet has several spacecraft construction sites in orbit.
 
 The average room temperature on Kagalar is 17 degrees Celsius.
 
 ### Farusluk
-???
+Farusluk is a wild planet, with the only colonies being several military bases. The planet has a depressing, grey, rocky landscape.
 
 ### Fraskrak
 Huskular is an industrial and mining planet, exporting mainly mroken and mrokek. They also have factories building weapons for the Kagalarian army and space navy.
@@ -20,7 +20,7 @@ Huskular is an industrial and mining planet. It has tens of spacecraft construct
 Jendoromir is a civilian planet.
 
 ### Korulam
-Korulam is a mining planet.
+Korulam is a mining planet. The planet has a grey, rocky landscape peppered with craters and cave holes, making it a perfect location to establish mining colonies.
 
 ### Kragalos
 Kragalos is an industrial and mining planet, exporting mainly mroken and mrokek. They also have factories building weapons for the Kagalarian army and space navy.
@@ -29,16 +29,17 @@ Kragalos is an industrial and mining planet, exporting mainly mroken and mrokek.
 Lokaramarkus is a civilian planet.
 
 ### Molmglar
-???
+Molmglar is a wild planet, with the only colonies being several military bases.
 
 ### Nakarskan
 Nakarskan is a civilian planet.
 
 ### Nelukal
-???
+Nelukal is a wild planet, with the only colonies being several military bases. It is an ice world with temperatures ranging from -70 to -30 degrees Celsius.
 
 ### Sorkarvil
 Sorkarvil is a wild planet filled with weird forests and common monsters within the Kagalarian region. There are no Kagalarian colonies established on it, but the empire has claimed it as part of its territory.
 
+#### Seenian-controlled Planets
 ### Ramalosedot
-Originally the capital of the Kingdom of Ramalosedot, this planet was taken over by enemies, causing the downfall of the kingdom.
+Ramalosedot was originally the capital of the Kingdom of Ramalosedot, under the protection of the Kagalarian Empire. However, the Seenians conquered it and took control, causing their downfall.
