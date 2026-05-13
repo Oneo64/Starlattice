@@ -25,5 +25,5 @@ The limitation of these radios is that, through around 40 meters of thick materi
 	<tr> <th>Type</th> <th>Mobility</th> <th>Range</th> <th>Speed</th> <th>En/decryption</th> <th>Limitation</th> </tr>
 	<tr> <th>Civilian</th> <td>Portable</td> <td>N/A</td> <td>N/A</td> <td>No</td> <td>Cannot broadcast</td> </tr>
 	<tr> <th>Handheld</th> <td>Portable in hand</td> <td>About 300 km</td> <td>Normal</td> <td>Yes</td> <td>About 5 m of solid material</td> </tr>
-	<tr> <th>Military-grade</th> <td>Grounded or by vehicle</td> <td>About 700 au</td> <td>about x1000 faster</td> <td>Yes</td> <td>About 40 m of solid material</td> </tr>
+	<tr> <th>Military-grade</th> <td>Grounded or by vehicle</td> <td>About 700 au</td> <td>about x400 faster</td> <td>Yes</td> <td>About 40 m of solid material</td> </tr>
 </tbody></table>

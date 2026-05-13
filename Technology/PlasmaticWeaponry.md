@@ -23,63 +23,89 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 ---
 
 ## List of Plasmatic Handweapons
+### Rifles
 #### KAG MP-114 (KAG Mrelniy Panovka Model 114)
- - **Type:** Automatic plasmatic rifle
- - **Manufacturer:** KAG Armoury
- - **Core:** Mrokek
- - **Rate of Fire:** 700 rpm
- - **Length:** ~70 centimeters
- - **Weight:** ~3.6 kilograms
- - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
- - **Relative Muzzle Velocity:** 500 m/s
- - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
- - **Effective Range:** ~600 meters
+- **Type:** Automatic plasmatic rifle
+- **Manufacturer:** KAG Armoury
+- **Core:** Mrokek
+- **Rate of Fire:** 700 rpm
+- **Length:** ~70 centimeters
+- **Weight:** ~3.6 kilograms
+- **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
+- **Battery capacity:** 40 blasts before weakening, ~50 blasts before empty
+- **Relative Muzzle Velocity:** 500 m/s
+- **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
+- **Effective Range:** ~600 meters
 
 A KAG MP-114, shortened to MP-114, is a plasmatic rifle manufactured in the Kagalarian Empire. This weapon is the standard-issue rifle in the Kagalarian army, valued for its effectiveness, reliability, and its balance in its production cost and end quality. For decades, their army has still not replaced this rifle, and will probably not be for another several years.
 
-These rifles use a mrokek core, causing its bolts to appear blue, and its containment field generator holds the plasma bolts using 3 kilojoules of energy. The batteries they use have a lifetime of a hundred individual blasts.
+These rifles use a mrokek core, causing its bolts to appear blue, and its containment field generator holds the plasma bolts using 3 kilojoules of energy.
 
+#### KAG VAP-3 (KAG Vost Avtit Psakar Model 3)
+- **Type:** Automatic plasmatic machine gun
+- **Manufacturer:** KAG Armoury
+- **Core:** Mrokek
+- **Rate of Fire:** 622 rpm
+- **Length:** ~120 centimeters
+- **Weight:** ~4.8 kilograms
+- **Projectile:** Contained plasma bolt (6 grams, heat estimated to be 2000 kelvins)
+- **Battery capacity:**
+  - **Standard:** 120 blasts before weakening, ~150 blasts before empty
+  - **Heavy-duty:** 200 blasts before weakening, ~250 blasts before empty
+- **Relative Muzzle Velocity:** 600 m/s
+- **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
+- **Effective Range:** ~1100 meters
+
+A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured in the Kagalarian Empire. Although powerful, they are heavier than most rifles, use more energy, and are not as streamlined. The Kagalarian army uses them for support infantry roles, guard posts, and areas that require strong defence.
+
+These machine guns use a mrokek core, causing its bolts to appear blue, and its containment field generator holds the plasma bolts using 3 kilojoules of energy.
+
+### Pistols
 #### KAG MN-12 (KAG Mrelniy Nogen Model 12)
- - **Type:** Semi-automatic plasmatic pistol
- - **Manufacturer:** KAG Armoury
- - **Core:** Mrokek
- - **Rate of Fire:** 600 rpm
- - **Length:** 17 centimeters
- - **Weight:** ~680 grams
- - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
- - **Relative Muzzle Velocity:** 400 m/s
- - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
- - **Effective Range:** ~200 meters
+- **Type:** Semi-automatic plasmatic pistol
+- **Manufacturer:** KAG Armoury
+- **Core:** Mrokek
+- **Rate of Fire:** 600 rpm
+- **Length:** 17 centimeters
+- **Weight:** ~680 grams
+- **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
+- **Battery capacity:** 15 blasts before weakening, ~19 blasts before empty
+- **Relative Muzzle Velocity:** 400 m/s
+- **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
+- **Effective Range:** ~200 meters
 
 A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured in the Kagalarian Empire. It uses a mrokek core.
 
 Its containment field generator holds the plasma bolts using 1 kilojoule of energy.
 
 #### AON-9 (Avtit Olgor Nogen 9)
- - **Type:** Automatic plasmatic pistol
- - **Manufacturer:** Olgorzast Arsenal Cooperations
- - **Core:** Mrokek
- - **Rate of Fire:** 980 rpm, 700 rpm in semi-automatic
- - **Length:** ~19 centimeters
- - **Weight:** ~700 grams
- - **Projectile:** Contained plasma bolt (4 grams, heat estimated to be 1600 kelvins)
- - **Relative Muzzle Velocity:** 330 m/s
- - **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
- - **Effective Range:** ~100 meters
+- **Type:** Automatic plasmatic pistol
+- **Manufacturer:** Olgorzast Arsenal Cooperations
+- **Core:** Mrokek
+- **Rate of Fire:** 980 rpm, 700 rpm in semi-automatic
+- **Length:** ~19 centimeters
+- **Weight:** ~700 grams
+- **Projectile:** Contained plasma bolt (4 grams, heat estimated to be 1600 kelvins)
+- **Battery capacity:** 27 blasts before weakening, ~34 blasts before empty
+- **Relative Muzzle Velocity:** 330 m/s
+- **On impact:** Bolts explode in a small shower of sparks, burning whatever they touch.
+- **Effective Range:** ~100 meters
 
 A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured in the Kagalarian Empire. It uses a mrokek core.
 
 Its containment field generator holds the plasma bolts using 900 joules of energy.
 
+### Beamers
 #### KAG YP-P4 (KAG Yivniy Panovka Prototype 4)
- - **Type:** Plasmatic handweapon (beamer)
- - **Manufacturer:** KAG Armoury
- - **Core:** Mrokek
- - **Length:** ~110 centimeters
- - **Weight:** ~9 kilograms
- - **Projectile:** Steady plasma output in the form of a beam (heat estimated to be 3000 kelvins)
- - **Relative Muzzle Velocity:** 350 m/s
- - **Effective Range:** ~50 meters
+- **Type:** Plasmatic handweapon (beamer)
+- **Manufacturer:** KAG Armoury
+- **Core:** Mrokek
+- **Length:** ~110 centimeters
+- **Weight:** ~9 kilograms
+- **Projectile:** Steady plasma output in the form of a beam (heat estimated to be 3000 kelvins)
+- **Battery capacity:** 40 seconds
+- **Relative Muzzle Velocity:** 350 m/s
+- **Effective Range:** ~50 meters
 
 A KAG YP-P4, shortened to MYP P-4, is a plasmatic rifle manufactured in the Kagalarian Empire. Instead of bolts, this rifle fires a beam of plasma by allowing a steady electrical current into its mrokek core.
 
@@ -87,80 +113,80 @@ Its containment field generator holds the plasma beam together using 2.5 kilojou
 
 ## List of Plasmatic Explosives
 #### Plasmatic Grenade
- - **Type:** Plasmatic Explosive
- - **Kill radius:** 3 meters
- - **Blast radius:** 7 meters
- - **Shock radius:** 15 meters
- - **Destruction Equivalent:** 100 grams of TNT
+- **Type:** Plasmatic Explosive
+- **Kill radius:** 3 meters
+- **Blast radius:** 7 meters
+- **Shock radius:** 15 meters
+- **Destruction Equivalent:** 100 grams of TNT
 
 The grenade's shell is made of arsenium. After 5 seconds of the pin being pulled, the grenade's detonation mechanism activates.
 
 ## List of Mounted Turrets
 #### All-Purpose Missile Launcher
- - **Type:** Mounted Turret
- - **Rate of Fire:** 30 rpm
- - **Projectile:** APMLMs
- - **Detection Range:** 8,000 kilometres (8 kacholnakins)
+- **Type:** Mounted Turret
+- **Rate of Fire:** 30 rpm
+- **Projectile:** APMLMs
+- **Detection Range:** 8000 kilometres (8 kacholnakins)
 	
 A missile launcher with a multi-purpose computing and launching system. Can be used to counter missiles and other projectiles, ships, ground structures, etc. These turrets are controlled by AI, which is connected to all other turrets, so the ship will always fire the most optimal missiles required. But ultimately, the target of these turrets is set in the control room of the spacecraft.
 
 Missile launchers are too heavy to go onto smaller spacecraft such as civilian travelling vessels, but the minimum length requirement a ship must be in order to fly safely with a missile launcher installed is 50 meters.
 
 #### Anti-spacefighter Repeater
- - **Type:** Mounted Turret
- - **Rate of Fire:** 300 rpm
- - **Projectile:** Contained plasma bolt
- - **Relative Muzzle Velocity:** 900 m/s
- - **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
- - **Effective Range:** 5 kilometers
+- **Type:** Mounted Turret
+- **Rate of Fire:** 300 rpm
+- **Projectile:** Contained plasma bolt
+- **Relative Muzzle Velocity:** 900 m/s
+- **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
+- **Effective Range:** 5 kilometers
 
 Designed to destroy spacefighters.
 
 #### Bombardment Cannon
- - **Type:** Mounted Turret
- - **Rate of Fire:** 15 rpm
- - **Projectile:** Contained plasma bolt
- - **Relative Muzzle Velocity:** 900 m/s
- - **Destruction Equivalent:** 6 kilograms of TNT, 5-metre-radius killzone
- - **Effective Range:** 30 kilometers
+- **Type:** Mounted Turret
+- **Rate of Fire:** 15 rpm
+- **Projectile:** Contained plasma bolt
+- **Relative Muzzle Velocity:** 900 m/s
+- **Destruction Equivalent:** 6 kilograms of TNT, 5-metre-radius killzone
+- **Effective Range:** 30 kilometers
 
 A warship cannon designed for bombardment. Bolts fired are slightly wider than most, allowing more surface damage in exchange for higher energy consumption per shot.
 
 #### War Cannon
- - **Type:** Mounted Turret
- - **Rate of Fire:** 60 rpm
- - **Projectile:** Contained plasma bolt
- - **Relative Muzzle Velocity:** 900 m/s
- - **Destruction Equivalent:** 2 kilograms of TNT, 2-metre-radius killzone
- - **Effective Range:** 30 kilometers
+- **Type:** Mounted Turret
+- **Rate of Fire:** 60 rpm
+- **Projectile:** Contained plasma bolt
+- **Relative Muzzle Velocity:** 900 m/s
+- **Destruction Equivalent:** 2 kilograms of TNT, 2-metre-radius killzone
+- **Effective Range:** 30 kilometers
 
 An anti-armour cannon.
 
 #### High-speed Repeater
- - **Type:** Mounted Turret
- - **Rate of Fire:** 800 rpm
- - **Projectile:** Contained plasma bolt
- - **Relative Muzzle Velocity:** 760 m/s
- - **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
- - **Effective Range:** 2 kilometers
+- **Type:** Mounted Turret
+- **Rate of Fire:** 800 rpm
+- **Projectile:** Contained plasma bolt
+- **Relative Muzzle Velocity:** 760 m/s
+- **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
+- **Effective Range:** 2 kilometers
 
 Designed to mow down crowds of enemies.
 
 #### Spacefighter Cannon
- - **Type:** Mounted Turret, non-rotating gun
- - **Rate of Fire:** 300 rpm
- - **Projectile:** Contained plasma bolt
- - **Relative Muzzle Velocity:** 600 m/s, 950 m/s (when shot from a flying spacefighter)
- - **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
- - **Effective Range:** 5 kilometers
+- **Type:** Mounted Turret, non-rotating gun
+- **Rate of Fire:** 300 rpm
+- **Projectile:** Contained plasma bolt
+- **Relative Muzzle Velocity:** 600 m/s, 950 m/s (when shot from a flying spacefighter)
+- **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
+- **Effective Range:** 5 kilometers
 
 An all-purpose weapon mounted on spacefighters and other similar spacecraft.
 
 #### Long-range Laser Projector
- - **Type:** Mounted Turret
- - **Projectile:** Laser
- - **Penetration per Second:** 4 centimetres (for fresarmanite plating), 6 centimetres (for typical steel), 30 centimetres (for civilian concrete, but the total performance range is 10 to 40 centimetres)
- - **Effective Range:** 200 kilometres (0.2 kacholnakins)
+- **Type:** Mounted Turret
+- **Projectile:** Laser
+- **Penetration per Second:** 4 centimetres (for fresarmanite plating), 6 centimetres (for typical steel), 30 centimetres (for civilian concrete, but the total performance range is 10 to 40 centimetres)
+- **Effective Range:** 200 kilometres (0.2 kacholnakins)
 
 A long-range laser projector is a laser-firing mounted turret, designed to attack ships that have a shield generator or are fast.
 
