@@ -72,7 +72,7 @@ These machine guns use a mrokek core, causing its bolts to appear blue, and its 
 - **Relative Muzzle Velocity:** 500 m/s
 - **Effective Range:** ~650 meters
 
-A TAP-201 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian company. It was produced in 1996 but was later replaced by the TAP-201. Its containment field generator holds the plasma bolts using 3.2 kilojoules of energy.
+A TAP-96 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian company. It was produced in 1996 but was later replaced by the TAP-201. Its containment field generator holds the plasma bolts using 3.2 kilojoules of energy.
 
 #### TAP-201 (Tasmot Avtit Psakar Model 201)
 - **Type:** Automatic plasmatic machine gun
