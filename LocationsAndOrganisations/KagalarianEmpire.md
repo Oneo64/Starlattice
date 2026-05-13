@@ -18,18 +18,34 @@ Here's a list of crimes that are commitable in the Kagalarian Empire.
  - **Unlawful Possession of Plasmatic Weapon:** All plasmatic weapons must have a valid license, and the weapon bearer must also have a valid license.
  - **Improper Weapon Building:** It is a crime to build plasmatic weapons that do not have a cooling system, or with a cooling system that cannot keep the weapon under 250 °C. Plasmatic weapons that don't have these requirements could overheat to the point that they either melt or become very hazardous.
 
+## Governing System
+The Kagalarian Empire uses a federal government, split into four governing bodies for the following civilian planets: Kagalar, Jendoromir, Lokaramarkus, and Nakarskan.
+
+On the imperial level is the Kagalarian government. They handle major law, currency, trade, military, space exploration, etc. They have control over the lesser governing bodies and can veto decisions made by them. Imperial territories (not civilian planets!) are mainly controlled by them.
+
+On the planetary level are the Jendoromiran, Lokaramarkian, and Nakarskanian governments. These governments are semi-autonomous, handling local law, policing, education, planetary exploration, etc.
+
 ## Military
-The Kagalarian Empire has about 630 million troops, with around 53 million on each planet. Each troop are trained for about a month before they become eligible for deployment, and will continue training after the month. Military ranks, from highest to lowest, are: Emperor, High Commander, Commander, Captain, Leader, and Infantry.
+The Kagalarian Empire has about 630 million troops in both the army and space navy, with around 53 million on each planet. Military ranks, from highest to lowest, are: Emperor, High Commander, Commander, General, Leader, and Infantry.
 
-The army is split into legions. A legion can have up to 128 battalions. A battalion is a group of 128 squadrons. Each squadron has 4 squads. A squad has one leader and three infantrymen, or for the head squad of the squadron, one captain and three infantrymen.
+Legions, the biggest army unit, are determined by the planet they are on. A legion can contain hundreds of battalions.
 
-In this model, a legion can have up to 262,144 soldiers, a battalion would have 2048 soldiers, and a squadron would have 16 soldiers. Each military base would have its own battalion, while larger "central" bases have their own legion.
+Battalions are groups of 128 squadrons. Each battalion has its own military base. In war, the army assigns an appropriate number of battalions to a battle. Then, the battalion will send squadrons to the frontlines.
 
-The army assigns one battalion to a battle, then sends individual squadrons to combat locations. From there, each squad within the squadron plans its own miniature mission to support the squadron's main mission. In case of planetary invasion, however, the army would instead assign a legion or two for transport on carrier battleships.
+Squadrons are groups of 4 squads. They are usually sent to one location in the battle by their battalion, such as a specific block of a city or a specific small landmark.
 
-Commanders and high commanders are assigned to either a ship or the army. If assigned to the army, high commanders are in control of a legion, and commanders are in control of a battalion.
+Squads are groups of 4 soldiers, consisting of one leader and three infantrymen. Each squad within the squadron plans its own miniature mission to work towards the squadron's main mission.
 
-In the space navy, each battleship is in control of one captain (who has the rank of high commander). Several commanders are under the captain's command, who also take the head position of a specific branch on the ship. A battle fleet usually consists of one siege battleship, flanked by 12 destroyers. An invasion fleet usually consists of one carrier battleship, flanked by 16 destroyers and 4 carriers.
+For a quick explanation of the military ranks:
+- Army infantry are soldiers under a squad leader.
+- Army leaders are soldiers who lead a squad. There is no squadron leader rank (it's often the army general), so squad leaders must coordinate their moves.
+- Army generals stay in military bases or established military outposts. They oversee the military base and the battle they are fighting, and report to higher ranks. They are the non-combative army rank who are closest to any combat.
+- Army commanders stay in military bases or their planet's military headquarters. They do upper-level strategy alongside their high commander.
+- Army high commanders stay in military bases or their planet's military headquarters. They are assigned to a planet and their legion, and their job is to handle that part of the army. They are the highest-ranking officers in the Kagalarian army.
+- Navy commanders stay in their planet's military headquarters or on their battleship. They take the head roles of local branches, such as security, engineering, navigation, etc.
+- Navy high commanders stay in their planet's military headquarters or on their battleship. They act as the "army general" of their fleet and the captain of their battleship, and are the highest-ranking officers in the Kagalarian navy.
+
+In the space navy, a battle fleet usually consists of one siege battleship, flanked by 12 destroyers. An invasion fleet usually consists of one carrier battleship, flanked by 16 destroyers and 4 carriers.
 
 Their entire space navy consists of 130 battleships, 1000 carriers, 4000 destroyers, and 300,000 spacefighters.
 
