@@ -132,7 +132,7 @@ This military base is about 20 kilometres north of Jovikal.
 #### Overcoats
 Overcoats used by the Kagalarian army are long, reaching mid-calf length. However, this could hinder movement and snag on branches or sharp concrete corners.
 
-To address these problems, the Kagalarian army began to issue a specific style of overcoat. The overcoat has a tail-like split at the back, and the ends can be tied together to create pant legs. With this design, the overcoat can stay loose while conforming to the infantryman's legs as he moves.
+To address these problems, the Kagalarian army began to issue a specific style of overcoat. The overcoat has a tail-like split at the back, and the ends can be connected with a lightweight buckle to create pant legs. With this design, the overcoat can stay loose while conforming to the infantryman's legs as he moves.
 
 For the fabric itself, the overcoat has two layers, the outer layer being a smooth synthetic fabric and the inner layer being a fleece-covered synthetic fabric. The outer layer is actually thinner than the inner layer to reduce weight.
 
