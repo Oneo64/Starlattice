@@ -26,7 +26,7 @@ On the imperial level is the Kagalarian government. They handle major law, curre
 On the planetary level are the Jendoromiran, Lokaramarkian, and Nakarskanian governments. These governments are semi-autonomous, handling local law, policing, education, planetary exploration, etc.
 
 ## Military
-The Kagalarian Empire has about 630 million troops in both the army and space navy, with around 53 million on each planet. Military ranks, from highest to lowest, are: Emperor, High General, General, High Commander, Commander, Leader, and Infantry.
+The Kagalarian Empire has about 630 million troops in both the army and space navy, with around 53 million on each planet. Military ranks, from highest to lowest, are: emperor, high general, general, high commander, commander, leader, and infantry.
 
 Legions, the biggest army unit, are determined by the planet they are on. A legion can contain hundreds of battalions.
 
@@ -46,10 +46,9 @@ For a quick explanation of the military ranks:
 - **Generals & high generals** stay in military bases or their planet's military headquarters. They are assigned to a planet and legion, and their job is to handle that part of the army/navy. They do upper-level strategy with the emperor whenever their legion is being sent to war.
 
 For a quick explanation on strategic levels:
-- **Intermediate strategic planning** involves squad leaders and infantry. A quick example, if the squadron's mission is to capture a house, a few squads handle clearing the interior while another squad handles guarding the surroundings.
-- **Lower-level strategic planning** involves commanders and high commanders, and later squad leaders of a squadron. They plan for the battle they are assigned to fight.
-- **Upper-level strategic planning** involves generals and high generals, and later high commanders. They plan for battles and what their goals are.
-- **Imperial strategic planning** involves high generals and the emperor. They plan for wars and battles, but they can also plan for the goals of specific battles.
+- **Lower-level strategic planning** involves commanders and high commanders, and later squad leaders of a squadron. During combat, the commanders and high commanders will plan strategic moves in their military base to work towards a win. When the move is planned, they take a squadron and give each individual squad their objective. From there, the squad leader will decide how their squad should achieve that goal.
+- **Upper-level strategic planning** involves generals and high generals. During a meeting, they will plan for battles and their goals, and later initiate the battle through the commander ranks. These meetings don't actively require the emperor's approval, but can be vetoed if situations change.
+- **Imperial strategic planning** involves high generals and the emperor. During a meeting, they will plan for war and battles, but they can also plan for the goals of specific battles if they're important enough.
 
 ### Training
 During their initial month, soldiers are trained for multiple tactics such as weapons handling (duh), cover usage, stealth, enemy identification, shoot-to-kill reaction to surprise, and discipline.
