@@ -50,7 +50,7 @@ These rifles use a mrokek core, causing its bolts to appear blue, and its contai
 - **Rate of Fire:** 570 rpm
 - **Length:** ~120 centimeters
 - **Weight:** ~11.7 kilograms
-- **Projectile:** Contained plasma bolt (6 grams, heat estimated to be 2050 kelvins)
+- **Projectile:** Contained plasma bolt (6 grams, heat estimated to be 2070 kelvins)
 - **Battery capacity:**
   - **Standard:** 120 blasts before weakening, ~150 blasts before empty
   - **Heavy-duty:** 200 blasts before weakening, ~250 blasts before empty
