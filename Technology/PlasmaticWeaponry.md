@@ -60,6 +60,36 @@ A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured in the 
 
 These machine guns use a mrokek core, causing its bolts to appear blue, and its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
 
+#### TAP-96 (Tasmot Avtit Psakar Model 96)
+- **Type:** Automatic plasmatic machine gun
+- **Manufacturer:** Asenk Armoury
+- **Core:** Mrokek
+- **Rate of Fire:** 760 rpm
+- **Length:** ~120 centimeters
+- **Weight:** ~13.1 kilograms
+- **Projectile:** Contained plasma bolt (8 grams, heat estimated to be 1450 kelvins)
+- **Battery capacity:** 60 blasts before weakening, ~75 blasts before empty
+- **Relative Muzzle Velocity:** 500 m/s
+- **Effective Range:** ~650 meters
+
+A TAP-201 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian company. It was produced in 1996 but was later replaced by the TAP-201. Its containment field generator holds the plasma bolts using 3.2 kilojoules of energy.
+
+#### TAP-201 (Tasmot Avtit Psakar Model 201)
+- **Type:** Automatic plasmatic machine gun
+- **Manufacturer:** Asenk Armoury
+- **Core:** Mrokek
+- **Rate of Fire:** 880 rpm
+- **Length:** ~110 centimeters
+- **Weight:** ~11.2 kilograms
+- **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2050 kelvins)
+- **Battery capacity:**
+  - **Standard:** 120 blasts before weakening, ~150 blasts before empty
+  - **Heavy-duty:** 200 blasts before weakening, ~250 blasts before empty
+- **Relative Muzzle Velocity:** 550 m/s
+- **Effective Range:** ~800 meters
+
+A TAP-201 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian company. Its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
+
 ### Pistols
 #### KAG MN-12 (KAG Mrelniy Nogen Model 12)
 - **Type:** Semi-automatic plasmatic pistol
