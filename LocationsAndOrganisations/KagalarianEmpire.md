@@ -30,9 +30,9 @@ The Kagalarian Empire has about 630 million troops in both the army and space na
 
 Legions, the biggest army unit, are determined by the planet they are on. A legion can contain hundreds of battalions.
 
-Battalions are groups of 128 squadrons. Each battalion has its own military base. In war, the army assigns an appropriate number of battalions to a battle. Then, the battalion will send squadrons to the frontlines.
+Battalions are groups of 128 squadrons. Each battalion has its own military base. In war, the army assigns an appropriate number of battalions to a battle. Then, the battalion will send squadrons to the frontlines. A battalion has 2048 soldiers.
 
-Squadrons are groups of 4 squads. They are usually sent to one location in the battle by their battalion, such as a specific block of a city or a specific small landmark.
+Squadrons are groups of 4 squads. They are usually sent to one location in the battle by their battalion, such as a specific block of a city or a specific small landmark. A squadron has 16 soldiers.
 
 Squads are groups of 4 soldiers, consisting of one leader and three infantrymen. Each squad within the squadron plans its own miniature mission to work towards the squadron's main mission.
 
@@ -46,7 +46,7 @@ For a quick explanation of the military ranks:
 - **Generals & high generals** stay in military bases or their planet's military headquarters. They are assigned to a planet and legion, and their job is to handle that part of the army/navy. They do upper-level strategy with the emperor whenever their legion is being sent to war.
 
 For a quick explanation on strategic levels:
-- **Lower-level strategic planning** involves commanders and high commanders, and later squad leaders of a squadron. During combat, the commanders and high commanders will plan strategic moves in their military base to work towards a win. When the move is planned, they take a squadron and give each individual squad their objective. From there, the squad leader will decide how their squad should achieve that goal.
+- **Lower-level strategic planning** involves commanders and high commanders, and later squad leaders of a squadron. During combat, the commanders and high commanders will plan strategic moves in their military base to work towards a win. When the move is planned, they take a squadron (sometimes two or more in a cooperation) and give each individual squad their objective. From there, the squad leader will decide how their squad should achieve that goal.
 - **Upper-level strategic planning** involves generals and high generals. During a meeting, they will plan for battles and their goals, and later initiate the battle through the commander ranks. These meetings don't actively require the emperor's approval, but can be vetoed if situations change.
 - **Imperial strategic planning** involves high generals and the emperor. During a meeting, they will plan for war and battles, but they can also plan for the goals of specific battles if they're important enough.
 
