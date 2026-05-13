@@ -14,7 +14,7 @@ The **Kagalarian Empire**, known formally as the **Empire of Kagalar**, also kno
 ## Law
 Here's a list of crimes that are commitable in the Kagalarian Empire.
 
-#### Crimes (not finished, right now only lists out the non-obvious ones)
+### Crimes (not finished, right now only lists out the non-obvious ones)
  - **Unlawful Possession of Plasmatic Weapon:** All plasmatic weapons must have a valid license, and the weapon bearer must also have a valid license.
  - **Improper Weapon Building:** It is a crime to build plasmatic weapons that do not have a cooling system, or with a cooling system that cannot keep the weapon under 250 °C. Plasmatic weapons that don't have these requirements could overheat to the point that they either melt or become very hazardous.
 
@@ -31,21 +31,21 @@ In the space navy, each battleship is in control of one captain (who has the ran
 
 Their entire space navy consists of 130 battleships, 1000 carriers, 4000 destroyers, and 300,000 spacefighters.
 
-#### Training
+### Training
 During their initial month, soldiers are trained for multiple tactics such as weapons handling (duh), cover usage, stealth, enemy identification, shoot-to-kill reaction to surprise, and discipline.
 
 Human soldiers are specifically disciplined to respect cloned infantry to reduce internal conflict.
 
 During weapons handling, the most interesting part that separates them from modern militaries is that they are trained to fire pistols with one hand, body turned to the side.
 
-#### Cloning technology
+### Cloning technology
 The Kagalarian Empire has heavily utilized cloning technology to create a sizable portion of its army. The Kagalarian Army consists of 13% clones of humans; the rest are non-clones.
 
 To prevent clones from betraying allies or freaking out upon creation, they have been biologically preprogrammed (rewiring brain cells) before being awakened from their initial coma.
 
 Clones can only be infantry.
 
-#### Main base
+### Main base
 The Kagalarian main base is built on a hill, surrounded by snowy coniferous forests. The entrance is built on its side, and it reaches down into the earth. There are 6 floors in the main Kagalarian base, each floor being about 10 meters in height, and 400 meters in width and length. On the hill, there are 4 APMT systems and 8 anti-spacefighter repeaters. The entrance has a large 10x30 meter gate, and to its right, there is a smaller door.
 
 There is a runway connecting the gate to a nearby air and spacecraft field. The spacecraft field has a few carriers, destroyers, and many spacefighters.
@@ -54,30 +54,89 @@ The ground level is a vehicle storage with many vehicles such as cars, armoured 
 
 This military base is about 20 kilometres north of Jovikal.
 
-#### Uniforms
- - **Infantry and Captains:**
-    - **Forest uniform:**	A dark green combat helmet, a dark green balaclava, a dark green overcoat, a utility belt, and a pair of black boots.
-    - **Snow uniform:** A white combat helmet, a white balaclava, a white overcoat, a utility belt, and a pair of black boots.
-    - **Standard uniform:** A white combat helmet, a white overcoat, a utility belt, and a pair of black boots.
-    - **Infantry equipment:** A KAG MP-114 plasmatic rifle, a battery recharger, a handheld radio, and a pair of gloves.
-    - **Infantry armour:** A simple Kevlar vest that covers the whole front and back torso, it should be worn under the overcoat.
- - **Guards and Patrollers:**
-    - **Standard uniform:** A black combat helmet, a black overcoat, a utility belt, a pair of dark grey pants, and a pair of black boots.
-    - **Equipment:** A KAG MP-114 plasmatic rifle, a battery recharger, and a handheld radio.
-    - **Armour:** A Kevlar jacket worn under the overcoat, which covers the torso, thighs, and upper arms.
- - **Secret Intelligence agents:**
-    - **Standard uniform:** A blue surcoat, a utility belt, a dark grey long-sleeved shirt, a pair of dark grey pants, and a pair of black boots. (Keep in mind that a Secret Intelligence agent may wear disguises when they are deployed.)
-    - **Equipment:** A KAG MN-12 plasmatic pistol, a battery recharger, and a handheld radio.
-    - **Armour:** A Kevlar jacket worn under the surcoat, which covers the torso, thighs, and upper arms. This jacket is thinner than others in order to reduce weight and sound when moving.
- - **Repairmen, cooks, operators, and other non-combatants:**
-    - **Standard uniform:** A black surcoat, a dark grey long-sleeved shirt, a utility belt, a pair of dark grey pants, and a pair of black boots.
-    - **Equipment:** A handheld radio and appropriate work tools.
- - **Formal high-rank uniforms:**
-    - **Standard uniform:** A black surcoat with red shoulder lines, a dark grey long-sleeved shirt, a utility belt, a pair of dark grey pants, and a pair of black boots.
-    - **Equipment:** A KAG MN-12 plasmatic pistol, a battery recharger, and a handheld radio.
-	- **Armour:** A Kevlar jacket worn under the surcoat, which covers the torso, thighs, and upper arms.
- - **Combative high-rank uniforms:** A military-grade power armour painted black, with a blue Kagalarian Insignia on the front and back. Removing/not having the default modules is punishable, but additional modules may be added, except for point laser defences.
- - **Nameplates:** All military personnel, soldiers included, have a nameplate placed at the top middle of their surcoat/overcoat, where their chests are. The nameplate displays their Kagalarian names (which are in Cyrillic), except for clones, whose nameplates will display their ID.
- - **Gloves:** All weapon-bearing military personnel, soldiers included, will be given a set of heat-resistant gloves and are required to wear them when handling their weapon to prevent accidental burn injury.
+### Uniforms and Equipment
+#### Infantry and captains
+- **Uniform**
+  - Camouflaged combat helmet
+  - Camouflaged balaclava
+  - Camouflaged overcoat
+  - Black utility belt
+  - Black boots
 
-A formal uniform is worn by high-ranked military personnel (the emperor, commanders, high commanders) when they are sent as military representatives or sent to a meeting in another nation, faction, or power. This is done to appear as less threatening and as less intimidating as possible.
+- **Equipment**
+  - KAG MP-114 Plasmatic Rifle
+  - Kevlar vest (covers chest and back; worn under overcoat)
+  - 3 × MP-114 batteries
+  - Handheld radio
+  - Black heat-resistant gloves
+
+- **Camouflage variants**
+  - **Winter (default):** White
+  - **Woodland:** Dark, rich green
+  - **Urban:** Blueish grey
+  - **Desert (rare):** Tan/khaki
+
+#### Guards and patrollers
+- **Uniform**
+  - Black combat helmet
+  - Black overcoat
+  - Black utility belt
+  - Black boots
+
+- **Equipment**
+  - KAG MP-114 Plasmatic Rifle
+  - Kevlar vest (covers chest, back, and thighs; worn under overcoat)
+  - 3 × MP-114 batteries
+  - Handheld radio
+  - Black heat-resistant gloves
+
+#### Secret Intelligence agents
+*(Keep in mind that a Secret Intelligence agent may wear disguises when they are deployed.)*
+
+- **Uniform**
+  - Blue overcoat
+  - Black utility belt
+  - Black boots
+
+- **Equipment**
+  - KAG MN-12 Plasmatic Pistol
+  - Kevlar vest (covers chest and back; worn under overcoat)
+  - Handheld radio
+
+#### Repairmen, cooks, operators, and other non-combatants
+- **Uniform**
+  - Black overcoat
+  - Black utility belt
+  - Black boots
+
+- **Equipment**
+  - Handheld radio
+  - Appropriate work tools
+
+#### High-ranking officers (formal)
+- **Uniform**
+  - Black overcoat with red shoulder lines
+  - Black belt with pistol holster
+  - Black boots
+
+- **Equipment**
+  - KAG MN-12 Plasmatic Pistol
+  - Kevlar vest (covers chest, back, and thighs; worn under overcoat)
+  - Handheld radio
+
+#### High-ranking officers (combat)
+- **Uniform**
+  - Black military-grade power armour (with blue Kagalarian insignia on the front and back)
+    - *Removing/not having the default modules is punishable, but additional modules may be added, except for point laser defences.*
+
+#### Overcoats
+Overcoats used by the Kagalarian army are long, reaching mid-calf length. However, this could hinder movement and snag on branches or sharp concrete corners.
+
+To address these problems, the Kagalarian army began to issue a specific style of overcoat. The overcoat has two splits (one on the front and one on the back) with opposite ends connected, so that the overcoat, while loose, will conform to the infantryman's legs as he moves.
+
+For the fabric itself, the overcoat has two layers, the outer layer being a smooth synthetic fabric and the inner layer being a fleece-covered synthetic fabric. The outer layer is actually thinner than the inner layer to reduce weight.
+
+Camouflaged overcoats with desert colours (tan/khaki) have a slightly different cloth composition. Instead of two layers, they have one layer of synthetic fabric that is just thick enough to be opaque. The length is also different, only reaching knee-level.
+
+#### Nameplates
+All military personnel, soldiers included, have a nameplate placed on their upper-right chest. The nameplate displays their Kagalarian names (which are in Cyrillic), except for clones, whose nameplates will display their ID.
