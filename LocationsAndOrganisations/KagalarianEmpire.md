@@ -19,13 +19,15 @@ Here's a list of crimes that are commitable in the Kagalarian Empire.
  - **Improper Weapon Building:** It is a crime to build plasmatic weapons that do not have a cooling system, or with a cooling system that cannot keep the weapon under 250 °C. Plasmatic weapons that don't have these requirements could overheat to the point that they either melt or become very hazardous.
 
 ## Military
-The Kagalarian Empire has about 8 billion troops, with around 600 million on each planet. Each troop are trained for about a month before they become eligible for deployment, and will continue training after the month. Military ranks, from highest to lowest, are: Emperor, High Commander, Commander, Captain, and Infantry.
+The Kagalarian Empire has about 630 million troops, with around 53 million on each planet. Each troop are trained for about a month before they become eligible for deployment, and will continue training after the month. Military ranks, from highest to lowest, are: Emperor, High Commander, Commander, Captain, Leader, and Infantry.
 
-The army is split into legions. A legion can have up to 100 battalions or more. A battalion is a group of 64 squadrons. Each squadron has 4 squads, led by a commander. A squad has one captain and three infantrymen. From this model, a battalion would have a total of 1024 soldiers, and a squadron would have 16 soldiers. Each military base would have its own battalion, while larger "central" bases have their own legion.
+The army is split into legions. A legion can have up to 128 battalions. A battalion is a group of 128 squadrons. Each squadron has 4 squads. A squad has one leader and three infantrymen, or for the head squad of the squadron, one captain and three infantrymen.
 
-The army assigns one battalion to a battle, then sends individual squadrons to combat locations. From there, each squad of the squadron plans its own miniature mission to work towards the main mission of its squadron.
+In this model, a legion can have up to 262,144 soldiers, a battalion would have 2048 soldiers, and a squadron would have 16 soldiers. Each military base would have its own battalion, while larger "central" bases have their own legion.
 
-Commanders and high commanders are assigned to either a ship or the army. If assigned to the army, high commanders are in control of a battalion, and commanders are in control of a squadron.
+The army assigns one battalion to a battle, then sends individual squadrons to combat locations. From there, each squad within the squadron plans its own miniature mission to support the squadron's main mission. In case of planetary invasion, however, the army would instead assign a legion or two for transport on carrier battleships.
+
+Commanders and high commanders are assigned to either a ship or the army. If assigned to the army, high commanders are in control of a legion, and commanders are in control of a battalion.
 
 In the space navy, each battleship is in control of one captain (who has the rank of high commander). Several commanders are under the captain's command, who also take the head position of a specific branch on the ship. A battle fleet usually consists of one siege battleship, flanked by 12 destroyers. An invasion fleet usually consists of one carrier battleship, flanked by 16 destroyers and 4 carriers.
 
