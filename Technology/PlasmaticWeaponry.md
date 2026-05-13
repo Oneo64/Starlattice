@@ -60,7 +60,7 @@ These rifles use a mrokek core, causing its bolts to appear blue, and its contai
 
 A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured in the Kagalarian Empire. Although powerful, they are heavier than most rifles, use more energy, and are not as streamlined. The Kagalarian army uses them for support infantry roles, guard posts, and areas that require strong defence.
 
-These machine guns use a mrokek core, causing its bolts to appear blue, and its containment field generator holds the plasma bolts using 3 kilojoules of energy.
+These machine guns use a mrokek core, causing its bolts to appear blue, and its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
 
 ### Pistols
 #### KAG MN-12 (KAG Mrelniy Nogen Model 12)
