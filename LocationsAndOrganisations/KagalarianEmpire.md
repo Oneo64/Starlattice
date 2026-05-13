@@ -42,9 +42,8 @@ For a quick explanation of the military ranks:
 - **Army infantry** are soldiers under a squad leader.
 - **Army leaders** are soldiers who lead a squad. There is no squadron leader rank (it's often the army general), so squad leaders must coordinate their moves.
 - **Army commanders & high commanders** stay in military bases or established military outposts. They oversee the military base and the battle they are fighting, and report to higher ranks. Each military base has three commanders: war operator (handles strategy), intelligence officer (handles recon), and supervisor (handles discipline). The war operator is the high commander, and some decisions require their approval. They are the non-combative army ranks who are closest to any combat.
-- **Army generals & high generals** stay in military bases or their planet's military headquarters. They are assigned to a planet and legion, and their job is to handle that part of the army. They do upper-level strategy with the emperor whenever their legion is being sent to war.
-- **Navy generals** stay in their planet's military headquarters or on their battleship. They take the head roles of local branches, such as security, engineering, navigation, etc.
-- **Navy high generals** stay in their planet's military headquarters or on their battleship. They act as the "army general" of their fleet and the captain of their battleship, and are the highest-ranking officers in the Kagalarian navy.
+- **Navy commanders & high commanders** stay in their planet's military headquarters or on their battleship. Commanders take the head roles of local branches, such as security, engineering, navigation, etc. High commanders act as the captain of their battleship and fleet, and are the highest-ranking officers in the Kagalarian navy.
+- **Generals & high generals** stay in military bases or their planet's military headquarters. They are assigned to a planet and legion, and their job is to handle that part of the army/navy. They do upper-level strategy with the emperor whenever their legion is being sent to war.
 
 For a quick explanation on strategic levels:
 - **Intermediate strategic planning** involves squad leaders and infantry. A quick example, if the squadron's mission is to capture a house, a few squads handle clearing the interior while another squad handles guarding the surroundings.
