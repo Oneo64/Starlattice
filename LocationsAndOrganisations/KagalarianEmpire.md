@@ -26,7 +26,7 @@ On the imperial level is the Kagalarian government. They handle major law, curre
 On the planetary level are the Jendoromiran, Lokaramarkian, and Nakarskanian governments. These governments are semi-autonomous, handling local law, policing, education, planetary exploration, etc.
 
 ## Military
-The Kagalarian Empire has about 630 million troops in both the army and space navy, with around 53 million on each planet. Military ranks, from highest to lowest, are: Emperor, High Commander, Commander, General, Leader, and Infantry.
+The Kagalarian Empire has about 630 million troops in both the army and space navy, with around 53 million on each planet. Military ranks, from highest to lowest, are: Emperor, High General, General, High Commander, Commander, Leader, and Infantry.
 
 Legions, the biggest army unit, are determined by the planet they are on. A legion can contain hundreds of battalions.
 
@@ -37,13 +37,12 @@ Squadrons are groups of 4 squads. They are usually sent to one location in the b
 Squads are groups of 4 soldiers, consisting of one leader and three infantrymen. Each squad within the squadron plans its own miniature mission to work towards the squadron's main mission.
 
 For a quick explanation of the military ranks:
-- Army infantry are soldiers under a squad leader.
-- Army leaders are soldiers who lead a squad. There is no squadron leader rank (it's often the army general), so squad leaders must coordinate their moves.
-- Army generals stay in military bases or established military outposts. They oversee the military base and the battle they are fighting, and report to higher ranks. They are the non-combative army rank who are closest to any combat.
-- Army commanders stay in military bases or their planet's military headquarters. They do upper-level strategy alongside their high commander.
-- Army high commanders stay in military bases or their planet's military headquarters. They are assigned to a planet and their legion, and their job is to handle that part of the army. They are the highest-ranking officers in the Kagalarian army.
-- Navy commanders stay in their planet's military headquarters or on their battleship. They take the head roles of local branches, such as security, engineering, navigation, etc.
-- Navy high commanders stay in their planet's military headquarters or on their battleship. They act as the "army general" of their fleet and the captain of their battleship, and are the highest-ranking officers in the Kagalarian navy.
+- **Army infantry** are soldiers under a squad leader.
+- **Army leaders** are soldiers who lead a squad. There is no squadron leader rank (it's often the army general), so squad leaders must coordinate their moves.
+- **Army commanders & high commanders** stay in military bases or established military outposts. They oversee the military base and the battle they are fighting, and report to higher ranks. Each military base has three commanders: war operator (handles strategy), intelligence officer (handles recon), and supervisor (handles discipline). The war operator is the high commander, and some decisions require their approval. They are the non-combative army rank who are closest to any combat.
+- **Army generals & high generals** stay in military bases or their planet's military headquarters. They are assigned to a planet and legion, and their job is to handle that part of the army. They do upper-level strategy with the emperor whenever their legion is being sent to war.
+- **Navy generals** stay in their planet's military headquarters or on their battleship. They take the head roles of local branches, such as security, engineering, navigation, etc.
+- **Navy high generals** stay in their planet's military headquarters or on their battleship. They act as the "army general" of their fleet and the captain of their battleship, and are the highest-ranking officers in the Kagalarian navy.
 
 In the space navy, a battle fleet usually consists of one siege battleship, flanked by 12 destroyers. An invasion fleet usually consists of one carrier battleship, flanked by 16 destroyers and 4 carriers.
 
