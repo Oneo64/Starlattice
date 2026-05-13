@@ -30,7 +30,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 - **Type:** Automatic plasmatic rifle
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
-- **Rate of Fire:** 700 rpm
+- **Rate of Fire:** 650 rpm
 - **Length:** ~70 centimeters
 - **Weight:** ~3.6 kilograms
 - **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
