@@ -122,10 +122,10 @@ The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently tran
 #### Anora Vlatiyra M-224
 - **Manufacturer:** Anora Spacecraft Manufacturing
 - **Type:** Spacefighter
-- **Length:** 12 meters
-- **Wingspan:** 12 meters
+- **Length:** 16 meters
+- **Wingspan:** 10 meters
 - **Hull:** 2-centimetre fresarmanite plating
-- **Speed:** 320 m/s (atmospheric), 360 m/s (relative to capital ships and battleships that are in outer space)
+- **Speed:** 400 m/s (atmospheric), 450 m/s (relative to capital ships and battleships that are in outer space)
 - **Agility:** 1.57 rad/s (90 deg/s)
 - **Arnament:**
   - 2 × Spacefighter cannons
