@@ -62,9 +62,9 @@ This type of module involves using a prism-textured mirror surface to weaken har
 Radar modules are systems used to detect hard/solid objects such as asteroids, ships, missiles, etc. Each ship usually has multiple points where radar waves are fired off and received. Civilian models can detect objects up to 10,000 kilometres (10 maglonakins) away, while military models can detect objects up to 1,000,000 kilometers away (1 kacholnakin). Distance outputs are displayed in maglonakins.
 </details>
 <details>
-<summary><b>Shield Generator Module</b></summary>
+<summary><b>Shield Module</b></summary>
 
-Shield generator modules are a spectacle in modern engineering. It works by generating a repulsion field around the surface of a ship, pushing things that are too close away. When generated, the field is almost invisible except for its slight distortion of light (like flowing water). When they are struck, they create a bright flash of white light and hinder the object from entering.
+Shield modules are a spectacle in modern engineering. It works by generating a repulsion field around the surface of a ship, pushing things that are too close away. When generated, the field is almost invisible except for its slight distortion of light (like flowing water). When they are struck, they create a bright flash of white light and hinder the object from entering.
 
 Since it is a repulsion field, it deconcentrates plasma bolts (the containment field gets destroyed), slows down physical bullets and slightly changes their direction, and dampens explosions. The only things that are largely unaffected are light, gas, radiation, and heat. This means that lasers (not energy weapons!) can shoot through shields but will get distorted and unfocused.
 
