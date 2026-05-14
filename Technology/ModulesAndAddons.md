@@ -31,7 +31,7 @@ To prevent plasma overflows and overheating, crystal core reactors are built wit
 #### Wormhole Transport Module
 Wormhole transport modules are FTL systems installed on a ship to create travelling wormholes using a magical crystal. The most powerful models can create wormholes with an exterior speed of 10,000 AU/s.
 
-Whenever a ship is about to go into wormhole travel, the opening of the wormhole appears as a swirly, distorted, space "whirlpool". It usually takes a few seconds for the ship to enter the opening (large battleships can take 20 to 30 seconds). Immediately after the ship has gone inside, the opening closes and disappears. This goes the same way when the ship exits wormhole travel; the wormhole opens, the ship comes out, and the wormhole closes.
+Whenever a ship is about to go into wormhole travel, the opening of the wormhole appears as a swirly, distorted, space "whirlpool". It usually takes a few seconds for the ship to enter the opening (large battleships can take 10 to 20 seconds). Immediately after the ship has gone inside, the opening closes and disappears. This goes the same way when the ship exits wormhole travel; the wormhole opens, the ship comes out, and the wormhole closes.
 
 On a wormhole terminal, there are many ways to choose a destination. In mode 1, the operator can select from a quick list of designated drop-off zones that have predefined location data. These drop-off zones are usually just outside a capital planet's atmosphere. In mode 2, the operator can input location data (relative to the ship's position and rotation).
 
