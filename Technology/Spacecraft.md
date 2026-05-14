@@ -135,7 +135,7 @@ The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently tran
 - **Length:** 25 meters
 - **Width:** 10 meters
 - **Height:** 4 meters
-- **Shape:** Spear-shaped
+- **Shape:** Spear-prism hybrid
 - **Hull:** 5-centimetre fresarmanite plating
 - **Speed:** 160 m/s (max speed), 40 to 80 m/s (combat speed), 5 to 10 m/s (patrol speed)
 - **Agility:** 0.26 rad/s (15 deg/s)
