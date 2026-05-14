@@ -150,7 +150,7 @@ The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently tran
 
 The INSM-7 is an anti-infantry warship used by the Kagalarian army. When used in combat, it is flown 100 meters to 1000 meters above ground level, depending on its mission. It can also be used as infantry transport.
 
-Unlike normal spacecraft, the INSM-7 has bare openings to its sides to allow its heavy machine guns to actually be able to shoot at ground troops. Because of this, they cannot be used in outer space and will need the help of carrier warships.
+Because the INSM-7 has bare openings to its sides to allow its heavy machine guns to actually be able to shoot at ground troops, it cannot be used in outer space and will need the help of carrier warships.
 </details>
 <details>
 <summary><b>Anora Vlatiyra M-224</b></summary>
