@@ -89,7 +89,7 @@ Every military site has a radio station (houses a military-grade radio transmitt
 - **Equipment**
   - KAG MP-114 Plasmatic Rifle
   - Kevlar-ceramic vest (covers chest and back; worn under overcoat)
-  - 3 × MP-114 batteries
+  - 4 × MP-114 batteries (spare)
   - Handheld radio
   - Black heat-resistant gloves
 
