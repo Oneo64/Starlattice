@@ -1,7 +1,7 @@
 # Jovikal
 Jovikal (Жовікал) is a large commercial, militaristic, and political city. It is somewhere at the center of the continent Kregsorin, and has an area of 80,000 hectares in size. Tall buildings and skyscrapers dominate the city.
 
-It isn't uncommon to see military warships looming overhead patrolling the city, given its militaristic and political traits. Some commercial spacecraft also fly above land traffic, while they play pre-recorded advertising voicelines. When night falls, these warships that loom overhead darken, leaving their silhouette and navigation lights as the only indication that they're there.
+It isn't uncommon to see military warships (especially INSM-7s) looming overhead patrolling the city, given its militaristic and political traits. Some commercial spacecraft also fly above land traffic, while they play pre-recorded advertising voicelines. When night falls, these warships that loom overhead darken, leaving their silhouette and navigation lights as the only indication that they're there.
 
 At the ground, roads are built on the ground for cars, MRTs transport people on railroads over the roads, etc.
 
