@@ -8,12 +8,16 @@ Because these weapons tend to get hot very easily, especially after firing sever
 
 Plasmatic handweapons, such as rifles and pistols, almost always have insulated grips and handles. It's a safety precaution not to touch the parts of the weapon that directly connect to the main weapon system.
 
-A bolt produced by a plasmatic handweapon is very hard to see in daylight, but it's observed to be a streak of the same colour as the crystal used to create the plasma. Upon impact, these bolts of plasma typically produce a small flash of light, a crackling sound like a firecracker, and some sparks (that's some of the plasma bouncing off the surface). The impact has enough force to create a small crater in concrete.
+### Bolts
+A bolt produced by a plasmatic handweapon is very hard to see in daylight, but it's observed to be a streak of the same colour as the crystal used to create the plasma. Upon impact, these bolts of plasma typically produce a small flash of light, a crackling sound like a firecracker, and some sparks. The impact has enough force to create a small crater in concrete.
+
+Since the containment field of the bolt is fragile, it is instantly destroyed when it touches anything, flinging loose plasma onto its target. Furthermore, the plasma sparks and flashes of light it causes are actually some of the plasma bouncing off the surface, losing around half of its power.
 
 On flammable objects, ignition usually doesn't happen unless several bolts strike a single spot repeatedly. However, highly flammable materials (like oil and methane) will still instantly ignite. If it causes an injury, 2nd-degree burns are common and repeated hits can turn into 3rd-degree burns.
 
 Of course, larger weapons such as mounted turrets produce more powerful bolts.
 
+### Beamers
 Beamers, on the other hand, are a type of weapon a little longer than a rifle. It fires a continuous beam of hot plasma in exchange for its tiny range of fifty meters. It is used for cutting open metal, as well as burning someone.
 
 ## Explosives
