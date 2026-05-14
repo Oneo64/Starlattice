@@ -23,132 +23,126 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
 
 ## List of Spacecraft
 #### Anora Vindaror M8D1
- - **Manufacturer:** Anora Spacecraft Manufacturing
- - **Type:** Capital ship
- - **Length:** 1400 meters
- - **Width:** 180 meters
- - **Height:** 180 meters
- - **Shape:** Hexagonal Prism
- - **Hull:** 25-centimetre fresarmanite plating
- - **Speed:** 160 m/s (atmospheric)
- - **Agility:** 0.35 rad/s (20 deg/s)
- - **Crew:** 20 commanders, 1600 guards, and 1000 additional crew members
- - **Arnament:**
-    - 24 × Anti-spacefighter repeaters
-    - 24 × War cannons
-    - 8 × Long-range laser projectors
-    - 8 × APML systems and 512 × missiles
-    - 4 × Bombardment cannons
- - **Capacity:** 2,000 soldiers and 20,000 metric tons of cargo
- - **Docks capacity:**
-    - 50 × Spacefighters
-    - 1 × Destroyer
- - **Installed modules:**
-    - Military-grade Radar Module
-    - Shield Generator Module
-    - Wormhole Transporter Module
+- **Manufacturer:** Anora Spacecraft Manufacturing
+- **Type:** Capital ship
+- **Length:** 1400 meters
+- **Width:** 180 meters
+- **Height:** 180 meters
+- **Shape:** Hexagonal Prism
+- **Hull:** 25-centimetre fresarmanite plating
+- **Speed:** 160 m/s (atmospheric)
+- **Agility:** 0.35 rad/s (20 deg/s)
+- **Crew:** 20 commanders, 1600 guards, and 1000 additional crew members
+- **Arnament:**
+  - 24 × Anti-spacefighter repeaters
+  - 24 × War cannons
+  - 8 × Long-range laser projectors
+  - 8 × APML systems and 512 × missiles
+  - 4 × Bombardment cannons
+- **Capacity:** 2,000 soldiers and 20,000 metric tons of cargo
+- **Docks capacity:** 50 spacefighters
+- **Installed modules:**
+  - Military-grade Radar Module
+  - Shield Generator Module
+  - Wormhole Transporter Module
 
 The Anora Vindaror M-8 is a giant spacecraft designed for battles in outer space and for ground siege. For camouflage, the outer hull is coloured with a thin coat of light-absorbant black paint.
 
 #### Anora Vindaror M8D2
- - **Manufacturer:** Anora Spacecraft Manufacturing
- - **Type:** Transportation and utilitarian warship
- - **Length:** 1200 meters
- - **Width:** 210 meters
- - **Height:** 210 meters
- - **Shape:** Hexagonal Prism
- - **Hull:** 25-centimetre fresarmanite plating
- - **Speed:** 160 m/s (atmospheric)
- - **Agility:** 0.35 rad/s (20 deg/s)
- - **Crew:** 20 commanders, 1600 guards, and 1000 additional crew members
- - **Arnament:**
-    - 16 × Anti-spacefighter repeaters
-    - 16 × War cannons
-    - 4 × Long-range laser projectors
-    - 2 × APML systems and 128 × missiles
- - **Capacity:** 20,000 soldiers and 8,000 metric tons of cargo
- - **Docks capacity:**
-    - 100 × Spacefighters
-    - 5 × Destroyers
- - **Installed modules:**
-    - Military-grade Radar Module
-    - Shield Generator Module
-    - Wormhole Transporter Module
+- **Manufacturer:** Anora Spacecraft Manufacturing
+- **Type:** Transportation and utilitarian warship
+- **Length:** 1200 meters
+- **Width:** 210 meters
+- **Height:** 210 meters
+- **Shape:** Hexagonal Prism
+- **Hull:** 25-centimetre fresarmanite plating
+- **Speed:** 160 m/s (atmospheric)
+- **Agility:** 0.35 rad/s (20 deg/s)
+- **Crew:** 20 commanders, 1600 guards, and 1000 additional crew members
+- **Arnament:**
+  - 16 × Anti-spacefighter repeaters
+  - 16 × War cannons
+  - 4 × Long-range laser projectors
+  - 2 × APML systems and 128 × missiles
+- **Capacity:** 20,000 soldiers and 8,000 metric tons of cargo
+- **Docks capacity:** 100 spacefighters and 5 destroyers
+- **Installed modules:**
+  - Military-grade Radar Module
+  - Shield Generator Module
+  - Wormhole Transporter Module
 
 The Anora Vindaror M-8 is a giant spacecraft designed to transport massive amounts of troops or cargo from one place to another. For camouflage, the outer hull is coloured with a thin coat of light-absorbant black paint.
 
 #### Anora Lorstformikiy M-422
- - **Manufacturer:** Anora Spacecraft Manufacturing
- - **Type:** Combat warship
- - **Length:** 100 meters
- - **Width:** 35 meters
- - **Height:** 15 meters
- - **Shape:** Spear-shaped
- - **Hull:** 15-centimetre fresarmanite plating
- - **Speed:** 160 m/s (atmospheric)
- - **Agility:** 0.35 rad/s (20 deg/s)
- - **Crew:** 4 commanders, 45 guards, and 70 additional crew members
- - **Arnament:**
-    - 4 × Anti-spacefighter repeaters
-    - 4 × War cannons
- - **Capacity:** 100 metric tons of cargo
- - **Docks capacity:**
-    - 5 × Spacefighters
- - **Installed modules:**
-    - Military-grade Radar Module
-    - Shield Generator Module
-    - Wormhole Transporter Module
+- **Manufacturer:** Anora Spacecraft Manufacturing
+- **Type:** Combat warship
+- **Length:** 100 meters
+- **Width:** 35 meters
+- **Height:** 15 meters
+- **Shape:** Spear-shaped
+- **Hull:** 15-centimetre fresarmanite plating
+- **Speed:** 160 m/s (atmospheric)
+- **Agility:** 0.35 rad/s (20 deg/s)
+- **Crew:** 4 commanders, 45 guards, and 70 additional crew members
+- **Arnament:**
+  - 4 × Anti-spacefighter repeaters
+  - 4 × War cannons
+- **Capacity:** 100 metric tons of cargo
+- **Docks capacity:** 2 spacefighters
+- **Installed modules:**
+  - Military-grade Radar Module
+  - Shield Generator Module
+  - Wormhole Transporter Module
 
 The Anora Lorstformikiy M-422 is a combat spacecraft.
 
 #### Anora Moljorholt M-94
- - **Manufacturer:** Anora Spacecraft Manufacturing
- - **Type:** Carrier
- - **Length:** 300 meters
- - **Width:** 100 meters
- - **Height:** 40 meters
- - **Shape:** Hexagonal Prism
- - **Hull:** 15-centimetre fresarmanite plating
- - **Speed:** 160 m/s (atmospheric)
- - **Agility:** 0.35 rad/s (20 deg/s)
- - **Crew:** 8 commanders, 70 guards, and 70 additional crew members
- - **Arnament:**
-    - 12 × Anti-spacefighter repeaters
-    - 2 × long-range laser projectors
- - **Capacity:** 3,000 metric tons of cargo
- - **Docks capacity:**
-    - 50 × Spacefighters
- - **Installed modules:**
-    - Military-grade Radar Module
-    - Shield Generator Module
-    - Wormhole Transporter Module
+- **Manufacturer:** Anora Spacecraft Manufacturing
+- **Type:** Carrier
+- **Length:** 300 meters
+- **Width:** 100 meters
+- **Height:** 40 meters
+- **Shape:** Hexagonal Prism
+- **Hull:** 15-centimetre fresarmanite plating
+- **Speed:** 160 m/s (atmospheric)
+- **Agility:** 0.35 rad/s (20 deg/s)
+- **Crew:** 8 commanders, 70 guards, and 70 additional crew members
+- **Arnament:**
+  - 12 × Anti-spacefighter repeaters
+  - 2 × long-range laser projectors
+- **Capacity:** 3,000 metric tons of cargo
+- **Docks capacity:** 50 spacefighters
+- **Installed modules:**
+  - Military-grade Radar Module
+  - Shield Generator Module
+  - Wormhole Transporter Module
 
 The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently transport heavy cargo such as resources and spacecraft.
 
 #### Anora Vlatiyra M-224
- - **Manufacturer:** Anora Spacecraft Manufacturing
- - **Type:** Spacefighter
- - **Length:** 12 meters
- - **Wingspan:** 12 meters
- - **Hull:** 2-centimetre fresarmanite plating
- - **Speed:** 320 m/s (atmospheric), 360 m/s (relative to capital ships and battleships that are in outer space)
- - **Agility:** 1.57 rad/s (90 deg/s)
- - **Arnament:**
-    - 2 × Spacefighter cannons
- - **Capacity:** 40 metric tons of cargo
+- **Manufacturer:** Anora Spacecraft Manufacturing
+- **Type:** Spacefighter
+- **Length:** 12 meters
+- **Wingspan:** 12 meters
+- **Hull:** 2-centimetre fresarmanite plating
+- **Speed:** 320 m/s (atmospheric), 360 m/s (relative to capital ships and battleships that are in outer space)
+- **Agility:** 1.57 rad/s (90 deg/s)
+- **Arnament:**
+  - 2 × Spacefighter cannons
+- **Capacity:** 40 metric tons of cargo
 
 The Anora Vlatiyra M-224 is an agile combat spacefighter manufactured by Anora Spacecraft Manufacturing Company. It is the standard spacefighter model used by the Kagalarian Space Force.
 
 #### Traveller
- - **Type:** Spacecraft
- - **Length:** 35 meters
- - **Width:** 20 meters
- - **Height:** 15 meters
- - **Shape:** Hexagonal Prism
- - **Hull:** 4-centimetre fresenite steel plating
- - **Speed:** 120 m/s (atmospheric)
- - **Agility:** 0.35 rad/s (20 deg/s)
- - **Crew:** 3 commanders and 10 additional crew members
- - **Capacity:** 40 metric tons of cargo
+- **Type:** Spacecraft
+- **Length:** 35 meters
+- **Width:** 20 meters
+- **Height:** 15 meters
+- **Shape:** Hexagonal Prism
+- **Hull:** 4-centimetre fresenite steel plating
+- **Speed:** 120 m/s (atmospheric)
+- **Agility:** 0.35 rad/s (20 deg/s)
+- **Crew:** 3 commanders and 10 additional crew members
+- **Capacity:** 40 metric tons of cargo
 
 A traveller spacecraft is a type of space vessel. Travellers are available to all civilians, provided that they can buy one.
