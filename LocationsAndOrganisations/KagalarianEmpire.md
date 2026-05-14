@@ -157,7 +157,7 @@ Overcoats used by the Kagalarian army are long, reaching mid-calf length. Howeve
 
 To address these problems, the Kagalarian army began to issue a specific style of overcoat. The overcoat has a tail-like split at the back, and the ends can be connected with a lightweight buckle to create pant legs. With this design, the overcoat can stay loose while conforming to the infantryman's legs as he moves.
 
-For the fabric itself, the overcoat has two layers. The outer layer is a smooth synthetic fabric that is water-resistant and resistant to environmental pulling. The inner layer is a fleece-covered synthetic fabric, providing comfort and warmth in cold weather. The outer layer is actually thinner than the inner layer to reduce weight.
+For the fabric itself, the overcoat has two layers. The outer layer is a smooth synthetic fabric that is water-resistant and snag-resistant. The inner layer is a fleece-covered synthetic fabric, providing comfort and warmth in cold weather. The outer layer is actually thinner than the inner layer to reduce weight.
 
 Camouflaged overcoats with desert colours (tan/khaki) have a slightly different cloth composition. Instead of two layers, they have one layer of synthetic fabric that is just thick enough to be opaque. The length is also different, only reaching knee-level.
 
