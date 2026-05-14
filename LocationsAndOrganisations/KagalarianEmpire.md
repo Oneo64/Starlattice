@@ -88,7 +88,7 @@ Every military site has a radio station (houses a military-grade radio transmitt
 
 - **Equipment**
   - KAG MP-114 Plasmatic Rifle
-  - Kevlar vest (covers chest and back; worn under overcoat)
+  - Kevlar-ceramic vest (covers chest and back; worn under overcoat)
   - 3 × MP-114 batteries
   - Handheld radio
   - Black heat-resistant gloves
@@ -108,7 +108,7 @@ Every military site has a radio station (houses a military-grade radio transmitt
 
 - **Equipment**
   - KAG MP-114 Plasmatic Rifle
-  - Kevlar vest (covers chest, back, and thighs; worn under overcoat)
+  - Kevlar-ceramic vest (covers chest, back, and thighs; worn under overcoat)
   - 3 × MP-114 batteries
   - Handheld radio
   - Black heat-resistant gloves
@@ -123,7 +123,7 @@ Every military site has a radio station (houses a military-grade radio transmitt
 
 - **Equipment**
   - KAG MN-12 Plasmatic Pistol
-  - Kevlar vest (covers chest and back; worn under overcoat)
+  - Kevlar-ceramic vest (covers chest and back; worn under overcoat)
   - Handheld radio
 
 #### Repairmen, cooks, operators, and other non-combatants
@@ -144,7 +144,7 @@ Every military site has a radio station (houses a military-grade radio transmitt
 
 - **Equipment**
   - KAG MN-12 Plasmatic Pistol
-  - Kevlar vest (covers chest, back, and thighs; worn under overcoat)
+  - Kevlar-ceramic vest (covers chest, back, and thighs; worn under overcoat)
   - Handheld radio
 
 #### High-ranking officers (combat)
