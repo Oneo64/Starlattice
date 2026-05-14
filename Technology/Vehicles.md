@@ -48,11 +48,11 @@ The Akraeriy Raekar M-132 is a specialised version of its M-6 counterpart design
 <summary><b>Military Cargo Transportation Truck</b></summary>
 
 - **Type:** Truck
-- **Size:** 18 × 4 meters
+- **Size:** 14 × 3 meters
 - **Maximum Speed:** 35 m/s
 - **Cruising Speed:** 20 m/s
 - **Method of Transportation:** 6 × wheels
-- **Cargo Capacity:** 65 metric tons
+- **Cargo Capacity:** 60 metric tons
 
 Kagalarian military cargo trucks are built with fresarmanite. Its cargo bed is insulated so that outside heat and electricity won't set off carrying weaponry and explosives.
 </details>
