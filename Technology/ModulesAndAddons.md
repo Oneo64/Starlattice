@@ -72,7 +72,7 @@ Whenever something strikes the shield, two things can happen. In the first scena
 
 The shield regenerates collapsed areas at 6 square metres per second, and weakened areas of the shield that still haven't collapsed regenerate to full density at the same rate. Usually, multiple generators are placed evenly across the surface of large ships to ensure multiple areas of the shield can be regenerated at the same time.
 
-Civilian models can withstand up to 2 kilojoules of force before local shielding collapse (slightly lower than one plasmatic rifle blast), while military models can withstand up to 8 megajoules of force (equivalent to one war cannon blast).
+Civilian models can withstand up to 10 kilojoules of force before local shielding collapse (slightly lower than one plasmatic rifle blast), while military models can withstand up to 8 megajoules of force (equivalent to one war cannon blast).
 
 *Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.*
 </details>
@@ -115,16 +115,12 @@ A point laser defence point is a small automated laser turret built onto the arm
 <details>
 <summary><b>Advanced Blast Protection Shields</b></summary>
 
-Blast protection shields are a forcefield that forms on the surface of the power armour. It protects from all forms of physical and energy attacks.
-
-The shielding can take 20 AK-47 shots, 20 plasma blasts, 10 high-speed repeater plasma blasts, or 1 (and a half) artillery explosions (mortar) before it runs out of energy.
+Blast protection shields are force fields that form on the surface of the power armour. It protects from all forms of physical and energy attacks. The shields can withstand up to 30 kilojoules of force before they get overloaded and shut down.
 </details>
 <details>
 <summary><b>Blast Protection Shields</b></summary>
 
-Blast protection shields are a forcefield that forms on the surface of the power armour. It protects from all forms of physical and energy attacks.
-
-The shielding can take 5 AK-47 shots, 5 plasma blasts, 2 high-speed repeater plasma blasts, or subdue one artillery explosion (mortar) before it runs out of energy.
+Blast protection shields are force fields that form on the surface of the power armour. It protects from all forms of physical and energy attacks. The shields can withstand up to 7.5 kilojoules of force before they get overloaded and shut down.
 </details>
 <details>
 <summary><b>Landing Protection Thrusters</b></summary>
