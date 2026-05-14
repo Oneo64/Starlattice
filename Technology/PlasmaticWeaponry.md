@@ -197,17 +197,21 @@ Its containment field generator holds the plasma beam together using 2.5 kilojou
 The grenade's shell is made of arsenium. After 5 seconds of the pin being pulled, the grenade's detonation mechanism activates.
 
 ## List of Mounted Turrets
-#### All-Purpose Missile Launcher
+<details>
+<summary><b>All-Purpose Missile Launcher</b></summary>
+
 - **Type:** Mounted Turret
 - **Rate of Fire:** 30 rpm
 - **Projectile:** APMLMs
 - **Detection Range:** 8000 kilometres (8 kacholnakins)
 	
-A missile launcher with a multi-purpose computing and launching system. Can be used to counter missiles and other projectiles, ships, ground structures, etc. These turrets are controlled by AI, which is connected to all other turrets, so the ship will always fire the most optimal missiles required. But ultimately, the target of these turrets is set in the control room of the spacecraft.
+An APML system is a multi-purpose computing and launching system for trajectory missiles. These turrets are controlled by AI and are usually connected to all other missile turrets so that the most optimal missiles are used. However, the AI can be disabled, allowing manual missile launching.
 
-Missile launchers are too heavy to go onto smaller spacecraft such as civilian travelling vessels, but the minimum length requirement a ship must be in order to fly safely with a missile launcher installed is 50 meters.
+Missile launchers are too heavy to go onto smaller spacecraft such as civilian travelling vessels, and the minimum length requirement a ship must be in order to fly safely with a missile launcher installed is 50 meters.
+</details>
+<details>
+<summary><b>Anti-spacefighter Repeater</b></summary>
 
-#### Anti-spacefighter Repeater
 - **Type:** Mounted Turret
 - **Rate of Fire:** 300 rpm
 - **Projectile:** Contained plasma bolt
@@ -216,8 +220,10 @@ Missile launchers are too heavy to go onto smaller spacecraft such as civilian t
 - **Effective Range:** 5 kilometers
 
 Designed to destroy spacefighters.
+</details>
+<details>
+<summary><b>Bombardment Cannon</b></summary>
 
-#### Bombardment Cannon
 - **Type:** Mounted Turret
 - **Rate of Fire:** 15 rpm
 - **Projectile:** Contained plasma bolt
@@ -226,8 +232,10 @@ Designed to destroy spacefighters.
 - **Effective Range:** 30 kilometers
 
 A warship cannon designed for bombardment. Bolts fired are slightly wider than most, allowing more surface damage in exchange for higher energy consumption per shot.
+</details>
+<details>
+<summary><b>War Cannon</b></summary>
 
-#### War Cannon
 - **Type:** Mounted Turret
 - **Rate of Fire:** 60 rpm
 - **Projectile:** Contained plasma bolt
@@ -236,18 +244,22 @@ A warship cannon designed for bombardment. Bolts fired are slightly wider than m
 - **Effective Range:** 30 kilometers
 
 An anti-armour cannon.
+</details>
+<details>
+<summary><b>Spacefighter Cannon</b></summary>
 
-#### Spacefighter Cannon
-- **Type:** Mounted Turret, non-rotating gun
+- **Type:** Mounted Turret
 - **Rate of Fire:** 300 rpm
 - **Projectile:** Contained plasma bolt
-- **Relative Muzzle Velocity:** 600 m/s, 950 m/s (when shot from a flying spacefighter)
+- **Relative Muzzle Velocity:** 600 m/s
 - **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
 - **Effective Range:** 5 kilometers
 
 An all-purpose weapon mounted on spacefighters and other similar spacecraft.
+</details>
+<details>
+<summary><b>Long-range Laser Projector</b></summary>
 
-#### Long-range Laser Projector
 - **Type:** Mounted Turret
 - **Projectile:** Laser
 - **Penetration per Second:** 4 centimetres (for fresarmanite plating), 6 centimetres (for typical steel), 30 centimetres (for civilian concrete, but the total performance range is 10 to 40 centimetres)
@@ -258,6 +270,7 @@ A long-range laser projector is a laser-firing mounted turret, designed to attac
 Instead of a bolt of supercompressed plasma, it shoots an intensely concentrated beam of light, otherwise known as a laser *(I can’t believe I have to explain this to people who think lasers are colourful bolts that fly)*. The colour of these weapons is always white, and they do not use a crystal core.
 
 Since laser projectors can heat up fast, militaries fire them for a few seconds at a time before letting them cool down.
+</details>
 
 ## List of Missiles & Projectiles
 #### Crystal Warhead
