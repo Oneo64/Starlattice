@@ -198,7 +198,7 @@ The grenade's shell is made of arsenium. After 5 seconds of the pin being pulled
 
 ## List of Mounted Turrets
 <details>
-<summary><b>All-Purpose Missile Launcher</b></summary>
+<summary><b>All-purpose Missile Launcher</b></summary>
 
 - **Type:** Mounted Turret
 - **Rate of Fire:** 30 rpm
