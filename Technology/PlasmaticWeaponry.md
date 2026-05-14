@@ -35,7 +35,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
 - **Rate of Fire:** 660 rpm
-- **Length:** ~70 centimeters
+- **Length:** ~85 centimeters
 - **Weight:** ~3.6 kilograms
 - **Projectile:** Contained plasma bolt (coloured blue, 5 grams, heat estimated to be 2000 kelvins)
 - **Battery capacity:** 40 blasts before weakening, ~50 blasts before empty
@@ -43,6 +43,20 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 - **Effective Range:** ~600 meters
 
 A KAG MP-114, shortened to MP-114, is a plasmatic rifle manufactured by KAG Armoury and is the standard issue rifle of the Kagalarian army. It is valued for its effectiveness, reliability, and high quality-to-cost ratio. For decades, the army has still not replaced this rifle, and will probably not be for another several years. Its containment field generator holds the plasma bolts using 3 kilojoules of energy.
+
+#### O-11 (Olgor 11)
+- **Type:** Small plasmatic rifle
+- **Manufacturer:** Olgorzast Arsenal Cooperations
+- **Core:** Mrokek
+- **Rate of Fire:** 850 rpm
+- **Length:** ~65 centimeters
+- **Weight:** ~2.5 kilograms
+- **Projectile:** Contained plasma bolt (4.5 grams, heat estimated to be 2000 kelvins)
+- **Battery capacity:** 40 blasts before weakening, ~50 blasts before empty
+- **Relative Muzzle Velocity:** 450 m/s
+- **Effective Range:** ~350 meters
+
+An O-11 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and is used by special law enforcement units and special military forces. Its containment field generator holds the plasma bolts using 2.5 kilojoules of energy.
 
 #### KAG VAP-3 (KAG Vost Avtit Psakar Model 3)
 - **Type:** Automatic plasmatic machine gun

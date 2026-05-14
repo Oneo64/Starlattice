@@ -88,18 +88,18 @@ Every military site has a radio station (houses a military-grade radio transmitt
 
 - **Equipment**
   - KAG MP-114 Plasmatic Rifle
-  - Kevlar-ceramic vest (covers chest and back; worn under overcoat)
   - 4 × MP-114 batteries (spare)
+  - Kevlar-ceramic vest (covers chest and back; worn under overcoat)
   - Handheld radio
   - Black heat-resistant gloves
 
-- **Camouflage variants (monochromatic)*
+- **Camouflage variants (monochromatic)**
   - **Winter (default):** White
   - **Woodland:** Dark, rich green
   - **Urban:** Blueish grey
   - **Desert (rare):** Tan/khaki
 
-#### Guards and patrollers
+#### Interior guards and patrollers
 - **Uniform**
   - Black combat helmet
   - Black overcoat
@@ -108,8 +108,8 @@ Every military site has a radio station (houses a military-grade radio transmitt
 
 - **Equipment**
   - KAG MP-114 Plasmatic Rifle
+  - 4 × MP-114 batteries (spare)
   - Kevlar-ceramic vest (covers chest, back, and thighs; worn under overcoat)
-  - 3 × MP-114 batteries
   - Handheld radio
   - Black heat-resistant gloves
 
@@ -125,6 +125,28 @@ Every military site has a radio station (houses a military-grade radio transmitt
   - KAG MN-12 Plasmatic Pistol
   - Kevlar-ceramic vest (covers chest and back; worn under overcoat)
   - Handheld radio
+
+#### Units of the Special Forces
+- **Uniform**
+  - Camouflaged combat helmet
+  - Camouflaged balaclava
+  - Camouflaged overcoat
+  - Black utility belt
+  - Black boots
+
+- **Equipment**
+  - O-11 Plasmatic Rifle
+  - 4 × O-11 batteries (spare)
+  - Kevlar-ceramic vest (covers chest, back, and thighs; worn under overcoat)
+  - Photochromic plastic goggles (darkens in sunlight)
+  - Handheld radio
+  - Black heat-resistant gloves
+
+- **Camouflage variants (dual-colour pattern)**
+  - **Winter (default):** White and slightly grey
+  - **Woodland:** Dark, rich green and brown
+  - **Urban:** Blueish grey and slate grey
+  - **Desert (rare):** Tan/khaki and bright tan
 
 #### Repairmen, cooks, operators, and other non-combatants
 - **Uniform**
