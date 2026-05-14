@@ -22,7 +22,9 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
 ---
 
 ## List of Spacecraft
-#### Anora Vindaror M8D1
+<details>
+<summary><b>Anora Vindaror M8D1</b></summary>
+
 - **Manufacturer:** Anora Spacecraft Manufacturing
 - **Type:** Capital ship
 - **Length:** 1400 meters
@@ -47,8 +49,10 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
   - Wormhole Transporter Module
 
 The Anora Vindaror M-8 is a giant spacecraft designed for battles in outer space and for ground siege. For camouflage, the outer hull is coloured with a thin coat of light-absorbant black paint.
+</details>
+<details>
+<summary><b>Anora Vindaror M8D2</b></summary>
 
-#### Anora Vindaror M8D2
 - **Manufacturer:** Anora Spacecraft Manufacturing
 - **Type:** Transportation and utilitarian warship
 - **Length:** 1200 meters
@@ -72,8 +76,10 @@ The Anora Vindaror M-8 is a giant spacecraft designed for battles in outer space
   - Wormhole Transporter Module
 
 The Anora Vindaror M-8 is a giant spacecraft designed to transport massive amounts of troops or cargo from one place to another. For camouflage, the outer hull is coloured with a thin coat of light-absorbant black paint.
+</details>
+<details>
+<summary><b>Anora Lorstformikiy M-422</b></summary>
 
-#### Anora Lorstformikiy M-422
 - **Manufacturer:** Anora Spacecraft Manufacturing
 - **Type:** Combat warship
 - **Length:** 100 meters
@@ -95,8 +101,10 @@ The Anora Vindaror M-8 is a giant spacecraft designed to transport massive amoun
   - Wormhole Transporter Module
 
 The Anora Lorstformikiy M-422 is a combat spacecraft.
+</details>
+<details>
+<summary><b>Anora Moljorholt M-94</b></summary>
 
-#### Anora Moljorholt M-94
 - **Manufacturer:** Anora Spacecraft Manufacturing
 - **Type:** Carrier
 - **Length:** 300 meters
@@ -118,11 +126,13 @@ The Anora Lorstformikiy M-422 is a combat spacecraft.
   - Wormhole Transporter Module
 
 The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently transport heavy cargo such as resources and spacecraft.
+</details>
+<details>
+<summary><b>Anora Vlatiyra M-224</b></summary>
 
-#### Anora Vlatiyra M-224
 - **Manufacturer:** Anora Spacecraft Manufacturing
 - **Type:** Spacefighter
-- **Length:** 16 meters
+- **Length:** 14 meters
 - **Wingspan:** 10 meters
 - **Hull:** 2-centimetre fresarmanite plating
 - **Speed:** 400 m/s (atmospheric), 450 m/s (relative to capital ships and battleships that are in outer space)
@@ -132,9 +142,11 @@ The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently tran
 - **Capacity:** 40 metric tons of cargo
 
 The Anora Vlatiyra M-224 is an agile combat spacefighter manufactured by Anora Spacecraft Manufacturing Company. It is the standard spacefighter model used by the Kagalarian Space Force.
+</details>
+<details>
+<summary><b>Traveller</b></summary>
 
-#### Traveller
-- **Type:** Spacecraft
+- **Type:** Civilian spacecraft
 - **Length:** 35 meters
 - **Width:** 20 meters
 - **Height:** 15 meters
@@ -146,3 +158,4 @@ The Anora Vlatiyra M-224 is an agile combat spacefighter manufactured by Anora S
 - **Capacity:** 40 metric tons of cargo
 
 A traveller spacecraft is a type of space vessel. Travellers are available to all civilians, provided that they can buy one.
+</details>
