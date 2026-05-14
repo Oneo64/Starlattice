@@ -292,5 +292,5 @@ Uses a crystal warhead and is propelled by a crystal rocket engine.
 
 An adaptable long-range missile is a hybrid between a trajectory missile and a heat-seeking missile. During the first 80 minutes, the missile uses up 80% of its fuel in following the pre-computed path. If the missile still hasn't hit anything, it will go into fuel-saving mode and turn on its heat-seeking system. It has a 6-hour self-destruct timer after being launched, making its potential effective range up to 32,400 kilometres.
 
-Despite the adaptability and range of this missile, the building cost of it is 5 times that of an APMLM.
+Despite the adaptability and range of this missile, the building cost of it is 5 times that of an APMLM, and it doesn't have as much explosive power.
 </details>
