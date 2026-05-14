@@ -132,23 +132,23 @@ The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently tran
 
 - **Manufacturer:** Anora Spacecraft Manufacturing
 - **Type:** Anti-infantry Warship
-- **Length:** 35 meters
+- **Length:** 25 meters
 - **Width:** 10 meters
-- **Height:** 10 meters
+- **Height:** 4 meters
 - **Shape:** Spear-shaped
 - **Hull:** 5-centimetre fresarmanite plating
 - **Speed:** 200 m/s (atmospheric)
 - **Agility:** 0.26 rad/s (15 deg/s)
-- **Crew:** 2 commanders, 2 gunmen, and 4 additional crew members
+- **Crew:** 2 pilots, 2 gunmen, and 4 additional crew members
 - **Arnament:**
   - 2 × KAG NRVAP Heavy Machine Guns
-- **Capacity:** 5 metric tons of cargo
+- **Capacity:** 5 metric tons of cargo or 20 soldiers
 - **Installed modules:**
   - Civilian-grade Radar Module
   - Shield Generator Module
   - Wormhole Transporter Module
 
-The INSM-7 is an anti-infantry warship used by the Kagalarian army. When used in combat, they are flown 100 meters to 1000 meters above ground level, depending on their mission.
+The INSM-7 is an anti-infantry warship used by the Kagalarian army. When used in combat, it is flown 100 meters to 1000 meters above ground level, depending on its mission. It can also be used as infantry transport.
 </details>
 <details>
 <summary><b>Anora Vlatiyra M-224</b></summary>
