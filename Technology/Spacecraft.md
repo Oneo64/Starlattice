@@ -136,7 +136,7 @@ The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently tran
 - **Wingspan:** 10 meters
 - **Hull:** 2-centimetre fresarmanite plating
 - **Speed:** 400 m/s (atmospheric), 450 m/s (relative to capital ships and battleships that are in outer space)
-- **Agility:** 0.7 rad/s (40 deg/s)
+- **Agility:** 0.87 rad/s (50 deg/s)
 - **Arnament:**
   - 2 × Spacefighter cannons
 - **Capacity:** 40 metric tons of cargo
