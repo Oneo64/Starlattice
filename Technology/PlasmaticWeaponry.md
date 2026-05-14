@@ -42,7 +42,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 - **Relative Muzzle Velocity:** 500 m/s
 - **Effective Range:** ~600 meters
 
-A KAG MP-114, shortened to MP-114, is a plasmatic rifle manufactured in the Kagalarian Empire. This weapon is the standard-issue rifle in the Kagalarian army, valued for its effectiveness, reliability, and its balance in its production cost and end quality. For decades, their army has still not replaced this rifle, and will probably not be for another several years. Its containment field generator holds the plasma bolts using 3 kilojoules of energy.
+A KAG MP-114, shortened to MP-114, is a plasmatic rifle manufactured by KAG Armoury and is the standard issue rifle of the Kagalarian army. It is valued for its effectiveness, reliability, and high quality-to-cost ratio. For decades, the army has still not replaced this rifle, and will probably not be for another several years. Its containment field generator holds the plasma bolts using 3 kilojoules of energy.
 
 #### KAG VAP-3 (KAG Vost Avtit Psakar Model 3)
 - **Type:** Automatic plasmatic machine gun
@@ -119,9 +119,7 @@ A KAG NRVAP is a heavy plasmatic machine gun manufactured in the Kagalarian Empi
 - **Relative Muzzle Velocity:** 400 m/s
 - **Effective Range:** ~200 meters
 
-A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured in the Kagalarian Empire. It uses a mrokek core.
-
-Its containment field generator holds the plasma bolts using 1 kilojoule of energy.
+A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured by KAG Armoury and is the standard issue pistol of the army and law enforcement. Its containment field generator holds the plasma bolts using 1 kilojoule of energy.
 
 #### AON-9 (Avtit Olgor Nogen 9)
 - **Type:** Automatic plasmatic pistol
