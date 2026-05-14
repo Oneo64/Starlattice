@@ -33,7 +33,7 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
 - **Shape:** Hexagonal Prism
 - **Hull:** 25-centimetre fresarmanite plating
 - **Speed:** 160 m/s (atmospheric)
-- **Agility:** 0.35 rad/s (20 deg/s)
+- **Agility:** 0.26 rad/s (15 deg/s)
 - **Crew:** 20 commanders, 1600 guards, and 1000 additional crew members
 - **Arnament:**
   - 24 × Anti-spacefighter repeaters
@@ -61,7 +61,7 @@ The Anora Vindaror M-8 is a giant spacecraft designed for battles in outer space
 - **Shape:** Hexagonal Prism
 - **Hull:** 25-centimetre fresarmanite plating
 - **Speed:** 160 m/s (atmospheric)
-- **Agility:** 0.35 rad/s (20 deg/s)
+- **Agility:** 0.26 rad/s (15 deg/s)
 - **Crew:** 20 commanders, 1600 guards, and 1000 additional crew members
 - **Arnament:**
   - 16 × Anti-spacefighter repeaters
@@ -88,7 +88,7 @@ The Anora Vindaror M-8 is a giant spacecraft designed to transport massive amoun
 - **Shape:** Spear-shaped
 - **Hull:** 15-centimetre fresarmanite plating
 - **Speed:** 160 m/s (atmospheric)
-- **Agility:** 0.35 rad/s (20 deg/s)
+- **Agility:** 0.26 rad/s (15 deg/s)
 - **Crew:** 4 commanders, 45 guards, and 70 additional crew members
 - **Arnament:**
   - 4 × Anti-spacefighter repeaters
@@ -113,7 +113,7 @@ The Anora Lorstformikiy M-422 is a combat spacecraft.
 - **Shape:** Hexagonal Prism
 - **Hull:** 15-centimetre fresarmanite plating
 - **Speed:** 160 m/s (atmospheric)
-- **Agility:** 0.35 rad/s (20 deg/s)
+- **Agility:** 0.26 rad/s (15 deg/s)
 - **Crew:** 8 commanders, 70 guards, and 70 additional crew members
 - **Arnament:**
   - 12 × Anti-spacefighter repeaters
@@ -126,6 +126,29 @@ The Anora Lorstformikiy M-422 is a combat spacecraft.
   - Wormhole Transporter Module
 
 The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently transport heavy cargo such as resources and spacecraft.
+</details>
+<details>
+<summary><b>INSM-7 (Ishav Nosen Seyrin M-7)</b></summary>
+
+- **Manufacturer:** Anora Spacecraft Manufacturing
+- **Type:** Anti-infantry Warship
+- **Length:** 35 meters
+- **Width:** 10 meters
+- **Height:** 10 meters
+- **Shape:** Spear-shaped
+- **Hull:** 5-centimetre fresarmanite plating
+- **Speed:** 200 m/s (atmospheric)
+- **Agility:** 0.26 rad/s (15 deg/s)
+- **Crew:** 2 commanders, 2 gunmen, and 4 additional crew members
+- **Arnament:**
+  - 2 × KAG NRVAP Heavy Machine Guns
+- **Capacity:** 5 metric tons of cargo
+- **Installed modules:**
+  - Civilian-grade Radar Module
+  - Shield Generator Module
+  - Wormhole Transporter Module
+
+The INSM-7 is an anti-infantry warship used by the Kagalarian army. When used in combat, they are flown a kilometre above ground level.
 </details>
 <details>
 <summary><b>Anora Vlatiyra M-224</b></summary>
