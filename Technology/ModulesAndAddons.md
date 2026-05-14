@@ -40,6 +40,43 @@ To prevent plasma overflows and overheating, crystal core reactors are built wit
 
 ## Optional Spacecraft Modules
 <details>
+<summary><b>Directed Spotlight Module</b></summary>
+
+Directed spotlight modules are exterior ship addons that help pilots see. From the control room, pilots can adjust the direction of a long-range spotlight, illuminating spaces up to 300 meters away.
+</details>
+<details>
+<summary><b>Engine Overdrivers</b></summary>
+
+Engine overdrivers are an older, yet useful module installed onto the rocket engines of a spaceship. When activated, they cause the engine to power up to more than five times their maximum output (increasing speed by 5 times) in exchange for burning power faster.
+
+Some cheaper models may only be able to overdrive the engines twice the normal output.
+</details>
+<details>
+<summary><b>Mirror Armour Module</b></summary>
+
+This type of module involves using a prism-textured mirror surface to weaken harmful lasers. This type of armour usually comes in panels, cut and fitted onto a ship's hull. Inside the mirror is a coating of an aluminum and fresenite mixture.
+</details>
+<details>
+<summary><b>Radar Module</b></summary>
+
+Radar modules are systems used to detect hard/solid objects such as asteroids, ships, missiles, etc. Each ship usually has multiple points where radar waves are fired off and received. Civilian models can detect objects up to 10,000 kilometres (10 maglonakins) away, while military models can detect objects up to 1,000,000 kilometers away (1 kacholnakin). Distance outputs are displayed in maglonakins.
+</details>
+<details>
+<summary><b>Shield Generator Module</b></summary>
+
+Shield generator modules are a spectacle in modern engineering. It works by generating a repulsion field around the surface of a ship, pushing things that are too close away. When generated, the field is almost invisible except for its slight distortion of light (like flowing water). When they are struck, they create a bright flash of white light and hinder the object from entering.
+
+Since it is a repulsion field, it deconcentrates plasma bolts (the containment field gets destroyed), slows down physical bullets and slightly changes their direction, and dampens explosions. The only things that are largely unaffected are light, gas, radiation, and heat. This means that lasers (not energy weapons!) can shoot through shields but will get distorted and unfocused.
+
+Whenever something strikes the shield, two things can happen. In the first scenario, the shield fully absorbs the force and now has a lowered density. In the second scenario, the shield absorbs the force and collapses when the density hits zero, creating a circle of weakness (or blob if it's messy). When their durability is compared to war cannons, it would take a few blasts aimed at the same point to break through. For more powerful weapons, such as missiles, one explosion would be enough to create an area of weakness.
+
+The shield regenerates collapsed areas at 6 square metres per second, and weakened areas of the shield that still haven't collapsed regenerate to full density at the same rate. Usually, multiple generators are placed evenly across the surface of large ships to ensure multiple areas of the shield can be regenerated at the same time.
+
+Civilian models can withstand up to 2 kilojoules of force before local shielding collapse (slightly lower than one plasmatic rifle blast), while military models can withstand up to 8 megajoules of force (equivalent to one war cannon blast).
+
+*Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.*
+</details>
+<details>
 <summary><b>Wormhole Transport Module</b></summary>
 
 Wormhole transport modules are FTL systems installed on a ship to create travelling wormholes using a magical crystal. The most powerful models can create wormholes with an exterior speed of 10,000 AU/s.
@@ -60,99 +97,95 @@ Created wormholes collapse after usage.
   - **Between far-away star systems:** 2+ days *(wormhole strength at 2000 AU/s, or 300,000 kn/s)*
   - **Across a galaxy:** approximately 6 months *(at full wormhole strength, which is 10,000 AU/s, or 1,500,000 kn/s)*
 </details>
-<details>
-<summary><b>Engine Overdrivers</b></summary>
-
-Engine overdrivers are an older, yet useful module installed onto the rocket engines of a spaceship. When activated, they cause the engine to power up to more than five times their maximum output (increasing speed by 5 times) in exchange for burning power faster.
-
-Some cheaper models may only be able to overdrive the engines twice the normal output.
-</details>
-<details>
-<summary><b>Shield Generator Module</b></summary>
-
-Shield generator modules are a spectacle in modern engineering. It works by generating a repulsion field around the surface of a ship, pushing things that are too close away. When generated, the field is almost invisible except for its slight distortion of light (like flowing water). When they are struck, they create a bright flash of white light and hinder the object from entering.
-
-Since it is a repulsion field, it deconcentrates plasma bolts (the containment field gets destroyed), slows down physical bullets and slightly changes their direction, and dampens explosions. The only things that are largely unaffected are light, gas, radiation, and heat. This means that lasers (not energy weapons!) can shoot through shields but will get distorted and unfocused.
-
-Whenever something strikes the shield, two things can happen. In the first scenario, the shield fully absorbs the force and now has a lowered density. In the second scenario, the shield absorbs the force and collapses when the density hits zero, creating a circle of weakness (or blob if it's messy). When their durability is compared to war cannons, it would take a few blasts aimed at the same point to break through. For more powerful weapons, such as missiles, one explosion would be enough to create an area of weakness.
-
-The shield regenerates collapsed areas at 6 square metres per second, and weakened areas of the shield that still haven't collapsed regenerate to full density at the same rate. Usually, multiple generators are placed evenly across the surface of large ships to ensure multiple areas of the shield can be regenerated at the same time.
-
-*Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.*
-</details>
-<details>
-<summary><b>Civilian Radar Module</b></summary>
-
-Civilian radar modules are systems used to detect hard/solid objects such as asteroids, ships, missiles, etc. Each ship usually has multiple points where radar waves are fired off and received. The radar can detect ships up to 10,000 kilometres (10 maglonakins) away, and displays distance outputs in maglonakins.
-</details>
-<details>
-<summary><b>Military-grade Radar Module</b></summary>
-
-Military-grade radar modules are systems used to detect hard/solid objects such as asteroids, ships, missiles, etc. Each ship usually has multiple points where radar waves are fired off and received. The radar can detect ships up to 1,000,000 kilometres (1 kacholnakin) away, and displays distance outputs in maglonakins.
-</details>
-<details>
-<summary><b>Mirror Armour Module</b></summary>
-
-This type of module involves using a prism-textured mirror surface to weaken harmful lasers. This type of armour usually comes in panels, cut and fitted onto a ship's hull. Inside the mirror is a coating of an aluminum and fresenite mixture.
-</details>
-<details>
-<summary><b>Directed Spotlight Module</b></summary>
-
-Directed spotlight modules are exterior ship addons that help pilots see. From the control room, pilots can adjust the direction of a long-range spotlight, illuminating spaces up to 300 meters away.
-</details>
 
 ## Power Armour Modules
 ### Power modules
-#### Portable Crystal Reactor
+<details>
+<summary><b>Portable Crystal Reactor</b></summary>
+
 This works the same way a crystal core reactor works, but on a smaller scale.
+</details>
 
 ### Defensive modules
-#### Advanced Point Laser Defense
-A point laser defence point is a small automated laser turret built onto the armour. These lasers can reach up to 10 meters, and they use a mix of colour-based and heat-based targeting systems. Because of this, if the targeting system is set to "red", it may attack any warm-blooded creature or warm object that is colored a certain amount of red.
+<details>
+<summary><b>Advanced Point Laser Defense</b></summary>
 
-#### Advanced Blast Protection Shields
+A point laser defence point is a small automated laser turret built onto the armour. These lasers can reach up to 10 meters, and they use a mix of colour-based and heat-based targeting systems. Because of this, if the targeting system is set to "red", it may attack any warm-blooded creature or warm object that is colored a certain amount of red.
+</details>
+<details>
+<summary><b>Advanced Blast Protection Shields</b></summary>
+
 Blast protection shields are a forcefield that forms on the surface of the power armour. It protects from all forms of physical and energy attacks.
 
 The shielding can take 20 AK-47 shots, 20 plasma blasts, 10 high-speed repeater plasma blasts, or 1 (and a half) artillery explosions (mortar) before it runs out of energy.
+</details>
+<details>
+<summary><b>Blast Protection Shields</b></summary>
 
-#### Blast Protection Shields
 Blast protection shields are a forcefield that forms on the surface of the power armour. It protects from all forms of physical and energy attacks.
 
 The shielding can take 5 AK-47 shots, 5 plasma blasts, 2 high-speed repeater plasma blasts, or subdue one artillery explosion (mortar) before it runs out of energy.
+</details>
+<details>
+<summary><b>Landing Protection Thrusters</b></summary>
 
-#### Landing Protection Thrusters
 The landing protection thrusters can detect whether the user is moving too fast (more than 15 m/s) in the direction it is facing. If it detects that the user is moving too fast, it automatically activates, which will slow the user down.
+</details>
+<details>
+<summary><b>Point Laser Defense</b></summary>
 
-#### Point Laser Defense
 A point laser defence point is a small automated laser turret built onto the armour. These lasers can reach up to 10 meters, and they use a colour-based targeting system. Because of this, if the targeting system is set to "red", it may attack anyone who is wearing a certain amount of red. However, it may mistake a red flag or a red flower pot for an enemy and attack it instead.
+</details>
 
 ### Scanning modules
-#### Material Scanner
+<details>
+<summary><b>Material Scanner</b></summary>
+
 The material scanner is a scanning device that can be mounted anywhere. It takes a few seconds to scan, which will then send its data to a small screen. When the scan is complete, a list of the top 5 elements found in the scan is returned, including their composition percentage, periodic symbol, state of matter, and percentage of neutrons, protons, and electrons.
+</details>
+<details>
+<summary><b>Nightvision and Heatvision Camera</b></summary>
 
-#### Nightvision and Heatvision Camera
 The nightvision and heatvision cameras streamline data to a small screen inside the helmet.
+</details>
+<details>
+<summary><b>Radiation Sampler</b></summary>
 
-#### Radiation Sampler
 The radiation sampler samples a small amount of the outside air and sends the data to a small screen inside the helmet, which then displays the radiation levels.
+</details>
+<details>
+<summary><b>Rangesight Camera</b></summary>
 
-#### Rangesight Camera
 The rangesight camera is a camera that is designed to zoom in on faraway objects. Standing at 1 kilometre away, you should be able to see an apple on a table just clear enough to make out what it is.
+</details>
 
 ### Movement modules
-#### Jumping Thrusters
+<details>
+<summary><b>Jumping Thrusters</b></summary>
+
 The jumping burst thrusters are an extremely weak version of a warship engine, capable of only releasing a quick burst of energy before heating up. When activated, these jump thrusters can be used to propel the user about 10 meters up in the air.
+</details>
+<details>
+<summary><b>Hand-based Burst Thrusters</b></summary>
 
-#### Hand-Based Burst Thrusters
 The hand-based burst thrusters are an extremely weak version of a warship engine, capable of only releasing a quick burst of energy before heating up. When activated, these hand-based burst thrusters can be used to propel the user a meter in any direction. These thusters can also be used offensively, but the user must be at least a metre close to the intended target for the plasma exhaust to hit. Even though this plasma exhaust is around 350 degrees Celsius, it isn't hot enough to start a fire since the plasma dissipates into the air too quickly.
+</details>
+<details>
+<summary><b>Striding Exoskeletons</b></summary>
 
-#### Striding Exoskeletons
 This module is built on the back of the legs, which amplify the speed the user can run from 7 m/s to 14 m/s.
+</details>
 
 ### Environmental modules
-#### Heat Regulation System
+<details>
+<summary><b>Heat Regulation System</b></summary>
+
 The heat regulation system is self-explanatory; it allows the user to change the temperature in their armour. This module is effective only in temperatures -250 °C to 50 °C.
+</details>
 
 ### Communication modules
-#### Speaker and Microphone
+<details>
+<summary><b>Speaker and Microphone</b></summary>
+
 The speaker and microphone allow clear communication outside the power armour. But, because this module is much smaller than a regular handheld radio, the sound quality isn't as good.
+</details>
