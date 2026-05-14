@@ -45,7 +45,7 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
 - **Docks capacity:** 50 spacefighters
 - **Installed modules:**
   - Military-grade Radar Module
-  - Shield Generator Module
+  - Military-grade Shield Generator Module
   - Wormhole Transporter Module
 
 The Anora Vindaror M-8 is a giant spacecraft designed for battles in outer space and for ground siege. For camouflage, the outer hull is coloured with a thin coat of light-absorbant black paint.
@@ -72,7 +72,7 @@ The Anora Vindaror M-8 is a giant spacecraft designed for battles in outer space
 - **Docks capacity:** 100 spacefighters and 5 destroyers
 - **Installed modules:**
   - Military-grade Radar Module
-  - Shield Generator Module
+  - Military-grade Shield Generator Module
   - Wormhole Transporter Module
 
 The Anora Vindaror M-8 is a giant spacecraft designed to transport massive amounts of troops or cargo from one place to another. For camouflage, the outer hull is coloured with a thin coat of light-absorbant black paint.
@@ -97,7 +97,7 @@ The Anora Vindaror M-8 is a giant spacecraft designed to transport massive amoun
 - **Docks capacity:** 2 spacefighters
 - **Installed modules:**
   - Military-grade Radar Module
-  - Shield Generator Module
+  - Military-grade Shield Generator Module
   - Wormhole Transporter Module
 
 The Anora Lorstformikiy M-422 is a combat spacecraft.
@@ -122,7 +122,7 @@ The Anora Lorstformikiy M-422 is a combat spacecraft.
 - **Docks capacity:** 50 spacefighters
 - **Installed modules:**
   - Military-grade Radar Module
-  - Shield Generator Module
+  - Military-grade Shield Generator Module
   - Wormhole Transporter Module
 
 The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently transport heavy cargo such as resources and spacecraft.
@@ -145,7 +145,7 @@ The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently tran
 - **Capacity:** 5 metric tons of cargo or 20 soldiers
 - **Installed modules:**
   - Civilian-grade Radar Module
-  - Shield Generator Module
+  - Civilian-grade Shield Generator Module
   - Directed Spotlight Module
 
 The INSM-7 is an anti-infantry warship used by the Kagalarian army. When used in combat, it is flown 100 meters to 1000 meters above ground level, depending on its mission. It can also be used as infantry transport.
