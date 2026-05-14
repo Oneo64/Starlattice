@@ -41,7 +41,7 @@ On a wormhole terminal, there are many ways to choose a destination. In mode 1, 
   - **Across a star system:** 30 minutes *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
   - **Between star systems:** 2+ hours *(wormhole strength at 2000 AU/s, or 300,000 kn/s)*
   - **Between far-away star systems:** 2+ days *(wormhole strength at 2000 AU/s, or 300,000 kn/s)*
-  - **Across a galaxy:** approximately 19 years *(at full wormhole strength, which is 10,000 AU/s, or 1,500,000 kn/s)*
+  - **Across a galaxy:** approximately 6 months *(at full wormhole strength, which is 10,000 AU/s, or 1,500,000 kn/s)*
 
 #### Engine Overdrivers
 Engine overdrivers are an older, yet useful module installed onto the rocket engines of a spaceship. When activated, they cause the engine to power up to more than five times their maximum output (increasing speed by 5 times) in exchange for burning power faster.
