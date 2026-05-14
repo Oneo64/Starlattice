@@ -74,6 +74,8 @@ The shield regenerates collapsed areas at 6 square metres per second, and weaken
 
 Civilian models can withstand up to 4 kilojoules of force before local shielding collapse (a few plasmatic rifle blasts), while military models can withstand up to 20 kilojoules of force (equivalent to one anti-spacefighter blast). Shields for battleships, destroyers, and carriers can withstand up to 60 kilojoules of force.
 
+An example, if this description is too confusing: if a war cannon shoots at the entrance gate of a destroyer warship, only the shield at the entrance gate will be destroyed, and the gate will only take half the intended damage. Then, the entrance gate of the destroyer will become vulnerable until its shields "grow" back together, closing the weak spot.
+
 *Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.*
 </details>
 <details>
