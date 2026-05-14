@@ -148,7 +148,7 @@ The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently tran
   - Shield Generator Module
   - Wormhole Transporter Module
 
-The INSM-7 is an anti-infantry warship used by the Kagalarian army. When used in combat, they are flown a kilometre above ground level.
+The INSM-7 is an anti-infantry warship used by the Kagalarian army. When used in combat, they are flown 100 meters to 1000 meters above ground level, depending on their mission.
 </details>
 <details>
 <summary><b>Anora Vlatiyra M-224</b></summary>
