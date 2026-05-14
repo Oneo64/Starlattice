@@ -94,6 +94,24 @@ A TAP-96 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian 
 
 A TAP-201 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian company. Its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
 
+#### NRVAP (Noviy Rosken Vost Avtit Psakar)
+- **Type:** Heavy plasmatic machine gun
+- **Manufacturer:** KAG Armoury
+- **Core:** Mrokek
+- **Rate of Fire:** 510 rpm
+- **Length:** ~150 centimeters
+- **Weight:** ~24.2 kilograms
+- **Projectile:** Contained plasma bolt (6.5 grams, heat estimated to be 2060 kelvins)
+- **Battery capacity:**
+  - **Standard:** 120 blasts before weakening, ~150 blasts before empty
+  - **Generator/reactor-connected:** Potentially infinite
+- **Relative Muzzle Velocity:** 850 m/s
+- **Effective Range:** ~1300 meters
+
+An RVAP-201 is a heavy plasmatic machine gun manufactured in the Kagalarian Empire. The Kagalarian army uses them for guard posts, areas that require strong defence, and as mounted vehicle guns.
+
+These machine guns use a mrokek core, causing its bolts to appear blue, and its containment field generator holds the plasma bolts using 3.7 kilojoules of energy.
+
 ### Pistols
 #### KAG MN-12 (KAG Mrelniy Nogen Model 12)
 - **Type:** Semi-automatic plasmatic pistol
