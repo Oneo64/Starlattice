@@ -72,7 +72,7 @@ Whenever something strikes the shield, two things can happen. In the first scena
 
 The shield regenerates collapsed areas at 6 square metres per second, and weakened areas of the shield that still haven't collapsed regenerate to full density at the same rate. Usually, multiple generators are placed evenly across the surface of large ships to ensure multiple areas of the shield can be regenerated at the same time.
 
-Civilian models can withstand up to 4 kilojoules of force before local shielding collapse (a few plasmatic rifle blasts), while military models can withstand up to 20 kilojoules of force (equivalent to one anti-spacefighter blast). Shields for battleships can withstand up to a megajoule of force.
+Civilian models can withstand up to 4 kilojoules of force before local shielding collapse (a few plasmatic rifle blasts), while military models can withstand up to 20 kilojoules of force (equivalent to one anti-spacefighter blast). Shields for battleships, destroyers, and carriers can withstand up to 60 kilojoules of force.
 
 *Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.*
 </details>
