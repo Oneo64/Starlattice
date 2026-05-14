@@ -35,7 +35,7 @@ Whenever a ship is about to go into wormhole travel, the opening of the wormhole
 
 On a wormhole terminal, there are many ways to choose a destination. In mode 1, the operator can select from a quick list of designated drop-off zones that have predefined location data. These drop-off zones are usually just outside a capital planet's atmosphere. In mode 2, the operator can input location data (relative to the ship's position and rotation).
 
-Wormholes collapse after usage.
+Created wormholes collapse after usage.
 
 - **Travel times:**
   - **Across a planet:** 5 to 15 seconds *(wormhole strength at 0.00006 AU/s, or 10 mn/s)*
