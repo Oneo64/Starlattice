@@ -1,5 +1,5 @@
 # Modules and Addons
-Modules are essentially like an external program in a computer; they can be added onto an existing system to enhance what they can do or modify their function.
+Modules are essentially like an external program in a computer; they can be added onto an existing system. Some modules enhance certain parts of the ship, some modify their function, and some even add new functionalities.
 
 However, modules cannot simply be attached to what they are going to modify. A person who wants their device, vehicle, or vessel modified must get an engineer or someone proficient in adding them.
 
@@ -9,41 +9,40 @@ However, modules cannot simply be attached to what they are going to modify. A p
 
 ## Essential Spacecraft Modules
 #### Gravity Simulation Module
-Simulates gravity in a 5 cm x 3 m x 5 cm radius. Usually, the floor of a ship is covered with these. These also reduce any g-force, allowing spacefighters to speed up or slow down at greater speeds without damaging their occupants.
+Gravity simulators are 3-metre square panels built on the floor of a ship to simulate gravity. Since these also reduce g-force, they allow spacefighter pilots to quickly speed up, slow down, or perform faster maneuvers without damaging themselves.
 
 #### Warship Gyroscopes
-Four gyroscopes that spin rapidly. These ensure the ship stays stable. If used with larger ships (battleships), there would be four gyroscopes on the very front and very back of the ship.
+Warship gyroscopes are a set of four gyroscopes that spin rapidly, ensuring ship stability. Larger ships, such as battleships, require two sets of warship gyroscopes, one at the very front and one at the very back.
 
 #### Crystal Core Rocket Engines
-Most warships will have four engines to push forward, and eight engines on a 45-degree angle to turn around.
+Crystal core rocket engines are propelling rocket engines that utilise a special type of plasma-producing crystal to propel the ship forward. Most warships have 4 of these for forward momentum and 8 for rotation.
 
 #### Solar Energy Panels
-All solar energy panel systems will always come in two parts.
-
- - **Mega-Giant Battery:** A large block of batteries to store solar energy. Can be charged directly while docked.
+All solar energy panel systems come in two parts:
+ - **Mega-giant Battery:** A large block of batteries to store solar energy. Can be charged directly while docked.
  - **Superhard Panels:** Solar panels that are really hard to destroy, using hard glass similar to bulletproof glass.
 
 #### Crystal Core Reactor
-A sphere of crystal, about 3 meters in radius. This core is zapped by electricity, which produces plasma. This plasma is somehow converted into electricity. The reactor then takes a portion of the electricity and reuses it to zap itself, producing MORE plasma. The cycle repeats.
+Crystal core reactors are a near-infinite power source that uses plasma-producing crystals to generate electricity. The core of a reactor is often a 2-metre crystal sphere. This core is zapped by electricity, which produces plasma. This plasma is somehow converted into electricity. The reactor then takes a portion of the electricity and reuses it to zap itself, producing MORE plasma. The cycle repeats.
 
-Of course, there is also an automatic fail-safe system. When the amount of plasma inside the reactor reaches over a certain maximum, the reactor temporarily stops working until the plasma lowers to half the set maximum.
+To prevent plasma overflows and overheating, crystal core reactors are built with an automatic fail-safe system that temporarily shuts them down whenever those are detected.
 
 ## Optional Spacecraft Modules
 #### Wormhole Transport Module
-An extremely useful addon in military fleets, this module is an FTL system installed on a ship to create travelling wormholes using a magical crystal. Even though the travelling speed in the wormhole is about 2000 m/s (2 mn/s), the travelling speed to the target is much faster. The most powerful models can create wormholes with an exterior speed of 10000 AU/s.
+Wormhole transport modules are FTL systems installed on a ship to create travelling wormholes using a magical crystal. Even though the travelling speed in the wormhole is about 2000 m/s (2 mn/s), the travelling speed to the target is much faster. The most powerful models can create wormholes with an exterior speed of 10000 AU/s.
 
-When materialised, the wormhole appears as a giant, grey, smoky ring, big enough to fit the ship that created it. Green lightning rapidly connects random points of the ring, creating flashes of green.
+Whenever a ship is about to go into wormhole travel, the opening of the wormhole appears as a swirly, distorted, space "whirlpool". It usually takes about 10 seconds for the ship to fully enter the opening. Immediately after the ship has gone inside, the opening closes and disappears.
 
-###### Travel times
- - **Across a planet:** 5 to 15 seconds *(wormhole strength at 0.00006 AU/s, or 10 mn/s)*
- - **Between planets:** 1 to 3 minutes *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
- - **Across a star system:** 30 minutes *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
- - **Between star systems:** 2+ hours *(wormhole strength at 2000 AU/s, or 300,000 kn/s)*
- - **Between far-away star systems:** 2+ days *(wormhole strength at 2000 AU/s, or 300,000 kn/s)*
- - **Across a galaxy:** approximately 19 years *(at full wormhole strength, which is 10,000 AU/s, or 1,500,000 kn/s)*
+- **Travel times:**
+  - **Across a planet:** 5 to 15 seconds *(wormhole strength at 0.00006 AU/s, or 10 mn/s)*
+  - **Between planets:** 1 to 3 minutes *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
+  - **Across a star system:** 30 minutes *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
+  - **Between star systems:** 2+ hours *(wormhole strength at 2000 AU/s, or 300,000 kn/s)*
+  - **Between far-away star systems:** 2+ days *(wormhole strength at 2000 AU/s, or 300,000 kn/s)*
+  - **Across a galaxy:** approximately 19 years *(at full wormhole strength, which is 10,000 AU/s, or 1,500,000 kn/s)*
 
 #### Engine Overdrivers
-An older, but still useful module, engine overdrivers are installed onto the rocket engines of a spaceship. When activated, they cause the engine to power up to more than five times their maximum output (increasing speed by 5 times) in exchange for burning power faster.
+Engine overdrivers are an older, yet useful module installed onto the rocket engines of a spaceship. When activated, they cause the engine to power up to more than five times their maximum output (increasing speed by 5 times) in exchange for burning power faster.
 
 Some cheaper models may only be able to overdrive the engines twice the normal output.
 
@@ -58,15 +57,11 @@ The shield regenerates collapsed areas at 6 square metres per second, and weaken
 
 *Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.*
 
-#### Radar Module
-Basic radar systems. Each ship usually has 6 points where radar waves are fired off, one on the top, bottom, front, back, left, and right side. This info is usually sent to the command deck. The radar can detect ships up to 10,000 kilometres (10 maglonakins) away.
-
-The radar returns its distance outputs in maglonakins.
+#### Civilian Radar Module
+Civilian radar modules are systems used to detect hard/solid objects such as asteroids, ships, missiles, etc. Each ship usually has multiple points where radar waves are fired off and received. The radar can detect ships up to 10,000 kilometres (10 maglonakins) away, and displays distance outputs in maglonakins.
 
 #### Military-grade Radar Module
-Basic radar systems. Each ship usually has 6 points where radar waves are fired off, one on the top, bottom, front, back, left, and right side. This info is usually sent to the command deck. The radar can detect ships up to 1,000,000 kilometres (1 kacholnakin) away.
-
-The radar returns its distance outputs in maglonakins.
+Military-grade radar modules are systems used to detect hard/solid objects such as asteroids, ships, missiles, etc. Each ship usually has multiple points where radar waves are fired off and received. The radar can detect ships up to 1,000,000 kilometres (1 kacholnakin) away, and displays distance outputs in maglonakins.
 
 #### Mirror Armour Module
 This type of module involves using a prism-textured mirror surface to weaken harmful lasers. This type of armour usually comes in panels, cut and fitted onto a ship's hull. Inside the mirror is a coating of an aluminum and fresenite mixture.
@@ -74,7 +69,7 @@ This type of module involves using a prism-textured mirror surface to weaken har
 ## Power Armour Modules
 ### Power modules
 #### Portable Crystal Reactor
-A small reactor made of an unstable crystal. This works the same way a Crystal Core Reactor works, but on a smaller scale.
+This works the same way a crystal core reactor works, but on a smaller scale.
 
 ### Defensive modules
 #### Advanced Point Laser Defense
