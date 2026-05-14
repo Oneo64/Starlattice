@@ -8,27 +8,40 @@ However, modules cannot simply be attached to what they are going to modify. A p
 - **kn/s:** kacholnakins per second
 
 ## Essential Spacecraft Modules
-#### Gravity Simulation Module
+<details>
+<summary><b>Gravity Simulation Module</b></summary>
+
 Gravity simulators are 3-metre square panels built on the floor of a ship to simulate gravity. Since these also reduce g-force, they allow spacefighter pilots to quickly speed up, slow down, or perform faster maneuvers without damaging themselves.
+</details>
+<details>
+<summary><b>Warship Gyroscopes</b></summary>
 
-#### Warship Gyroscopes
 Warship gyroscopes are a set of four gyroscopes that spin rapidly, ensuring ship stability. Larger ships, such as battleships, require two sets of warship gyroscopes, one at the very front and one at the very back.
+</details>
+<details>
+<summary><b>Crystal Core Rocket Engines</b></summary>
 
-#### Crystal Core Rocket Engines
 Crystal core rocket engines are propelling rocket engines that utilise a special type of plasma-producing crystal to propel the ship forward. Most warships have 4 of these for forward momentum and 8 for rotation.
+</details>
+<details>
+<summary><b>Solar Energy Panels</b></summary>
 
-#### Solar Energy Panels
 All solar energy panel systems come in two parts:
  - **Mega-giant Battery:** A large block of batteries to store solar energy. Can be charged directly while docked.
  - **Superhard Panels:** Solar panels that are really hard to destroy, using hard glass similar to bulletproof glass.
+</details>
+<details>
+<summary><b>Crystal Core Reactor</b></summary>
 
-#### Crystal Core Reactor
 Crystal core reactors are a near-infinite power source that uses plasma-producing crystals to generate electricity. The core of a reactor is often a 2-metre crystal sphere. This core is zapped by electricity, which produces plasma. This plasma is somehow converted into electricity. The reactor then takes a portion of the electricity and reuses it to zap itself, producing MORE plasma. The cycle repeats.
 
 To prevent plasma overflows and overheating, crystal core reactors are built with an automatic fail-safe system that temporarily shuts them down whenever those are detected.
+</details>
 
 ## Optional Spacecraft Modules
-#### Wormhole Transport Module
+<details>
+<summary><b>Wormhole Transport Module</b></summary>
+
 Wormhole transport modules are FTL systems installed on a ship to create travelling wormholes using a magical crystal. The most powerful models can create wormholes with an exterior speed of 10,000 AU/s.
 
 Whenever a ship is about to go into wormhole travel, the opening of the wormhole appears as a swirly, distorted, space "whirlpool". It usually takes a few seconds for the ship to enter the opening (large battleships can take 10 to 15 seconds). Immediately after the ship has gone inside, the opening closes and disappears. This goes the same way when the ship exits wormhole travel; the wormhole opens, the ship comes out, and the wormhole closes.
@@ -46,13 +59,17 @@ Created wormholes collapse after usage.
   - **Between star systems:** 2+ hours *(wormhole strength at 2000 AU/s, or 300,000 kn/s)*
   - **Between far-away star systems:** 2+ days *(wormhole strength at 2000 AU/s, or 300,000 kn/s)*
   - **Across a galaxy:** approximately 6 months *(at full wormhole strength, which is 10,000 AU/s, or 1,500,000 kn/s)*
+</details>
+<details>
+<summary><b>Engine Overdrivers</b></summary>
 
-#### Engine Overdrivers
 Engine overdrivers are an older, yet useful module installed onto the rocket engines of a spaceship. When activated, they cause the engine to power up to more than five times their maximum output (increasing speed by 5 times) in exchange for burning power faster.
 
 Some cheaper models may only be able to overdrive the engines twice the normal output.
+</details>
+<details>
+<summary><b>Shield Generator Module</b></summary>
 
-#### Shield Generator Module
 Shield generator modules are a spectacle in modern engineering. It works by generating a repulsion field around the surface of a ship, pushing things that are too close away. When generated, the field is almost invisible except for its slight distortion of light (like flowing water). When they are struck, they create a bright flash of white light and hinder the object from entering.
 
 Since it is a repulsion field, it deconcentrates plasma bolts (the containment field gets destroyed), slows down physical bullets and slightly changes their direction, and dampens explosions. The only things that are largely unaffected are light, gas, radiation, and heat. This means that lasers (not energy weapons!) can shoot through shields but will get distorted and unfocused.
@@ -62,15 +79,27 @@ Whenever something strikes the shield, two things can happen. In the first scena
 The shield regenerates collapsed areas at 6 square metres per second, and weakened areas of the shield that still haven't collapsed regenerate to full density at the same rate. Usually, multiple generators are placed evenly across the surface of large ships to ensure multiple areas of the shield can be regenerated at the same time.
 
 *Because shields can damage their ships' landing legs by being generated overlapping them, it is advised to ship commanders not to land while their shield is activated.*
+</details>
+<details>
+<summary><b>Civilian Radar Module</b></summary>
 
-#### Civilian Radar Module
 Civilian radar modules are systems used to detect hard/solid objects such as asteroids, ships, missiles, etc. Each ship usually has multiple points where radar waves are fired off and received. The radar can detect ships up to 10,000 kilometres (10 maglonakins) away, and displays distance outputs in maglonakins.
+</details>
+<details>
+<summary><b>Military-grade Radar Module</b></summary>
 
-#### Military-grade Radar Module
 Military-grade radar modules are systems used to detect hard/solid objects such as asteroids, ships, missiles, etc. Each ship usually has multiple points where radar waves are fired off and received. The radar can detect ships up to 1,000,000 kilometres (1 kacholnakin) away, and displays distance outputs in maglonakins.
+</details>
+<details>
+<summary><b>Mirror Armour Module</b></summary>
 
-#### Mirror Armour Module
 This type of module involves using a prism-textured mirror surface to weaken harmful lasers. This type of armour usually comes in panels, cut and fitted onto a ship's hull. Inside the mirror is a coating of an aluminum and fresenite mixture.
+</details>
+<details>
+<summary><b>Directed Spotlight Module</b></summary>
+
+Directed spotlight modules are exterior ship addons that help pilots see. From the control room, pilots can adjust the direction of a long-range spotlight, illuminating spaces up to 300 meters away.
+</details>
 
 ## Power Armour Modules
 ### Power modules
