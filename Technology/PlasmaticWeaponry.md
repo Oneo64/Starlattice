@@ -37,14 +37,12 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 - **Rate of Fire:** 660 rpm
 - **Length:** ~70 centimeters
 - **Weight:** ~3.6 kilograms
-- **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2000 kelvins)
+- **Projectile:** Contained plasma bolt (coloured blue, 5 grams, heat estimated to be 2000 kelvins)
 - **Battery capacity:** 40 blasts before weakening, ~50 blasts before empty
 - **Relative Muzzle Velocity:** 500 m/s
 - **Effective Range:** ~600 meters
 
-A KAG MP-114, shortened to MP-114, is a plasmatic rifle manufactured in the Kagalarian Empire. This weapon is the standard-issue rifle in the Kagalarian army, valued for its effectiveness, reliability, and its balance in its production cost and end quality. For decades, their army has still not replaced this rifle, and will probably not be for another several years.
-
-These rifles use a mrokek core, causing its bolts to appear blue, and its containment field generator holds the plasma bolts using 3 kilojoules of energy.
+A KAG MP-114, shortened to MP-114, is a plasmatic rifle manufactured in the Kagalarian Empire. This weapon is the standard-issue rifle in the Kagalarian army, valued for its effectiveness, reliability, and its balance in its production cost and end quality. For decades, their army has still not replaced this rifle, and will probably not be for another several years. Its containment field generator holds the plasma bolts using 3 kilojoules of energy.
 
 #### KAG VAP-3 (KAG Vost Avtit Psakar Model 3)
 - **Type:** Automatic plasmatic machine gun
@@ -53,16 +51,14 @@ These rifles use a mrokek core, causing its bolts to appear blue, and its contai
 - **Rate of Fire:** 570 rpm
 - **Length:** ~120 centimeters
 - **Weight:** ~11.7 kilograms
-- **Projectile:** Contained plasma bolt (6 grams, heat estimated to be 2070 kelvins)
+- **Projectile:** Contained plasma bolt (coloured blue, 6 grams, heat estimated to be 2070 kelvins)
 - **Battery capacity:**
   - **Standard:** 120 blasts before weakening, ~150 blasts before empty
   - **Heavy-duty:** 200 blasts before weakening, ~250 blasts before empty
 - **Relative Muzzle Velocity:** 600 m/s
 - **Effective Range:** ~1100 meters
 
-A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured in the Kagalarian Empire. Although powerful, they are heavier than most rifles, use more energy, and are not as streamlined. The Kagalarian army uses them for support infantry roles, guard posts, and areas that require strong defence.
-
-These machine guns use a mrokek core, causing its bolts to appear blue, and its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
+A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured in the Kagalarian Empire. Although powerful, they are heavier than most rifles, use more energy, and are not as streamlined. The Kagalarian army uses them for support infantry roles, guard posts, and areas that require strong defence. Its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
 
 #### TAP-96 (Tasmot Avtit Psakar Model 96)
 - **Type:** Automatic plasmatic machine gun
@@ -71,7 +67,7 @@ These machine guns use a mrokek core, causing its bolts to appear blue, and its 
 - **Rate of Fire:** 760 rpm
 - **Length:** ~120 centimeters
 - **Weight:** ~13.1 kilograms
-- **Projectile:** Contained plasma bolt (8 grams, heat estimated to be 1070 kelvins)
+- **Projectile:** Contained plasma bolt (coloured blue, 8 grams, heat estimated to be 1070 kelvins)
 - **Battery capacity:** 60 blasts before weakening, ~75 blasts before empty
 - **Relative Muzzle Velocity:** 500 m/s
 - **Effective Range:** ~650 meters
@@ -85,7 +81,7 @@ A TAP-96 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian 
 - **Rate of Fire:** 880 rpm
 - **Length:** ~110 centimeters
 - **Weight:** ~11.2 kilograms
-- **Projectile:** Contained plasma bolt (5 grams, heat estimated to be 2050 kelvins)
+- **Projectile:** Contained plasma bolt (coloured blue, 5 grams, heat estimated to be 2050 kelvins)
 - **Battery capacity:**
   - **Standard:** 120 blasts before weakening, ~150 blasts before empty
   - **Heavy-duty:** 200 blasts before weakening, ~250 blasts before empty
@@ -94,23 +90,21 @@ A TAP-96 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian 
 
 A TAP-201 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian company. Its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
 
-#### NRVAP (Noviy Rosken Vost Avtit Psakar)
+#### KAG NRVAP (Noviy Rosken Vost Avtit Psakar)
 - **Type:** Heavy plasmatic machine gun
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
 - **Rate of Fire:** 510 rpm
-- **Length:** ~150 centimeters
-- **Weight:** ~24.2 kilograms
-- **Projectile:** Contained plasma bolt (6.5 grams, heat estimated to be 2060 kelvins)
+- **Length:** ~160 centimeters
+- **Weight:** ~35.1 kilograms
+- **Projectile:** Contained plasma bolt (coloured blue, 8 grams, heat estimated to be 2060 kelvins)
 - **Battery capacity:**
   - **Standard:** 120 blasts before weakening, ~150 blasts before empty
-  - **Generator/reactor-connected:** Potentially infinite
+  - **Generator-connected:** 10 seconds of continuous fire before exhaustion
 - **Relative Muzzle Velocity:** 850 m/s
 - **Effective Range:** ~1300 meters
 
-An NRVAP is a heavy plasmatic machine gun manufactured in the Kagalarian Empire. The Kagalarian army uses them for guard posts, areas that require strong defence, and as mounted vehicle guns.
-
-These machine guns use a mrokek core, causing its bolts to appear blue, and its containment field generator holds the plasma bolts using 3.7 kilojoules of energy.
+A KAG NRVAP is a heavy plasmatic machine gun manufactured in the Kagalarian Empire. The Kagalarian army uses them for guard posts, areas that require strong defence, and as mounted vehicle guns. Its containment field generator holds the plasma bolts using 3.7 kilojoules of energy.
 
 ### Pistols
 #### KAG MN-12 (KAG Mrelniy Nogen Model 12)
@@ -211,16 +205,6 @@ A warship cannon designed for bombardment. Bolts fired are slightly wider than m
 - **Effective Range:** 30 kilometers
 
 An anti-armour cannon.
-
-#### High-speed Repeater
-- **Type:** Mounted Turret
-- **Rate of Fire:** 800 rpm
-- **Projectile:** Contained plasma bolt
-- **Relative Muzzle Velocity:** 760 m/s
-- **Destruction Equivalent (per shot):** M2 Browning but with explosive rounds (5 grams of TNT)
-- **Effective Range:** 2 kilometers
-
-Designed to mow down crowds of enemies.
 
 #### Spacefighter Cannon
 - **Type:** Mounted Turret, non-rotating gun

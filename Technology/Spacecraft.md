@@ -149,8 +149,6 @@ The Anora Vlatiyra M-224 is an agile combat spacefighter manufactured by Anora S
  - **Speed:** 120 m/s (atmospheric)
  - **Agility:** 0.35 rad/s (20 deg/s)
  - **Crew:** 3 commanders and 10 additional crew members
- - **Arnament:**
-    - 4 × High-speed repeaters
  - **Capacity:** 40 metric tons of cargo
 
 A traveller spacecraft is a type of space vessel. Travellers are available to all civilians, provided that they can buy one.
