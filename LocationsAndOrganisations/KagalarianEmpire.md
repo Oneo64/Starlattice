@@ -93,7 +93,7 @@ Every military site has a radio station (houses a military-grade radio transmitt
   - Handheld radio
   - Black heat-resistant gloves
 
-- **Camouflage variants**
+- **Camouflage variants (monochromatic)*
   - **Winter (default):** White
   - **Woodland:** Dark, rich green
   - **Urban:** Blueish grey
