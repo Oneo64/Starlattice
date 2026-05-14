@@ -26,7 +26,7 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
 <summary><b>Anora Vindaror M8D1</b></summary>
 
 - **Manufacturer:** Anora Spacecraft Manufacturing
-- **Type:** Capital ship
+- **Type:** Siege Battleship
 - **Length:** 1400 meters
 - **Width:** 180 meters
 - **Height:** 180 meters
@@ -54,7 +54,7 @@ The Anora Vindaror M-8 is a giant spacecraft designed for battles in outer space
 <summary><b>Anora Vindaror M8D2</b></summary>
 
 - **Manufacturer:** Anora Spacecraft Manufacturing
-- **Type:** Transportation and utilitarian warship
+- **Type:** Transportation and Utilitarian Battleship
 - **Length:** 1200 meters
 - **Width:** 210 meters
 - **Height:** 210 meters
@@ -81,7 +81,7 @@ The Anora Vindaror M-8 is a giant spacecraft designed to transport massive amoun
 <summary><b>Anora Lorstformikiy M-422</b></summary>
 
 - **Manufacturer:** Anora Spacecraft Manufacturing
-- **Type:** Combat warship
+- **Type:** Combat Warship
 - **Length:** 100 meters
 - **Width:** 35 meters
 - **Height:** 15 meters
@@ -146,7 +146,7 @@ The Anora Vlatiyra M-224 is an agile combat spacefighter manufactured by Anora S
 <details>
 <summary><b>Traveller</b></summary>
 
-- **Type:** Civilian spacecraft
+- **Type:** Civilian Spacecraft
 - **Length:** 35 meters
 - **Width:** 20 meters
 - **Height:** 15 meters

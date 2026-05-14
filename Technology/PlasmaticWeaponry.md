@@ -33,7 +33,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 <details>
 <summary><b>KAG MP-114 (KAG Mrelniy Panovka Model 114)</b></summary>
 
-- **Type:** Plasmatic rifle
+- **Type:** Plasmatic Rifle
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
 - **Rate of Fire:** 660 rpm (auto)
@@ -49,7 +49,7 @@ A KAG MP-114, shortened to MP-114, is a plasmatic rifle manufactured by KAG Armo
 <details>
 <summary><b>KAG VAP-3 (KAG Vost Avtit Psakar Model 3)</b></summary>
 
-- **Type:** Light plasmatic machine gun
+- **Type:** Light Plasmatic Machine Hun
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
 - **Rate of Fire:** 570 rpm (auto)
@@ -67,7 +67,7 @@ A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured by KAG 
 <details>
 <summary><b>KAG NRVAP (Noviy Rosken Vost Avtit Psakar)</b></summary>
 
-- **Type:** Heavy plasmatic machine gun
+- **Type:** Heavy Plasmatic Machine Gun
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
 - **Rate of Fire:** 500 rpm (auto)
@@ -85,7 +85,7 @@ A KAG NRVAP is a heavy plasmatic machine gun manufactured by KAG Armoury. The Ka
 <details>
 <summary><b>O-11 (Olgor 11)</b></summary>
 
-- **Type:** Small plasmatic rifle
+- **Type:** Small Plasmatic Rifle
 - **Manufacturer:** Olgorzast Arsenal Cooperations
 - **Core:** Mrokek
 - **Rate of Fire:** 850 rpm (auto)
@@ -101,7 +101,7 @@ An O-11 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and
 <details>
 <summary><b>TAP-96 (Tasmot Avtit Psakar Model 96)</b></summary>
 
-- **Type:** Light plasmatic machine gun
+- **Type:** Light Plasmatic Machine Gun
 - **Manufacturer:** Asenk Armoury
 - **Core:** Mrokek
 - **Rate of Fire:** 760 rpm (auto)
@@ -117,7 +117,7 @@ A TAP-96 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian 
 <details>
 <summary><b>TAP-201 (Tasmot Avtit Psakar Model 201)</b></summary>
 
-- **Type:** Light plasmatic machine gun
+- **Type:** Light Plasmatic Machine Gun
 - **Manufacturer:** Asenk Armoury
 - **Core:** Mrokek
 - **Rate of Fire:** 880 rpm (auto)
@@ -137,7 +137,7 @@ A TAP-201 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian
 <details>
 <summary><b>KAG MN-12 (KAG Mrelniy Nogen Model 12)</b></summary>
 
-- **Type:** Semi-automatic plasmatic pistol
+- **Type:** Semi-automatic Plasmatic Pistol
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
 - **Rate of Fire:** 600 rpm (semi-auto)
@@ -153,7 +153,7 @@ A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured by KAG Armou
 <details>
 <summary><b>AON-9 (Avtit Olgor Nogen 9)</b></summary>
 
-- **Type:** Automatic plasmatic pistol
+- **Type:** Automatic Plasmatic Pistol
 - **Manufacturer:** Olgorzast Arsenal Cooperations
 - **Core:** Mrokek
 - **Rate of Fire:** 980 rpm (auto), 700 rpm in (semi-auto)
@@ -171,7 +171,7 @@ A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured by Olgorzast
 <details>
 <summary><b>KAG YP-P4 (KAG Yivniy Panovka Prototype 4)</b></summary>
 
-- **Type:** Plasmatic handweapon (beamer)
+- **Type:** Plasmatic Handweapon (beamer)
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
 - **Length:** ~110 centimeters
