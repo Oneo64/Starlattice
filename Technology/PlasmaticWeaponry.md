@@ -108,7 +108,7 @@ A TAP-201 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian
 - **Relative Muzzle Velocity:** 850 m/s
 - **Effective Range:** ~1300 meters
 
-An RVAP-201 is a heavy plasmatic machine gun manufactured in the Kagalarian Empire. The Kagalarian army uses them for guard posts, areas that require strong defence, and as mounted vehicle guns.
+An NRVAP is a heavy plasmatic machine gun manufactured in the Kagalarian Empire. The Kagalarian army uses them for guard posts, areas that require strong defence, and as mounted vehicle guns.
 
 These machine guns use a mrokek core, causing its bolts to appear blue, and its containment field generator holds the plasma bolts using 3.7 kilojoules of energy.
 
