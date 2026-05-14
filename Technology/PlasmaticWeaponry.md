@@ -263,16 +263,34 @@ Since laser projectors can heat up fast, militaries fire them for a few seconds 
 #### Crystal Warhead
 The warhead is tipped with an unstable crystal. When this crystal is struck, it releases a high amount of explosive plasma. The crystal on the tip of the warhead is actually connected to a larger piece in the middle of the missile, which is enclosed in a hard metal. Because the unstable crystal released a lot of plasma, this plasma is contained inside the missile. The missile cannot contain this much plasma, so the missile explodes.
 
-#### Pre-Computed Missile
+#### Pre-computed Missile
 A computed missile is a missile that follows a pre-computed path and explodes once it reaches the end of the path. The missile will also explode if the warhead physically hits anything.
 
-#### All-Purpose Missile Launcher Missile (APMLM)
- - **Missile Type:** Pre-Computed Missile
- - **Warhead:** Crystal Warhead
- - **Radius:** 30 centimeters
- - **Length:** 5 meters
- - **Relative Speed:** 1,500 m/s
- - **Destruction Equivalent:** 50 kilograms of TNT
- - **Fuel Capacity:** 10,000 kilometres (10 kacholnakins)
+<details>
+<summary><b>All-Purpose Missile Launcher Missile (APMLM)</b></summary>
+
+- **Missile Type:** Pre-computed Missile
+- **Warhead:** Crystal Warhead
+- **Radius:** 30 centimeters
+- **Length:** 5 meters
+- **Relative Speed:** 1,500 m/s
+- **Destruction Equivalent:** 50 kilograms of TNT
+- **Fuel Capacity:** 10,000 kilometres (10 kacholnakins)
 
 Uses a crystal warhead and is propelled by a crystal rocket engine.
+</details>
+<details>
+<summary><b>Adaptable Long-range Missile (ALM)</b></summary>
+
+- **Missile Type:** Pre-computed Missile
+- **Warhead:** Crystal Warhead
+- **Radius:** 30 centimeters
+- **Length:** 5 meters
+- **Relative Speed:** 1,500 m/s
+- **Destruction Equivalent:** 35 kilograms of TNT
+- **Fuel Capacity:** 10,000 kilometres (10 kacholnakins)
+
+An adaptable long-range missile is a hybrid between a trajectory missile and a heat-seeking missile. During the first 80 minutes, the missile uses up 80% of its fuel in following the pre-computed path. If the missile still hasn't hit anything, it will go into fuel-saving mode and turn on its heat-seeking system. It has a 6-hour self-destruct timer after being launched, making its potential effective range up to 32,400 kilometres.
+
+Despite the adaptability and range of this missile, the building cost of it is 5 times that of an APMLM.
+</details>
