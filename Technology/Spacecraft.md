@@ -137,7 +137,7 @@ The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently tran
 - **Height:** 4 meters
 - **Shape:** Spear-shaped
 - **Hull:** 5-centimetre fresarmanite plating
-- **Speed:** 200 m/s (atmospheric)
+- **Speed:** 160 m/s (atmospheric, max speed), 40 to 80 m/s (atmospheric, combat speed)
 - **Agility:** 0.26 rad/s (15 deg/s)
 - **Crew:** 2 pilots, 2 gunmen, and 4 additional crew members
 - **Arnament:**
