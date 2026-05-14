@@ -30,11 +30,13 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 
 ## List of Plasmatic Handweapons
 ### Rifles
-#### KAG MP-114 (KAG Mrelniy Panovka Model 114)
-- **Type:** Automatic plasmatic rifle
+<details>
+<summary><b>KAG MP-114 (KAG Mrelniy Panovka Model 114)</b></summary>
+
+- **Type:** Plasmatic rifle
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
-- **Rate of Fire:** 660 rpm
+- **Rate of Fire:** 660 rpm (auto)
 - **Length:** ~85 centimeters
 - **Weight:** ~3.6 kilograms
 - **Projectile:** Contained plasma bolt (coloured blue, 5 grams, heat estimated to be 2000 kelvins)
@@ -43,26 +45,14 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 - **Effective Range:** ~600 meters
 
 A KAG MP-114, shortened to MP-114, is a plasmatic rifle manufactured by KAG Armoury and is the standard issue rifle of the Kagalarian army. It is valued for its effectiveness, reliability, and high quality-to-cost ratio. For decades, the army has still not replaced this rifle, and will probably not be for another several years. Its containment field generator holds the plasma bolts using 3 kilojoules of energy.
+</details>
+<details>
+<summary><b>KAG VAP-3 (KAG Vost Avtit Psakar Model 3)</b></summary>
 
-#### O-11 (Olgor 11)
-- **Type:** Small plasmatic rifle
-- **Manufacturer:** Olgorzast Arsenal Cooperations
-- **Core:** Mrokek
-- **Rate of Fire:** 850 rpm
-- **Length:** ~65 centimeters
-- **Weight:** ~2.5 kilograms
-- **Projectile:** Contained plasma bolt (4.5 grams, heat estimated to be 2000 kelvins)
-- **Battery capacity:** 40 blasts before weakening, ~50 blasts before empty
-- **Relative Muzzle Velocity:** 450 m/s
-- **Effective Range:** ~350 meters
-
-An O-11 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and is used by special law enforcement units and special military forces. Its containment field generator holds the plasma bolts using 2.5 kilojoules of energy.
-
-#### KAG VAP-3 (KAG Vost Avtit Psakar Model 3)
-- **Type:** Automatic plasmatic machine gun
+- **Type:** Light plasmatic machine gun
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
-- **Rate of Fire:** 570 rpm
+- **Rate of Fire:** 570 rpm (auto)
 - **Length:** ~120 centimeters
 - **Weight:** ~11.7 kilograms
 - **Projectile:** Contained plasma bolt (coloured blue, 6 grams, heat estimated to be 2070 kelvins)
@@ -72,13 +62,49 @@ An O-11 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and
 - **Relative Muzzle Velocity:** 600 m/s
 - **Effective Range:** ~1100 meters
 
-A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured in the Kagalarian Empire. Although powerful, they are heavier than most rifles, use more energy, and are not as streamlined. The Kagalarian army uses them for support infantry roles, guard posts, and areas that require strong defence. Its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
+A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured by KAG Armoury. Although powerful, they are heavier than most rifles, use more energy, and are not as streamlined. The Kagalarian army uses them for support infantry roles, guard posts, and areas that require strong defence. Its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
+</details>
+<details>
+<summary><b>KAG NRVAP (Noviy Rosken Vost Avtit Psakar)</b></summary>
 
-#### TAP-96 (Tasmot Avtit Psakar Model 96)
-- **Type:** Automatic plasmatic machine gun
+- **Type:** Heavy plasmatic machine gun
+- **Manufacturer:** KAG Armoury
+- **Core:** Mrokek
+- **Rate of Fire:** 500 rpm (auto)
+- **Length:** ~160 centimeters
+- **Weight:** ~35.1 kilograms
+- **Projectile:** Contained plasma bolt (coloured blue, 8 grams, heat estimated to be 2060 kelvins)
+- **Battery capacity:**
+  - **Standard:** 120 blasts before weakening, ~150 blasts before empty
+  - **Generator-connected:** 10 seconds of continuous fire before exhaustion
+- **Relative Muzzle Velocity:** 850 m/s
+- **Effective Range:** ~1300 meters
+
+A KAG NRVAP is a heavy plasmatic machine gun manufactured by KAG Armoury. The Kagalarian army uses them for guard posts, areas that require strong defence, and as mounted vehicle guns. Its containment field generator holds the plasma bolts using 3.7 kilojoules of energy.
+</details>
+<details>
+<summary><b>O-11 (Olgor 11)</b></summary>
+
+- **Type:** Small plasmatic rifle
+- **Manufacturer:** Olgorzast Arsenal Cooperations
+- **Core:** Mrokek
+- **Rate of Fire:** 850 rpm (auto)
+- **Length:** ~65 centimeters
+- **Weight:** ~2.5 kilograms
+- **Projectile:** Contained plasma bolt (4.5 grams, heat estimated to be 2000 kelvins)
+- **Battery capacity:** 40 blasts before weakening, ~50 blasts before empty
+- **Relative Muzzle Velocity:** 450 m/s
+- **Effective Range:** ~350 meters
+
+An O-11 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and is used by special law enforcement units and special military forces. Its containment field generator holds the plasma bolts using 2.5 kilojoules of energy.
+</details>
+<details>
+<summary><b>TAP-96 (Tasmot Avtit Psakar Model 96)</b></summary>
+
+- **Type:** Light plasmatic machine gun
 - **Manufacturer:** Asenk Armoury
 - **Core:** Mrokek
-- **Rate of Fire:** 760 rpm
+- **Rate of Fire:** 760 rpm (auto)
 - **Length:** ~120 centimeters
 - **Weight:** ~13.1 kilograms
 - **Projectile:** Contained plasma bolt (coloured blue, 8 grams, heat estimated to be 1070 kelvins)
@@ -87,12 +113,14 @@ A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured in the 
 - **Effective Range:** ~650 meters
 
 A TAP-96 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian company. It was produced in 1996 but was later replaced by the TAP-201. Its containment field generator holds the plasma bolts using 3.2 kilojoules of energy.
+</details>
+<details>
+<summary><b>TAP-201 (Tasmot Avtit Psakar Model 201)</b></summary>
 
-#### TAP-201 (Tasmot Avtit Psakar Model 201)
-- **Type:** Automatic plasmatic machine gun
+- **Type:** Light plasmatic machine gun
 - **Manufacturer:** Asenk Armoury
 - **Core:** Mrokek
-- **Rate of Fire:** 880 rpm
+- **Rate of Fire:** 880 rpm (auto)
 - **Length:** ~110 centimeters
 - **Weight:** ~11.2 kilograms
 - **Projectile:** Contained plasma bolt (coloured blue, 5 grams, heat estimated to be 2050 kelvins)
@@ -103,29 +131,16 @@ A TAP-96 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian 
 - **Effective Range:** ~800 meters
 
 A TAP-201 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian company. Its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
-
-#### KAG NRVAP (Noviy Rosken Vost Avtit Psakar)
-- **Type:** Heavy plasmatic machine gun
-- **Manufacturer:** KAG Armoury
-- **Core:** Mrokek
-- **Rate of Fire:** 500 rpm
-- **Length:** ~160 centimeters
-- **Weight:** ~35.1 kilograms
-- **Projectile:** Contained plasma bolt (coloured blue, 8 grams, heat estimated to be 2060 kelvins)
-- **Battery capacity:**
-  - **Standard:** 120 blasts before weakening, ~150 blasts before empty
-  - **Generator-connected:** 10 seconds of continuous fire before exhaustion
-- **Relative Muzzle Velocity:** 850 m/s
-- **Effective Range:** ~1300 meters
-
-A KAG NRVAP is a heavy plasmatic machine gun manufactured in the Kagalarian Empire. The Kagalarian army uses them for guard posts, areas that require strong defence, and as mounted vehicle guns. Its containment field generator holds the plasma bolts using 3.7 kilojoules of energy.
+</details>
 
 ### Pistols
-#### KAG MN-12 (KAG Mrelniy Nogen Model 12)
+<details>
+<summary><b>KAG MN-12 (KAG Mrelniy Nogen Model 12)</b></summary>
+
 - **Type:** Semi-automatic plasmatic pistol
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
-- **Rate of Fire:** 600 rpm
+- **Rate of Fire:** 600 rpm (semi-auto)
 - **Length:** 17 centimeters
 - **Weight:** ~680 grams
 - **Projectile:** Contained plasma bolt (4 grams, heat estimated to be 1700 kelvins)
@@ -134,12 +149,14 @@ A KAG NRVAP is a heavy plasmatic machine gun manufactured in the Kagalarian Empi
 - **Effective Range:** ~200 meters
 
 A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured by KAG Armoury and is the standard issue pistol of the army and law enforcement. Its containment field generator holds the plasma bolts using 1 kilojoule of energy.
+</details>
+<details>
+<summary><b>AON-9 (Avtit Olgor Nogen 9)</b></summary>
 
-#### AON-9 (Avtit Olgor Nogen 9)
 - **Type:** Automatic plasmatic pistol
 - **Manufacturer:** Olgorzast Arsenal Cooperations
 - **Core:** Mrokek
-- **Rate of Fire:** 980 rpm, 700 rpm in semi-automatic
+- **Rate of Fire:** 980 rpm (auto), 700 rpm in (semi-auto)
 - **Length:** ~19 centimeters
 - **Weight:** ~700 grams
 - **Projectile:** Contained plasma bolt (3.8 grams, heat estimated to be 1600 kelvins)
@@ -147,12 +164,13 @@ A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured by KAG Armou
 - **Relative Muzzle Velocity:** 330 m/s
 - **Effective Range:** ~100 meters
 
-A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured in the Kagalarian Empire. It uses a mrokek core.
-
-Its containment field generator holds the plasma bolts using 900 joules of energy.
+A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured by Olgorzast Arsenal Cooperations. Its containment field generator holds the plasma bolts using 900 joules of energy.
+</details>
 
 ### Beamers
-#### KAG YP-P4 (KAG Yivniy Panovka Prototype 4)
+<details>
+<summary><b>KAG YP-P4 (KAG Yivniy Panovka Prototype 4)</b></summary>
+
 - **Type:** Plasmatic handweapon (beamer)
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
@@ -166,6 +184,7 @@ Its containment field generator holds the plasma bolts using 900 joules of energ
 A KAG YP-P4, shortened to MYP P-4, is a plasmatic rifle manufactured in the Kagalarian Empire. Instead of bolts, this rifle fires a beam of plasma by allowing a steady electrical current into its mrokek core.
 
 Its containment field generator holds the plasma beam together using 2.5 kilojoules of energy.
+</details>
 
 ## List of Plasmatic Explosives
 #### Plasmatic Grenade
