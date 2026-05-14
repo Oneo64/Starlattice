@@ -110,7 +110,7 @@ A TAP-201 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian
 - **Core:** Mrokek
 - **Rate of Fire:** 510 rpm
 - **Length:** ~160 centimeters
-- **Weight:** ~28.1 kilograms
+- **Weight:** ~35.1 kilograms
 - **Projectile:** Contained plasma bolt (coloured blue, 8 grams, heat estimated to be 2060 kelvins)
 - **Battery capacity:**
   - **Standard:** 120 blasts before weakening, ~150 blasts before empty
