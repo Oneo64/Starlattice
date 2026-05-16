@@ -4,7 +4,7 @@ Plasmatic weapons are plasma-firing or plasma-creating weapons that utilize a cr
 ## Ranged Weapons (Rifles, pistols, beamers, etc.)
 Most of these plasmatic weapons fire a bolt by releasing a burst of electricity into their core. The core, due to its special properties, converts the electrical charge into explosive plasma and emits it back out. The plasma is then contained by a small containment field generator in the weapon and expelled out the barrel. The contained burst of plasma that emerges from the weapon is known as the plasma bolt.
 
-Because these weapons tend to get hot very easily, especially after firing several bolts, these weapons have an automatic built-in cooling system. Whenever the weapon becomes hotter than 60 °C, liquid nitrogen flows through several heat sinks built onto the sides of the barrel, rapidly cooling the weapon back down. It takes about 10 seconds to cool a weapon from 60 to 20 °C. Most cooling systems can also be manually activated.
+Because these weapons tend to get hot very easily, especially after firing several bolts (7 to 14 shots for most guns), these weapons have an automatic built-in cooling system. Whenever the weapon becomes hotter than 60 °C, liquid nitrogen flows through several heat sinks built onto the sides of the barrel, rapidly cooling the weapon back down. It takes about 10 seconds to cool a weapon from 60 to 20 °C. Most cooling systems can also be manually activated.
 
 Plasmatic handweapons, such as rifles and pistols, almost always have insulated grips and handles. It's a safety precaution not to touch the parts of the weapon that directly connect to the main weapon system.
 
