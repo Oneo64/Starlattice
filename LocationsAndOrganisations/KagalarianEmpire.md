@@ -63,7 +63,7 @@ The Kagalarian Empire has heavily utilized cloning technology to create a sizabl
 
 To prevent clones from betraying allies or freaking out upon creation, they have been biologically preprogrammed (rewiring brain cells) before being awakened from their initial coma.
 
-Clones can only be infantry.
+Clones can only be infantry, guards, patrollers, or law enforcement units.
 
 <!--### Main base
 The Kagalarian main base is built on a hill, surrounded by snowy coniferous forests. The entrance is built on its side, and it reaches down into the earth. There are 6 floors in the main Kagalarian base, each floor being about 10 meters in height, and 400 meters in width and length. On the hill, there are 4 APMT systems and 8 anti-spacefighter repeaters. The entrance has a large 10x30 meter gate, and to its right, there is a smaller door.
@@ -78,7 +78,9 @@ This military base is about 20 kilometres north of Jovikal.-->
 Every military site has a radio station (houses a military-grade radio transmitter), a strategy house, and barracks.
 
 ### Uniforms and Equipment
-#### Infantry and captains
+#### Infantry and squad leaders
+Infantrymen and squad leaders are the main combatants of Kagalarian warfare.
+
 - **Uniform**
   - Camouflaged combat helmet
   - Camouflaged balaclava
@@ -114,6 +116,7 @@ Every military site has a radio station (houses a military-grade radio transmitt
   - Black heat-resistant gloves
 
 #### Secret Intelligence agents
+Secret Intelligence agents are basically insider agents and spies for the Kagalarian Empire.
 *(Keep in mind that a Secret Intelligence agent may wear disguises when they are deployed.)*
 
 - **Uniform**
@@ -127,6 +130,8 @@ Every military site has a radio station (houses a military-grade radio transmitt
   - Handheld radio
 
 #### Units of the Special Forces
+SF units are a special branch of the military, requiring 6 months of training, human status, and fluency in at least one language other than Kagalarian. They are used in small-scale urban operations outside warzones (like clearing a building of insurgents) or in bad warzone environments where normal infantry cannot operate (like sandstorms).
+
 - **Uniform**
   - Camouflaged combat helmet
   - Camouflaged balaclava

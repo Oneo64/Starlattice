@@ -128,7 +128,7 @@ The Anora Lorstformikiy M-422 is a combat spacecraft.
 The Anora Moljorholt M-94 is a transport spacecraft designed to efficiently transport heavy cargo such as resources and spacecraft.
 </details>
 <details>
-<summary><b>INSM-7 (Ishav Nosen Seyrin M-7)</b></summary>
+<summary><b>INSM-7 (Isha Nosen Seyrin M-7)</b></summary>
 
 - **Manufacturer:** Anora Spacecraft Manufacturing
 - **Type:** Anti-infantry Warship
