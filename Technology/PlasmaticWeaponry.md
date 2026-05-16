@@ -38,13 +38,15 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 - **Core:** Mrokek
 - **Rate of Fire:** 660 rpm (auto)
 - **Length:** ~89 centimeters
-- **Weight:** ~3.6 kilograms
+- **Weight:** ~3.3 kilograms (without battery), ~0.56 kilograms (battery)
 - **Projectile:** Contained plasma bolt (coloured blue, 5 grams, heat estimated to be 2000 kelvins)
 - **Battery capacity:** 40 blasts before weakening, ~50 blasts before empty
 - **Relative Muzzle Velocity:** 500 m/s
 - **Effective Range:** ~600 meters
 
-A KAG MP-114, shortened to MP-114, is a plasmatic rifle manufactured by KAG Armoury and is the standard issue rifle of the Kagalarian army. It is valued for its effectiveness, reliability, and high quality-to-cost ratio. For decades, the army has still not replaced this rifle, and will probably not be for another several years. Its containment field generator holds the plasma bolts using 3 kilojoules of energy.
+An MP-114 is a plasmatic rifle manufactured by KAG Armoury and is the standard issue rifle of the Kagalarian army. It is valued for its effectiveness, reliability, and high quality-to-cost ratio. For decades, the army has still not replaced this rifle, and will probably not be for another several years. Its containment field generator holds the plasma bolts using 3 kilojoules of energy.
+
+An MP-114 comes with a 30-centimetre polymer buttstock, a polymer grip, and a red dot sight. It has a wooden handguard and five heat sinks for its cooling system. Its barrel is 2.5 centimetres in diameter and is 1.5 centimetres hollow.
 </details>
 <details>
 <summary><b>KAG VAP-3 (KAG Vost Avtit Psakar Model 3)</b></summary>
