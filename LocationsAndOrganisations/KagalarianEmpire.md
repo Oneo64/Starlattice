@@ -94,7 +94,7 @@ Infantrymen and squad leaders are the main combatants of Kagalarian warfare.
   - KAG MP-114 Plasmatic Rifle
   - 5 × MP-114 batteries
   - Kevlar-ceramic vest with pouches
-  - Outdoor knife (dark grey polymer grip)
+  - Outdoor knife (dark polymer grip)
   - Handheld radio
   - Heat-resistant gloves (black)
   - Knee pads (grey)
