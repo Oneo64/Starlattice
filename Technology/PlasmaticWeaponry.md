@@ -37,7 +37,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
 - **Rate of Fire:** 660 rpm (auto)
-- **Length:** ~85 centimeters
+- **Length:** ~90 centimeters
 - **Weight:** ~3.6 kilograms
 - **Projectile:** Contained plasma bolt (coloured blue, 5 grams, heat estimated to be 2000 kelvins)
 - **Battery capacity:** 40 blasts before weakening, ~50 blasts before empty
