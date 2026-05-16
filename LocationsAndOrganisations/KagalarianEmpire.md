@@ -93,7 +93,8 @@ Infantrymen and squad leaders are the main combatants of Kagalarian warfare.
   - Utility belt (black)
   - KAG MP-114 Plasmatic Rifle
   - 5 × MP-114 batteries
-  - Kevlar-ceramic vest
+  - Kevlar-ceramic vest with pouches
+  - Outdoor knife (dark grey polymer grip)
   - Handheld radio
   - Heat-resistant gloves (black)
   - Knee pads (grey)
@@ -116,7 +117,7 @@ Infantrymen and squad leaders are the main combatants of Kagalarian warfare.
   - Utility belt (black)
   - KAG MP-114 Plasmatic Rifle
   - 3 × MP-114 batteries
-  - Kevlar-ceramic vest
+  - Kevlar-ceramic vest with pouches
   - Handheld radio
   - Heat-resistant gloves (black)
 
@@ -148,7 +149,7 @@ SF units are a special branch of the military, requiring 6 months of training, h
   - Utility belt (black)
   - O-11 Plasmatic Rifle
   - 5 × O-11 batteries
-  - Kevlar-ceramic vest
+  - Kevlar-ceramic vest with pouches
   - Handheld radio
   - Heat-resistant gloves (black)
   - Knee pads (grey)
