@@ -82,18 +82,21 @@ Every military site has a radio station (houses a military-grade radio transmitt
 Infantrymen and squad leaders are the main combatants of Kagalarian warfare.
 
 - **Uniform**
-  - Camouflaged combat helmet
-  - Camouflaged balaclava
-  - Camouflaged overcoat
-  - Black utility belt
-  - Black boots
+  - Kagalarian-style military overcoat (camouflaged)
+  - Shirt (grey)
+  - Pants (grey)
+  - Combat boots (black)
 
 - **Equipment**
+  - Combat helmet (camouflaged)
+  - Long balaclava (camouflaged)
+  - Utility belt (black)
   - KAG MP-114 Plasmatic Rifle
-  - 4 × MP-114 batteries (spare)
-  - Kevlar-ceramic vest (covers chest and back; worn under overcoat)
+  - 5 × MP-114 batteries
+  - Kevlar-ceramic vest
   - Handheld radio
-  - Black heat-resistant gloves
+  - Heat-resistant gloves (black)
+  - Knee pads (grey)
 
 - **Camouflage variants (monochromatic)**
   - **Winter (default):** White
@@ -101,51 +104,54 @@ Infantrymen and squad leaders are the main combatants of Kagalarian warfare.
   - **Urban:** Blueish grey
   - **Desert (rare):** Tan/khaki
 
-#### Interior guards and patrollers
+#### Interior guards
 - **Uniform**
-  - Black combat helmet
-  - Black overcoat
-  - Black utility belt
-  - Black boots
+  - Kagalarian-style military overcoat (black)
+  - Shirt (grey)
+  - Pants (grey)
+  - Combat boots (black)
 
 - **Equipment**
+  - Combat helmet (black)
+  - Utility belt (black)
   - KAG MP-114 Plasmatic Rifle
-  - 4 × MP-114 batteries (spare)
-  - Kevlar-ceramic vest (covers chest, back, and thighs; worn under overcoat)
+  - 3 × MP-114 batteries
+  - Kevlar-ceramic vest
   - Handheld radio
-  - Black heat-resistant gloves
+  - Heat-resistant gloves (black)
 
 #### Secret Intelligence agents
 Secret Intelligence agents are basically insider agents and spies for the Kagalarian Empire.
 *(Keep in mind that a Secret Intelligence agent may wear disguises when they are deployed.)*
 
 - **Uniform**
-  - Blue overcoat
-  - Black utility belt
-  - Black boots
+  - Kagalarian-style military overcoat (black)
+  - Shirt (grey)
+  - Pants (grey)
+  - Formal boots (black)
 
 - **Equipment**
   - KAG MN-12 Plasmatic Pistol
-  - Kevlar-ceramic vest (covers chest and back; worn under overcoat)
-  - Handheld radio
 
 #### Units of the Special Forces
 SF units are a special branch of the military, requiring 6 months of training, human status, and fluency in at least one language other than Kagalarian. They are used in small-scale urban operations outside warzones (like clearing a building of insurgents) or in bad warzone environments where normal infantry cannot operate (like sandstorms).
 
 - **Uniform**
-  - Camouflaged combat helmet
-  - Camouflaged balaclava
-  - Camouflaged overcoat
-  - Black utility belt
-  - Black boots
+  - Kagalarian-style military overcoat (camouflaged)
+  - Shirt (grey)
+  - Pants (grey)
+  - Combat boots (black)
 
 - **Equipment**
+  - Combat helmet with photochromic goggles (camouflaged)
+  - Long balaclava (camouflaged)
+  - Utility belt (black)
   - O-11 Plasmatic Rifle
-  - 4 × O-11 batteries (spare)
-  - Kevlar-ceramic vest (covers chest, back, and thighs; worn under overcoat)
-  - Photochromic plastic goggles (darkens in sunlight)
+  - 5 × O-11 batteries
+  - Kevlar-ceramic vest
   - Handheld radio
-  - Black heat-resistant gloves
+  - Heat-resistant gloves (black)
+  - Knee pads (grey)
 
 - **Camouflage variants (dual-colour pattern)**
   - **Winter (default):** White and slightly grey
@@ -155,9 +161,11 @@ SF units are a special branch of the military, requiring 6 months of training, h
 
 #### Repairmen, cooks, operators, and other non-combatants
 - **Uniform**
-  - Black overcoat
-  - Black utility belt
-  - Black boots
+  - Kagalarian-style military overcoat (black)
+  - Shirt (grey)
+  - Pants (grey)
+  - Utility belt (black)
+  - Formal boots (black)
 
 - **Equipment**
   - Handheld radio
@@ -165,18 +173,18 @@ SF units are a special branch of the military, requiring 6 months of training, h
 
 #### High-ranking officers (formal)
 - **Uniform**
-  - Black overcoat with red shoulder lines
-  - Black belt with pistol holster
-  - Black boots
+  - Kagalarian-style military overcoat (black with red shoulder lines)
+  - Formal belt with pistol holster
+  - Formal boots (black)
 
 - **Equipment**
   - KAG MN-12 Plasmatic Pistol
-  - Kevlar-ceramic vest (covers chest, back, and thighs; worn under overcoat)
+  - Kevlar-ceramic vest
   - Handheld radio
 
 #### High-ranking officers (combat)
 - **Uniform**
-  - Black military-grade power armour (with blue Kagalarian insignia on the front and back)
+  - Military-grade power armour (dark grey; with blue Kagalarian insignia on the front and back)
     - *Removing/not having the default modules is punishable, but additional modules may be added, except for point laser defences.*
 
 #### Overcoats
