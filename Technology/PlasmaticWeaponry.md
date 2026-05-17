@@ -49,6 +49,8 @@ The MP-114 is a plasmatic rifle manufactured by KAG Armoury and the current serv
 A standard MP-114 is 90 centimetres long, including a 30-centimetre polymer buttstock with a thin metal core, a polymer grip angled at 20 degrees, a red dot sight, and a bright wooden handguard with air vents. It has five heat sinks placed around the barrel. Its barrel is 2.5 centimetres thick and 1.5 centimetres hollow. Military variants have a sling connected from the end of the stock to the end of the wooden handguard.
 
 MP-114 batteries are 10 cm x 8 cm, which is shorter and wider than the grip. It can provide around 40 shots before completely running out of power.
+
+When loaded, an MP-114 weighs about 3.95 kilograms and is slightly front-heavy with a center of mass just above the battery slot.
 </details>
 <details>
 <summary><b>KAG VAP-3 (KAG Vosta Avtita Psakar Model 3)</b></summary>
