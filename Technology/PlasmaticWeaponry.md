@@ -70,7 +70,9 @@ When loaded, an MP-114 weighs about 3.95 kilograms and is slightly front-heavy w
 - **Relative Muzzle Velocity:** 450 m/s
 - **Effective Range:** ~350 meters
 
-The O-9 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and is used by special law enforcement units and special military forces.
+The O-9 is a small plasmatic rifle manufactured by Olgorzast Arsenal Cooperations. It is used by special law enforcement units and special military forces.
+
+A standard O-9 comes with a polymer buttstock, a built-in reflex sight, 7 heat sinks, and a metal handguard covered with insulating rubber.
 </details>
 <details>
 <summary><b>TAC-11T (TAC-11 Tiva)</b></summary>
