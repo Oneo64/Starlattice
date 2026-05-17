@@ -41,7 +41,7 @@ Civilian ships are small, usually unarmed and vulnerable ships that are sold to 
   - 8 × Long-range laser projectors
   - 8 × APML systems and 512 × missiles
   - 4 × Bombardment cannons
-- **Capacity:** 2,000 soldiers and 20,000 metric tons of cargo
+- **Capacity:** 2000 soldiers and 150,000 metric tons of cargo
 - **Docks capacity:** 50 spacefighters
 - **Installed modules:**
   - Military-grade Radar Module
@@ -68,7 +68,7 @@ The Anora Vindaror M-8 is a giant spacecraft designed for battles in outer space
   - 16 × War cannons
   - 4 × Long-range laser projectors
   - 2 × APML systems and 128 × missiles
-- **Capacity:** 20,000 soldiers and 8,000 metric tons of cargo
+- **Capacity:** 20,000 soldiers and 300,000 metric tons of cargo
 - **Docks capacity:** 100 spacefighters and 5 destroyers
 - **Installed modules:**
   - Military-grade Radar Module
@@ -93,8 +93,7 @@ The Anora Vindaror M-8 is a giant spacecraft designed to transport massive amoun
 - **Arnament:**
   - 4 × Anti-spacefighter repeaters
   - 4 × War cannons
-- **Capacity:** 100 metric tons of cargo
-- **Docks capacity:** 2 spacefighters
+- **Capacity:** 1300 metric tons of cargo
 - **Installed modules:**
   - Military-grade Radar Module
   - Military-grade Shield Module
@@ -118,7 +117,7 @@ The Anora Lorstformikiy M-422 is a combat spacecraft.
 - **Arnament:**
   - 12 × Anti-spacefighter repeaters
   - 2 × long-range laser projectors
-- **Capacity:** 3,000 metric tons of cargo
+- **Capacity:** 100,000 metric tons of cargo
 - **Docks capacity:** 50 spacefighters
 - **Installed modules:**
   - Military-grade Radar Module
@@ -165,6 +164,7 @@ Because the INSM-7 has bare openings to its sides to allow its heavy machine gun
 - **Arnament:**
   - 2 × Spacefighter cannons
 - **Capacity:** 300 kilograms
+- **Oxygen lifespan:** 2 to 3 weeks (normal oxygen regulation), 2 months (lowered oxygen regulation)
 
 The AV-19 is an agile combat spacefighter manufactured by Anora Spacecraft Manufacturing Company. It is the standard spacefighter model used by the Kagalarian Space Force.
 </details>
@@ -180,7 +180,8 @@ The AV-19 is an agile combat spacefighter manufactured by Anora Spacecraft Manuf
 - **Agility:** 0.7 rad/s (40 deg/s)
 - **Arnament:**
   - 2 × Spacefighter cannons
-- **Capacity:** 100 kilograms
+- **Capacity:** 120 kilograms
+- **Oxygen lifespan:** 2 to 3 days (normal oxygen regulation), 1 week (lowered oxygen regulation)
 
 The AVch-3 is an interceptor manufactured by Anora Spacecraft Manufacturing Company, and the standard interceptor model used by the Kagalarian Space Force.
 </details>
@@ -196,7 +197,8 @@ The AVch-3 is an interceptor manufactured by Anora Spacecraft Manufacturing Comp
 - **Speed:** 120 m/s (atmospheric)
 - **Agility:** 0.35 rad/s (20 deg/s)
 - **Crew:** 3 commanders and 10 additional crew members
-- **Capacity:** 40 metric tons of cargo
+- **Capacity:** 5 metric tons of cargo
+- **Oxygen lifespan (using up all the storage space and for one person):** 200 to 300 days (normal oxygen regulation), 700 days (lowered oxygen regulation)
 
 A traveller spacecraft is a type of space vessel. Travellers are available to all civilians, provided that they can buy one.
 </details>

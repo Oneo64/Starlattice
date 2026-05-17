@@ -10,7 +10,7 @@
   <tr> <td>Population</td> <td>28 billion</td> </tr>
 </tbody></table>
 
-The **Kagalarian Empire**, known formally as the **Empire of Kagalar**, also known in its native language as *Кшавико ожан Кагалар*, is an interstellar power that is in control of a dozen planets.
+The **Kagalarian Empire**, known formally as the **Empire of Kagalar**, also known in its native language as *Кавакон ожан Кагалар*, is an interstellar power that is in control of a dozen planets.
 
 ## Law
 Here's a list of crimes that are commitable in the Kagalarian Empire.
