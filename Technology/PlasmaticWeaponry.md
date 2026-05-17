@@ -97,7 +97,7 @@ A standard TAC-11T is decorated with a light, triangular stock. Near the end of 
 
 ### Light Machine Guns
 <details>
-<summary><b>KAG VAP-3 (KAG Vosta Avtita Pak Model 3)</b></summary>
+<summary><b>KAG VAP-3 (KAG Voste Avtite Pak Model 3)</b></summary>
 
 - **Type:** Light Plasmatic Machine Gun
 - **Manufacturer:** KAG Armoury
@@ -115,7 +115,7 @@ A standard TAC-11T is decorated with a light, triangular stock. Near the end of 
 A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured by KAG Armoury. Although powerful, they are heavier than most rifles, use more energy, and are not as streamlined. The Kagalarian army uses them for support infantry roles, guard posts, and areas that require strong defence. Its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
 </details>
 <details>
-<summary><b>TAP-96 (Tasma Avtita Pak Model 96)</b></summary>
+<summary><b>TAP-96 (Tasme Avtite Pak Model 96)</b></summary>
 
 - **Type:** Light Plasmatic Machine Gun
 - **Manufacturer:** Asenk Armoury
@@ -131,7 +131,7 @@ A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured by KAG 
 A TAP-96 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian company. It was produced in 1996 but was later replaced by the TAP-201. Its containment field generator holds the plasma bolts using 3.2 kilojoules of energy.
 </details>
 <details>
-<summary><b>TAP-201 (Tasma Avtita Pak Model 201)</b></summary>
+<summary><b>TAP-201 (Tasme Avtite Pak Model 201)</b></summary>
 
 - **Type:** Light Plasmatic Machine Gun
 - **Manufacturer:** Asenk Armoury
@@ -151,7 +151,7 @@ A TAP-201 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian
 
 ### Heavy Machine Guns
 <details>
-<summary><b>KAG NRVAP (Noviy Roska Vosta Avtita Pak)</b></summary>
+<summary><b>KAG NRVAP (Noviy Roske Voste Avtite Pak)</b></summary>
 
 - **Type:** Heavy Plasmatic Machine Gun
 - **Manufacturer:** KAG Armoury
@@ -205,7 +205,7 @@ A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured by Olgorzast
 
 ### Beamers
 <details>
-<summary><b>KAG YP-P4 (KAG Yivniy Panovka Prototype 4)</b></summary>
+<summary><b>KAG YP-P4 (KAG Yivniy Ravak Prototype 4)</b></summary>
 
 - **Type:** Plasmatic Handweapon (beamer)
 - **Manufacturer:** KAG Armoury
