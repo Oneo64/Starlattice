@@ -38,7 +38,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 - **Core:** Mrokek
 - **Rate of Fire:** 660 rpm (auto)
 - **Length:** ~89 centimeters
-- **Weight:** ~3.5 kilograms (unloaded), ~0.56 kilograms (battery)
+- **Weight:** ~3.6 kilograms (unloaded), ~0.5 kilograms (battery)
 - **Projectile:** Contained plasma bolt (coloured blue, 5 grams, heat estimated to be 2000 kelvins)
 - **Battery capacity:** 40 blasts before weakening, ~50 blasts before empty
 - **Relative Muzzle Velocity:** 500 m/s
