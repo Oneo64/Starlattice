@@ -71,9 +71,9 @@ When loaded, an MP-114 weighs about 3.95 kilograms and is slightly front-heavy w
 An O-9 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and is used by special law enforcement units and special military forces. Its containment field generator holds the plasma bolts using 2.5 kilojoules of energy.
 </details>
 <details>
-<summary><b>TAC-11 T (TAC-11 Tiva)</b></summary>
+<summary><b>TAC-11T (TAC-11 Tiva)</b></summary>
 
-<tr> <th colspan=2><img src="https://github.com/Oneo64/Starlattice/blob/main/MiscellaneousImages/TAC-11.png" alt="test"></th> </tr>
+<tr> <th colspan=2><img src="https://github.com/Oneo64/Starlattice/blob/main/MiscellaneousImages/TAC-11T.png" alt="test"></th> </tr>
 
 - **Type:** Small Plasmatic Rifle
 - **Manufacturer:** Temena Arms Company
@@ -86,9 +86,9 @@ An O-9 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and 
 - **Relative Muzzle Velocity:** 360 m/s
 - **Effective Range:** ~200 meters
 
-The TAC-11 is a small plasmatic rifle manufactured by Temena Arms Company. It has a compact, dark appearance and is lighter than most small rifles, but comes with the price of a slightly worse cooling system, lower fire rate, and pistol-level blasts.
+The TAC-11T is a small plasmatic rifle manufactured by Temena Arms Company. It has a compact, dark appearance and is lighter than most small rifles, but comes with the price of a slightly worse cooling system, lower fire rate, and pistol-level blasts.
 
-A standard TAC-11 is decorated with a light, triangular stock. Near the end of the barrel, there are four heat sinks and a built-in insulating rubber grip. To prevent overheating of the main barrel, the outer shell has four ventilation holes on each side of the barrel shroud.
+A standard TAC-11T is decorated with a light, triangular stock. Near the end of the barrel, there are four heat sinks and a built-in insulating rubber grip. To prevent overheating of the main barrel, the outer shell has four ventilation holes on each side of the barrel shroud.
 </details>
 
 ### Light Machine Guns
