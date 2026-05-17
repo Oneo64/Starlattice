@@ -40,15 +40,15 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 - **Length:** ~89 centimeters
 - **Weight:** ~3.6 kilograms (unloaded), ~0.5 kilograms (battery)
 - **Projectile:** Contained plasma bolt (blue), 5 grams heated to 2000 kelvins and held with 3 kilojoules of energy
-- **Battery capacity:** 40 blasts before weakening, ~50 blasts before empty
+- **Battery capacity:** 20 blasts before weakening, ~25 blasts before empty
 - **Relative Muzzle Velocity:** 500 m/s
 - **Effective Range:** ~600 meters
 
 The MP-114 is a plasmatic rifle manufactured by KAG Armoury and the current service rifle of the Kagalarian army. It is valued for its effectiveness, reliability, and high quality-to-cost ratio.
 
-A standard MP-114 is 90 centimetres long, including a 30-centimetre polymer buttstock with a thin metal core, a polymer grip angled at 20 degrees, a red dot sight, and a bright wooden handguard with air vents. It has five heat sinks placed around the barrel. Its barrel is 2.5 centimetres thick and 1.5 centimetres hollow. Military variants have a sling connected from the end of the stock to the end of the wooden handguard.
+A standard MP-114 is 90 centimetres long, including a 31-centimetre polymer buttstock, a polymer grip angled at 20 degrees, a red dot sight, and a bright wooden handguard with air vents. It has five heat sinks placed around the barrel. Its barrel is 2.5 centimetres thick and 1.5 centimetres hollow. Military variants have a sling connected from the end of the stock to the end of the wooden handguard.
 
-MP-114 batteries are shorter and wider than the grip, and can last around 50 shots before completely running out of power.
+MP-114 batteries are 29 cm x 2.5 cm cylinders and are put into the buttstock, and can last around 25 shots before completely running out of power.
 </details>
 <details>
 <summary><b>KAG VAP-3 (KAG Vosta Avtita Psakar Model 3)</b></summary>
