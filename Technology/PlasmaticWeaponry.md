@@ -57,6 +57,8 @@ When loaded, an MP-114 weighs about 3.95 kilograms and is slightly front-heavy w
 <details>
 <summary><b>O-9 (Olgor 9)</b></summary>
 
+<tr> <th colspan=2><img src="https://github.com/Oneo64/Starlattice/blob/main/MiscellaneousImages/O-9.png" alt="test"></th> </tr>
+
 - **Type:** Small Plasmatic Rifle
 - **Manufacturer:** Olgorzast Arsenal Cooperations
 - **Core:** Mrokek
