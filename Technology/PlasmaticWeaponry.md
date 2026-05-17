@@ -39,8 +39,8 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
 - **Rate of Fire:** 660 rpm (auto)
-- **Length:** ~89 centimeters
-- **Weight:** ~3.6 kilograms (unloaded), ~0.35 kilograms (battery)
+- **Length:** 875 mm (with buttstock), 595 mm (without buttstock)
+- **Weight:** ~3.6 kg (unloaded), ~0.35 kg (loaded)
 - **Projectile:** Contained plasma bolt (blue), 5 grams heated to 2000 kelvins and held with 3 kilojoules of energy
 - **Battery capacity:** 30 blasts before weakening, ~40 blasts before empty
 - **Relative Muzzle Velocity:** 500 m/s
@@ -48,7 +48,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 
 The MR-19 is a plasmatic rifle manufactured by KAG Armoury and the current service rifle of the Kagalarian army. It is valued for its effectiveness, reliability, and high quality-to-cost ratio.
 
-A standard MR-19 is 90 centimetres long, including a 30-centimetre polymer buttstock with a thin metal core, a polymer grip angled at 20 degrees, a red dot sight, and a bright wooden handguard with air vents. It has five heat sinks placed around the barrel. Its barrel is 2.5 centimetres thick and 1.5 centimetres hollow. Military variants have a sling connected from the end of the stock to the end of the wooden handguard.
+A standard MR-19 is decorated with a 26-centimetre polymer buttstock with a thin metal core, a polymer grip angled at 20 degrees, a reflex sight, an insulating rubber handguard with air vents, and 5 heat sinks around the barrel. Military variants have a sling connected from the end of the stock to the end of the handguard.
 
 MR-19 batteries are 10 cm x 8 cm, which is shorter and wider than the grip. It can provide around 40 shots before completely running out of power.
 
@@ -72,7 +72,7 @@ When loaded, an MR-19 weighs about 3.95 kilograms and is slightly front-heavy wi
 
 The O-9 is a small plasmatic rifle manufactured by Olgorzast Arsenal Cooperations. It is used by special law enforcement units and special military forces.
 
-A standard O-9 comes with a polymer buttstock, a built-in reflex sight, 7 heat sinks, and a metal handguard covered with insulating rubber.
+A standard O-9 comes with a polymer buttstock, a built-in reflex sight, a metal handguard covered with insulating rubber, and 7 heat sinks.
 </details>
 <details>
 <summary><b>TAC-11T (TAC-11 Tiva)</b></summary>
