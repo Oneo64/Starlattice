@@ -33,6 +33,8 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 <details>
 <summary><b>KAG MP-114 (KAG Mrelniy Panovka Model 114)</b></summary>
 
+<tr> <th colspan=2><img src="https://github.com/Oneo64/Starlattice/blob/main/MiscellaneousImages/MP-114.png" alt="test"></th> </tr>
+
 - **Type:** Plasmatic Rifle
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
@@ -70,6 +72,8 @@ An O-9 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and 
 </details>
 <details>
 <summary><b>TAC-11 T (TAC-11 Tiva)</b></summary>
+
+<tr> <th colspan=2><img src="https://github.com/Oneo64/Starlattice/blob/main/MiscellaneousImages/TAC-11.png" alt="test"></th> </tr>
 
 - **Type:** Small Plasmatic Rifle
 - **Manufacturer:** Temena Arms Company
