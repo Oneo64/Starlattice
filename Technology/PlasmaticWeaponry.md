@@ -49,7 +49,7 @@ An MP-114 is a plasmatic rifle manufactured by KAG Armoury and is the standard i
 An MP-114 comes with a 30-centimetre polymer buttstock, a polymer grip, and a red dot sight. It has a wooden handguard and five heat sinks for its cooling system. Its barrel is 2.5 centimetres in diameter and is 1.5 centimetres hollow.
 </details>
 <details>
-<summary><b>KAG VAP-3 (KAG Vost Avtit Psakar Model 3)</b></summary>
+<summary><b>KAG VAP-3 (KAG Vosta Avtita Psakar Model 3)</b></summary>
 
 - **Type:** Light Plasmatic Machine Hun
 - **Manufacturer:** KAG Armoury
@@ -67,7 +67,7 @@ An MP-114 comes with a 30-centimetre polymer buttstock, a polymer grip, and a re
 A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured by KAG Armoury. Although powerful, they are heavier than most rifles, use more energy, and are not as streamlined. The Kagalarian army uses them for support infantry roles, guard posts, and areas that require strong defence. Its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
 </details>
 <details>
-<summary><b>KAG NRVAP (Noviy Rosken Vost Avtit Psakar)</b></summary>
+<summary><b>KAG NRVAP (Noviy Roska Vosta Avtita Psakar)</b></summary>
 
 - **Type:** Heavy Plasmatic Machine Gun
 - **Manufacturer:** KAG Armoury
@@ -101,7 +101,7 @@ A KAG NRVAP is a heavy plasmatic machine gun manufactured by KAG Armoury. The Ka
 An O-11 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and is used by special law enforcement units and special military forces. Its containment field generator holds the plasma bolts using 2.5 kilojoules of energy.
 </details>
 <details>
-<summary><b>TAP-96 (Tasmot Avtit Psakar Model 96)</b></summary>
+<summary><b>TAP-96 (Tasma Avtita Psakar Model 96)</b></summary>
 
 - **Type:** Light Plasmatic Machine Gun
 - **Manufacturer:** Asenk Armoury
@@ -117,7 +117,7 @@ An O-11 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and
 A TAP-96 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian company. It was produced in 1996 but was later replaced by the TAP-201. Its containment field generator holds the plasma bolts using 3.2 kilojoules of energy.
 </details>
 <details>
-<summary><b>TAP-201 (Tasmot Avtit Psakar Model 201)</b></summary>
+<summary><b>TAP-201 (Tasma Avtita Psakar Model 201)</b></summary>
 
 - **Type:** Light Plasmatic Machine Gun
 - **Manufacturer:** Asenk Armoury
@@ -153,7 +153,7 @@ A TAP-201 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian
 A KAG MN-12, shortened to MN-12, is a plasmatic pistol manufactured by KAG Armoury and is the standard issue pistol of the army and law enforcement. Its containment field generator holds the plasma bolts using 1 kilojoule of energy.
 </details>
 <details>
-<summary><b>AON-9 (Avtit Olgor Nogen 9)</b></summary>
+<summary><b>AON-9 (Avtita Olgor Nogen 9)</b></summary>
 
 - **Type:** Automatic Plasmatic Pistol
 - **Manufacturer:** Olgorzast Arsenal Cooperations

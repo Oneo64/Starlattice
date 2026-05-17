@@ -153,20 +153,36 @@ The INSM-7 is an anti-infantry warship used by the Kagalarian army. When used in
 Because the INSM-7 has bare openings to its sides to allow its heavy machine guns to actually be able to shoot at ground troops, it cannot be used in outer space and will need the help of carrier warships.
 </details>
 <details>
-<summary><b>Anora Vlatiyra M-224</b></summary>
+<summary><b>AV-19 (Anora Vlatiyra M-19)</b></summary>
 
 - **Manufacturer:** Anora Spacecraft Manufacturing
 - **Type:** Spacefighter
 - **Length:** 14 meters
 - **Wingspan:** 10 meters
 - **Hull:** 2-centimetre fresarmanite plating
-- **Speed:** 400 m/s (atmospheric), 450 m/s (relative to capital ships and battleships that are in outer space)
+- **Speed:** 380 m/s (atmospheric), 427 m/s (relative to capital ships and battleships that are in outer space)
 - **Agility:** 0.87 rad/s (50 deg/s)
 - **Arnament:**
   - 2 × Spacefighter cannons
-- **Capacity:** 40 metric tons of cargo
+- **Capacity:** 300 kilograms
 
-The Anora Vlatiyra M-224 is an agile combat spacefighter manufactured by Anora Spacecraft Manufacturing Company. It is the standard spacefighter model used by the Kagalarian Space Force.
+The AV-19 is an agile combat spacefighter manufactured by Anora Spacecraft Manufacturing Company. It is the standard spacefighter model used by the Kagalarian Space Force.
+</details>
+<details>
+<summary><b>AVch-3 (Anora Vlachya M-3)</b></summary>
+
+- **Manufacturer:** Anora Spacecraft Manufacturing
+- **Type:** Interceptor
+- **Length:** 12 meters
+- **Wingspan:** 9.5 meters
+- **Hull:** 2-centimetre fresarmanite plating
+- **Speed:** 400 m/s (atmospheric), 450 m/s (relative to capital ships and battleships that are in outer space)
+- **Agility:** 0.7 rad/s (40 deg/s)
+- **Arnament:**
+  - 2 × Spacefighter cannons
+- **Capacity:** 100 kilograms
+
+The AVch-3 is an interceptor manufactured by Anora Spacecraft Manufacturing Company, and the standard interceptor model used by the Kagalarian Space Force.
 </details>
 <details>
 <summary><b>Traveller</b></summary>
