@@ -53,6 +53,42 @@ MP-114 batteries are 10 cm x 8 cm, which is shorter and wider than the grip. It 
 When loaded, an MP-114 weighs about 3.95 kilograms and is slightly front-heavy with a center of mass just above the battery slot.
 </details>
 <details>
+<summary><b>O-9 (Olgor 9)</b></summary>
+
+- **Type:** Small Plasmatic Rifle
+- **Manufacturer:** Olgorzast Arsenal Cooperations
+- **Core:** Mrokek
+- **Rate of Fire:** 850 rpm (auto)
+- **Length:** ~65 centimeters
+- **Weight:** ~2.5 kilograms
+- **Projectile:** Contained plasma bolt (4.5 grams, heat estimated to be 2000 kelvins)
+- **Battery capacity:** 40 blasts before weakening, ~50 blasts before empty
+- **Relative Muzzle Velocity:** 450 m/s
+- **Effective Range:** ~350 meters
+
+An O-9 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and is used by special law enforcement units and special military forces. Its containment field generator holds the plasma bolts using 2.5 kilojoules of energy.
+</details>
+<details>
+<summary><b>TAC-11 T (TAC-11 Tiva)</b></summary>
+
+- **Type:** Small Plasmatic Rifle
+- **Manufacturer:** Temena Arms Company
+- **Core:** Mrokek
+- **Rate of Fire:** 450 rpm (auto)
+- **Length:** ~70 centimeters
+- **Weight:** ~2.6 kilograms (unloaded), ~0.3 kilograms (battery)
+- **Projectile:** Contained plasma bolt (blue), 4 grams heated to 2050 kelvins and held with 1.5 kilojoules of energy
+- **Battery capacity:** 15 blasts before weakening, ~20 blasts before empty
+- **Relative Muzzle Velocity:** 360 m/s
+- **Effective Range:** ~200 meters
+
+The TAC-11 is a small plasmatic rifle manufactured by Temena Arms Company. It has a compact, dark appearance and is lighter than most small rifles, but comes with the price of a slightly worse cooling system, lower fire rate, and pistol-level blasts.
+
+A standard TAC-11 is decorated with a light, triangular stock. Near the end of the barrel, there are four heat sinks and a built-in insulating rubber grip. To prevent overheating of the main barrel, the outer shell has four ventilation holes on each side of the barrel shroud.
+</details>
+
+### Light Machine Guns
+<details>
 <summary><b>KAG VAP-3 (KAG Vosta Avtita Psakar Model 3)</b></summary>
 
 - **Type:** Light Plasmatic Machine Gun
@@ -69,40 +105,6 @@ When loaded, an MP-114 weighs about 3.95 kilograms and is slightly front-heavy w
 - **Effective Range:** ~1100 meters
 
 A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured by KAG Armoury. Although powerful, they are heavier than most rifles, use more energy, and are not as streamlined. The Kagalarian army uses them for support infantry roles, guard posts, and areas that require strong defence. Its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
-</details>
-<details>
-<summary><b>KAG NRVAP (Noviy Roska Vosta Avtita Psakar)</b></summary>
-
-- **Type:** Heavy Plasmatic Machine Gun
-- **Manufacturer:** KAG Armoury
-- **Core:** Mrokek
-- **Rate of Fire:** 500 rpm (auto)
-- **Length:** ~160 centimeters
-- **Weight:** ~35.1 kilograms
-- **Projectile:** Contained plasma bolt (coloured blue, 8 grams, heat estimated to be 2060 kelvins)
-- **Battery capacity:**
-  - **Standard:** 120 blasts before weakening, ~150 blasts before empty
-  - **Generator-connected:** 10 seconds of continuous fire before exhaustion
-- **Relative Muzzle Velocity:** 850 m/s
-- **Effective Range:** ~1300 meters
-
-A KAG NRVAP is a heavy plasmatic machine gun manufactured by KAG Armoury. The Kagalarian army uses them for guard posts, areas that require strong defence, and as mounted vehicle guns. Its containment field generator holds the plasma bolts using 3.7 kilojoules of energy.
-</details>
-<details>
-<summary><b>O-11 (Olgor 11)</b></summary>
-
-- **Type:** Small Plasmatic Rifle
-- **Manufacturer:** Olgorzast Arsenal Cooperations
-- **Core:** Mrokek
-- **Rate of Fire:** 850 rpm (auto)
-- **Length:** ~65 centimeters
-- **Weight:** ~2.5 kilograms
-- **Projectile:** Contained plasma bolt (4.5 grams, heat estimated to be 2000 kelvins)
-- **Battery capacity:** 40 blasts before weakening, ~50 blasts before empty
-- **Relative Muzzle Velocity:** 450 m/s
-- **Effective Range:** ~350 meters
-
-An O-11 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and is used by special law enforcement units and special military forces. Its containment field generator holds the plasma bolts using 2.5 kilojoules of energy.
 </details>
 <details>
 <summary><b>TAP-96 (Tasma Avtita Psakar Model 96)</b></summary>
@@ -137,6 +139,26 @@ A TAP-96 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian 
 - **Effective Range:** ~800 meters
 
 A TAP-201 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian company. Its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
+</details>
+
+### Heavy Machine Guns
+<details>
+<summary><b>KAG NRVAP (Noviy Roska Vosta Avtita Psakar)</b></summary>
+
+- **Type:** Heavy Plasmatic Machine Gun
+- **Manufacturer:** KAG Armoury
+- **Core:** Mrokek
+- **Rate of Fire:** 500 rpm (auto)
+- **Length:** ~160 centimeters
+- **Weight:** ~35.1 kilograms
+- **Projectile:** Contained plasma bolt (coloured blue, 8 grams, heat estimated to be 2060 kelvins)
+- **Battery capacity:**
+  - **Standard:** 120 blasts before weakening, ~150 blasts before empty
+  - **Generator-connected:** 10 seconds of continuous fire before exhaustion
+- **Relative Muzzle Velocity:** 850 m/s
+- **Effective Range:** ~1300 meters
+
+A KAG NRVAP is a heavy plasmatic machine gun manufactured by KAG Armoury. The Kagalarian army uses them for guard posts, areas that require strong defence, and as mounted vehicle guns. Its containment field generator holds the plasma bolts using 3.7 kilojoules of energy.
 </details>
 
 ### Pistols

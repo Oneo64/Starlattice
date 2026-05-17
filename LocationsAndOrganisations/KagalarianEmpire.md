@@ -147,8 +147,8 @@ SF units are a special branch of the military, requiring 6 months of training, h
   - Combat helmet with photochromic goggles (camouflaged)
   - Long balaclava (camouflaged)
   - Utility belt (black)
-  - O-11 Plasmatic Rifle
-  - 5 × O-11 batteries
+  - O-9 Plasmatic Rifle
+  - 5 × O-9 batteries
   - Kevlar-ceramic vest with pouches
   - Handheld radio
   - Heat-resistant gloves (black)
