@@ -31,7 +31,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 ## List of Plasmatic Handweapons
 ### Rifles
 <details>
-<summary><b>KAG MR-19 (KAG Mrelniy Ravak Model 114)</b></summary>
+<summary><b>KAG MR-19 (KAG Mrelniy Ravak Model 19)</b></summary>
 
 <tr> <th colspan=2><img src="https://github.com/Oneo64/Starlattice/blob/main/MiscellaneousImages/MR-19.png" alt="test"></th> </tr>
 
