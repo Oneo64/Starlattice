@@ -62,13 +62,13 @@ When loaded, an MP-114 weighs about 3.95 kilograms and is slightly front-heavy w
 - **Core:** Mrokek
 - **Rate of Fire:** 850 rpm (auto)
 - **Length:** ~65 centimeters
-- **Weight:** ~2.5 kilograms
-- **Projectile:** Contained plasma bolt (4.5 grams, heat estimated to be 2000 kelvins)
-- **Battery capacity:** 40 blasts before weakening, ~50 blasts before empty
+- **Weight:** ~2.5 kilograms (unloaded), ~0.3 kilograms (battery)
+- **Projectile:** Contained plasma bolt (blue), 4.5 grams heated to 2000 kelvins and held with 2.5 kilojoules of energy
+- **Battery capacity:** 20 blasts before weakening, ~25 blasts before empty
 - **Relative Muzzle Velocity:** 450 m/s
 - **Effective Range:** ~350 meters
 
-An O-9 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and is used by special law enforcement units and special military forces. Its containment field generator holds the plasma bolts using 2.5 kilojoules of energy.
+The O-9 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and is used by special law enforcement units and special military forces.
 </details>
 <details>
 <summary><b>TAC-11T (TAC-11 Tiva)</b></summary>
@@ -80,7 +80,7 @@ An O-9 is a plasmatic rifle manufactured by Olgorzast Arsenal Cooperations, and 
 - **Core:** Mrokek
 - **Rate of Fire:** 450 rpm (auto)
 - **Length:** ~70 centimeters
-- **Weight:** ~2.6 kilograms (unloaded), ~0.3 kilograms (battery)
+- **Weight:** ~2.45 kilograms (unloaded), ~0.25 kilograms (battery)
 - **Projectile:** Contained plasma bolt (blue), 4 grams heated to 2050 kelvins and held with 1.5 kilojoules of energy
 - **Battery capacity:** 15 blasts before weakening, ~20 blasts before empty
 - **Relative Muzzle Velocity:** 360 m/s
