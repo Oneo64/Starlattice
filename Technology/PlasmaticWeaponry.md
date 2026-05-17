@@ -51,7 +51,7 @@ An MP-114 comes with a 30-centimetre polymer buttstock, a polymer grip, and a re
 <details>
 <summary><b>KAG VAP-3 (KAG Vosta Avtita Psakar Model 3)</b></summary>
 
-- **Type:** Light Plasmatic Machine Hun
+- **Type:** Light Plasmatic Machine Gun
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
 - **Rate of Fire:** 570 rpm (auto)
