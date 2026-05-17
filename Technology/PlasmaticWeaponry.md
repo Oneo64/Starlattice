@@ -46,7 +46,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 
 The MP-114 is a plasmatic rifle manufactured by KAG Armoury and the current service rifle of the Kagalarian army. It is valued for its effectiveness, reliability, and high quality-to-cost ratio.
 
-A standard MP-114 is 90 centimetres long, including a 30-centimetre polymer buttstock, a polymer grip angled at 20 degrees, a red dot sight, and a bright wooden handguard with air vents. It has five heat sinks placed around the barrel. Its barrel is 2.5 centimetres thick and 1.5 centimetres hollow. Military variants have a sling connected from the end of the stock to the end of the wooden handguard.
+A standard MP-114 is 90 centimetres long, including a 30-centimetre polymer buttstock with a thin metal core, a polymer grip angled at 20 degrees, a red dot sight, and a bright wooden handguard with air vents. It has five heat sinks placed around the barrel. Its barrel is 2.5 centimetres thick and 1.5 centimetres hollow. Military variants have a sling connected from the end of the stock to the end of the wooden handguard.
 
 MP-114 batteries are shorter and wider than the grip, and can last around 40 shots before completely running out of power.
 </details>
