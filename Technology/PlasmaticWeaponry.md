@@ -40,7 +40,7 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 - **Core:** Mrokek
 - **Rate of Fire:** 660 rpm (auto)
 - **Length:** 850 mm (with buttstock), 595 mm (without buttstock)
-- **Weight:** ~3.6 kg (unloaded), ~0.35 kg (loaded)
+- **Weight:** ~3.4 kg (unloaded), ~0.35 kg (loaded)
 - **Projectile:** Contained plasma bolt (blue), 5 grams heated to 2000 kelvins and held with 3 kilojoules of energy
 - **Battery capacity:** 30 blasts before weakening, ~40 blasts before empty
 - **Relative Muzzle Velocity:** 500 m/s
@@ -52,7 +52,7 @@ A standard MR-19 is decorated with a 255 mm polymer buttstock with a thin metal 
 
 MR-19 batteries are 10 cm x 8 cm, which is shorter and wider than the grip. It can provide around 40 shots before completely running out of power.
 
-When loaded, an MR-19 weighs about 3.95 kg and is slightly front-heavy with a center of mass just above the battery slot.
+When loaded, an MR-19 weighs about 3.75 kg and is slightly front-heavy with a center of mass just above the battery slot.
 </details>
 <details>
 <summary><b>O-9 (Olgor 9)</b></summary>
