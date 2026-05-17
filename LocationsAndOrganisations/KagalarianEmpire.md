@@ -91,8 +91,8 @@ Infantrymen and squad leaders are the main combatants of Kagalarian warfare.
   - Combat helmet (camouflaged)
   - Long balaclava (camouflaged)
   - Utility belt (black)
-  - KAG MP-114 Plasmatic Rifle
-  - 5 × MP-114 batteries
+  - KAG MR-19 Plasmatic Rifle
+  - 5 × MR-19 batteries
   - Kevlar-ceramic vest with pouches
   - Outdoor knife (dark polymer grip)
   - Handheld radio
@@ -115,8 +115,8 @@ Infantrymen and squad leaders are the main combatants of Kagalarian warfare.
 - **Equipment**
   - Combat helmet (black)
   - Utility belt (black)
-  - KAG MP-114 Plasmatic Rifle
-  - 3 × MP-114 batteries
+  - KAG MR-19 Plasmatic Rifle
+  - 3 × MR-19 batteries
   - Kevlar-ceramic vest with pouches
   - Handheld radio
   - Heat-resistant gloves (black)

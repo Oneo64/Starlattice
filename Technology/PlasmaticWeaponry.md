@@ -31,9 +31,9 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 ## List of Plasmatic Handweapons
 ### Rifles
 <details>
-<summary><b>KAG MP-114 (KAG Mrelniy Panovka Model 114)</b></summary>
+<summary><b>KAG MR-19 (KAG Mrelniy Ravak Model 114)</b></summary>
 
-<tr> <th colspan=2><img src="https://github.com/Oneo64/Starlattice/blob/main/MiscellaneousImages/MP-114.png" alt="test"></th> </tr>
+<tr> <th colspan=2><img src="https://github.com/Oneo64/Starlattice/blob/main/MiscellaneousImages/MR-19.png" alt="test"></th> </tr>
 
 - **Type:** Plasmatic Rifle
 - **Manufacturer:** KAG Armoury
@@ -46,13 +46,13 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 - **Relative Muzzle Velocity:** 500 m/s
 - **Effective Range:** ~600 meters
 
-The MP-114 is a plasmatic rifle manufactured by KAG Armoury and the current service rifle of the Kagalarian army. It is valued for its effectiveness, reliability, and high quality-to-cost ratio.
+The MR-19 is a plasmatic rifle manufactured by KAG Armoury and the current service rifle of the Kagalarian army. It is valued for its effectiveness, reliability, and high quality-to-cost ratio.
 
-A standard MP-114 is 90 centimetres long, including a 30-centimetre polymer buttstock with a thin metal core, a polymer grip angled at 20 degrees, a red dot sight, and a bright wooden handguard with air vents. It has five heat sinks placed around the barrel. Its barrel is 2.5 centimetres thick and 1.5 centimetres hollow. Military variants have a sling connected from the end of the stock to the end of the wooden handguard.
+A standard MR-19 is 90 centimetres long, including a 30-centimetre polymer buttstock with a thin metal core, a polymer grip angled at 20 degrees, a red dot sight, and a bright wooden handguard with air vents. It has five heat sinks placed around the barrel. Its barrel is 2.5 centimetres thick and 1.5 centimetres hollow. Military variants have a sling connected from the end of the stock to the end of the wooden handguard.
 
-MP-114 batteries are 10 cm x 8 cm, which is shorter and wider than the grip. It can provide around 40 shots before completely running out of power.
+MR-19 batteries are 10 cm x 8 cm, which is shorter and wider than the grip. It can provide around 40 shots before completely running out of power.
 
-When loaded, an MP-114 weighs about 3.95 kilograms and is slightly front-heavy with a center of mass just above the battery slot.
+When loaded, an MR-19 weighs about 3.95 kilograms and is slightly front-heavy with a center of mass just above the battery slot.
 </details>
 <details>
 <summary><b>O-9 (Olgor 9)</b></summary>
@@ -97,7 +97,7 @@ A standard TAC-11T is decorated with a light, triangular stock. Near the end of 
 
 ### Light Machine Guns
 <details>
-<summary><b>KAG VAP-3 (KAG Vosta Avtita Psakar Model 3)</b></summary>
+<summary><b>KAG VAP-3 (KAG Vosta Avtita Pak Model 3)</b></summary>
 
 - **Type:** Light Plasmatic Machine Gun
 - **Manufacturer:** KAG Armoury
@@ -115,7 +115,7 @@ A standard TAC-11T is decorated with a light, triangular stock. Near the end of 
 A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured by KAG Armoury. Although powerful, they are heavier than most rifles, use more energy, and are not as streamlined. The Kagalarian army uses them for support infantry roles, guard posts, and areas that require strong defence. Its containment field generator holds the plasma bolts using 3.5 kilojoules of energy.
 </details>
 <details>
-<summary><b>TAP-96 (Tasma Avtita Psakar Model 96)</b></summary>
+<summary><b>TAP-96 (Tasma Avtita Pak Model 96)</b></summary>
 
 - **Type:** Light Plasmatic Machine Gun
 - **Manufacturer:** Asenk Armoury
@@ -131,7 +131,7 @@ A KAG VAP-3, shortened to VAP-3, is a plasmatic machine gun manufactured by KAG 
 A TAP-96 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian company. It was produced in 1996 but was later replaced by the TAP-201. Its containment field generator holds the plasma bolts using 3.2 kilojoules of energy.
 </details>
 <details>
-<summary><b>TAP-201 (Tasma Avtita Psakar Model 201)</b></summary>
+<summary><b>TAP-201 (Tasma Avtita Pak Model 201)</b></summary>
 
 - **Type:** Light Plasmatic Machine Gun
 - **Manufacturer:** Asenk Armoury
@@ -151,7 +151,7 @@ A TAP-201 is a plasmatic machine gun manufactured by Asenk Armoury, a Kagalarian
 
 ### Heavy Machine Guns
 <details>
-<summary><b>KAG NRVAP (Noviy Roska Vosta Avtita Psakar)</b></summary>
+<summary><b>KAG NRVAP (Noviy Roska Vosta Avtita Pak)</b></summary>
 
 - **Type:** Heavy Plasmatic Machine Gun
 - **Manufacturer:** KAG Armoury
