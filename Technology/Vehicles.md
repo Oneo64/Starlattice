@@ -29,7 +29,7 @@ Vehicles, a long cherished stable of transit, are ground transportation that qui
 - **Troop Capacity:** 32 × soldiers
 </details>
 <details>
-<summary><b>Gaerst Akraeriy Raekar M-132</b></summary>
+<summary><b>Gaerst Akraeriy Raekar M-6 Antulniy</b></summary>
 
 - **Manufacturer:** Gaerst Vehicle Construction Company
 - **Type:** Armored transportation car
