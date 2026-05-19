@@ -54,7 +54,7 @@ Kagalar is the capital of the Kagalarian Empire. It is the most populated planet
 - **Type:** Rocky Desert World
 - **Diameter:** ~6,000 km
 - **Atmosphere:** Unbreathable
-- **Average temperature:** -25°C to -5°C
+- **Average temperature:** -20°C
 - **Day length:** 24 hours
 
 Kragalos is an industrial and mining planet, exporting mainly mroken and mrokek. They also have factories building weapons for the Kagalarian army and space navy.
@@ -95,7 +95,7 @@ Huskular is an industrial and mining planet. It has tens of spacecraft construct
 - **Type:** Rocky Cavernous World
 - **Diameter:** ~7,000 km
 - **Atmosphere:** Unbreathable
-- **Average temperature:** -10°C to 3°C
+- **Average temperature:** -60°C
 - **Day length:** 30 hours
 
 Korulam is a mining planet. The planet has a grey, rocky landscape peppered with craters and cave holes, making it a perfect location to establish mining colonies.
@@ -224,6 +224,19 @@ Ara is a semi-inhabitable planet discovered by Kagalarian explorers. Even though
 Sdor is an uninhabitable planet discovered by Kagalarian explorers. Although the world is a desert world and has hypothetically breathable air, the planet's surface is covered in a constant sandstorm 2 kilometres high with wind speeds over 45 km/h.
 </details>
 
+## Sector Srima
+<details>
+<summary><b>Ūron</b></summary>
+
+- **Type:** Volcanic World
+- **Diameter:** ~9,000 km
+- **Atmosphere:** Unbreathable
+- **Average temperature:** -120°C to 600°C
+- **Day length:** 230 hours
+
+Ūron is an uninhabitable planet. Its surface is covered in volcanoes that erupt in liquid zinc, giving the planet a greyish-to-silvery appearance.
+</details>
+
 ## Sector Forda
 <details>
 <summary><b>Srar</b></summary>
@@ -231,7 +244,7 @@ Sdor is an uninhabitable planet discovered by Kagalarian explorers. Although the
 - **Type:** Rocky World
 - **Diameter:** ~7,500 km
 - **Atmosphere:** Unbreathable
-- **Average temperature:** -100
+- **Average temperature:** -100°C
 - **Day length:** 15 hours
 
 Srar is an uninhabitable planet characterised by a brownish-grey mountainous surface. The planet's crust composition is softer than normal stone and has higher tectonic activity than on Kagalar. Clay pits are much more common on the planet than on any other planet.
