@@ -81,7 +81,7 @@ An example, if this description is too confusing: if a war cannon shoots at the 
 <details>
 <summary><b>Wormhole Transport Module</b></summary>
 
-Wormhole transport modules are FTL systems installed on a ship to create travelling wormholes using a magical crystal. The most powerful models can create wormholes with an exterior speed of 10,000 AU/s.
+Wormhole transport modules are FTL systems installed on a ship to create travelling wormholes using a magical crystal. Civilian models usually have a maximum speed of 40 AU/s, while military models have a maximum speed of 60 AU/s. When travelling between star systems and shorter distances, the speed setting is usually set to low-speed to increase accuracy and to decrease the chances of warping into a location outside the target zone.
 
 Whenever a ship is about to go into wormhole travel, the opening of the wormhole appears as a swirly, distorted, space "whirlpool". It usually takes a few seconds for the ship to enter the opening (large battleships can take 10 to 15 seconds). Immediately after the ship has gone inside, the opening closes and disappears. This goes the same way when the ship exits wormhole travel; the wormhole opens, the ship comes out, and the wormhole closes.
 
@@ -91,13 +91,14 @@ Wormholes created by large battleships can also be used by smaller ships if they
 
 Created wormholes collapse after usage.
 
-- **Travel times:**
-  - **Across a planet:** 5 to 15 seconds *(wormhole strength at 0.00006 AU/s, or 10 mn/s)*
-  - **Between planets:** 1 to 3 minutes *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
-  - **Across a star system:** 30 minutes *(wormhole strength at 0.006 AU/s, or 897.6 mn/s)*
-  - **Between star systems:** 2+ hours *(wormhole strength at 2000 AU/s, or 300,000 kn/s)*
-  - **Between far-away star systems:** 2+ days *(wormhole strength at 2000 AU/s, or 300,000 kn/s)*
-  - **Across a galaxy:** approximately 6 months *(at full wormhole strength, which is 10,000 AU/s, or 1,500,000 kn/s)*
+- **Travel times (assuming a low-speed setting of 30 AU/s and a high-speed setting of 60 AU/s):**
+  - **Across a planet:** 5 to 15 seconds *(on low-speed settings)*
+  - **Between planets:** 1 minute *(on low-speed settings)*
+  - **Across a star system:** 1 minute *(on low-speed settings)*
+  - **Between star systems:** 2+ hours *(on low-speed settings)*
+  - **Between far-away star systems:** 1+ days *(on high-speed settings)*
+  - **Across a galaxy:** 2+ years *(on high-speed settings)*
+  - **Between galaxies:** 2+ years *(on high-speed settings)*
 </details>
 
 ## Power Armour Modules
