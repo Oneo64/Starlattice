@@ -210,7 +210,7 @@ Brominarvil is an extremely uninhabitable planet discovered by Kagalarian explor
   - **Forest area:** 5%
   - **Ocean coverage:** 60%
 
-Ara is a semi-inhabitable planet discovered by Kagalarian explorers. Even though the planet has a breathable atmosphere, drinkable water, and land to walk on, the air pressure is noticeably higher. Alien trees grow here and have a wood density almost one-and-a-half times denser than trees on Kagalar.
+Ara is a semi-inhabitable planet discovered by Kagalarian explorers. Even though the planet has a breathable atmosphere, drinkable water, and land to walk on, the air pressure is noticeably higher. Alien trees grow here and are almost one-and-a-half times denser (in wood density) than trees on Kagalar.
 </details>
 <details>
 <summary><b>Sdor</b></summary>
