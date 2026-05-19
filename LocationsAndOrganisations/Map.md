@@ -1,13 +1,14 @@
 # Map of the Galaxy
-A list of planets and star systems.
+## Civilised Sectors
+These sectors are star systems where an advanced human civilisation is present, or nearby.
 
-## Sector Jromalar
+### Sector Jromalar
 <details>
 <summary><b>Farusluk</b></summary>
 
 - **Sovereign state:** The Kagalarian Empire
 - **Type:** Rocky World
-- **Diameter:** 12 km
+- **Diameter:** ~13,000 km
 - **Atmosphere:** Unbreathable
 - **Average temperature:** 6°C
 - **Day length:** 20 hours
@@ -19,7 +20,7 @@ Farusluk is a wild planet, with the only colonies being several military bases. 
 
 - **Sovereign state:** The Kagalarian Empire
 - **Type:** Gaia World
-- **Diameter:** 13 km
+- **Diameter:** ~13,000 km
 - **Atmosphere:** Breathable
 - **Average temperature:** 12°C
 - **Day length:** 25 hours
@@ -36,7 +37,7 @@ Jendoromir is a civilian planet.
 
 - **Sovereign state:** The Kagalarian Empire
 - **Type:** Gaia World
-- **Diameter:** 13 km
+- **Diameter:** ~13,000 km
 - **Atmosphere:** Breathable
 - **Average temperature:** 10°C
 - **Day length:** 24 hours
@@ -51,7 +52,7 @@ Kagalar is the capital of the Kagalarian Empire. It is the most populated planet
 
 - **Sovereign state:** The Kagalarian Empire
 - **Type:** Rocky Desert World
-- **Diameter:** 6 km
+- **Diameter:** ~6,000 km
 - **Atmosphere:** Unbreathable
 - **Average temperature:** -25°C to -5°C
 - **Day length:** 24 hours
@@ -63,7 +64,7 @@ Kragalos is an industrial and mining planet, exporting mainly mroken and mrokek.
 
 - **Sovereign state:** The Kagalarian Empire
 - **Type:** Gaia World
-- **Diameter:** 11 km
+- **Diameter:** ~11,000 km
 - **Atmosphere:** Breathable
 - **Average temperature:** 10°C
 - **Day length:** 24 hours
@@ -74,13 +75,13 @@ Kragalos is an industrial and mining planet, exporting mainly mroken and mrokek.
 Nakarskan is a civilian planet.
 </details>
 
-## Sector Draselov
+### Sector Draselov
 <details>
 <summary><b>Huskular</b></summary>
 
 - **Sovereign state:** The Kagalarian Empire
 - **Type:** Rocky World
-- **Diameter:** 11 km
+- **Diameter:** ~11,000 km
 - **Atmosphere:** Breathable
 - **Average temperature:** 10°C
 - **Day length:** 25 hours
@@ -92,7 +93,7 @@ Huskular is an industrial and mining planet. It has tens of spacecraft construct
 
 - **Sovereign state:** The Kagalarian Empire
 - **Type:** Rocky Cavernous World
-- **Diameter:** 7 km
+- **Diameter:** ~7,000 km
 - **Atmosphere:** Unbreathable
 - **Average temperature:** -10°C to 3°C
 - **Day length:** 30 hours
@@ -104,7 +105,7 @@ Korulam is a mining planet. The planet has a grey, rocky landscape peppered with
 
 - **Sovereign state:** The Kagalarian Empire
 - **Type:** Gaia World
-- **Diameter:** 12 km
+- **Diameter:** ~12,000 km
 - **Atmosphere:** Breathable
 - **Average temperature:** 10°C
 - **Day length:** 24 hours
@@ -119,7 +120,7 @@ Lokaramarkus is a civilian planet.
 
 - **Sovereign state:** The Kagalarian Empire
 - **Type:** Gaia World
-- **Diameter:** 12 km
+- **Diameter:** ~12,000 km
 - **Atmosphere:** Breathable
 - **Average temperature:** 15°C
 - **Day length:** 24 hours
@@ -134,7 +135,7 @@ Molmglar is a wild planet, with the only colonies being several military bases.
 
 - **Sovereign state:** The Kagalarian Empire
 - **Type:** Ice World
-- **Diameter:** 10 km
+- **Diameter:** ~10,000 km
 - **Atmosphere:** Breathable
 - **Average temperature:** -70°C to -30°C
 - **Day length:** 20 hours
@@ -142,13 +143,13 @@ Molmglar is a wild planet, with the only colonies being several military bases.
 Nelukal is a wild planet, with the only colonies being several military bases. It is an ice world with temperatures ranging from -70 to -30 degrees Celsius.
 </details>
 
-## Sector Olvarvil
+### Sector Olvarvil
 <details>
 <summary><b>Sorkarvil</b></summary>
 
 - **Sovereign state:** The Kagalarian Empire
 - **Type:** Gaia World
-- **Diameter:** 16 km
+- **Diameter:** ~16,000 km
 - **Atmosphere:** Breathable
 - **Average temperature:** 19°C
 - **Day length:** 31 hours
@@ -163,7 +164,7 @@ Sorkarvil is a wild planet filled with weird forests and common monsters within 
 
 - **Sovereign state:** The Kagalarian Empire
 - **Type:** Gaia World
-- **Diameter:** 13 km
+- **Diameter:** ~13,000 km
 - **Atmosphere:** Breathable
 - **Average temperature:** 14°C
 - **Day length:** 24 hours
@@ -171,33 +172,67 @@ Sorkarvil is a wild planet filled with weird forests and common monsters within 
   - **Forest area:** 20%
   - **Ocean coverage:** 70%
 
-Ramalosedot was once the capital planet of the Kingdom of Ramalosedot, under the protection of the Kagalarian Empire. In 2010, the Seenian Empire conquered it and caused the kingdom's downfall. The Kagalarians attempted to retake the planet several times, but it all failed until 2034, when they managed to successfully regain control.
+To the Kagalarians, Ramalosedot is a national treasure and a relic of their past. The planet was once the capital planet of a similarly named kingdom, the Kingdom of Ramalosedot. The planet was under the protection of the Kagalarian Empire until 2010, when the Seenian Empire conquered it and caused the kingdom's downfall. The Kagalarians attempted to retake the planet several times, but it all failed until 2034, when they managed to successfully regain control.
 </details>
 
-## Sector Arda
-Sector Arda is a region in deep space, far away from any human civilisation.
+### Sector Escoria A
+A star system containing the planet Escorin.
 
+### Sector Escoria B
+A star system containing the planets Estofear and Forunal.
+
+## Deep-space Sectors
+These sectors are groups of planets that are in deep space and can contain many different star systems.
+
+### Sector Arda
 <details>
 <summary><b>Brominarvil</b></summary>
 
 - **Type:** Ocean World
-- **Diameter:** 7 km
+- **Diameter:** ~7,000 km
 - **Atmosphere:** Unbreathable
-- **Average temperature:** -25°C
+- **Average temperature:** 25°C
 - **Day length:** 70 hours
 
 Brominarvil is an extremely uninhabitable planet discovered by Kagalarian explorers. The "surface" is a bromine superocean with depths ranging from only a few meters to tens of kilometres. It also rains bromine there.
 </details>
 
-## Sector Ilgra
-Sector Ilgra is a region in deep space, far away from any human civilisation.
+### Sector Ilgra
+<details>
+<summary><b>Ara</b></summary>
 
-## Sector Escoria
-### Escorin
-???
+- **Type:** Gaia World
+- **Diameter:** ~18,000 km
+- **Atmosphere:** Breathable
+- **Average temperature:** 20°C
+- **Day length:** 28 hours
+- **Gaia metrics:**
+  - **Forest area:** 5%
+  - **Ocean coverage:** 60%
 
-### Estofear
-???
+Ara is a semi-inhabitable planet discovered by Kagalarian explorers. Even though the planet has a breathable atmosphere, drinkable water, and land to walk on, the air pressure is noticeably higher. Alien trees grow here and are almost one-and-a-half times denser than trees on Kagalar.
+</details>
+<details>
+<summary><b>Sdor</b></summary>
 
-### Forunal
-???
+- **Type:** Desert World
+- **Diameter:** ~8,000 km
+- **Atmosphere:** Unbreathable (hypothetically breathable)
+- **Average temperature:** 7°C
+- **Day length:** 9 hours
+
+Sdor is an uninhabitable planet discovered by Kagalarian explorers. Although the world is a desert world and has hypothetically breathable air, the planet's surface is covered in a constant sandstorm 2 kilometres high with wind speeds over 45 km/h.
+</details>
+
+## Sector Forda
+<details>
+<summary><b>Srar</b></summary>
+
+- **Type:** Rocky World
+- **Diameter:** ~7,500 km
+- **Atmosphere:** Unbreathable
+- **Average temperature:** -100
+- **Day length:** 15 hours
+
+Srar is an uninhabitable planet characterised by a brownish-grey mountainous surface. The planet's crust composition is softer than normal stone and has higher tectonic activity than on Kagalar. Clay pits are much more common on the planet than on any other planet.
+</details>
