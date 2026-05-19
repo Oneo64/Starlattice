@@ -1,10 +1,11 @@
-# Kagalar
+# Kagalar (planet)
+- **Sovereign state:** The Empire of Kagalar
 - **Type:** Gaia World
 - **Diameter:** 13 km
 - **Atmosphere:** Breathable
-- **Average Temperature:** 10°C
-- **Day Length:** 24 hours
-- **Gaia Metrics:**
+- **Average temperature:** 10°C
+- **Day length:** 24 hours
+- **Gaia metrics:**
   - **Forest area:** 40%
   - **Ocean coverage:** 70%
   - **Continents:** Arokor, Kregsorin, Febelen

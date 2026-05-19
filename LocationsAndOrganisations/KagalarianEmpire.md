@@ -7,7 +7,7 @@
 	<tr> <td>Location of the main base</td> <td>North of Jovikal (Kagalar)</td> </tr>
 	<tr> <td>Main language</td> <td>Kagalarian</td> </tr>
 	<tr> <td>Main currency</td> <td>Orlaks</td> </tr>
-  <tr> <td>Population</td> <td>28 billion</td> </tr>
+  <tr> <td>Population</td> <td>17 billion</td> </tr>
 </tbody></table>
 
 The **Kagalarian Empire**, known formally as the **Empire of Kagalar**, also known in its native language as *Кавакон ожан Кагалар*, is an interstellar power that is in control of a dozen planets.
@@ -16,8 +16,8 @@ The **Kagalarian Empire**, known formally as the **Empire of Kagalar**, also kno
 Here's a list of crimes that are commitable in the Kagalarian Empire.
 
 ### Crimes (not finished, right now only lists out the non-obvious ones)
- - **Unlawful Possession of Plasmatic Weapon:** All plasmatic weapons must have a valid license, and the weapon bearer must also have a valid license.
- - **Improper Weapon Building:** It is a crime to build plasmatic weapons that do not have a cooling system, or with a cooling system that cannot keep the weapon under 250 °C. Plasmatic weapons that don't have these requirements could overheat to the point that they either melt or become very hazardous.
+- **Unlawful Possession of Plasmatic Weapon:** All plasmatic weapons must have a valid license, and the weapon bearer must also have a valid license.
+- **Improper Weapon Building:** It is a crime to build plasmatic weapons that do not have a cooling system, or with a cooling system that cannot keep the weapon under 250 °C. Plasmatic weapons that don't have these requirements could overheat to the point that they either melt or become very hazardous.
 
 ## Governing System
 The Kagalarian Empire uses a federal government, split into four governing bodies for the following civilian planets: Kagalar, Jendoromir, Lokaramarkus, and Nakarskan.
