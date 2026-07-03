@@ -21,7 +21,7 @@
 Azaliya is a vigilante.
 
 ## Appearance
-Azaliya is a curvaceous woman in her mid-twenties. She has shoulder-length straight blonde hair, fair skin, and upturned grey eyes. She has a thin nose and a sharp chin. She is 5'6" tall.
+Azaliya is a blonde-haired woman in her mid-twenties with fair skin and upturned grey eyes. She has a thin nose and a sharp chin. She is 5'6" tall.
 
 She usually wears a red blouse, black cargo pants, and black boots. She also wears a black leather baldric that holds a KAG Plasmatic Rifle 114 on her back, and another belt on her waist to secure the barrel to her back.
 
