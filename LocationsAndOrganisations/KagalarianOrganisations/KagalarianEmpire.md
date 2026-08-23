@@ -178,6 +178,7 @@ SF units are a special branch of the military, requiring 6 months of training, h
 
 #### High-ranking officers (formal)
 - **Uniform**
+  - Officer's cap (dark grey with red lining and the Kagalarian insignia)
   - Kagalarian-style military overcoat (black with red shoulder lines)
   - Formal belt with pistol holster
   - Formal boots (black)
