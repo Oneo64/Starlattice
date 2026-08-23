@@ -97,7 +97,7 @@ Infantrymen and squad leaders are the main combatants of Kagalarian warfare.
   - Outdoor knife (dark polymer grip)
   - Handheld radio
   - Heat-resistant gloves (black)
-  - Shoulder pads (white)
+  - Shoulder pads (camouflaged)
   - Elbow pads (grey)
   - Knee pads (grey)
 
@@ -154,7 +154,7 @@ SF units are a special branch of the military, requiring 6 months of training, h
   - Kevlar-ceramic vest with pouches
   - Handheld radio
   - Heat-resistant gloves (black)
-  - Shoulder pads (white)
+  - Shoulder pads (camouflaged)
   - Elbow pads (grey)
   - Knee pads (grey)
 
