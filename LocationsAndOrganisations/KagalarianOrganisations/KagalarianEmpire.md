@@ -173,7 +173,7 @@ SF units are a special branch of the military, requiring 6 months of training, h
   - Formal boots (black)
 
 - **Equipment**
-  - Handheld radio
+  - Handheld radio (black)
   - Appropriate work tools
 
 #### High-ranking officers (formal)
