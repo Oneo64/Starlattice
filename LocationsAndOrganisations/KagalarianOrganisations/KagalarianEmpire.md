@@ -185,7 +185,7 @@ SF units are a special branch of the military, requiring 6 months of training, h
 
 - **Equipment**
   - KAG MN-12 Plasmatic Pistol
-  - Kevlar-ceramic vest (black, worn under overcoat)
+  - Kevlar-ceramic vest (worn under overcoat)
   - Handheld radio (black)
 
 #### High-ranking officers (combat)
