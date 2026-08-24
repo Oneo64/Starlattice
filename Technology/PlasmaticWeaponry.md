@@ -55,6 +55,24 @@ MR-19 batteries are 10 cm x 8 cm, which is shorter and wider than the grip. It c
 When loaded, an MR-19 weighs about 3.75 kg and is slightly front-heavy with a center of mass just above the battery slot.
 </details>
 <details>
+<summary><b>IZM-37</b></summary>
+
+<tr> <th colspan=2><img src="https://github.com/Oneo64/Starlattice/blob/main/MiscellaneousImages/IZM-37.png" alt="test"></th> </tr>
+
+- **Type:** Small Plasmatic Rifle
+- **Manufacturer:** ???
+- **Core:** Mrokek
+- **Rate of Fire:** 700 rpm (auto)
+- **Length:** 615 mm
+- **Weight:** ~2 kilograms (unloaded), ~0.2 kilograms (battery)
+- **Projectile:** Contained plasma bolt (blue), 4 grams heated to 1900 kelvins and held with 2.5 kilojoules of energy
+- **Battery capacity:** 20 blasts before weakening, ~25 blasts before empty
+- **Relative Muzzle Velocity:** 400 m/s
+- **Effective Range:** ~250 meters
+
+The IZM-37 is a small plasmatic rifle. It is much easier to manufacture than other plasmatic weapons, in exchange for its effectiveness.
+</details>
+<details>
 <summary><b>O-9 (Olgor 9)</b></summary>
 
 <tr> <th colspan=2><img src="https://github.com/Oneo64/Starlattice/blob/main/MiscellaneousImages/O-9.png" alt="test"></th> </tr>
