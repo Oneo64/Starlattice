@@ -39,8 +39,8 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 - **Manufacturer:** KAG Armoury
 - **Core:** Mrokek
 - **Rate of Fire:** 660 rpm (auto)
-- **Length:** 850 mm (with buttstock), 595 mm (without buttstock)
-- **Weight:** ~3.4 kg (unloaded), ~0.35 kg (battery)
+- **Length:** 775 mm (buttstock contracted), 910 mm (buttstock fully extended)
+- **Weight:** ~3.1 kg (unloaded), ~0.35 kg (battery)
 - **Projectile:** Contained plasma bolt (blue), 5 grams heated to 2000 kelvins and held with 3 kilojoules of energy
 - **Battery capacity:** 30 blasts before weakening, ~40 blasts before empty
 - **Relative Muzzle Velocity:** 500 m/s
@@ -48,11 +48,9 @@ It is a law in many nations that unsupervised weapons production is a severe cri
 
 The MR-19 is a plasmatic rifle manufactured by KAG Armoury and the current service rifle of the Kagalarian army. It is valued for its effectiveness, reliability, and high quality-to-cost ratio.
 
-A standard MR-19 is decorated with a 255 mm polymer buttstock with a thin metal core, a polymer grip angled at 20 degrees, a reflex sight, an insulating rubber handguard with air vents, and 7 heat sinks around the barrel. Military variants have a sling connected from the end of the stock to the end of the handguard.
+A standard MR-19 features an adjustable 260 mm polymer buttstock, a polymer grip angled at 20 degrees, a built-in reflex sight, an insulating rubber handguard with air vents, and several heat sinks around the barrel. Military variants have a sling connected from the end of the stock to the end of the handguard.
 
-MR-19 batteries are 10 cm x 8 cm, which is shorter and wider than the grip. It can provide around 40 shots before completely running out of power.
-
-When loaded, an MR-19 weighs about 3.75 kg and is slightly front-heavy with a center of mass just above the battery slot.
+MR-19 batteries are 13 cm x 8 cm and can provide around 40 shots before completely running out of power.
 </details>
 <details>
 <summary><b>IZM-37</b></summary>
