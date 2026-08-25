@@ -70,7 +70,7 @@ When loaded, an MR-19 weighs about 3.75 kg and is slightly front-heavy with a ce
 - **Relative Muzzle Velocity:** 400 m/s
 - **Effective Range:** ~250 meters
 
-The IZM-37 is a small plasmatic rifle. It is much easier to manufacture than other plasmatic weapons, in exchange for its effectiveness.
+The IZM-37 is a small plasmatic rifle. It is much easier to manufacture than other plasmatic weapons, in exchange for its effectiveness in firing power and heat management.
 </details>
 <details>
 <summary><b>O-9 (Olgor 9)</b></summary>
