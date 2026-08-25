@@ -44,7 +44,7 @@ Every military site has a radio station (houses a military-grade radio transmitt
 
 ## Uniforms and equipment
 #### Infantry and squad leaders
-Infantrymen and squad leaders are the main combatants of Kagalarian warfare.
+Infantrymen and squad leaders are the main combatants of Kagalarian warfare. They are often deployed on the battlefield as foot soldiers.
 
 - **Uniform**
   - Kagalarian-style military overcoat (camouflaged)
@@ -72,7 +72,9 @@ Infantrymen and squad leaders are the main combatants of Kagalarian warfare.
   - **Urban:** Blueish grey
   - **Desert (rare):** Tan/khaki
 
-#### Interior guards
+#### Guardsmen
+Guardsmen are military personnel specifically trained for security and passive defence. They may be stationed inside buildings, next to important doors, at military checkpoints, etc.
+
 - **Uniform**
   - Kagalarian-style military overcoat (black)
   - Shirt (grey)
@@ -89,8 +91,7 @@ Infantrymen and squad leaders are the main combatants of Kagalarian warfare.
   - Heat-resistant gloves (black)
 
 #### Secret Intelligence agents
-Secret Intelligence agents are basically insider agents and spies for the Kagalarian Empire.
-*(Keep in mind that a Secret Intelligence agent may wear disguises when they are deployed.)*
+Secret Intelligence agents are basically insider agents and spies for the Kagalarian Empire. *(Keep in mind that an agent may wear disguises when they are deployed.)*
 
 - **Uniform**
   - Kagalarian-style military overcoat (black)
