@@ -91,7 +91,7 @@ Guardsmen are military personnel specifically trained for security and passive d
   - Heat-resistant gloves (black)
 
 #### Secret Intelligence agents
-Secret Intelligence agents are basically insider agents and spies for the Kagalarian Empire. *(Keep in mind that an agent may wear disguises when they are deployed.)*
+Secret Intelligence agents are basically insider agents and spies for the Kagalarian Empire. Trainees require human status and fluency in at least one language other than Kagalarian to be eligible, and training will require 6 months. *(Keep in mind that an agent may wear disguises when they are deployed.)*
 
 - **Uniform**
   - Kagalarian-style military overcoat (black)
