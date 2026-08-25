@@ -50,7 +50,7 @@ The MR-19 is a plasmatic rifle manufactured by KAG Armoury and the current servi
 
 A standard MR-19 features an adjustable 260 mm polymer buttstock, a polymer grip angled at 20 degrees, a built-in reflex sight, an insulating rubber handguard with air vents, and several heat sinks around the barrel. Military variants have a sling connected from the end of the stock to the end of the handguard.
 
-MR-19 batteries are 13 cm x 8 cm and can provide around 40 shots before completely running out of power.
+MR-19 batteries are 12 cm x 8 cm and can provide around 40 shots before completely running out of power.
 </details>
 <details>
 <summary><b>IZM-37</b></summary>
