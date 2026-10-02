@@ -4,9 +4,3 @@ Starlattice is a science fiction worldbuilding project built and developed by On
 True to its genre, the world Starlattice houses extremely advanced technology compared to Earth. Magic crystals, a key component in many military tech and civilian gadgets, are used to create various things such as plasma-firing weapons, wormhole travel, and even long-distance radios. Technology doesn't give off the look of many little tidbits put onto a surface, but clean and concise modernity.
 
 It was 1913 when magic crystals were discovered on the planet Ramalosedot. About fifty years later, spacecraft were invented. After this major turn of events, practised magic was slowly forgotten in favour of technology. After many, many years, even with all the amazing technology discovered, war still rages, and that's because war never changes.
-
----
-
-Copyright © 2025 Oneo64
-
-The worldbuilding material, characters, settings, lore, artwork, and other original creative content in this repository are the property of Oneo64, unless otherwise stated. No permission is granted to reproduce, redistribute, modify, or use this material commercially without prior written permission.
